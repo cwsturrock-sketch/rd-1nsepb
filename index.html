@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Retro Flip Radar</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: sticky status header, summary strip, filter bar, single column of deal cards (two columns on wide screens) */
+:root {
+  --bg: #f4f3f8; --surface: #ffffff; --line: #dedbe9; --fg: #1d1a2b; --muted: #6b6684;
+  --accent: #5a48d1; --accent-soft: #ece9fb;
+  --buy: #18864b; --buy-soft: #e3f4ea; --consider: #a26a00; --consider-soft: #fbf0d9; --pass: #b3322f; --pass-soft: #f9e3e2;
+  --display: "Chakra Petch", "Segoe UI", system-ui, sans-serif;
+  --body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #12111a; --surface: #1c1a27; --line: #2f2c40; --fg: #ecebf5; --muted: #9a95b4;
+    --accent: #9b8cff; --accent-soft: #2a2546;
+    --buy: #4fd08a; --buy-soft: #173226; --consider: #f0b44a; --consider-soft: #352a15; --pass: #ff7b77; --pass-soft: #3a1d1e;
+    color-scheme: dark;
+  }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--bg); color: var(--fg); font: 15px/1.5 var(--body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-bottom: max(32px, env(safe-area-inset-bottom, 0px));
+}
+.wrap { max-width: 1120px; margin: 0 auto; }
+header {
+  position: sticky; top: 0; z-index: 5; background: var(--bg);
+  padding-top: max(14px, env(safe-area-inset-top, 0px)); padding-bottom: 12px;
+  display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap;
+  border-bottom: 1px solid var(--line);
+}
+h1 { font: 700 1.5rem/1.1 var(--display); margin: 0; letter-spacing: .01em; }
+h1 span { color: var(--accent); }
+.status { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: .85rem; }
+.dot { width: 9px; height: 9px; border-radius: 50%; background: var(--buy); flex: none; }
+.dot.stale { background: var(--consider); }
+.dot.down { background: var(--pass); }
+.summary { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; margin: 16px 0; }
+.stat { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; min-width: 0; }
+.stat b { display: block; font: 600 1.35rem/1.2 var(--mono); font-variant-numeric: tabular-nums; }
+.stat small { color: var(--muted); font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 14px; }
+.chip {
+  border: 1px solid var(--line); background: var(--surface); color: var(--fg); border-radius: 999px;
+  padding: 6px 12px; font: 500 .85rem var(--body); cursor: pointer;
+}
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+.chip:focus-visible, .btn:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.sep { width: 1px; height: 22px; background: var(--line); }
+input[type=search], select {
+  border: 1px solid var(--line); background: var(--surface); color: var(--fg); border-radius: 8px;
+  padding: 7px 10px; font: .9rem var(--body); min-width: 0;
+}
+input[type=search] { flex: 1 1 180px; }
+label.toggle { display: flex; gap: 6px; align-items: center; color: var(--muted); font-size: .85rem; }
+.list { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 500px), 1fr)); gap: 14px; }
+.card {
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden;
+  display: grid; grid-template-columns: 112px minmax(0, 1fr); border-left: 4px solid var(--line);
+}
+.card.buy { border-left-color: var(--buy); }
+.card.consider { border-left-color: var(--consider); }
+.card.pass { border-left-color: var(--pass); }
+.card.decided { opacity: .55; }
+.thumb { background: var(--accent-soft); display: flex; align-items: flex-start; justify-content: center; padding: 10px; }
+.thumb img { width: 100%; height: auto; border-radius: 6px; display: block; }
+.body { padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.top { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.pill { font: 700 .72rem var(--display); letter-spacing: .08em; padding: 3px 8px; border-radius: 6px; text-transform: uppercase; }
+.pill.buy { background: var(--buy-soft); color: var(--buy); }
+.pill.consider { background: var(--consider-soft); color: var(--consider); }
+.pill.pass { background: var(--pass-soft); color: var(--pass); }
+.tag { font-size: .75rem; color: var(--muted); }
+.title { font-weight: 600; line-height: 1.35; overflow-wrap: anywhere; }
+.kpis { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 6px; }
+.kpi { background: var(--bg); border-radius: 8px; padding: 6px 8px; min-width: 0; }
+.kpi small { display: block; font-size: .68rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+.kpi b { font: 600 .98rem var(--mono); font-variant-numeric: tabular-nums; }
+.kpi b.pos { color: var(--buy); }
+.kpi b.neg { color: var(--pass); }
+.notes { margin: 0; padding: 0; list-style: none; font-size: .84rem; display: grid; gap: 3px; }
+.notes li.warn { color: var(--pass); }
+.notes li.info { color: var(--muted); }
+.notes li.tip { color: var(--fg); }
+.actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 2px; }
+.btn {
+  border: 1px solid var(--line); background: var(--surface); color: var(--fg); border-radius: 8px;
+  padding: 7px 11px; font: 600 .82rem var(--body); text-decoration: none; cursor: pointer;
+}
+.btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+.btn.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+.empty { text-align: center; color: var(--muted); padding: 48px 16px; border: 1px dashed var(--line); border-radius: 12px; }
+.empty b { display: block; color: var(--fg); font: 700 1.1rem var(--display); margin-bottom: 6px; }
+@media (max-width: 640px) {
+  .summary { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .card { grid-template-columns: 84px minmax(0, 1fr); }
+  .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .sep { display: none; }
+}
+@media (prefers-reduced-motion: no-preference) { .card { transition: opacity .2s; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Retro Flip <span>Radar</span></h1>
+    <div class="status"><span class="dot" id="dot"></span><span id="status">Loading deals…</span></div>
+  </header>
+
+  <section class="summary" aria-label="Summary">
+    <div class="stat"><small>Deals, last 24h</small><b id="s-count">–</b></div>
+    <div class="stat"><small>Buy signals</small><b id="s-buy">–</b></div>
+    <div class="stat"><small>Best ROI</small><b id="s-roi">–</b></div>
+    <div class="stat"><small>Open profit</small><b id="s-profit">–</b></div>
+  </section>
+
+  <div class="filters" role="toolbar" aria-label="Filters">
+    <button class="chip" data-verdict="all" aria-pressed="true">All</button>
+    <button class="chip" data-verdict="buy" aria-pressed="false">Buy</button>
+    <button class="chip" data-verdict="consider" aria-pressed="false">Consider</button>
+    <button class="chip" data-verdict="pass" aria-pressed="false">Pass</button>
+    <span class="sep"></span>
+    <select id="platform" aria-label="Platform">
+      <option value="all">All platforms</option>
+      <option value="gamecube">GameCube</option>
+      <option value="ds">DS</option>
+    </select>
+    <select id="sort" aria-label="Sort">
+      <option value="new">Newest</option>
+      <option value="roi">Highest ROI</option>
+      <option value="profit">Highest profit</option>
+    </select>
+    <input type="search" id="q" placeholder="Search titles" aria-label="Search titles">
+    <label class="toggle"><input type="checkbox" id="hide"> Hide decided</label>
+  </div>
+
+  <main class="list" id="list" aria-live="polite"></main>
+</div>
+
+<script>
+const $ = (s) => document.querySelector(s);
+const gbp = (n) => "£" + Number(n).toFixed(2);
+const pct = (n) => Math.round(n * 100) + "%";
+const state = { verdict: "all", deals: [], updated: null };
+
+// bought / passed marks are kept per device
+const marks = (() => { try { return JSON.parse(localStorage.getItem("marks") || "{}"); } catch { return {}; } })();
+const saveMarks = () => { try { localStorage.setItem("marks", JSON.stringify(marks)); } catch {} };
+
+function verdictKey(v) { return /BUY/.test(v) ? "buy" : /CONSIDER/.test(v) ? "consider" : "pass"; }
+
+function ago(iso) {
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return "just now";
+  if (m < 60) return m + " min ago";
+  const h = Math.round(m / 60);
+  return h < 24 ? h + " h ago" : Math.round(h / 24) + " d ago";
+}
+
+function el(tag, cls, text) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text != null) e.textContent = text;
+  return e;
+}
+
+function card(d) {
+  const key = verdictKey(d.verdict);
+  const c = el("article", "card " + key + (marks[d.id] ? " decided" : ""));
+  const thumb = el("div", "thumb");
+  if (d.image) { const img = el("img"); img.src = d.image; img.alt = ""; img.loading = "lazy"; thumb.append(img); }
+  const b = el("div", "body");
+
+  const top = el("div", "top");
+  top.append(el("span", "pill " + key, key));
+  top.append(el("span", "tag", d.label + " · " + (d.platform === "ds" ? "DS" : "GameCube") + " · found " + ago(d.time)));
+  b.append(top, el("div", "title", d.title));
+
+  const k = el("div", "kpis");
+  [["Cost", gbp(d.cost)], ["Resale est.", "£" + Math.round(d.value)], ["Profit", gbp(d.profit), d.profit >= 0 ? "pos" : "neg"], ["ROI", pct(d.roi), d.roi >= 0 ? "pos" : "neg"]]
+    .forEach(([l, v, cls]) => { const x = el("div", "kpi"); x.append(el("small", null, l), el("b", cls || "", v)); k.append(x); });
+  b.append(k);
+
+  const notes = el("ul", "notes");
+  notes.append(el("li", "info", (d.condition || "Condition n/a") + " · seller " + d.seller_pct + "% (" + d.seller_score + ") · margin " + pct(d.margin)));
+  (d.flags || []).forEach((f) => notes.append(el("li", f.startsWith("⚠") ? "warn" : "info", f)));
+  if (d.offer_price) notes.append(el("li", "tip", "Accepts offers: try " + gbp(d.offer_price)));
+  b.append(notes);
+
+  const a = el("div", "actions");
+  const view = el("a", "btn primary", "View listing"); view.href = d.url; view.target = "_blank"; view.rel = "noopener";
+  const sold = el("a", "btn", "Sold prices"); sold.href = d.sold_url; sold.target = "_blank"; sold.rel = "noopener";
+  a.append(view, sold);
+  [["bought", "Bought"], ["passed", "Passed"]].forEach(([m, label]) => {
+    const btn = el("button", "btn" + (marks[d.id] === m ? " on" : ""), label);
+    btn.type = "button";
+    btn.setAttribute("aria-pressed", marks[d.id] === m);
+    btn.onclick = () => { if (marks[d.id] === m) delete marks[d.id]; else marks[d.id] = m; saveMarks(); render(); };
+    a.append(btn);
+  });
+  b.append(a);
+  c.append(thumb, b);
+  return c;
+}
+
+function render() {
+  const plat = $("#platform").value, q = $("#q").value.trim().toLowerCase(), hide = $("#hide").checked, sort = $("#sort").value;
+  let list = state.deals.filter((d) =>
+    (state.verdict === "all" || verdictKey(d.verdict) === state.verdict) &&
+    (plat === "all" || d.platform === plat) &&
+    (!q || d.title.toLowerCase().includes(q)) &&
+    (!hide || !marks[d.id]));
+  const by = { new: (x, y) => new Date(y.time) - new Date(x.time), roi: (x, y) => y.roi - x.roi, profit: (x, y) => y.profit - x.profit };
+  list.sort(by[sort]);
+
+  const box = $("#list");
+  box.replaceChildren();
+  if (!list.length) {
+    const e = el("div", "empty");
+    e.append(el("b", null, state.deals.length ? "No deals match these filters" : "No deals yet"),
+      el("span", null, state.deals.length ? "Clear a filter to see more." : "The scanner checks eBay every 5 minutes. New finds appear here and on your phone."));
+    box.append(e);
+  } else list.forEach((d) => box.append(card(d)));
+
+  const day = state.deals.filter((d) => Date.now() - new Date(d.time) < 864e5);
+  const open = state.deals.filter((d) => !marks[d.id] && verdictKey(d.verdict) !== "pass");
+  $("#s-count").textContent = day.length;
+  $("#s-buy").textContent = day.filter((d) => verdictKey(d.verdict) === "buy").length;
+  $("#s-roi").textContent = day.length ? pct(Math.max(...day.map((d) => d.roi))) : "–";
+  $("#s-profit").textContent = "£" + Math.round(open.reduce((s, d) => s + Math.max(d.profit, 0), 0));
+}
+
+function setStatus() {
+  if (!state.updated) return;
+  const mins = (Date.now() - new Date(state.updated)) / 60000;
+  $("#dot").className = "dot" + (mins > 60 ? " down" : mins > 15 ? " stale" : "");
+  $("#status").textContent = "Last scan " + ago(state.updated) + (mins > 15 ? " · is the PC on?" : "");
+}
+
+// on <user>.github.io/<repo>/ the scanner writes deals.json to the repo's "data" branch
+function dataUrl() {
+  const host = location.hostname, repo = location.pathname.split("/").filter(Boolean)[0];
+  if (host.endsWith(".github.io") && repo) {
+    return "https://raw.githubusercontent.com/" + host.split(".")[0] + "/" + repo + "/data/deals.json?t=" + Date.now();
+  }
+  return "deals.json?t=" + Date.now();
+}
+
+async function load() {
+  try {
+    const r = await fetch(dataUrl(), { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    const data = await r.json();
+    state.deals = data.deals || [];
+    state.updated = data.updated;
+    setStatus();
+  } catch {
+    $("#status").textContent = "Couldn't load deals. Retrying in a minute.";
+    $("#dot").className = "dot down";
+  }
+  render();
+}
+
+document.querySelectorAll(".chip").forEach((c) => c.onclick = () => {
+  state.verdict = c.dataset.verdict;
+  document.querySelectorAll(".chip").forEach((x) => x.setAttribute("aria-pressed", x === c));
+  render();
+});
+["#platform", "#sort", "#hide"].forEach((s) => $(s).addEventListener("change", render));
+$("#q").addEventListener("input", render);
+load();
+setInterval(load, 60000);
+setInterval(setStatus, 30000);
+</script>
+</body>
+</html>
