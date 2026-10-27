@@ -1,6 +1,31 @@
 {
  "deals": [
   {
+   "id": "v1|327426510694|0",
+   "title": "Sega Mega Drive Classics Over 50 Games Ps4 Game",
+   "label": "📦 50-game bundle at £0.21/game",
+   "verdict": "🟢 BUY",
+   "cost": 10.64,
+   "value": 200,
+   "profit": 108.36,
+   "roi": 10.184,
+   "margin": 0.542,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 4801,
+   "flags": [],
+   "url": "https://www.ebay.co.uk/itm/327426510694?hash=item4c3c240f66:g:R-YAAeSwOHhq4OKC",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sega%20Mega%20Drive%20Classics%20Over%2050%20Games%20Ps4%20Game&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/R-YAAeSwOHhq4OKC/s-l225.jpg",
+   "listed": "2026-10-27T17:43:28.000Z",
+   "sell_costs": 81.0,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 8.27,
+   "platform": "ps4",
+   "time": "2026-10-27T17:47:05+00:00"
+  },
+  {
    "id": "v1|137880066028|0",
    "title": "Original Xbox and Xbox 360 game bundle x6 - PAL Versions - Good condition",
    "label": "📦 360-game bundle at £0.04/game",
@@ -553,6 +578,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T17:45:04+00:00",
- "pushed": "2026-10-27T17:45:04+00:00"
+ "updated": "2026-10-27T17:47:05+00:00",
+ "pushed": "2026-10-27T17:47:05+00:00"
 }
