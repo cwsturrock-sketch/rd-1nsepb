@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|327426531969|0",
+   "title": "Nintendo Wii Console Only White RVL-001 GameCube Compatible - Tested & Working",
+   "label": "🔥 GameCube console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 16.99,
+   "value": 42.300000000000004,
+   "profit": 11.1,
+   "roi": 0.653,
+   "margin": 0.262,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 341,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £42"
+   ],
+   "url": "https://www.ebay.co.uk/itm/327426531969?hash=item4c3c246281:g:X8IAAeSwoitq4Ohg",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Wii%20Console%20Only%20White%20RVL%20001%20GameCube%20Compatible%20%20%20Tested%20%20%20Working&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/X8IAAeSwoitq4Ohg/s-l225.jpg",
+   "listed": "2026-10-27T18:11:23.000Z",
+   "sell_costs": 14.21,
+   "market_p25": 42.300000000000004,
+   "market_n": 13,
+   "offer_price": 10.99,
+   "platform": "gamecube",
+   "time": "2026-10-27T18:15:08+00:00"
+  },
+  {
    "id": "v1|227585991779|526761247720",
    "title": "Pokemon Platinum (Nintendo DS, 2009) Cartridge only!",
    "label": "🔥 Pokemon Platinum",
@@ -608,6 +635,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T18:09:06+00:00",
- "pushed": "2026-10-27T18:09:06+00:00"
+ "updated": "2026-10-27T18:15:08+00:00",
+ "pushed": "2026-10-27T18:15:08+00:00"
 }
