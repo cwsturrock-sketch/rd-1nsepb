@@ -244,8 +244,8 @@ function render() {
 function setStatus() {
   if (!state.updated) return;
   const mins = (Date.now() - new Date(state.updated)) / 60000;
-  $("#dot").className = "dot" + (mins > 60 ? " down" : mins > 15 ? " stale" : "");
-  $("#status").textContent = "Last scan " + ago(state.updated) + (mins > 15 ? " · is the PC on?" : "");
+  $("#dot").className = "dot" + (mins > 60 ? " down" : mins > 25 ? " stale" : "");
+  $("#status").textContent = "Last update " + ago(state.updated) + (mins > 25 ? " · is the PC on?" : "");
 }
 
 // on <user>.github.io/<repo>/ the scanner writes deals.json to the repo's "data" branch
