@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|227585991779|526761247720",
+   "title": "Pokemon Platinum (Nintendo DS, 2009) Cartridge only!",
+   "label": "🔥 Pokemon Platinum",
+   "verdict": "🟡 CONSIDER",
+   "cost": 19.89,
+   "value": 38.5,
+   "profit": 9.38,
+   "roi": 0.472,
+   "margin": 0.244,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 240,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 25 current UK listings start at £40"
+   ],
+   "url": "https://www.ebay.co.uk/itm/227585991779?hash=item34fd2ea463:g:58QAAeSw4wxq4OWe",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Platinum%20%20Nintendo%20DS%20%202009%20%20Cartridge%20only%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/58QAAeSw4wxq4OWe/s-l225.jpg",
+   "listed": "2026-10-27T18:05:20.000Z",
+   "sell_costs": 9.23,
+   "market_p25": 39.89,
+   "market_n": 25,
+   "offer_price": null,
+   "platform": "ds",
+   "time": "2026-10-27T18:09:06+00:00"
+  },
+  {
    "id": "v1|327426510694|0",
    "title": "Sega Mega Drive Classics Over 50 Games Ps4 Game",
    "label": "📦 50-game bundle at £0.21/game",
@@ -578,6 +608,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T17:57:06+00:00",
- "pushed": "2026-10-27T17:57:06+00:00"
+ "updated": "2026-10-27T18:09:06+00:00",
+ "pushed": "2026-10-27T18:09:06+00:00"
 }
