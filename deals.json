@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|198749559528|0",
+   "title": "Nintendo Switch HAC-001 Handheld Console only - 32GB  ** DEAD **",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟢 BUY",
+   "cost": 40.0,
+   "value": 109.9,
+   "profit": 47.03,
+   "roi": 1.176,
+   "margin": 0.428,
+   "condition": "For parts or not working",
+   "seller_pct": 99.3,
+   "seller_score": 26350,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 20 current UK listings start at £110"
+   ],
+   "url": "https://www.ebay.co.uk/itm/198749559528?hash=item2e46659ae8:g:IPYAAeSwfmdq4Kfl",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20HAC%20001%20Handheld%20Console%20only%20%20%2032GB%20%20%20%20%20DEAD%20%20%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/IPYAAeSwfmdq4Kfl/s-l225.jpg",
+   "listed": "2026-10-27T13:35:03.000Z",
+   "sell_costs": 22.87,
+   "market_p25": 109.9,
+   "market_n": 20,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-10-27T13:39:06+00:00"
+  },
+  {
    "id": "v1|287684139358|0",
    "title": "Xbox 360 Games: Sleeping Dogs, LA Noire, Lego Harry Potter Years 5-7. Read Descr",
    "label": "📦 360-game bundle at £0.08/game",
@@ -345,6 +373,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T13:35:04+00:00",
- "pushed": "2026-10-27T13:35:04+00:00"
+ "updated": "2026-10-27T13:39:06+00:00",
+ "pushed": "2026-10-27T13:39:06+00:00"
 }
