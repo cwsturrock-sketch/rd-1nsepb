@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|307251617044|0",
+   "title": "Pokemon Ruby (Cartridge Only) - GBA - Free P&P",
+   "label": "🔥 Pokemon Ruby / Sapphire",
+   "verdict": "🟡 CONSIDER",
+   "cost": 13.0,
+   "value": 28.0,
+   "profit": 7.12,
+   "roi": 0.547,
+   "margin": 0.254,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 78,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Too few photos to check the cartridge: ask for the label, the back code and the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 11 current UK listings start at £50"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307251617044?hash=item47899f9d14:g:AlUAAeSwfc1qt~C6",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Ruby%20%20Cartridge%20Only%20%20%20%20GBA%20%20%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/AlUAAeSwfc1qt~C6/s-l225.jpg",
+   "listed": "2026-10-27T11:03:55.000Z",
+   "sell_costs": 7.88,
+   "market_p25": 50.2,
+   "market_n": 11,
+   "offer_price": 11.05,
+   "platform": "gameboy",
+   "time": "2026-10-27T11:07:07+00:00"
+  },
+  {
    "id": "v1|117489902566|0",
    "title": "Xbox 360 Game Bundle Naruto Shippuden: Ultimate Ninja Storm 1+ 2 +3 & Cards",
    "label": "📦 360-game bundle at £0.06/game",
@@ -236,6 +266,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T10:57:05+00:00",
- "pushed": "2026-10-27T10:57:05+00:00"
+ "updated": "2026-10-27T11:07:07+00:00",
+ "pushed": "2026-10-27T11:07:07+00:00"
 }
