@@ -1,31 +1,6 @@
 {
  "deals": [
   {
-   "id": "v1|257820818293|0",
-   "title": "Mix lot of Amstrad CPC 464 Games x 9",
-   "label": "📦 464-game bundle at £0.05/game",
-   "verdict": "🟢 BUY",
-   "cost": 22.93,
-   "value": 1856,
-   "profit": 1333.1,
-   "roi": 58.138,
-   "margin": 0.718,
-   "condition": "Very Good",
-   "seller_pct": 100.0,
-   "seller_score": 1635,
-   "flags": [],
-   "url": "https://www.ebay.co.uk/itm/257820818293?hash=item3c07517b75:g:VPQAAeSwuTlq4QP8",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Mix%20lot%20of%20Amstrad%20CPC%20464%20Games%20x%209&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/VPQAAeSwuTlq4QP8/s-l225.jpg",
-   "listed": "2026-10-27T20:06:44.000Z",
-   "sell_costs": 499.97,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": 16.99,
-   "platform": "default",
-   "time": "2026-10-27T20:11:04+00:00"
-  },
-  {
    "id": "v1|147654321282|0",
    "title": "Sony PlayStation Portal Remote Player PS5 Handheld Console CFI-Y1016 CIB Bundle",
    "label": "📦 Bundle incl. PS5 console",
@@ -951,6 +926,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T20:11:04+00:00",
- "pushed": "2026-10-27T20:11:04+00:00"
+ "updated": "2026-10-27T20:17:57+00:00",
+ "pushed": "2026-10-27T20:17:57+00:00"
 }
