@@ -82,6 +82,8 @@ label.toggle { display: flex; gap: 6px; align-items: center; color: var(--muted)
 .pill.consider { background: var(--consider-soft); color: var(--consider); }
 .pill.pass { background: var(--pass-soft); color: var(--pass); }
 .tag { font-size: .75rem; color: var(--muted); }
+.age { font-size: .72rem; font-weight: 600; padding: 2px 7px; border-radius: 6px; background: var(--bg); color: var(--muted); }
+.age.fresh { background: var(--buy-soft); color: var(--buy); }
 .title { font-weight: 600; line-height: 1.35; overflow-wrap: anywhere; }
 .kpis { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 6px; }
 .kpi { background: var(--bg); border-radius: 8px; padding: 6px 8px; min-width: 0; }
@@ -141,8 +143,6 @@ label.toggle { display: flex; gap: 6px; align-items: center; color: var(--muted)
     <span class="sep"></span>
     <select id="platform" aria-label="Platform">
       <option value="all">All platforms</option>
-      <option value="gamecube">GameCube</option>
-      <option value="ds">DS</option>
     </select>
     <select id="sort" aria-label="Sort">
       <option value="new">Newest</option>
@@ -165,6 +165,11 @@ const state = { verdict: "all", deals: [], updated: null };
 // bought / passed marks are kept per device
 const marks = (() => { try { return JSON.parse(localStorage.getItem("marks") || "{}"); } catch { return {}; } })();
 const saveMarks = () => { try { localStorage.setItem("marks", JSON.stringify(marks)); } catch {} };
+
+const PLATFORMS = { gamecube: "GameCube", "wii u": "Wii U", wii: "Wii", switch: "Switch", "3ds": "3DS", ds: "DS", n64: "N64",
+  snes: "SNES", nes: "NES", gameboy: "Game Boy", vita: "PS Vita", psp: "PSP", ps5: "PS5", ps4: "PS4", ps3: "PS3", ps2: "PS2",
+  ps1: "PS1", xbox: "Xbox", dreamcast: "Dreamcast", saturn: "Saturn", megadrive: "Mega Drive", "master system": "Master System" };
+const platformName = (p) => PLATFORMS[p] || "Other";
 
 function verdictKey(v) { return /BUY/.test(v) ? "buy" : /CONSIDER/.test(v) ? "consider" : "pass"; }
 
@@ -192,7 +197,12 @@ function card(d) {
 
   const top = el("div", "top");
   top.append(el("span", "pill " + key, key));
-  top.append(el("span", "tag", d.label + " · " + (d.platform === "ds" ? "DS" : "GameCube") + " · found " + ago(d.time)));
+  top.append(el("span", "tag", d.label + " · " + platformName(d.platform)));
+  if (d.listed) {
+    const age = el("span", "age" + ((Date.now() - new Date(d.listed)) / 6e4 < 30 ? " fresh" : ""), "Listed " + ago(d.listed));
+    age.title = "Found by the scanner " + ago(d.time);
+    top.append(age);
+  }
   b.append(top, el("div", "title", d.title));
 
   const k = el("div", "kpis");
@@ -202,6 +212,7 @@ function card(d) {
 
   const notes = el("ul", "notes");
   notes.append(el("li", "info", (d.condition || "Condition n/a") + " · seller " + d.seller_pct + "% (" + d.seller_score + ") · margin " + pct(d.margin)));
+  if (d.sell_costs != null) notes.append(el("li", "info", "Profit is after ~" + gbp(d.sell_costs) + " selling costs (fees, postage out, packaging)"));
   (d.flags || []).forEach((f) => notes.append(el("li", f.startsWith("⚠") ? "warn" : "info", f)));
   if (d.offer_price) notes.append(el("li", "tip", "Accepts offers: try " + gbp(d.offer_price)));
   b.append(notes);
@@ -287,6 +298,11 @@ async function load() {
     const data = await r.json();
     state.deals = data.deals || [];
     state.updated = data.updated;
+    // platform filter lists only platforms that have deals
+    const sel = $("#platform"), keep = sel.value;
+    const present = [...new Set(state.deals.map((d) => d.platform))].sort();
+    sel.replaceChildren(new Option("All platforms", "all"), ...present.map((p) => new Option(platformName(p), p)));
+    sel.value = present.includes(keep) ? keep : "all";
     setStatus();
   } catch {
     $("#status").textContent = "Couldn't load deals. Retrying in a minute.";
