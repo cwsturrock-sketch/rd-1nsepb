@@ -1,6 +1,31 @@
 {
  "deals": [
   {
+   "id": "v1|227586004084|0",
+   "title": "Xbox 360 Games Bundle",
+   "label": "📦 360-game bundle at £0.61/game",
+   "verdict": "🟢 BUY",
+   "cost": 221.06,
+   "value": 1440,
+   "profit": 824.22,
+   "roi": 3.728,
+   "margin": 0.572,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 535,
+   "flags": [],
+   "url": "https://www.ebay.co.uk/itm/227586004084?hash=item34fd2ed474:g:IukAAeSwtgxq4OsK",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Xbox%20360%20Games%20Bundle&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/IukAAeSwtgxq4OsK/s-l225.jpg",
+   "listed": "2026-10-27T18:20:26.000Z",
+   "sell_costs": 394.72,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 177.39,
+   "platform": "xbox",
+   "time": "2026-10-27T18:25:05+00:00"
+  },
+  {
    "id": "v1|227586001571|0",
    "title": "Xbox 360 Game Bundle Assorted Games",
    "label": "📦 360-game bundle at £0.61/game",
@@ -823,6 +848,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T18:23:06+00:00",
- "pushed": "2026-10-27T18:23:06+00:00"
+ "updated": "2026-10-27T18:25:05+00:00",
+ "pushed": "2026-10-27T18:25:05+00:00"
 }
