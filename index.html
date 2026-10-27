@@ -252,7 +252,7 @@ function render() {
   if (!list.length) {
     const e = el("div", "empty");
     e.append(el("b", null, state.deals.length ? "No deals match these filters" : "No deals yet"),
-      el("span", null, state.deals.length ? "Clear a filter to see more." : "The scanner checks eBay every 5 minutes. New finds appear here and on your phone."));
+      el("span", null, state.deals.length ? "Clear a filter to see more." : "The scanner checks eBay every 2 minutes and only flags real bargains, so quiet stretches are normal. New finds appear here and on your phone."));
     box.append(e);
   } else list.forEach((d) => box.append(card(d)));
 
@@ -268,7 +268,7 @@ function setStatus() {
   if (!state.updated) return;
   const mins = (Date.now() - new Date(state.updated)) / 60000;
   $("#dot").className = "dot" + (mins > 60 ? " down" : mins > 25 ? " stale" : "");
-  $("#status").textContent = "Last update " + ago(state.updated) + (mins > 25 ? " · is the PC on?" : "");
+  $("#status").textContent = (mins > 25 ? "Last check-in " + ago(state.updated) + " · is the PC on?" : "Scanning every 2 min · checked in " + ago(state.updated));
 }
 
 // on <user>.github.io/<repo>/ the scanner writes deals.json to the repo's "data" branch
