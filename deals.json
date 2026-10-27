@@ -1,6 +1,31 @@
 {
  "deals": [
   {
+   "id": "v1|287684139358|0",
+   "title": "Xbox 360 Games: Sleeping Dogs, LA Noire, Lego Harry Potter Years 5-7. Read Descr",
+   "label": "📦 360-game bundle at £0.08/game",
+   "verdict": "🟢 BUY",
+   "cost": 29.64,
+   "value": 1440,
+   "profit": 1015.64,
+   "roi": 34.266,
+   "margin": 0.705,
+   "condition": "Acceptable",
+   "seller_pct": 100.0,
+   "seller_score": 46,
+   "flags": [],
+   "url": "https://www.ebay.co.uk/itm/287684139358?hash=item42fb4f995e:g:UOUAAeSw31xq4Js4",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Xbox%20360%20Games%20%20Sleeping%20Dogs%20%20LA%20Noire%20%20Lego%20Harry%20Potter%20Years%205%207%20%20Read%20Descr&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/UOUAAeSw31xq4Js4/s-l225.jpg",
+   "listed": "2026-10-27T12:39:32.000Z",
+   "sell_costs": 394.72,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "xbox",
+   "time": "2026-10-27T12:43:04+00:00"
+  },
+  {
    "id": "v1|128159222759|0",
    "title": "Sony PSP 1004 Handheld Game Console System Piano Black Untested",
    "label": "🔥 PSP console",
@@ -320,6 +345,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T12:41:08+00:00",
- "pushed": "2026-10-27T12:41:08+00:00"
+ "updated": "2026-10-27T12:43:04+00:00",
+ "pushed": "2026-10-27T12:43:04+00:00"
 }
