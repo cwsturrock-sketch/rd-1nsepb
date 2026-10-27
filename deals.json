@@ -1,6 +1,31 @@
 {
  "deals": [
   {
+   "id": "v1|227585597244|0",
+   "title": "Xbox 360 Games Bundle x8 Call of Duty MW2 Black Ops Far Cry 3 Forza PGR3 FIFA 13",
+   "label": "📦 360-game bundle at £0.05/game",
+   "verdict": "🟢 BUY",
+   "cost": 18.45,
+   "value": 1440,
+   "profit": 1026.83,
+   "roi": 55.655,
+   "margin": 0.713,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 581,
+   "flags": [],
+   "url": "https://www.ebay.co.uk/itm/227585597244?hash=item34fd289f3c:g:fggAAeSwqR5q4JXs",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Xbox%20360%20Games%20Bundle%20x8%20Call%20of%20Duty%20MW2%20Black%20Ops%20Far%20Cry%203%20Forza%20PGR3%20FIFA%2013&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/fggAAeSwqR5q4JXs/s-l225.jpg",
+   "listed": "2026-10-27T12:16:21.000Z",
+   "sell_costs": 394.72,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 12.81,
+   "platform": "xbox",
+   "time": "2026-10-27T12:21:04+00:00"
+  },
+  {
    "id": "v1|307251617044|0",
    "title": "Pokemon Ruby (Cartridge Only) - GBA - Free P&P",
    "label": "🔥 Pokemon Ruby / Sapphire",
@@ -266,6 +291,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T12:13:04+00:00",
- "pushed": "2026-10-27T12:13:04+00:00"
+ "updated": "2026-10-27T12:21:04+00:00",
+ "pushed": "2026-10-27T12:21:04+00:00"
 }
