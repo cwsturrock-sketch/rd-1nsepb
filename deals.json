@@ -1,6 +1,84 @@
 {
  "deals": [
   {
+   "id": "v1|377601733524|0",
+   "title": "Kinect Training+The Biggest Loser Ultimate Workout Xbox 360 Games NEW",
+   "label": "📦 360-game bundle at £0.04/game",
+   "verdict": "🟢 BUY",
+   "cost": 12.94,
+   "value": 1440,
+   "profit": 1032.34,
+   "roi": 79.779,
+   "margin": 0.717,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 10264,
+   "flags": [],
+   "url": "https://www.ebay.co.uk/itm/377601733524?hash=item57ead13394:g:SocAAeSw38Fq4OoG",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Kinect%20Training%20The%20Biggest%20Loser%20Ultimate%20Workout%20Xbox%20360%20Games%20NEW&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/SocAAeSw38Fq4OoG/s-l225.jpg",
+   "listed": "2026-10-27T18:15:13.000Z",
+   "sell_costs": 394.72,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "xbox",
+   "time": "2026-10-27T18:21:06+00:00"
+  },
+  {
+   "id": "v1|227585999254|0",
+   "title": "Xbox 360 Game Bundle ",
+   "label": "📦 360-game bundle at £0.51/game",
+   "verdict": "🟢 BUY",
+   "cost": 183.38,
+   "value": 1440,
+   "profit": 861.9,
+   "roi": 4.7,
+   "margin": 0.599,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 535,
+   "flags": [],
+   "url": "https://www.ebay.co.uk/itm/227585999254?hash=item34fd2ec196:g:LD0AAeSwzzpq4OmR",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Xbox%20360%20Game%20Bundle%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/LD0AAeSwzzpq4OmR/s-l225.jpg",
+   "listed": "2026-10-27T18:14:57.000Z",
+   "sell_costs": 394.72,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 150.88,
+   "platform": "xbox",
+   "time": "2026-10-27T18:21:06+00:00"
+  },
+  {
+   "id": "v1|327426534891|0",
+   "title": "Nintendo Wii White Console Only - Model RVL-001 (EUR) GameCube Compatible",
+   "label": "🔥 GameCube console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 18.57,
+   "value": 42.300000000000004,
+   "profit": 9.52,
+   "roi": 0.512,
+   "margin": 0.225,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 341,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £42"
+   ],
+   "url": "https://www.ebay.co.uk/itm/327426534891?hash=item4c3c246deb:g:SRsAAeSwynJq4Omf",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Wii%20White%20Console%20Only%20%20%20Model%20RVL%20001%20%20EUR%20%20GameCube%20Compatible&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/SRsAAeSwynJq4Omf/s-l225.jpg",
+   "listed": "2026-10-27T18:15:08.000Z",
+   "sell_costs": 14.21,
+   "market_p25": 42.300000000000004,
+   "market_n": 13,
+   "offer_price": 10.99,
+   "platform": "gamecube",
+   "time": "2026-10-27T18:21:06+00:00"
+  },
+  {
    "id": "v1|318149995473|0",
    "title": "Pokemon Colosseum Memory Card  GameCube",
    "label": "Pokemon Colosseum",
@@ -693,6 +771,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T18:19:59+00:00",
- "pushed": "2026-10-27T18:19:59+00:00"
+ "updated": "2026-10-27T18:21:06+00:00",
+ "pushed": "2026-10-27T18:21:06+00:00"
 }
