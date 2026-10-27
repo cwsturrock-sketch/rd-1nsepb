@@ -1,6 +1,64 @@
 {
  "deals": [
   {
+   "id": "v1|318149995473|0",
+   "title": "Pokemon Colosseum Memory Card  GameCube",
+   "label": "Pokemon Colosseum",
+   "verdict": "🟡 CONSIDER",
+   "cost": 24.99,
+   "value": 45.019999999999996,
+   "profit": 9.97,
+   "roi": 0.399,
+   "margin": 0.221,
+   "condition": "Good",
+   "seller_pct": 96.6,
+   "seller_score": 47,
+   "flags": [
+    "⚠️ Seller trust low (96.6% · 47 reviews)",
+    "ℹ️ Market check: cheapest quarter of 20 current UK listings start at £45"
+   ],
+   "url": "https://www.ebay.co.uk/itm/318149995473?_skw=Pokemon+Colosseum&hash=item4a1337abd1:g:n50AAeSweDNp3nzF",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Colosseum%20Memory%20Card%20%20GameCube&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/n50AAeSweDNp3nzF/s-l225.jpg",
+   "listed": "2026-04-14T17:44:24.000Z",
+   "sell_costs": 10.06,
+   "market_p25": 45.019999999999996,
+   "market_n": 20,
+   "offer_price": 21.24,
+   "platform": "gamecube",
+   "source": "sweep",
+   "time": "2026-10-27T18:19:59+00:00"
+  },
+  {
+   "id": "v1|128159390058|0",
+   "title": "Zelda - Minish Cap & A Link to the Past Four Swords - GBA Cartridges",
+   "label": "Zelda Minish Cap",
+   "verdict": "🟡 CONSIDER",
+   "cost": 28.99,
+   "value": 50,
+   "profit": 10.31,
+   "roi": 0.356,
+   "margin": 0.206,
+   "condition": "Like New",
+   "seller_pct": 100.0,
+   "seller_score": 132,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "ℹ️ Market check: cheapest quarter of 28 current UK listings start at £50"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128159390058?_skw=Zelda+Minish+Cap&hash=item1dd6e5196a:g:q7EAAeSwwnNq4Ljo",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Zelda%20%20%20Minish%20Cap%20%20%20A%20Link%20to%20the%20Past%20Four%20Swords%20%20%20GBA%20Cartridges&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/q7EAAeSwwnNq4Ljo/s-l225.jpg",
+   "listed": "2026-10-27T14:47:43.000Z",
+   "sell_costs": 10.7,
+   "market_p25": 50.43,
+   "market_n": 28,
+   "offer_price": null,
+   "platform": "gameboy",
+   "source": "sweep",
+   "time": "2026-10-27T18:19:59+00:00"
+  },
+  {
    "id": "v1|327426531969|0",
    "title": "Nintendo Wii Console Only White RVL-001 GameCube Compatible - Tested & Working",
    "label": "🔥 GameCube console",
@@ -635,6 +693,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T18:15:08+00:00",
- "pushed": "2026-10-27T18:15:08+00:00"
+ "updated": "2026-10-27T18:19:59+00:00",
+ "pushed": "2026-10-27T18:19:59+00:00"
 }
