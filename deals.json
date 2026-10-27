@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|128159222759|0",
+   "title": "Sony PSP 1004 Handheld Game Console System Piano Black Untested",
+   "label": "🔥 PSP console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 25.65,
+   "value": 50,
+   "profit": 9.15,
+   "roi": 0.357,
+   "margin": 0.183,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 121,
+   "flags": [
+    "⚠️ Untested",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £66"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128159222759?hash=item1dd6e28be7:g:JKcAAeSw~lhq4JqU",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PSP%201004%20Handheld%20Game%20Console%20System%20Piano%20Black%20Untested&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/JKcAAeSw~lhq4JqU/s-l225.jpg",
+   "listed": "2026-10-27T12:35:42.000Z",
+   "sell_costs": 15.2,
+   "market_p25": 66.04,
+   "market_n": 14,
+   "offer_price": null,
+   "platform": "psp",
+   "time": "2026-10-27T12:41:08+00:00"
+  },
+  {
    "id": "v1|227585597244|0",
    "title": "Xbox 360 Games Bundle x8 Call of Duty MW2 Black Ops Far Cry 3 Forza PGR3 FIFA 13",
    "label": "📦 360-game bundle at £0.05/game",
@@ -291,6 +320,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T12:31:04+00:00",
- "pushed": "2026-10-27T12:31:04+00:00"
+ "updated": "2026-10-27T12:41:08+00:00",
+ "pushed": "2026-10-27T12:41:08+00:00"
 }
