@@ -1,6 +1,31 @@
 {
  "deals": [
   {
+   "id": "v1|117489902566|0",
+   "title": "Xbox 360 Game Bundle Naruto Shippuden: Ultimate Ninja Storm 1+ 2 +3 & Cards",
+   "label": "📦 360-game bundle at £0.06/game",
+   "verdict": "🟢 BUY",
+   "cost": 20.0,
+   "value": 1440,
+   "profit": 1025.28,
+   "roi": 51.264,
+   "margin": 0.712,
+   "condition": "Good",
+   "seller_pct": 99.8,
+   "seller_score": 6841,
+   "flags": [],
+   "url": "https://www.ebay.co.uk/itm/117489902566?hash=item1b5af1a3e6:g:GygAAeSwnBlq4IIS",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Xbox%20360%20Game%20Bundle%20Naruto%20Shippuden%20%20Ultimate%20Ninja%20Storm%201%20%202%20%203%20%20%20Cards&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/GygAAeSwnBlq4IIS/s-l225.jpg",
+   "listed": "2026-10-27T10:53:44.000Z",
+   "sell_costs": 394.72,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "xbox",
+   "time": "2026-10-27T10:57:05+00:00"
+  },
+  {
    "id": "v1|267658133916|0",
    "title": "The Legend of Zelda: Majora's Mask (Nintendo 64, 2000)",
    "label": "Zelda Majora's Mask (N64)",
@@ -211,6 +236,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T10:49:06+00:00",
- "pushed": "2026-10-27T10:49:06+00:00"
+ "updated": "2026-10-27T10:57:05+00:00",
+ "pushed": "2026-10-27T10:57:05+00:00"
 }
