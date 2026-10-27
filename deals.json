@@ -1,6 +1,31 @@
 {
  "deals": [
   {
+   "id": "v1|147654321282|0",
+   "title": "Sony PlayStation Portal Remote Player PS5 Handheld Console CFI-Y1016 CIB Bundle",
+   "label": "📦 Bundle incl. PS5 console",
+   "verdict": "🟢 BUY",
+   "cost": 136.76,
+   "value": 300,
+   "profit": 116.04,
+   "roi": 0.848,
+   "margin": 0.387,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 878,
+   "flags": [],
+   "url": "https://www.ebay.co.uk/itm/147654321282?hash=item2260e22482:g:VWwAAeSwKwpq4QF5",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%20Portal%20Remote%20Player%20PS5%20Handheld%20Console%20CFI%20Y1016%20CIB%20Bundle&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/VWwAAeSwKwpq4QF5/s-l225.jpg",
+   "listed": "2026-10-27T19:54:56.000Z",
+   "sell_costs": 47.2,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "ps5",
+   "time": "2026-10-27T19:59:04+00:00"
+  },
+  {
    "id": "v1|327426615798|0",
    "title": "Disc Drive for PS5 Digital Edition Consoles",
    "label": "🔥 PS5 console",
@@ -901,6 +926,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T19:55:04+00:00",
- "pushed": "2026-10-27T19:55:04+00:00"
+ "updated": "2026-10-27T19:59:04+00:00",
+ "pushed": "2026-10-27T19:59:04+00:00"
 }
