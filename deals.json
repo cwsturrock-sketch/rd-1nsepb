@@ -1,6 +1,31 @@
 {
  "deals": [
   {
+   "id": "v1|257820496198|0",
+   "title": "Bundle of Xbox 360 Games x 3 Lego Games Lego Batman 1 2 3 ",
+   "label": "📦 360-game bundle at £0.04/game",
+   "verdict": "🟢 BUY",
+   "cost": 12.93,
+   "value": 1440,
+   "profit": 1032.35,
+   "roi": 79.841,
+   "margin": 0.717,
+   "condition": "Very Good",
+   "seller_pct": 99.8,
+   "seller_score": 7995,
+   "flags": [],
+   "url": "https://www.ebay.co.uk/itm/257820496198?hash=item3c074c9146:g:X3YAAeSwyhxq4Mni",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Bundle%20of%20Xbox%20360%20Games%20x%203%20Lego%20Games%20Lego%20Batman%201%202%203%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/X3YAAeSwyhxq4Mni/s-l225.jpg",
+   "listed": "2026-10-27T15:58:04.000Z",
+   "sell_costs": 394.72,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 8.49,
+   "platform": "xbox",
+   "time": "2026-10-27T16:03:04+00:00"
+  },
+  {
    "id": "v1|960122807598|0",
    "title": "Nintendo DS Lite Handheld Console Red/Black Wi-Fi, Region Free, USG-001",
    "label": "🔥 Nintendo DS Lite console",
@@ -503,6 +528,6 @@
    "time": "2026-10-27T10:16:28+00:00"
   }
  ],
- "updated": "2026-10-27T15:57:04+00:00",
- "pushed": "2026-10-27T15:57:04+00:00"
+ "updated": "2026-10-27T16:03:04+00:00",
+ "pushed": "2026-10-27T16:03:04+00:00"
 }
