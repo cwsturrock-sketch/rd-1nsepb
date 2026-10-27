@@ -1,34 +1,6 @@
 {
  "deals": [
   {
-   "id": "v1|158074077730|0",
-   "title": "Mario Kart 8 Deluxe Nintendo Wii U - Boxed & Complete",
-   "label": "Mario Kart 8 Deluxe",
-   "verdict": "🟡 CONSIDER",
-   "cost": 8.72,
-   "value": 24.04,
-   "profit": 7.94,
-   "roi": 0.911,
-   "margin": 0.33,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 363,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 41 current UK listings start at £24"
-   ],
-   "url": "https://www.ebay.co.uk/itm/158074077730?_skw=Mario+Kart+8+Deluxe&hash=item24cdf30222:g:xJ0AAeSwPphqUW6l",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Mario%20Kart%208%20Deluxe%20Nintendo%20Wii%20U%20%20%20Boxed%20%20%20Complete&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/xJ0AAeSwPphqUW6l/s-l225.jpg",
-   "listed": "2026-07-10T22:14:54.000Z",
-   "sell_costs": 7.38,
-   "market_p25": 24.04,
-   "market_n": 41,
-   "offer_price": 5.1,
-   "platform": "switch",
-   "source": "sweep",
-   "time": "2026-10-27T10:15:05+00:00"
-  },
-  {
    "id": "v1|267658133916|0",
    "title": "The Legend of Zelda: Majora's Mask (Nintendo 64, 2000)",
    "label": "Zelda Majora's Mask (N64)",
@@ -55,37 +27,6 @@
    "market_n": 16,
    "offer_price": null,
    "platform": "n64",
-   "source": "sweep",
-   "time": "2026-10-27T10:15:05+00:00"
-  },
-  {
-   "id": "v1|176947365651|476677096146",
-   "title": "Rare GAMEBOY Origin MARK VC Pokemon Yellow/Blue/Red/Crystal/Gold/Silver Full Dex",
-   "label": "Pokemon Red / Blue / Yellow",
-   "verdict": "🟡 CONSIDER",
-   "cost": 12.0,
-   "value": 40,
-   "profit": 18.58,
-   "roi": 1.548,
-   "margin": 0.464,
-   "condition": "New",
-   "seller_pct": 99.5,
-   "seller_score": 1056,
-   "flags": [
-    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
-    "⚠️ Price is far below market: treat as a likely reproduction unless photos prove otherwise",
-    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
-    "ℹ️ Market check: cheapest quarter of 6 current UK listings start at £60"
-   ],
-   "url": "https://www.ebay.co.uk/itm/176947365651?_skw=Pokemon+Red+++Blue+++Yellow&var=476677096146&hash=item2932e28713:g:D~gAAOSwQB5n4CVa",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Rare%20GAMEBOY%20Origin%20MARK%20VC%20Pokemon%20Yellow%20Blue%20Red%20Crystal%20Gold%20Silver%20Full%20Dex&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/D~gAAOSwQB5n4CVa/s-l225.jpg",
-   "listed": "2025-03-23T15:15:46.000Z",
-   "sell_costs": 9.42,
-   "market_p25": 59.71,
-   "market_n": 6,
-   "offer_price": null,
-   "platform": "gameboy",
    "source": "sweep",
    "time": "2026-10-27T10:15:05+00:00"
   },
@@ -270,6 +211,6 @@
    "time": "2026-10-27T10:15:05+00:00"
   }
  ],
- "updated": "2026-10-27T10:15:05+00:00",
+ "updated": "2026-10-27T10:15:19+00:00",
  "pushed": "2026-10-27T10:15:05+00:00"
 }
