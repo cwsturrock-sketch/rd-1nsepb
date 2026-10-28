@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|237148514149|0",
+   "title": "Nintendo Switch Console + 128Gb Sd Card | BANNED FROM NINTENDO SERVERS",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 55.64,
+   "value": 98.19,
+   "profit": 21.18,
+   "roi": 0.381,
+   "margin": 0.216,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 34,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 17 current UK listings start at £98"
+   ],
+   "url": "https://www.ebay.co.uk/itm/237148514149?hash=item3737272765:g:cLkAAeSwEyhq4cvA",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Console%20%20%20128Gb%20Sd%20Card%20%20%20BANNED%20FROM%20NINTENDO%20SERVERS&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/cLkAAeSwEyhq4cvA/s-l225.jpg",
+   "listed": "2026-10-28T10:24:42.000Z",
+   "sell_costs": 21.37,
+   "market_p25": 98.19,
+   "market_n": 17,
+   "offer_price": 44.8,
+   "platform": "switch",
+   "time": "2026-10-28T10:29:07+00:00"
+  },
+  {
    "id": "v1|940047627501|0",
    "title": "Sony PlayStation 5 PS5 Slim Disc Edition Home Console - White/Black",
    "label": "🔥 PS5 console",
@@ -265,6 +292,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-28T10:25:04+00:00",
- "pushed": "2026-10-28T10:25:04+00:00"
+ "updated": "2026-10-28T10:29:07+00:00",
+ "pushed": "2026-10-28T10:29:07+00:00"
 }
