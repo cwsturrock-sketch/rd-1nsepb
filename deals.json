@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|257822305511|0",
+   "title": "X80 HANDHELD GAME CONSOLE",
+   "label": "📦 80-game bundle at £0.66/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 53.01,
+   "value": 320,
+   "profit": 155.63,
+   "roi": 2.936,
+   "margin": 0.486,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 1759,
+   "flags": [
+    "⚠️ Bundle value is a guess (80 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/257822305511?hash=item3c07682ce7:g:qjMAAeSwnSJq4klJ",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=X80%20HANDHELD%20GAME%20CONSOLE&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/qjMAAeSwnSJq4klJ/s-l225.jpg",
+   "listed": "2026-10-28T19:15:18.000Z",
+   "sell_costs": 111.36,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-10-28T19:19:06+00:00"
+  },
+  {
    "id": "v1|366767312168|0",
    "title": "Galaxy of Games: Blue Edition (PC: Windows, 2000) - UK Version 50 Games SEALED",
    "label": "📦 50-game bundle at £0.24/game",
@@ -486,6 +513,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-28T19:13:05+00:00",
- "pushed": "2026-10-28T19:13:05+00:00"
+ "updated": "2026-10-28T19:19:06+00:00",
+ "pushed": "2026-10-28T19:19:06+00:00"
 }
