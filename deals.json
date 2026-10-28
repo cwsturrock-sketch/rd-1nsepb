@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|287687428683|0",
+   "title": "Nintendo 64 (N64) Home Video Game Console - Black/Charcoal",
+   "label": "🔥 N64 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 31.45,
+   "value": 60,
+   "profit": 12.07,
+   "roi": 0.384,
+   "margin": 0.201,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 72,
+   "flags": [
+    "⚠️ Too few photos to check the cartridge: ask for the label, the back code and the circuit board",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 18 current UK listings start at £134"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287687428683?hash=item42fb81ca4b:g:R-MAAeSw~mFq4h5r",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%2064%20%20N64%20%20Home%20Video%20Game%20Console%20%20%20Black%20Charcoal&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/R-MAAeSw~mFq4h5r/s-l225.jpg",
+   "listed": "2026-10-28T16:12:21.000Z",
+   "sell_costs": 16.48,
+   "market_p25": 133.85,
+   "market_n": 18,
+   "offer_price": 23.58,
+   "platform": "n64",
+   "time": "2026-10-28T16:19:07+00:00"
+  },
+  {
    "id": "v1|820288318842|0",
    "title": "18x Nintendo DS Game Bundle Mixed Titles With Cartridges",
    "label": "📦 18-game bundle at £0.79/game",
@@ -430,6 +459,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-28T16:18:00+00:00",
- "pushed": "2026-10-28T16:18:00+00:00"
+ "updated": "2026-10-28T16:19:07+00:00",
+ "pushed": "2026-10-28T16:19:07+00:00"
 }
