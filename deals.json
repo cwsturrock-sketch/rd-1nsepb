@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820288318842|0",
+   "title": "18x Nintendo DS Game Bundle Mixed Titles With Cartridges",
+   "label": "📦 18-game bundle at £0.79/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 14.17,
+   "value": 72,
+   "profit": 9.21,
+   "roi": 0.65,
+   "margin": 0.128,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 104,
+   "flags": [
+    "⚠️ Bundle value is a guess (18 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820288318842?hash=itembefcfe6d7a:g:98kAAeSw2l1q4hau",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=18x%20Nintendo%20DS%20Game%20Bundle%20Mixed%20Titles%20With%20Cartridges&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/98kAAeSw2l1q4hau/s-l225.jpg",
+   "listed": "2026-10-28T15:38:34.000Z",
+   "sell_costs": 48.62,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 9.17,
+   "platform": "ds",
+   "time": "2026-10-28T15:43:06+00:00"
+  },
+  {
    "id": "v1|237148918701|0",
    "title": "Nintendo GameCube Game Pokemon Box Ruby & Sapphire Disc Only",
    "label": "🔥 Pokemon Box Ruby & Sapphire",
@@ -403,6 +430,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-28T15:35:39+00:00",
- "pushed": "2026-10-28T15:35:39+00:00"
+ "updated": "2026-10-28T15:43:06+00:00",
+ "pushed": "2026-10-28T15:43:06+00:00"
 }
