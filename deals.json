@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|137882631025|0",
+   "title": "Sony PlayStation 1 Home Console SCPH-5502 PAL Grey *Read description*",
+   "label": "🔥 PS1 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 13.38,
+   "value": 40,
+   "profit": 12.7,
+   "roi": 0.949,
+   "margin": 0.318,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 885,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £60"
+   ],
+   "url": "https://www.ebay.co.uk/itm/137882631025?hash=item201a71fb71:g:q4wAAeSwKwpq4k0E",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%201%20Home%20Console%20SCPH%205502%20PAL%20Grey%20%20Read%20description%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/q4wAAeSwKwpq4k0E/s-l225.jpg",
+   "listed": "2026-10-28T19:28:09.000Z",
+   "sell_costs": 13.92,
+   "market_p25": 59.95,
+   "market_n": 16,
+   "offer_price": null,
+   "platform": "ps1",
+   "time": "2026-10-28T19:35:07+00:00"
+  },
+  {
    "id": "v1|257822305511|0",
    "title": "X80 HANDHELD GAME CONSOLE",
    "label": "📦 80-game bundle at £0.66/game",
@@ -513,6 +540,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-28T19:31:05+00:00",
- "pushed": "2026-10-28T19:31:05+00:00"
+ "updated": "2026-10-28T19:35:07+00:00",
+ "pushed": "2026-10-28T19:35:07+00:00"
 }
