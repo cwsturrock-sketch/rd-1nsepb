@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|366767312168|0",
+   "title": "Galaxy of Games: Blue Edition (PC: Windows, 2000) - UK Version 50 Games SEALED",
+   "label": "📦 50-game bundle at £0.24/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 12.21,
+   "value": 200,
+   "profit": 106.79,
+   "roi": 8.746,
+   "margin": 0.534,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 113,
+   "flags": [
+    "⚠️ Bundle value is a guess (50 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/366767312168?hash=item5565090d28:g:HIIAAeSwD8hq4kgW",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Galaxy%20of%20Games%20%20Blue%20Edition%20%20PC%20%20Windows%20%202000%20%20%20%20UK%20Version%2050%20Games%20SEALED&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/HIIAAeSwD8hq4kgW/s-l225.jpg",
+   "listed": "2026-10-28T19:09:17.000Z",
+   "sell_costs": 81.0,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 7.51,
+   "platform": "default",
+   "time": "2026-10-28T19:13:05+00:00"
+  },
+  {
    "id": "v1|287687428683|0",
    "title": "Nintendo 64 (N64) Home Video Game Console - Black/Charcoal",
    "label": "🔥 N64 console",
@@ -459,6 +486,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-28T19:07:08+00:00",
- "pushed": "2026-10-28T19:07:08+00:00"
+ "updated": "2026-10-28T19:13:05+00:00",
+ "pushed": "2026-10-28T19:13:05+00:00"
 }
