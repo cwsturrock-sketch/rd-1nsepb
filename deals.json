@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|237148918701|0",
+   "title": "Nintendo GameCube Game Pokemon Box Ruby & Sapphire Disc Only",
+   "label": "🔥 Pokemon Box Ruby & Sapphire",
+   "verdict": "🟡 CONSIDER",
+   "cost": 74.99,
+   "value": 124.23,
+   "profit": 29.04,
+   "roi": 0.387,
+   "margin": 0.234,
+   "condition": "Acceptable",
+   "seller_pct": 99.9,
+   "seller_score": 62444,
+   "flags": [
+    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £124"
+   ],
+   "url": "https://www.ebay.co.uk/itm/237148918701?hash=item37372d53ad:g:iN8AAeSwD8hq4hJj",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20GameCube%20Game%20Pokemon%20Box%20Ruby%20%20%20Sapphire%20Disc%20Only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/iN8AAeSwD8hq4hJj/s-l225.jpg",
+   "listed": "2026-10-28T15:20:08.000Z",
+   "sell_costs": 20.2,
+   "market_p25": 124.23,
+   "market_n": 14,
+   "offer_price": null,
+   "platform": "gamecube",
+   "time": "2026-10-28T15:25:10+00:00"
+  },
+  {
    "id": "v1|198752289005|0",
    "title": "Square Soft Secret of Mana (Super Nintendo SNES) Game Cartridge uk",
    "label": "🔥 Secret of Mana",
@@ -374,6 +403,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-28T15:17:43+00:00",
- "pushed": "2026-10-28T15:17:43+00:00"
+ "updated": "2026-10-28T15:25:10+00:00",
+ "pushed": "2026-10-28T15:25:10+00:00"
 }
