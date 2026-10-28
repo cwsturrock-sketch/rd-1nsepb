@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|198752289005|0",
+   "title": "Square Soft Secret of Mana (Super Nintendo SNES) Game Cartridge uk",
+   "label": "🔥 Secret of Mana",
+   "verdict": "🟡 CONSIDER",
+   "cost": 24.94,
+   "value": 45,
+   "profit": 10.0,
+   "roi": 0.401,
+   "margin": 0.222,
+   "condition": "Very Good",
+   "seller_pct": 99.8,
+   "seller_score": 2938,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £50"
+   ],
+   "url": "https://www.ebay.co.uk/itm/198752289005?hash=item2e468f40ed:g:jyIAAeSwPmRq4g5m",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Square%20Soft%20Secret%20of%20Mana%20%20Super%20Nintendo%20SNES%20%20Game%20Cartridge%20uk&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/jyIAAeSwPmRq4g5m/s-l225.jpg",
+   "listed": "2026-10-28T15:02:23.000Z",
+   "sell_costs": 10.06,
+   "market_p25": 49.95,
+   "market_n": 16,
+   "offer_price": null,
+   "platform": "snes",
+   "time": "2026-10-28T15:07:06+00:00"
+  },
+  {
    "id": "v1|880059372652|0",
    "title": "Gamecube Collector Edition Cube Dvd Cheats Resident Evil 4 Pikmin 2 Call of Duty",
    "label": "🔥 Pikmin 2",
@@ -347,6 +374,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-28T15:05:05+00:00",
- "pushed": "2026-10-28T15:05:05+00:00"
+ "updated": "2026-10-28T15:07:06+00:00",
+ "pushed": "2026-10-28T15:07:06+00:00"
 }
