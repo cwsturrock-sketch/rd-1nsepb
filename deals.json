@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|880059372652|0",
+   "title": "Gamecube Collector Edition Cube Dvd Cheats Resident Evil 4 Pikmin 2 Call of Duty",
+   "label": "🔥 Pikmin 2",
+   "verdict": "🟡 CONSIDER",
+   "cost": 11.28,
+   "value": 35,
+   "profit": 14.94,
+   "roi": 1.324,
+   "margin": 0.427,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 889,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 7 current UK listings start at £41"
+   ],
+   "url": "https://www.ebay.co.uk/itm/880059372652?hash=itemcce7a0546c:g:i-AAAeSwQYFq4gtK",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Gamecube%20Collector%20Edition%20Cube%20Dvd%20Cheats%20Resident%20Evil%204%20Pikmin%202%20Call%20of%20Duty&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/i-AAAeSwQYFq4gtK/s-l225.jpg",
+   "listed": "2026-10-28T14:49:26.000Z",
+   "sell_costs": 8.78,
+   "market_p25": 40.690000000000005,
+   "market_n": 7,
+   "offer_price": 8.27,
+   "platform": "gamecube",
+   "time": "2026-10-28T14:53:07+00:00"
+  },
+  {
    "id": "v1|900046959003|0",
    "title": "Sony PlayStation 2 PS2 Fat Satin Silver SCPH-50003 Console Only Untested",
    "label": "🔥 PS2 console",
@@ -320,6 +347,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-28T14:47:07+00:00",
- "pushed": "2026-10-28T14:47:07+00:00"
+ "updated": "2026-10-28T14:53:07+00:00",
+ "pushed": "2026-10-28T14:53:07+00:00"
 }
