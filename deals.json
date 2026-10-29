@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|377606308028|0",
+   "title": "Sony PlayStation 5 Digital Edition Console White Wi‑Fi HDMI USB-A Ethernet",
+   "label": "🔥 PS5 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 131.49,
+   "value": 300,
+   "profit": 121.31,
+   "roi": 0.923,
+   "margin": 0.404,
+   "condition": "For parts or not working",
+   "seller_pct": 0.0,
+   "seller_score": 0,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 0 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 22 current UK listings start at £420"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377606308028?hash=item57eb1700bc:g:vY8AAeSw0MBq44Pb",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%205%20Digital%20Edition%20Console%20White%20Wi%20Fi%20HDMI%20USB%20A%20Ethernet&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/vY8AAeSw0MBq44Pb/s-l225.jpg",
+   "listed": "2026-10-29T17:36:30.000Z",
+   "sell_costs": 47.2,
+   "market_p25": 419.99,
+   "market_n": 22,
+   "offer_price": null,
+   "platform": "ps5",
+   "time": "2026-10-29T17:43:06+00:00"
+  },
+  {
    "id": "v1|267827411334|0",
    "title": "Nintendo Switch V1 Console 32GB, 2017, Original",
    "label": "🔥 Nintendo Switch console",
@@ -816,6 +845,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-29T17:35:06+00:00",
- "pushed": "2026-10-29T17:35:06+00:00"
+ "updated": "2026-10-29T17:43:06+00:00",
+ "pushed": "2026-10-29T17:43:06+00:00"
 }
