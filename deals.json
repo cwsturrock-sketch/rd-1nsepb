@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|900049307629|0",
+   "title": "Nintendo Switch 32gb Console",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 50.44,
+   "value": 130,
+   "profit": 54.12,
+   "roi": 1.073,
+   "margin": 0.416,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 9,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 9 reviews)",
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £140"
+   ],
+   "url": "https://www.ebay.co.uk/itm/900049307629?hash=itemd18f1e87ed:g:LKwAAeSwEfNq432U",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%2032gb%20Console&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/LKwAAeSwEfNq432U/s-l225.jpg",
+   "listed": "2026-10-29T17:13:31.000Z",
+   "sell_costs": 25.44,
+   "market_p25": 139.99,
+   "market_n": 15,
+   "offer_price": 40.38,
+   "platform": "switch",
+   "time": "2026-10-29T17:17:07+00:00"
+  },
+  {
    "id": "v1|227588713982|0",
    "title": "SEGA Dreamcast Console HKT-3030 White PAL Region Sega Dreamcast AV Out",
    "label": "🔥 Dreamcast console",
@@ -761,6 +789,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-29T17:07:04+00:00",
- "pushed": "2026-10-29T17:07:04+00:00"
+ "updated": "2026-10-29T17:17:07+00:00",
+ "pushed": "2026-10-29T17:17:07+00:00"
 }
