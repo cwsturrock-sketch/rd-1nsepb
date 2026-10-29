@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|840071281027|0",
+   "title": "Sony PlayStation 1 Grey PAL Console SCPH-7502 Disc Untested, Been In Storage.",
+   "label": "🔥 PS1 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 18.99,
+   "value": 40,
+   "profit": 7.09,
+   "roi": 0.373,
+   "margin": 0.177,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 63,
+   "flags": [
+    "⚠️ Untested",
+    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £42"
+   ],
+   "url": "https://www.ebay.co.uk/itm/840071281027?hash=itemc398267983:g:sVcAAeSwXDhq4zn1",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%201%20Grey%20PAL%20Console%20SCPH%207502%20Disc%20Untested%20%20Been%20In%20Storage%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/sVcAAeSwXDhq4zn1/s-l225.jpg",
+   "listed": "2026-10-29T12:21:04.000Z",
+   "sell_costs": 13.92,
+   "market_p25": 42.29,
+   "market_n": 16,
+   "offer_price": 13.27,
+   "platform": "ps1",
+   "time": "2026-10-29T12:25:06+00:00"
+  },
+  {
    "id": "v1|117492651071|0",
    "title": "Sega Mega Drive Ultimate Portable Game Player 80 Games Boxed Retro READ LISTING",
    "label": "📦 80-game bundle at £0.51/game",
@@ -649,6 +677,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-29T12:13:05+00:00",
- "pushed": "2026-10-29T12:13:05+00:00"
+ "updated": "2026-10-29T12:25:06+00:00",
+ "pushed": "2026-10-29T12:25:06+00:00"
 }
