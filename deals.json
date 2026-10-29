@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|117492651071|0",
+   "title": "Sega Mega Drive Ultimate Portable Game Player 80 Games Boxed Retro READ LISTING",
+   "label": "📦 80-game bundle at £0.51/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 40.48,
+   "value": 480,
+   "profit": 307.68,
+   "roi": 7.601,
+   "margin": 0.641,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 131,
+   "flags": [
+    "⚠️ Bundle value is a guess (80 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/117492651071?hash=item1b5b1b943f:g:In4AAeSw~O9q4zeD",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sega%20Mega%20Drive%20Ultimate%20Portable%20Game%20Player%2080%20Games%20Boxed%20Retro%20READ%20LISTING&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/In4AAeSw~O9q4zeD/s-l225.jpg",
+   "listed": "2026-10-29T12:09:49.000Z",
+   "sell_costs": 131.84,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 31.54,
+   "platform": "megadrive",
+   "time": "2026-10-29T12:13:05+00:00"
+  },
+  {
    "id": "v1|267827103558|0",
    "title": "Nintendo Switch Lite Blue Handheld System 32GB 720p Wi-Fi USB-C HDH-001",
    "label": "🔥 Nintendo Switch Lite",
@@ -622,6 +649,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-29T12:03:04+00:00",
- "pushed": "2026-10-29T12:03:04+00:00"
+ "updated": "2026-10-29T12:13:05+00:00",
+ "pushed": "2026-10-29T12:13:05+00:00"
 }
