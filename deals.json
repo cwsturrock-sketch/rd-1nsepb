@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|336869254023|0",
+   "title": "Nintendo Switch HAC-001 Console Tablet w/ Red Joy-Con 32GB 720p USB-C Wi-Fi",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟢 BUY",
+   "cost": 35.36,
+   "value": 130,
+   "profit": 69.2,
+   "roi": 1.957,
+   "margin": 0.532,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 33,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £140"
+   ],
+   "url": "https://www.ebay.co.uk/itm/336869254023?hash=item4e6ef8e387:g:27IAAeSwMONq44mt",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20HAC%20001%20Console%20Tablet%20w%20%20Red%20Joy%20Con%2032GB%20720p%20USB%20C%20Wi%20Fi&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/27IAAeSwMONq44mt/s-l225.jpg",
+   "listed": "2026-10-29T18:00:49.000Z",
+   "sell_costs": 25.44,
+   "market_p25": 139.99,
+   "market_n": 15,
+   "offer_price": 27.56,
+   "platform": "switch",
+   "time": "2026-10-29T18:05:05+00:00"
+  },
+  {
    "id": "v1|377606308028|0",
    "title": "Sony PlayStation 5 Digital Edition Console White Wi‑Fi HDMI USB-A Ethernet",
    "label": "🔥 PS5 console",
@@ -845,6 +872,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-29T17:56:14+00:00",
- "pushed": "2026-10-29T17:56:14+00:00"
+ "updated": "2026-10-29T18:05:05+00:00",
+ "pushed": "2026-10-29T18:05:05+00:00"
 }
