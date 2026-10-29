@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|800594812290|0",
+   "title": "Rule Of Rose Ps2 PlayStation 2 Boxed Complete Itallian Version",
+   "label": "Rule of Rose",
+   "verdict": "🟡 CONSIDER",
+   "cost": 160.62,
+   "value": 280.0,
+   "profit": 79.24,
+   "roi": 0.493,
+   "margin": 0.283,
+   "condition": "Good",
+   "seller_pct": 95.8,
+   "seller_score": 476,
+   "flags": [
+    "⚠️ Seller trust low (95.8% · 476 reviews)",
+    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £280"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800594812290?_skw=Rule+of+Rose&hash=itemba672b5d82:g:yKAAAeSw6rdqQsrf",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Rule%20Of%20Rose%20Ps2%20PlayStation%202%20Boxed%20Complete%20Itallian%20Version&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/yKAAAeSw6rdqQsrf/s-l225.jpg",
+   "listed": "2026-09-01T07:14:23.000Z",
+   "sell_costs": 40.14,
+   "market_p25": 280.0,
+   "market_n": 13,
+   "offer_price": null,
+   "platform": "ps2",
+   "source": "sweep",
+   "time": "2026-10-29T13:53:53+00:00"
+  },
+  {
    "id": "v1|198754556229|0",
    "title": "Nintendo Switch Console only with Joycons Read Description ",
    "label": "🔥 Nintendo Switch console",
@@ -705,6 +734,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-29T13:45:04+00:00",
- "pushed": "2026-10-29T13:45:04+00:00"
+ "updated": "2026-10-29T13:53:53+00:00",
+ "pushed": "2026-10-29T13:53:53+00:00"
 }
