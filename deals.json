@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|147658536590|0",
+   "title": "Nintendo Switch V2 Console and Joycons only",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟢 BUY",
+   "cost": 63.37,
+   "value": 130,
+   "profit": 41.19,
+   "roi": 0.65,
+   "margin": 0.317,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 1080,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 17 current UK listings start at £130"
+   ],
+   "url": "https://www.ebay.co.uk/itm/147658536590?hash=item226122768e:g:BxoAAeSw2l9q5Q2z",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20V2%20Console%20and%20Joycons%20only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/BxoAAeSw2l9q5Q2z/s-l225.jpg",
+   "listed": "2026-10-30T21:37:00.000Z",
+   "sell_costs": 25.44,
+   "market_p25": 130.4,
+   "market_n": 17,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-10-30T21:41:05+00:00"
+  },
+  {
    "id": "v1|257825720216|0",
    "title": "Sony PlayStation 5 PS5 Home Console 825GB CFI-1116A *Read Description*",
    "label": "🔥 PS5 console",
@@ -1011,6 +1039,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-30T21:37:05+00:00",
- "pushed": "2026-10-30T21:37:05+00:00"
+ "updated": "2026-10-30T21:41:05+00:00",
+ "pushed": "2026-10-30T21:41:05+00:00"
 }
