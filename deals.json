@@ -1,6 +1,62 @@
 {
  "deals": [
   {
+   "id": "v1|366771813127|0",
+   "title": "Nintendo Switch Console Handheld System with Neon Red/Neon Blue Joy-Con",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟢 BUY",
+   "cost": 35.28,
+   "value": 130,
+   "profit": 69.28,
+   "roi": 1.964,
+   "margin": 0.533,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 104,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 17 current UK listings start at £130"
+   ],
+   "url": "https://www.ebay.co.uk/itm/366771813127?hash=item55654dbb07:g:lKoAAeSw0z9q5Mnw",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Console%20Handheld%20System%20with%20Neon%20Red%20Neon%20Blue%20Joy%20Con&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/lKoAAeSw0z9q5Mnw/s-l225.jpg",
+   "listed": "2026-10-30T16:48:39.000Z",
+   "sell_costs": 25.44,
+   "market_p25": 130.4,
+   "market_n": 17,
+   "offer_price": 27.11,
+   "platform": "switch",
+   "time": "2026-10-30T16:53:08+00:00"
+  },
+  {
+   "id": "v1|960133552543|0",
+   "title": "Nintendo 3DS White Handheld Console, Wi‑Fi, 2GB, Region Free (CTR-001)",
+   "label": "🔥 Nintendo 3DS console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 36.92,
+   "value": 70,
+   "profit": 15.32,
+   "roi": 0.415,
+   "margin": 0.219,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 9,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 9 reviews)",
+    "ℹ️ Market check: cheapest quarter of 7 current UK listings start at £79"
+   ],
+   "url": "https://www.ebay.co.uk/itm/960133552543?hash=itemdf8c6b599f:g:VkgAAeSwc8Nq5MmV",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%203DS%20White%20Handheld%20Console%20%20Wi%20Fi%20%202GB%20%20Region%20Free%20%20CTR%20001%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/VkgAAeSwc8Nq5MmV/s-l225.jpg",
+   "listed": "2026-10-30T16:47:39.000Z",
+   "sell_costs": 17.76,
+   "market_p25": 78.83999999999999,
+   "market_n": 7,
+   "offer_price": 28.88,
+   "platform": "3ds",
+   "time": "2026-10-30T16:53:08+00:00"
+  },
+  {
    "id": "v1|128164331857|0",
    "title": "Radiant Historia for Nintendo DS US Import Game",
    "label": "Radiant Historia (DS)",
@@ -928,6 +984,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-30T16:43:08+00:00",
- "pushed": "2026-10-30T16:43:08+00:00"
+ "updated": "2026-10-30T16:53:08+00:00",
+ "pushed": "2026-10-30T16:53:08+00:00"
 }
