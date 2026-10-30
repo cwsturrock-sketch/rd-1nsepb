@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|257825720216|0",
+   "title": "Sony PlayStation 5 PS5 Home Console 825GB CFI-1116A *Read Description*",
+   "label": "🔥 PS5 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 161.76,
+   "value": 300,
+   "profit": 91.04,
+   "roi": 0.563,
+   "margin": 0.303,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 217,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 20 current UK listings start at £447"
+   ],
+   "url": "https://www.ebay.co.uk/itm/257825720216?hash=item3c079c4798:g:b~IAAeSwRb5q5MxV",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%205%20PS5%20Home%20Console%20825GB%20CFI%201116A%20%20Read%20Description%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/b~IAAeSwRb5q5MxV/s-l225.jpg",
+   "listed": "2026-10-30T18:16:12.000Z",
+   "sell_costs": 47.2,
+   "market_p25": 446.86,
+   "market_n": 20,
+   "offer_price": 131.75,
+   "platform": "ps5",
+   "time": "2026-10-30T18:21:06+00:00"
+  },
+  {
    "id": "v1|366771813127|0",
    "title": "Nintendo Switch Console Handheld System with Neon Red/Neon Blue Joy-Con",
    "label": "🔥 Nintendo Switch console",
@@ -984,6 +1011,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-30T18:19:05+00:00",
- "pushed": "2026-10-30T18:19:05+00:00"
+ "updated": "2026-10-30T18:21:06+00:00",
+ "pushed": "2026-10-30T18:21:06+00:00"
 }
