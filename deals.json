@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|377610783631|0",
+   "title": "DOOM RESURRECTION  -  32X - PAL  - PLAYABLE WITH 32X - AWESOME &  FULLY TESTED",
+   "label": "📦 32-game bundle at £0.87/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 27.71,
+   "value": 128,
+   "profit": 37.51,
+   "roi": 1.354,
+   "margin": 0.293,
+   "condition": "New",
+   "seller_pct": 99.1,
+   "seller_score": 585,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377610783631?hash=item57eb5b4b8f:g:BowAAeSwsI5qIFNL",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=DOOM%20RESURRECTION%20%20%20%20%2032X%20%20%20PAL%20%20%20%20PLAYABLE%20WITH%2032X%20%20%20AWESOME%20%20%20%20FULLY%20TESTED&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/BowAAeSwsI5qIFNL/s-l225.jpg",
+   "listed": "2026-10-31T15:59:21.000Z",
+   "sell_costs": 62.78,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-10-31T16:03:05+00:00"
+  },
+  {
    "id": "v1|377610782345|0",
    "title": "WATER MARGIN A TALE OF CLOUDS & WIND  - PAL - FULL GAME ON 32X PCB - BOXED NEW",
    "label": "📦 32-game bundle at £0.89/game",
@@ -1121,6 +1148,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-31T16:01:06+00:00",
- "pushed": "2026-10-31T16:01:06+00:00"
+ "updated": "2026-10-31T16:03:05+00:00",
+ "pushed": "2026-10-31T16:03:05+00:00"
 }
