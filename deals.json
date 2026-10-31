@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|336872253289|0",
+   "title": "Super Nintendo Entertainment System Console Only, #CON031, UNTESTED",
+   "label": "🔥 NES console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 26.37,
+   "value": 70,
+   "profit": 25.87,
+   "roi": 0.981,
+   "margin": 0.37,
+   "condition": "Used",
+   "seller_pct": 99.2,
+   "seller_score": 511,
+   "flags": [
+    "⚠️ Untested",
+    "ℹ️ Too few current listings to check the market price"
+   ],
+   "url": "https://www.ebay.co.uk/itm/336872253289?hash=item4e6f26a769:g:suMAAeSw8Glq5iAS",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Super%20Nintendo%20Entertainment%20System%20Console%20Only%20%20%20CON031%20%20UNTESTED&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/suMAAeSw8Glq5iAS/s-l225.jpg",
+   "listed": "2026-10-31T17:11:25.000Z",
+   "sell_costs": 17.76,
+   "market_p25": null,
+   "market_n": 3,
+   "offer_price": null,
+   "platform": "snes",
+   "time": "2026-10-31T17:15:05+00:00"
+  },
+  {
    "id": "v1|377610786989|0",
    "title": "TEMPO RETAIL GAME WITH IPS PAL PATCH APPLIED  - WILL PLAY ON UK PAL 32X - BOXED",
    "label": "📦 32-game bundle at £0.87/game",
@@ -1202,6 +1230,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-31T17:11:04+00:00",
- "pushed": "2026-10-31T17:11:04+00:00"
+ "updated": "2026-10-31T17:15:05+00:00",
+ "pushed": "2026-10-31T17:15:05+00:00"
 }
