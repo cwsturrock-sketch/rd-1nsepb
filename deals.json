@@ -1,6 +1,61 @@
 {
  "deals": [
   {
+   "id": "v1|920091182925|0",
+   "title": "Activision Monkey Mischief! 20 Games PAL (Nintendo Wii) PEGI 3 Multiplayer",
+   "label": "📦 20-game bundle at £0.46/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 9.22,
+   "value": 80,
+   "profit": 20.14,
+   "roi": 2.184,
+   "margin": 0.252,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 66,
+   "flags": [
+    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/920091182925?hash=itemd639b5474d:g:m3oAAeSwx5Jq5gvq",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Activision%20Monkey%20Mischief%20%2020%20Games%20PAL%20%20Nintendo%20Wii%20%20PEGI%203%20Multiplayer&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/m3oAAeSwx5Jq5gvq/s-l225.jpg",
+   "listed": "2026-10-31T15:40:56.000Z",
+   "sell_costs": 50.64,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "wii",
+   "time": "2026-10-31T15:49:54+00:00"
+  },
+  {
+   "id": "v1|336872123318|0",
+   "title": "Super Nintendo Entertainment System Console Only, #CON030, UNTESTED",
+   "label": "🔥 NES console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 28.37,
+   "value": 70,
+   "profit": 23.87,
+   "roi": 0.841,
+   "margin": 0.341,
+   "condition": "Used",
+   "seller_pct": 99.2,
+   "seller_score": 511,
+   "flags": [
+    "⚠️ Untested",
+    "ℹ️ Too few current listings to check the market price"
+   ],
+   "url": "https://www.ebay.co.uk/itm/336872123318?hash=item4e6f24abb6:g:3VAAAeSwUwlq5f4g",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Super%20Nintendo%20Entertainment%20System%20Console%20Only%20%20%20CON030%20%20UNTESTED&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/3VAAAeSwUwlq5f4g/s-l225.jpg",
+   "listed": "2026-10-31T14:45:20.000Z",
+   "sell_costs": 17.76,
+   "market_p25": null,
+   "market_n": 3,
+   "offer_price": null,
+   "platform": "snes",
+   "time": "2026-10-31T15:49:54+00:00"
+  },
+  {
    "id": "v1|147658536590|0",
    "title": "Nintendo Switch V2 Console and Joycons only",
    "label": "🔥 Nintendo Switch console",
@@ -1039,6 +1094,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-30T22:25:05+00:00",
- "pushed": "2026-10-30T22:25:05+00:00"
+ "updated": "2026-10-31T15:49:54+00:00",
+ "pushed": "2026-10-31T15:49:54+00:00"
 }
