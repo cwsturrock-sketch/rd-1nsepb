@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|377610782345|0",
+   "title": "WATER MARGIN A TALE OF CLOUDS & WIND  - PAL - FULL GAME ON 32X PCB - BOXED NEW",
+   "label": "📦 32-game bundle at £0.89/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 28.37,
+   "value": 128,
+   "profit": 36.85,
+   "roi": 1.299,
+   "margin": 0.288,
+   "condition": "New",
+   "seller_pct": 99.1,
+   "seller_score": 585,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377610782345?hash=item57eb5b4689:g:NH8AAeSwF9xq06FN",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=WATER%20MARGIN%20A%20TALE%20OF%20CLOUDS%20%20%20WIND%20%20%20%20PAL%20%20%20FULL%20GAME%20ON%2032X%20PCB%20%20%20BOXED%20NEW&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/NH8AAeSwF9xq06FN/s-l225.jpg",
+   "listed": "2026-10-31T15:56:19.000Z",
+   "sell_costs": 62.78,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-10-31T16:01:06+00:00"
+  },
+  {
    "id": "v1|920091182925|0",
    "title": "Activision Monkey Mischief! 20 Games PAL (Nintendo Wii) PEGI 3 Multiplayer",
    "label": "📦 20-game bundle at £0.46/game",
@@ -1094,6 +1121,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-10-31T15:49:54+00:00",
- "pushed": "2026-10-31T15:49:54+00:00"
+ "updated": "2026-10-31T16:01:06+00:00",
+ "pushed": "2026-10-31T16:01:06+00:00"
 }
