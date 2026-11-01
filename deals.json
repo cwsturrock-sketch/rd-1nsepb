@@ -1,6 +1,65 @@
 {
  "deals": [
   {
+   "id": "v1|157899595308|0",
+   "title": "Jet Set Radio - SEGA Dreamcast Game - DISC ONLY! PAL UK",
+   "label": "Jet Set Radio",
+   "verdict": "🟡 CONSIDER",
+   "cost": 12.67,
+   "value": 28.0,
+   "profit": 7.45,
+   "roi": 0.588,
+   "margin": 0.266,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 2842,
+   "flags": [
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 24 current UK listings start at £32"
+   ],
+   "url": "https://www.ebay.co.uk/itm/157899595308?_skw=Jet+Set+Radio&hash=item24c38c9e2c:g:UEoAAeSw8fBqALCy",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Jet%20Set%20Radio%20%20%20SEGA%20Dreamcast%20Game%20%20%20DISC%20ONLY%20%20PAL%20UK&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/UEoAAeSw8fBqALCy/s-l225.jpg",
+   "listed": "2026-05-10T16:22:40.000Z",
+   "sell_costs": 7.88,
+   "market_p25": 31.9,
+   "market_n": 24,
+   "offer_price": null,
+   "platform": "dreamcast",
+   "source": "sweep",
+   "time": "2026-11-01T13:07:43+00:00"
+  },
+  {
+   "id": "v1|128131822291|0",
+   "title": "SEGA Jet Set Radio Sega Dreamcast Game Disc Only MK-51058 Game Disc",
+   "label": "Jet Set Radio",
+   "verdict": "🟡 CONSIDER",
+   "cost": 12.35,
+   "value": 28.0,
+   "profit": 7.77,
+   "roi": 0.629,
+   "margin": 0.277,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 664,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 24 current UK listings start at £32"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128131822291?_skw=Jet+Set+Radio&hash=item1dd54072d3:g:xQMAAeSwB9ZqzXLO",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=SEGA%20Jet%20Set%20Radio%20Sega%20Dreamcast%20Game%20Disc%20Only%20MK%2051058%20Game%20Disc&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/xQMAAeSwB9ZqzXLO/s-l225.jpg",
+   "listed": "2026-10-12T23:53:49.000Z",
+   "sell_costs": 7.88,
+   "market_p25": 31.9,
+   "market_n": 24,
+   "offer_price": 9.18,
+   "platform": "dreamcast",
+   "source": "sweep",
+   "time": "2026-11-01T13:07:43+00:00"
+  },
+  {
    "id": "v1|407331027528|0",
    "title": "Nintendo Switch HAC-001 Black Console w/ Joy-Con, Dock, 32GB 1080p HDMI Wi-Fi",
    "label": "🔥 Nintendo Switch console",
@@ -1423,6 +1482,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-01T12:59:04+00:00",
- "pushed": "2026-11-01T12:59:04+00:00"
+ "updated": "2026-11-01T13:07:43+00:00",
+ "pushed": "2026-11-01T13:07:43+00:00"
 }
