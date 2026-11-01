@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|307260755076|0",
+   "title": "Nintendo Switch Lite Grey Handheld Gaming System Charging Port Issue",
+   "label": "🔥 Nintendo Switch Lite",
+   "verdict": "🟡 CONSIDER",
+   "cost": 42.94,
+   "value": 83.11,
+   "profit": 20.73,
+   "roi": 0.483,
+   "margin": 0.249,
+   "condition": "For parts or not working",
+   "seller_pct": 99.4,
+   "seller_score": 745,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 29 current UK listings start at £83"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307260755076?hash=item478a2b0c84:g:YSQAAeSwXtdq54yW",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Lite%20Grey%20Handheld%20Gaming%20System%20Charging%20Port%20Issue&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/YSQAAeSwXtdq54yW/s-l225.jpg",
+   "listed": "2026-11-01T19:03:29.000Z",
+   "sell_costs": 19.44,
+   "market_p25": 83.11,
+   "market_n": 29,
+   "offer_price": 34.0,
+   "platform": "switch",
+   "time": "2026-11-01T19:07:06+00:00"
+  },
+  {
    "id": "v1|920094404433|0",
    "title": "Nintendo Switch V1 HAC-001 32GB Console Only Tested Working FAST POSTAGE",
    "label": "🔥 Nintendo Switch console",
@@ -1676,6 +1703,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-01T19:03:04+00:00",
- "pushed": "2026-11-01T19:03:04+00:00"
+ "updated": "2026-11-01T19:07:06+00:00",
+ "pushed": "2026-11-01T19:07:06+00:00"
 }
