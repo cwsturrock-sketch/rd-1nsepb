@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|800862645118|0",
+   "title": "Two PlayStation 1 PS1 Consoles ONLY. Untested.",
+   "label": "🔥 PS1 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 17.45,
+   "value": 40,
+   "profit": 8.63,
+   "roi": 0.495,
+   "margin": 0.216,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 275,
+   "flags": [
+    "⚠️ Untested",
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £41"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800862645118?hash=itemba77222b7e:g:gssAAeSwFM9q5xkP",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Two%20PlayStation%201%20PS1%20Consoles%20ONLY%20%20Untested%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/gssAAeSwFM9q5xkP/s-l225.jpg",
+   "listed": "2026-11-01T10:51:08.000Z",
+   "sell_costs": 13.92,
+   "market_p25": 41.25,
+   "market_n": 14,
+   "offer_price": 9.18,
+   "platform": "ps1",
+   "time": "2026-11-01T10:55:05+00:00"
+  },
+  {
    "id": "v1|287696401133|0",
    "title": "Nintendo Switch HAC-001 Handheld Console Tablet Black 32GB 720p Wi-Fi USB-C",
    "label": "🔥 Nintendo Switch console",
@@ -1257,6 +1285,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-01T10:51:04+00:00",
- "pushed": "2026-11-01T10:51:04+00:00"
+ "updated": "2026-11-01T10:55:05+00:00",
+ "pushed": "2026-11-01T10:55:05+00:00"
 }
