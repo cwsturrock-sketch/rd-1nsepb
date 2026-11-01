@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|920094404433|0",
+   "title": "Nintendo Switch V1 HAC-001 32GB Console Only Tested Working FAST POSTAGE",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟢 BUY",
+   "cost": 52.94,
+   "value": 108.58,
+   "profit": 32.94,
+   "roi": 0.622,
+   "margin": 0.303,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 68,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 23 current UK listings start at £109"
+   ],
+   "url": "https://www.ebay.co.uk/itm/920094404433?hash=itemd639e66f51:g:V5QAAeSw6Bhq53k5",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20V1%20HAC%20001%2032GB%20Console%20Only%20Tested%20Working%20FAST%20POSTAGE&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/V5QAAeSw6Bhq53k5/s-l225.jpg",
+   "listed": "2026-11-01T17:40:00.000Z",
+   "sell_costs": 22.7,
+   "market_p25": 108.58,
+   "market_n": 23,
+   "offer_price": 42.5,
+   "platform": "switch",
+   "time": "2026-11-01T17:47:06+00:00"
+  },
+  {
    "id": "v1|960141411671|0",
    "title": "42 Games Nintendo DS Game Cartridge Only Tested Working",
    "label": "📦 42-game bundle at £0.09/game",
@@ -1649,6 +1676,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-01T17:43:05+00:00",
- "pushed": "2026-11-01T17:43:05+00:00"
+ "updated": "2026-11-01T17:47:06+00:00",
+ "pushed": "2026-11-01T17:47:06+00:00"
 }
