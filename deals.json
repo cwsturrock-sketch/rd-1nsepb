@@ -1,6 +1,60 @@
 {
  "deals": [
   {
+   "id": "v1|800862653982|0",
+   "title": "OFFERS / COMBINE - SEGA MEGA DRIVE 32x - RE-WIPEOUT / WIPEOUT",
+   "label": "📦 32-game bundle at £0.73/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 23.49,
+   "value": 192,
+   "profit": 97.53,
+   "roi": 4.152,
+   "margin": 0.508,
+   "condition": "Good",
+   "seller_pct": 99.0,
+   "seller_score": 1685,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800862653982?hash=itemba77224e1e:g:sDwAAeSwExVq5xqB",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=OFFERS%20%20%20COMBINE%20%20%20SEGA%20MEGA%20DRIVE%2032x%20%20%20RE%20WIPEOUT%20%20%20WIPEOUT&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/sDwAAeSwExVq5xqB/s-l225.jpg",
+   "listed": "2026-11-01T10:55:17.000Z",
+   "sell_costs": 70.98,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 18.27,
+   "platform": "megadrive",
+   "time": "2026-11-01T10:59:04+00:00"
+  },
+  {
+   "id": "v1|800862652874|0",
+   "title": "OFFERS / COMBINE - SEGA MEGA DRIVE 32x - RE-WIPEOUT / WIPEOUT",
+   "label": "📦 32-game bundle at £0.73/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 23.49,
+   "value": 192,
+   "profit": 97.53,
+   "roi": 4.152,
+   "margin": 0.508,
+   "condition": "Good",
+   "seller_pct": 99.0,
+   "seller_score": 1685,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800862652874?hash=itemba772249ca:g:-ywAAeSwM~Nq5xn1",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=OFFERS%20%20%20COMBINE%20%20%20SEGA%20MEGA%20DRIVE%2032x%20%20%20RE%20WIPEOUT%20%20%20WIPEOUT&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/-ywAAeSwM~Nq5xn1/s-l225.jpg",
+   "listed": "2026-11-01T10:54:23.000Z",
+   "sell_costs": 70.98,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 18.27,
+   "platform": "megadrive",
+   "time": "2026-11-01T10:59:04+00:00"
+  },
+  {
    "id": "v1|800862645118|0",
    "title": "Two PlayStation 1 PS1 Consoles ONLY. Untested.",
    "label": "🔥 PS1 console",
@@ -1285,6 +1339,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-01T10:55:05+00:00",
- "pushed": "2026-11-01T10:55:05+00:00"
+ "updated": "2026-11-01T10:59:04+00:00",
+ "pushed": "2026-11-01T10:59:04+00:00"
 }
