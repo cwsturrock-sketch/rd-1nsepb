@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|820304355759|0",
+   "title": "Nintendo Chibi-Robo! Zip Lash Nintendo 3DS Brand NEW PEGI 7",
+   "label": "🔥 Chibi-Robo",
+   "verdict": "🟡 CONSIDER",
+   "cost": 7.93,
+   "value": 35,
+   "profit": 18.29,
+   "roi": 2.306,
+   "margin": 0.523,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 4,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 4 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 6 current UK listings start at £204"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820304355759?hash=itembefdf321af:g:390AAeSwaIFq56bu",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Chibi%20Robo%20%20Zip%20Lash%20Nintendo%203DS%20Brand%20NEW%20PEGI%207&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/390AAeSwaIFq56bu/s-l225.jpg",
+   "listed": "2026-11-01T20:55:27.000Z",
+   "sell_costs": 8.78,
+   "market_p25": 204.13,
+   "market_n": 6,
+   "offer_price": 4.24,
+   "platform": "3ds",
+   "time": "2026-11-01T20:59:06+00:00"
+  },
+  {
    "id": "v1|307260755076|0",
    "title": "Nintendo Switch Lite Grey Handheld Gaming System Charging Port Issue",
    "label": "🔥 Nintendo Switch Lite",
@@ -1703,6 +1732,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-01T20:57:04+00:00",
- "pushed": "2026-11-01T20:57:04+00:00"
+ "updated": "2026-11-01T20:59:06+00:00",
+ "pushed": "2026-11-01T20:59:06+00:00"
 }
