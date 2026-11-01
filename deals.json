@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|257115764580|0",
+   "title": "RULE OF ROSE PS2 SEALED ENGLISH !!!- SONY PAL PLAYSTATION 2 - GRAIL UK VERSION",
+   "label": "Rule of Rose",
+   "verdict": "🟡 CONSIDER",
+   "cost": 169.99,
+   "value": 280.0,
+   "profit": 69.87,
+   "roi": 0.411,
+   "margin": 0.25,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 3553,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £280"
+   ],
+   "url": "https://www.ebay.co.uk/itm/257115764580?_skw=Rule+of+Rose&hash=item3bdd4b3764:g:cvEAAOSw8f5n1o-J",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=RULE%20OF%20ROSE%20PS2%20SEALED%20ENGLISH%20%20%20%20%20%20SONY%20PAL%20PLAYSTATION%202%20%20%20GRAIL%20UK%20VERSION&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/cvEAAOSw8f5n1o-J/s-l225.jpg",
+   "listed": "2025-09-20T11:38:20.000Z",
+   "sell_costs": 40.14,
+   "market_p25": 280.0,
+   "market_n": 16,
+   "offer_price": null,
+   "platform": "ps2",
+   "source": "sweep",
+   "time": "2026-11-01T21:10:03+00:00"
+  },
+  {
    "id": "v1|820304355759|0",
    "title": "Nintendo Chibi-Robo! Zip Lash Nintendo 3DS Brand NEW PEGI 7",
    "label": "🔥 Chibi-Robo",
@@ -1732,6 +1760,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-01T20:59:06+00:00",
- "pushed": "2026-11-01T20:59:06+00:00"
+ "updated": "2026-11-01T21:10:03+00:00",
+ "pushed": "2026-11-01T21:10:03+00:00"
 }
