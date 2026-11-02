@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|840085168329|0",
+   "title": "Rule of Rose PlayStation 2 PAL UK Version Sealed Brand New",
+   "label": "🔥 Rule of Rose",
+   "verdict": "🟡 CONSIDER",
+   "cost": 164.6,
+   "value": 280.0,
+   "profit": 75.26,
+   "roi": 0.457,
+   "margin": 0.269,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 200,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £280"
+   ],
+   "url": "https://www.ebay.co.uk/itm/840085168329?hash=itemc398fa60c9:g:ozUAAeSwFadq6K0i",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Rule%20of%20Rose%20PlayStation%202%20PAL%20UK%20Version%20Sealed%20Brand%20New&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/ozUAAeSwFadq6K0i/s-l225.jpg",
+   "listed": "2026-11-02T15:48:59.000Z",
+   "sell_costs": 40.14,
+   "market_p25": 280.0,
+   "market_n": 16,
+   "offer_price": 134.22,
+   "platform": "ps2",
+   "time": "2026-11-02T15:56:17+00:00"
+  },
+  {
    "id": "v1|900059317368|0",
    "title": "SingStar ABBA PS2 Karaoke 2008 Game 100% Complete SUPERB x20 Tracks Free P&P",
    "label": "📦 20-game bundle at £0.20/game",
@@ -2012,6 +2039,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T15:47:04+00:00",
- "pushed": "2026-11-02T15:47:04+00:00"
+ "updated": "2026-11-02T15:56:17+00:00",
+ "pushed": "2026-11-02T15:56:17+00:00"
 }
