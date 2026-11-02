@@ -1,6 +1,62 @@
 {
  "deals": [
   {
+   "id": "v1|800867184518|0",
+   "title": "Sony PlayStation 2 PS2 Home Console PAL Black SCPH-39003, Untested. Console Only",
+   "label": "🔥 PS2 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 17.45,
+   "value": 39.99,
+   "profit": 8.62,
+   "roi": 0.494,
+   "margin": 0.216,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 276,
+   "flags": [
+    "⚠️ Untested",
+    "ℹ️ Market check: cheapest quarter of 9 current UK listings start at £40"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800867184518?hash=itemba77676f86:g:2e0AAeSwSxlq6JGr",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%202%20PS2%20Home%20Console%20PAL%20Black%20SCPH%2039003%20%20Untested%20%20Console%20Only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/2e0AAeSwSxlq6JGr/s-l225.jpg",
+   "listed": "2026-11-02T13:37:02.000Z",
+   "sell_costs": 13.92,
+   "market_p25": 39.99,
+   "market_n": 9,
+   "offer_price": 9.18,
+   "platform": "ps2",
+   "time": "2026-11-02T13:41:06+00:00"
+  },
+  {
+   "id": "v1|800867184197|0",
+   "title": "Nintendo Switch HAC-001 Console Neon Green/Neon Pink Joy-Con Dock 32GB",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 73.5,
+   "value": 129.95,
+   "profit": 31.02,
+   "roi": 0.422,
+   "margin": 0.239,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 15,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 15 reviews)",
+    "ℹ️ Market check: cheapest quarter of 20 current UK listings start at £130"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800867184197?hash=itemba77676e45:g:LyMAAeSws0tq6JFU",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20HAC%20001%20Console%20Neon%20Green%20Neon%20Pink%20Joy%20Con%20Dock%2032GB&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/LyMAAeSws0tq6JFU/s-l225.jpg",
+   "listed": "2026-11-02T13:36:54.000Z",
+   "sell_costs": 25.43,
+   "market_p25": 129.95,
+   "market_n": 20,
+   "offer_price": 62.48,
+   "platform": "switch",
+   "time": "2026-11-02T13:41:06+00:00"
+  },
+  {
    "id": "v1|900059063731|0",
    "title": "Sony PlayStation 4 Slim 500GB Home Console - Jet Black",
    "label": "🔥 PS4 console",
@@ -1901,6 +1957,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T13:39:04+00:00",
- "pushed": "2026-11-02T13:39:04+00:00"
+ "updated": "2026-11-02T13:41:06+00:00",
+ "pushed": "2026-11-02T13:41:06+00:00"
 }
