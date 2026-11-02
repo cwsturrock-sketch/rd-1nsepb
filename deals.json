@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|920098235559|0",
+   "title": "58 Xbox 360 Game Bundle- No Duplicates  - Assassins Creed Halo Call Of Duty Lego",
+   "label": "📦 58-game bundle at £0.95/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 54.95,
+   "value": 232,
+   "profit": 87.95,
+   "roi": 1.601,
+   "margin": 0.379,
+   "condition": "Good",
+   "seller_pct": 99.5,
+   "seller_score": 6704,
+   "flags": [
+    "⚠️ Bundle value is a guess (58 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/920098235559?hash=itemd63a20e4a7:g:yzAAAeSwvnlq6QMY",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=58%20Xbox%20360%20Game%20Bundle%20%20No%20Duplicates%20%20%20%20Assassins%20Creed%20Halo%20Call%20Of%20Duty%20Lego&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/yzAAAeSwvnlq6QMY/s-l225.jpg",
+   "listed": "2026-11-02T21:40:02.000Z",
+   "sell_costs": 89.1,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "xbox",
+   "time": "2026-11-02T21:43:04+00:00"
+  },
+  {
    "id": "v1|900059985294|0",
    "title": "Game Card Silver Gold Crystal Version For Pokemon GBC Game Bundle",
    "label": "📦 Bundle incl. Pokemon Crystal",
@@ -2965,6 +2992,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T21:35:04+00:00",
- "pushed": "2026-11-02T21:35:04+00:00"
+ "updated": "2026-11-02T21:43:04+00:00",
+ "pushed": "2026-11-02T21:43:04+00:00"
 }
