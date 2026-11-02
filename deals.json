@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|198766460933|0",
+   "title": "Road To Wrestle Mania x8 for Nintendo Game Boy Advance (GBA)",
+   "label": "📦 8-game bundle at £1.00/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 7.99,
+   "value": 64,
+   "profit": 13.42,
+   "roi": 1.679,
+   "margin": 0.21,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 9124,
+   "flags": [
+    "⚠️ Bundle value is a guess (8 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/198766460933?hash=item2e47678005:g:1hcAAeSw1rBq6Qc~",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Road%20To%20Wrestle%20Mania%20x8%20for%20Nintendo%20Game%20Boy%20Advance%20%20GBA%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/1hcAAeSw1rBq6Qc~/s-l225.jpg",
+   "listed": "2026-11-02T21:59:17.000Z",
+   "sell_costs": 42.59,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "gameboy",
+   "time": "2026-11-02T22:03:04+00:00"
+  },
+  {
    "id": "v1|920098235559|0",
    "title": "58 Xbox 360 Game Bundle- No Duplicates  - Assassins Creed Halo Call Of Duty Lego",
    "label": "📦 58-game bundle at £0.95/game",
@@ -2992,6 +3019,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T21:53:04+00:00",
- "pushed": "2026-11-02T21:53:04+00:00"
+ "updated": "2026-11-02T22:03:04+00:00",
+ "pushed": "2026-11-02T22:03:04+00:00"
 }
