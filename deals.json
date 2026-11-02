@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|168833315797|0",
+   "title": "Sony PlayStation 4 PS4 500GB Console Black CUH-1001A Wi-Fi Region Free",
+   "label": "🔥 PS4 console",
+   "verdict": "🟢 BUY",
+   "cost": 34.51,
+   "value": 74.95,
+   "profit": 22.05,
+   "roi": 0.639,
+   "margin": 0.294,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 133,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 19 current UK listings start at £75"
+   ],
+   "url": "https://www.ebay.co.uk/itm/168833315797?hash=item274f3ff3d5:g:oRUAAeSwXhxq6PN3",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20500GB%20Console%20Black%20CUH%201001A%20Wi%20Fi%20Region%20Free&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/oRUAAeSwXhxq6PN3/s-l225.jpg",
+   "listed": "2026-11-02T20:35:02.000Z",
+   "sell_costs": 18.39,
+   "market_p25": 74.95,
+   "market_n": 19,
+   "offer_price": 24.91,
+   "platform": "ps4",
+   "time": "2026-11-02T20:39:07+00:00"
+  },
+  {
    "id": "v1|820308091787|0",
    "title": "Retro Games The Spectrum Personal Computer, 48 Games Included, HDMI USB-C",
    "label": "📦 48-game bundle at £1.38/game",
@@ -2909,6 +2936,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T20:33:05+00:00",
- "pushed": "2026-11-02T20:33:05+00:00"
+ "updated": "2026-11-02T20:39:07+00:00",
+ "pushed": "2026-11-02T20:39:07+00:00"
 }
