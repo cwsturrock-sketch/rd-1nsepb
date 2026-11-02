@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|800867893645|0",
+   "title": "FIFA 15, 16, 17, 18, 19, 20 PS4 Game Bundle",
+   "label": "📦 20-game bundle at £1.00/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 19.95,
+   "value": 80,
+   "profit": 9.41,
+   "roi": 0.472,
+   "margin": 0.118,
+   "condition": "Good",
+   "seller_pct": 99.7,
+   "seller_score": 1516,
+   "flags": [
+    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800867893645?hash=itemba7772418d:g:oS8AAeSwNoxq6KgD",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=FIFA%2015%20%2016%20%2017%20%2018%20%2019%20%2020%20PS4%20Game%20Bundle&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/oS8AAeSwNoxq6KgD/s-l225.jpg",
+   "listed": "2026-11-02T18:02:15.000Z",
+   "sell_costs": 50.64,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 16.96,
+   "platform": "ps4",
+   "time": "2026-11-02T18:05:06+00:00"
+  },
+  {
    "id": "v1|198765908426|0",
    "title": "Sony PlayStation 4 PS4 500gb Home Console Only working but rough",
    "label": "🔥 PS4 console",
@@ -2153,6 +2180,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T17:59:05+00:00",
- "pushed": "2026-11-02T17:59:05+00:00"
+ "updated": "2026-11-02T18:05:06+00:00",
+ "pushed": "2026-11-02T18:05:06+00:00"
 }
