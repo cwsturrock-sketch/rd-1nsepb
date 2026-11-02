@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|800868687029|0",
+   "title": "Vampyr Microsoft Xbox One PAL PEGI 18 X Enhanced",
+   "label": "📦 18-game bundle at £0.75/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 13.5,
+   "value": 72,
+   "profit": 9.88,
+   "roi": 0.732,
+   "margin": 0.137,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 6,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 6 reviews)",
+    "⚠️ Bundle value is a guess (18 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800868687029?hash=itemba777e5cb5:g:GI0AAeSwzqNq6Qls",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Vampyr%20Microsoft%20Xbox%20One%20PAL%20PEGI%2018%20X%20Enhanced&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/GI0AAeSwzqNq6Qls/s-l225.jpg",
+   "listed": "2026-11-02T22:09:23.000Z",
+   "sell_costs": 48.62,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 9.18,
+   "platform": "xbox",
+   "time": "2026-11-02T22:13:05+00:00"
+  },
+  {
    "id": "v1|198766460933|0",
    "title": "Road To Wrestle Mania x8 for Nintendo Game Boy Advance (GBA)",
    "label": "📦 8-game bundle at £1.00/game",
@@ -3019,6 +3047,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T22:03:04+00:00",
- "pushed": "2026-11-02T22:03:04+00:00"
+ "updated": "2026-11-02T22:13:05+00:00",
+ "pushed": "2026-11-02T22:13:05+00:00"
 }
