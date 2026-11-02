@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|128170087558|0",
+   "title": "Neo: The World Ends With You - 8",
+   "label": "🔥 The World Ends With You",
+   "verdict": "🟡 CONSIDER",
+   "cost": 9.99,
+   "value": 25,
+   "profit": 7.51,
+   "roi": 0.752,
+   "margin": 0.3,
+   "condition": "Good",
+   "seller_pct": 99.3,
+   "seller_score": 6117,
+   "flags": [
+    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 12 current UK listings start at £45"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128170087558?hash=item1dd7885486:g:pQEAAeSwGqJq6Flr",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Neo%20%20The%20World%20Ends%20With%20You%20%20%208&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/pQEAAeSwGqJq6Flr/s-l225.jpg",
+   "listed": "2026-11-02T09:34:35.000Z",
+   "sell_costs": 7.5,
+   "market_p25": 44.99,
+   "market_n": 12,
+   "offer_price": null,
+   "platform": "ds",
+   "time": "2026-11-02T09:39:05+00:00"
+  },
+  {
    "id": "v1|257115764580|0",
    "title": "RULE OF ROSE PS2 SEALED ENGLISH !!!- SONY PAL PLAYSTATION 2 - GRAIL UK VERSION",
    "label": "Rule of Rose",
@@ -1760,6 +1789,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T09:27:06+00:00",
- "pushed": "2026-11-02T09:27:06+00:00"
+ "updated": "2026-11-02T09:39:05+00:00",
+ "pushed": "2026-11-02T09:39:05+00:00"
 }
