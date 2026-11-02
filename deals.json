@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|198765908426|0",
+   "title": "Sony PlayStation 4 PS4 500gb Home Console Only working but rough",
+   "label": "🔥 PS4 console",
+   "verdict": "🟢 BUY",
+   "cost": 26.65,
+   "value": 77.99,
+   "profit": 32.56,
+   "roi": 1.222,
+   "margin": 0.417,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 170,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 17 current UK listings start at £78"
+   ],
+   "url": "https://www.ebay.co.uk/itm/198765908426?hash=item2e475f11ca:g:NI8AAeSwZxpq6Mgn",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20500gb%20Home%20Console%20Only%20working%20but%20rough&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/NI8AAeSwZxpq6Mgn/s-l225.jpg",
+   "listed": "2026-11-02T17:32:35.000Z",
+   "sell_costs": 18.78,
+   "market_p25": 77.99,
+   "market_n": 17,
+   "offer_price": 17.0,
+   "platform": "ps4",
+   "time": "2026-11-02T17:37:08+00:00"
+  },
+  {
    "id": "v1|128170838959|0",
    "title": "Pokemon Go 100X Eternatus Returns Exclusive Services Pre Order",
    "label": "📦 100-game bundle at £1.08/game",
@@ -2125,6 +2153,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T17:29:06+00:00",
- "pushed": "2026-11-02T17:29:06+00:00"
+ "updated": "2026-11-02T17:37:08+00:00",
+ "pushed": "2026-11-02T17:37:08+00:00"
 }
