@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|128170838959|0",
+   "title": "Pokemon Go 100X Eternatus Returns Exclusive Services Pre Order",
+   "label": "📦 100-game bundle at £1.08/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 107.83,
+   "value": 400,
+   "profit": 160.57,
+   "roi": 1.489,
+   "margin": 0.401,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 603,
+   "flags": [
+    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128170838959?hash=item1dd793cbaf:g:rioAAeSwAXNq6MTE",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20100X%20Eternatus%20Returns%20Exclusive%20Services%20Pre%20Order&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/rioAAeSwAXNq6MTE/s-l225.jpg",
+   "listed": "2026-11-02T17:14:23.000Z",
+   "sell_costs": 131.6,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 89.0,
+   "platform": "default",
+   "time": "2026-11-02T17:19:05+00:00"
+  },
+  {
    "id": "v1|267831166037|0",
    "title": "Konami Silent Hill Sony PlayStation 1 PS1 Game PAL Survival Horror Complete",
    "label": "🔥 Silent Hill (PS1)",
@@ -2098,6 +2125,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T17:13:07+00:00",
- "pushed": "2026-11-02T17:13:07+00:00"
+ "updated": "2026-11-02T17:19:05+00:00",
+ "pushed": "2026-11-02T17:19:05+00:00"
 }
