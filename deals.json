@@ -1,6 +1,38 @@
 {
  "deals": [
   {
+   "id": "v1|860106331023|0",
+   "title": "Nintendo The Legend of Zelda: The Minish Cap Game Boy Advance GBA AGB-BZMP-EUR",
+   "label": "🔥 Zelda Minish Cap",
+   "verdict": "🟡 CONSIDER",
+   "cost": 12.29,
+   "value": 50,
+   "profit": 27.01,
+   "roi": 2.198,
+   "margin": 0.54,
+   "condition": "Very Good",
+   "seller_pct": 0.0,
+   "seller_score": 5,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 5 reviews)",
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Price is far below market: treat as a likely reproduction unless photos prove otherwise",
+    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 26 current UK listings start at £51"
+   ],
+   "url": "https://www.ebay.co.uk/itm/860106331023?hash=itemc84255138f:g:yCsAAeSwwB5q6LRR",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20The%20Legend%20of%20Zelda%20%20The%20Minish%20Cap%20Game%20Boy%20Advance%20GBA%20AGB%20BZMP%20EUR&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/yCsAAeSwwB5q6LRR/s-l225.jpg",
+   "listed": "2026-11-02T16:05:07.000Z",
+   "sell_costs": 10.7,
+   "market_p25": 50.61,
+   "market_n": 26,
+   "offer_price": 9.13,
+   "platform": "gameboy",
+   "time": "2026-11-02T16:09:06+00:00"
+  },
+  {
    "id": "v1|840085168329|0",
    "title": "Rule of Rose PlayStation 2 PAL UK Version Sealed Brand New",
    "label": "🔥 Rule of Rose",
@@ -2039,6 +2071,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T16:07:04+00:00",
- "pushed": "2026-11-02T16:07:04+00:00"
+ "updated": "2026-11-02T16:09:06+00:00",
+ "pushed": "2026-11-02T16:09:06+00:00"
 }
