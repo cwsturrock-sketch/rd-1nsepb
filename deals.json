@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|267831166037|0",
+   "title": "Konami Silent Hill Sony PlayStation 1 PS1 Game PAL Survival Horror Complete",
+   "label": "🔥 Silent Hill (PS1)",
+   "verdict": "🟡 CONSIDER",
+   "cost": 26.45,
+   "value": 50,
+   "profit": 12.85,
+   "roi": 0.486,
+   "margin": 0.257,
+   "condition": "Acceptable",
+   "seller_pct": 99.3,
+   "seller_score": 4478,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 19 current UK listings start at £114"
+   ],
+   "url": "https://www.ebay.co.uk/itm/267831166037?hash=item3e5bfb4455:g:7k4AAeSwR95q6Lct",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Konami%20Silent%20Hill%20Sony%20PlayStation%201%20PS1%20Game%20PAL%20Survival%20Horror%20Complete&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/7k4AAeSwR95q6Lct/s-l225.jpg",
+   "listed": "2026-11-02T16:18:08.000Z",
+   "sell_costs": 10.7,
+   "market_p25": 114.18,
+   "market_n": 19,
+   "offer_price": 18.7,
+   "platform": "ps1",
+   "time": "2026-11-02T16:19:08+00:00"
+  },
+  {
    "id": "v1|860106331023|0",
    "title": "Nintendo The Legend of Zelda: The Minish Cap Game Boy Advance GBA AGB-BZMP-EUR",
    "label": "🔥 Zelda Minish Cap",
@@ -2071,6 +2098,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T16:09:06+00:00",
- "pushed": "2026-11-02T16:09:06+00:00"
+ "updated": "2026-11-02T16:19:08+00:00",
+ "pushed": "2026-11-02T16:19:08+00:00"
 }
