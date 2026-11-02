@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|960146534972|0",
+   "title": "Wallace & Gromit Fun 2 Pack PC CD-ROM BBC 1999 Windows 95/98 Games Screensaver",
+   "label": "📦 98-game bundle at £0.17/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 16.5,
+   "value": 392,
+   "profit": 245.92,
+   "roi": 14.904,
+   "margin": 0.627,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 1990,
+   "flags": [
+    "⚠️ Bundle value is a guess (98 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/960146534972?hash=itemdf8d31723c:g:zx0AAeSwVqBq6Rbq",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Wallace%20%20%20Gromit%20Fun%202%20Pack%20PC%20CD%20ROM%20BBC%201999%20Windows%2095%2098%20Games%20Screensaver&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/zx0AAeSwVqBq6Rbq/s-l225.jpg",
+   "listed": "2026-11-02T23:05:27.000Z",
+   "sell_costs": 129.58,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-02T23:09:05+00:00"
+  },
+  {
    "id": "v1|800868687029|0",
    "title": "Vampyr Microsoft Xbox One PAL PEGI 18 X Enhanced",
    "label": "📦 18-game bundle at £0.75/game",
@@ -3047,6 +3074,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T23:05:04+00:00",
- "pushed": "2026-11-02T23:05:04+00:00"
+ "updated": "2026-11-02T23:09:05+00:00",
+ "pushed": "2026-11-02T23:09:05+00:00"
 }
