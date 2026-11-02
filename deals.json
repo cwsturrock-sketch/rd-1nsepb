@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|227594389664|0",
+   "title": "Pokemon Go Raid Passes X60/FAST/READ DESCRIPTION",
+   "label": "📦 60-game bundle at £0.32/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 19.46,
+   "value": 240,
+   "profit": 129.42,
+   "roi": 6.651,
+   "margin": 0.539,
+   "condition": "Like New",
+   "seller_pct": 100.0,
+   "seller_score": 89,
+   "flags": [
+    "⚠️ Bundle value is a guess (60 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/227594389664?hash=item34fdaec8a0:g:cuAAAeSwJFFqlqnK",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Raid%20Passes%20X60%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/cuAAAeSwJFFqlqnK/s-l225.jpg",
+   "listed": "2026-11-02T18:18:53.000Z",
+   "sell_costs": 91.12,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-02T18:23:07+00:00"
+  },
+  {
    "id": "v1|227594387172|0",
    "title": "Pokemon Go Zygarde Cells X30/FAST/READ DESCRIPTION",
    "label": "📦 30-game bundle at £0.65/game",
@@ -2801,6 +2828,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T18:21:07+00:00",
- "pushed": "2026-11-02T18:21:07+00:00"
+ "updated": "2026-11-02T18:23:07+00:00",
+ "pushed": "2026-11-02T18:23:07+00:00"
 }
