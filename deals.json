@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820307974835|0",
+   "title": "Retro Games The Spectrum Personal Computer, 48 Games Included, HDMI USB-C",
+   "label": "📦 48-game bundle at £1.38/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 66.38,
+   "value": 192,
+   "profit": 46.64,
+   "roi": 0.703,
+   "margin": 0.243,
+   "condition": "Opened – never used",
+   "seller_pct": 100.0,
+   "seller_score": 702,
+   "flags": [
+    "⚠️ Bundle value is a guess (48 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820307974835?hash=itembefe2a5ab3:g:v2IAAeSwFadq6OmH",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Retro%20Games%20The%20Spectrum%20Personal%20Computer%20%2048%20Games%20Included%20%20HDMI%20USB%20C&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/v2IAAeSwFadq6OmH/s-l225.jpg",
+   "listed": "2026-11-02T19:51:40.000Z",
+   "sell_costs": 78.98,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 53.55,
+   "platform": "default",
+   "time": "2026-11-02T19:59:06+00:00"
+  },
+  {
    "id": "v1|960144295194|0",
    "title": "Nintendo Switch Lite Yellow - Doesn't Turn On ",
    "label": "🔥 Nintendo Switch Lite",
@@ -2855,6 +2882,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-02T19:57:50+00:00",
- "pushed": "2026-11-02T19:57:50+00:00"
+ "updated": "2026-11-02T19:59:06+00:00",
+ "pushed": "2026-11-02T19:59:06+00:00"
 }
