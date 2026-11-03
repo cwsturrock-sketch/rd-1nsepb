@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|287701191435|0",
+   "title": "Xbox 360 Games Bundle Joblot x21 Skate Gears of War Call of Duty Borderlands F1",
+   "label": "📦 21-game bundle at £0.86/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 18.0,
+   "value": 84,
+   "profit": 14.35,
+   "roi": 0.797,
+   "margin": 0.171,
+   "condition": "Very Good",
+   "seller_pct": 99.8,
+   "seller_score": 6982,
+   "flags": [
+    "⚠️ Bundle value is a guess (21 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287701191435?hash=item42fc53cb0b:g:PR8AAeSwVE9qtPyl",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Xbox%20360%20Games%20Bundle%20Joblot%20x21%20Skate%20Gears%20of%20War%20Call%20of%20Duty%20Borderlands%20F1&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/PR8AAeSwVE9qtPyl/s-l225.jpg",
+   "listed": "2026-11-03T08:34:03.000Z",
+   "sell_costs": 51.65,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "ds",
+   "time": "2026-11-03T08:39:05+00:00"
+  },
+  {
    "id": "v1|307260284601|0",
    "title": "Legend Of Zelda Tears Of The Kingdom Nintendo Switch 1 Case",
    "label": "Zelda Tears of the Kingdom",
@@ -3132,6 +3159,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-03T08:29:05+00:00",
- "pushed": "2026-11-03T08:29:05+00:00"
+ "updated": "2026-11-03T08:39:05+00:00",
+ "pushed": "2026-11-03T08:39:05+00:00"
 }
