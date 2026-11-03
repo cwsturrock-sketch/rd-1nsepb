@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|940062545396|0",
+   "title": "Nintendo GameCube Console Black - Powers On - Disc Read Error - CONSOLE ONLY",
+   "label": "🔥 GameCube console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 30.41,
+   "value": 57.85,
+   "profit": 11.24,
+   "roi": 0.369,
+   "margin": 0.194,
+   "condition": "For parts or not working",
+   "seller_pct": 99.8,
+   "seller_score": 1382,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £58"
+   ],
+   "url": "https://www.ebay.co.uk/itm/940062545396?hash=itemdae01815f4:g:-tcAAeSwTyZq6epj",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20GameCube%20Console%20Black%20%20%20Powers%20On%20%20%20Disc%20Read%20Error%20%20%20CONSOLE%20ONLY&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/-tcAAeSwTyZq6epj/s-l225.jpg",
+   "listed": "2026-11-03T14:07:17.000Z",
+   "sell_costs": 16.2,
+   "market_p25": 57.85,
+   "market_n": 15,
+   "offer_price": 22.7,
+   "platform": "gamecube",
+   "time": "2026-11-03T14:11:06+00:00"
+  },
+  {
    "id": "v1|128172680994|0",
    "title": "Nintendo Switch Console HAC-001-01 Unit Only W/ Joycons - Chip in the Body",
    "label": "🔥 Nintendo Switch console",
@@ -3214,6 +3241,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-03T14:01:06+00:00",
- "pushed": "2026-11-03T14:01:06+00:00"
+ "updated": "2026-11-03T14:11:06+00:00",
+ "pushed": "2026-11-03T14:11:06+00:00"
 }
