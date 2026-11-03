@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|267831715050|0",
+   "title": "Block Party! 20 Games Family/Kids Amazing Value Free P&P",
+   "label": "📦 20-game bundle at £0.17/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 3.47,
+   "value": 80,
+   "profit": 25.89,
+   "roi": 7.461,
+   "margin": 0.324,
+   "condition": "Good",
+   "seller_pct": 99.6,
+   "seller_score": 217919,
+   "flags": [
+    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/267831715050?hash=item3e5c03a4ea:g:twsAAeSwf1VpzjT-",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Block%20Party%20%2020%20Games%20Family%20Kids%20Amazing%20Value%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/twsAAeSwf1VpzjT-/s-l225.jpg",
+   "listed": "2026-11-03T03:50:01.000Z",
+   "sell_costs": 50.64,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 2.95,
+   "platform": "default",
+   "time": "2026-11-03T03:55:05+00:00"
+  },
+  {
    "id": "v1|960146534972|0",
    "title": "Wallace & Gromit Fun 2 Pack PC CD-ROM BBC 1999 Windows 95/98 Games Screensaver",
    "label": "📦 98-game bundle at £0.17/game",
@@ -3074,6 +3101,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-03T03:47:04+00:00",
- "pushed": "2026-11-03T03:47:04+00:00"
+ "updated": "2026-11-03T03:55:05+00:00",
+ "pushed": "2026-11-03T03:55:05+00:00"
 }
