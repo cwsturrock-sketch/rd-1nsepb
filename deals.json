@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|147663999972|0",
+   "title": "Job lot of 20 xbox 360 games",
+   "label": "📦 20-game bundle at £0.87/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 17.45,
+   "value": 80,
+   "profit": 11.91,
+   "roi": 0.683,
+   "margin": 0.149,
+   "condition": "Very Good",
+   "seller_pct": 99.0,
+   "seller_score": 1889,
+   "flags": [
+    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/147663999972?hash=item226175d3e4:g:m9wAAeSwWm1q6ffw",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Job%20lot%20of%2020%20xbox%20360%20games&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/m9wAAeSwWm1q6ffw/s-l225.jpg",
+   "listed": "2026-11-03T15:13:04.000Z",
+   "sell_costs": 50.64,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 9.18,
+   "platform": "xbox",
+   "time": "2026-11-03T15:17:10+00:00"
+  },
+  {
    "id": "v1|237160811182|0",
    "title": "Nintendo Switch HAC-001 Console Only Tested Working.",
    "label": "🔥 Nintendo Switch console",
@@ -3295,6 +3322,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-03T15:15:06+00:00",
- "pushed": "2026-11-03T15:15:06+00:00"
+ "updated": "2026-11-03T15:17:10+00:00",
+ "pushed": "2026-11-03T15:17:10+00:00"
 }
