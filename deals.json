@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|137898844111|0",
+   "title": "Sega Genesis Flashback HD 2017 Console with 85 Games Included",
+   "label": "📦 85-game bundle at £0.42/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 35.61,
+   "value": 510,
+   "profit": 336.21,
+   "roi": 9.441,
+   "margin": 0.659,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 83,
+   "flags": [
+    "⚠️ Bundle value is a guess (85 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/137898844111?hash=item201b695fcf:g:FxcAAeSwKzdq6hy8",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sega%20Genesis%20Flashback%20HD%202017%20Console%20with%2085%20Games%20Included&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/FxcAAeSwKzdq6hy8/s-l225.jpg",
+   "listed": "2026-11-03T17:42:33.000Z",
+   "sell_costs": 138.18,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "megadrive",
+   "time": "2026-11-03T17:47:04+00:00"
+  },
+  {
    "id": "v1|128173041842|0",
    "title": "Pokémon SoulSilver Nintendo DS Outer Big Box & Inner Tray Only UKV PAL Authentic",
    "label": "🔥 Pokemon SoulSilver",
@@ -3350,6 +3377,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-03T17:45:04+00:00",
- "pushed": "2026-11-03T17:45:04+00:00"
+ "updated": "2026-11-03T17:47:04+00:00",
+ "pushed": "2026-11-03T17:47:04+00:00"
 }
