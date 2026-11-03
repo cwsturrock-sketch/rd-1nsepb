@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|128173243556|0",
+   "title": "Radiant Historia for Nintendo DS US Import Game",
+   "label": "Radiant Historia (DS)",
+   "verdict": "🟢 BUY",
+   "cost": 24.88,
+   "value": 60,
+   "profit": 23.14,
+   "roi": 0.93,
+   "margin": 0.386,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 2717,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 10 current UK listings start at £93"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128173243556?_skw=Radiant+Historia++&hash=item1dd7b87ca4:g:dkkAAeSwcg9q5IfG",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Radiant%20Historia%20for%20Nintendo%20DS%20US%20Import%20Game&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/dkkAAeSwcg9q5IfG/s-l225.jpg",
+   "listed": "2026-11-03T18:56:59.000Z",
+   "sell_costs": 11.98,
+   "market_p25": 92.98,
+   "market_n": 10,
+   "offer_price": null,
+   "platform": "ds",
+   "source": "sweep",
+   "time": "2026-11-03T20:01:56+00:00"
+  },
+  {
    "id": "v1|206673289212|0",
    "title": "Chibi-Robo! Zip Lash - New & sealed Nintendo 3DS game",
    "label": "🔥 Chibi-Robo",
@@ -3404,6 +3433,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-03T19:57:05+00:00",
- "pushed": "2026-11-03T19:57:05+00:00"
+ "updated": "2026-11-03T20:01:56+00:00",
+ "pushed": "2026-11-03T20:01:56+00:00"
 }
