@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|920101815297|0",
+   "title": "RETIRED EGGS In-Game Item Bundle x25",
+   "label": "📦 25-game bundle at £0.31/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 7.76,
+   "value": 100,
+   "profit": 36.54,
+   "roi": 4.709,
+   "margin": 0.365,
+   "condition": "New",
+   "seller_pct": 0.0,
+   "seller_score": 1,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 1 reviews)",
+    "⚠️ Bundle value is a guess (25 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/920101815297?hash=itemd63a578401:g:JLEAAeSwT3lq6kQ2",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=RETIRED%20EGGS%20In%20Game%20Item%20Bundle%20x25&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/JLEAAeSwT3lq6kQ2/s-l225.jpg",
+   "listed": "2026-11-03T20:34:38.000Z",
+   "sell_costs": 55.7,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 3.72,
+   "platform": "default",
+   "time": "2026-11-03T20:39:06+00:00"
+  },
+  {
    "id": "v1|128173243556|0",
    "title": "Radiant Historia for Nintendo DS US Import Game",
    "label": "Radiant Historia (DS)",
@@ -3433,6 +3461,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-03T20:35:11+00:00",
- "pushed": "2026-11-03T20:35:11+00:00"
+ "updated": "2026-11-03T20:39:06+00:00",
+ "pushed": "2026-11-03T20:39:06+00:00"
 }
