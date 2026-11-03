@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|336877269227|0",
+   "title": "THQ WWE WrestleMania Road to WrestleMania X8 Game Boy Advance AGB-AW8P-EUR",
+   "label": "📦 8-game bundle at £0.68/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 5.46,
+   "value": 64,
+   "profit": 15.95,
+   "roi": 2.921,
+   "margin": 0.249,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 620,
+   "flags": [
+    "⚠️ Bundle value is a guess (8 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/336877269227?hash=item4e6f7330eb:g:dlAAAeSw4BFq6eww",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=THQ%20WWE%20WrestleMania%20Road%20to%20WrestleMania%20X8%20Game%20Boy%20Advance%20AGB%20AW8P%20EUR&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/dlAAAeSw4BFq6eww/s-l225.jpg",
+   "listed": "2026-11-03T14:14:59.000Z",
+   "sell_costs": 42.59,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "gameboy",
+   "time": "2026-11-03T14:19:05+00:00"
+  },
+  {
    "id": "v1|940062545396|0",
    "title": "Nintendo GameCube Console Black - Powers On - Disc Read Error - CONSOLE ONLY",
    "label": "🔥 GameCube console",
@@ -3241,6 +3268,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-03T14:11:06+00:00",
- "pushed": "2026-11-03T14:11:06+00:00"
+ "updated": "2026-11-03T14:19:05+00:00",
+ "pushed": "2026-11-03T14:19:05+00:00"
 }
