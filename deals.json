@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|128175428750|0",
+   "title": "37 x ZX Spectrum Games Job Lot Bundle inc Jungle Trouble Retro Untested",
+   "label": "📦 37-game bundle at £1.42/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 52.71,
+   "value": 148,
+   "profit": 27.45,
+   "roi": 0.521,
+   "margin": 0.185,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 818,
+   "flags": [
+    "⚠️ Bundle value is a guess (37 games from the title × an average price): check the photos for what's actually in it",
+    "⚠️ Untested"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128175428750?hash=item1dd7d9d48e:g:gKMAAeSwgSVq65Iy",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=37%20x%20ZX%20Spectrum%20Games%20Job%20Lot%20Bundle%20inc%20Jungle%20Trouble%20Retro%20Untested&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/gKMAAeSwgSVq65Iy/s-l225.jpg",
+   "listed": "2026-11-04T20:22:01.000Z",
+   "sell_costs": 67.84,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 40.38,
+   "platform": "default",
+   "time": "2026-11-04T20:25:05+00:00"
+  },
+  {
    "id": "v1|820316318241|0",
    "title": "Sony PlayStation Vita Handheld System Console Black w/ Headphone Jack",
    "label": "🔥 PS Vita console",
@@ -4496,6 +4524,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-04T20:23:04+00:00",
- "pushed": "2026-11-04T20:23:04+00:00"
+ "updated": "2026-11-04T20:25:05+00:00",
+ "pushed": "2026-11-04T20:25:05+00:00"
 }
