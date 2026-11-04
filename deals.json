@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|377622082720|0",
+   "title": "PS3 Games Bundle Job Lot x35 Call of Duty Skyrim Batman Borderlands Mostly CIB",
+   "label": "📦 35-game bundle at £1.14/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 39.99,
+   "value": 140,
+   "profit": 34.19,
+   "roi": 0.855,
+   "margin": 0.244,
+   "condition": "Good",
+   "seller_pct": 97.7,
+   "seller_score": 1474,
+   "flags": [
+    "⚠️ Seller trust low (97.7% · 1474 reviews)",
+    "⚠️ Bundle value is a guess (35 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377622082720?hash=item57ec07b4a0:g:glwAAeSwVqBq65jk",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=PS3%20Games%20Bundle%20Job%20Lot%20x35%20Call%20of%20Duty%20Skyrim%20Batman%20Borderlands%20Mostly%20CIB&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/glwAAeSwVqBq65jk/s-l225.jpg",
+   "listed": "2026-11-04T20:46:22.000Z",
+   "sell_costs": 65.82,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 33.99,
+   "platform": "ds",
+   "time": "2026-11-04T20:54:03+00:00"
+  },
+  {
    "id": "v1|820316545017|0",
    "title": "Nintendo Switch OLED Pokemon Scarlet Violet Tablet Console ONLY Region free",
    "label": "🔥 Nintendo Switch OLED console",
@@ -4551,6 +4579,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-04T20:43:04+00:00",
- "pushed": "2026-11-04T20:43:04+00:00"
+ "updated": "2026-11-04T20:54:03+00:00",
+ "pushed": "2026-11-04T20:54:03+00:00"
 }
