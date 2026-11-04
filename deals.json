@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|137899734637|0",
+   "title": "Sony PlayStation 4 FIFA 17, FIFA 20 & FIFA 21 Games Bundle PS4",
+   "label": "📦 21-game bundle at £0.58/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 12.27,
+   "value": 84,
+   "profit": 20.08,
+   "roi": 1.636,
+   "margin": 0.239,
+   "condition": "Very Good",
+   "seller_pct": 99.8,
+   "seller_score": 3034,
+   "flags": [
+    "⚠️ Bundle value is a guess (21 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/137899734637?hash=item201b76f66d:g:LUIAAeSw3JRq6ljL",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20FIFA%2017%20%20FIFA%2020%20%20%20FIFA%2021%20Games%20Bundle%20PS4&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/LUIAAeSw3JRq6ljL/s-l225.jpg",
+   "listed": "2026-11-04T12:00:01.000Z",
+   "sell_costs": 51.65,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 8.13,
+   "platform": "ps4",
+   "time": "2026-11-04T12:01:05+00:00"
+  },
+  {
    "id": "v1|880081864966|0",
    "title": "Sony PS 5 PS5 Blu-Ray Disc Console 4K Wi-Fi PAL. Beeps but doesn’t turn on",
    "label": "🔥 PS5 console",
@@ -3653,6 +3680,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-04T11:55:04+00:00",
- "pushed": "2026-11-04T11:55:04+00:00"
+ "updated": "2026-11-04T12:01:05+00:00",
+ "pushed": "2026-11-04T12:01:05+00:00"
 }
