@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820316545017|0",
+   "title": "Nintendo Switch OLED Pokemon Scarlet Violet Tablet Console ONLY Region free",
+   "label": "🔥 Nintendo Switch OLED console",
+   "verdict": "🟢 BUY",
+   "cost": 52.7,
+   "value": 140.0,
+   "profit": 60.58,
+   "roi": 1.15,
+   "margin": 0.433,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 150,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 26 current UK listings start at £140"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820316545017?hash=itembefead1ff9:g:gugAAeSwcAVq65TM",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20OLED%20Pokemon%20Scarlet%20Violet%20Tablet%20Console%20ONLY%20Region%20free&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/gugAAeSwcAVq65TM/s-l225.jpg",
+   "listed": "2026-11-04T20:26:37.000Z",
+   "sell_costs": 26.72,
+   "market_p25": 140.0,
+   "market_n": 26,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-04T20:31:05+00:00"
+  },
+  {
    "id": "v1|128175428750|0",
    "title": "37 x ZX Spectrum Games Job Lot Bundle inc Jungle Trouble Retro Untested",
    "label": "📦 37-game bundle at £1.42/game",
@@ -4524,6 +4551,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-04T20:25:05+00:00",
- "pushed": "2026-11-04T20:25:05+00:00"
+ "updated": "2026-11-04T20:31:05+00:00",
+ "pushed": "2026-11-04T20:31:05+00:00"
 }
