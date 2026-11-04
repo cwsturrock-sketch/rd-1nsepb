@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|137901278633|0",
+   "title": "Joblot of x31 Nintendo DS Game Cartridges",
+   "label": "📦 31-game bundle at £1.19/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 36.99,
+   "value": 124,
+   "profit": 25.24,
+   "roi": 0.682,
+   "margin": 0.204,
+   "condition": "Good",
+   "seller_pct": 98.8,
+   "seller_score": 25426,
+   "flags": [
+    "⚠️ Bundle value is a guess (31 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/137901278633?hash=item201b8e85a9:g:jwsAAeSw3R9q6wMv",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Joblot%20of%20x31%20Nintendo%20DS%20Game%20Cartridges&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/jwsAAeSw3R9q6wMv/s-l225.jpg",
+   "listed": "2026-11-04T10:06:00.000Z",
+   "sell_costs": 61.77,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "ds",
+   "time": "2026-11-04T10:09:06+00:00"
+  },
+  {
    "id": "v1|227596969255|0",
    "title": "51x Myster  Platinum Trophies Bundle Service 🏆 🏆PS4/PS5 account boost only",
    "label": "📦 51-game bundle at £0.74/game",
@@ -3599,6 +3626,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-04T10:05:07+00:00",
- "pushed": "2026-11-04T10:05:07+00:00"
+ "updated": "2026-11-04T10:09:06+00:00",
+ "pushed": "2026-11-04T10:09:06+00:00"
 }
