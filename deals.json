@@ -1,6 +1,60 @@
 {
  "deals": [
   {
+   "id": "v1|227598104100|0",
+   "title": "Pokèmon Go Premium Raid Pass X60/FAST/READ DESCRIPTION",
+   "label": "📦 60-game bundle at £0.32/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 19.46,
+   "value": 240,
+   "profit": 129.42,
+   "roi": 6.651,
+   "margin": 0.539,
+   "condition": "Like New",
+   "seller_pct": 100.0,
+   "seller_score": 91,
+   "flags": [
+    "⚠️ Bundle value is a guess (60 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/227598104100?hash=item34fde77624:g:cuAAAeSwJFFqlqnK",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Premium%20Raid%20Pass%20X60%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/cuAAAeSwJFFqlqnK/s-l225.jpg",
+   "listed": "2026-11-04T18:47:38.000Z",
+   "sell_costs": 91.12,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-04T18:53:05+00:00"
+  },
+  {
+   "id": "v1|227598104114|0",
+   "title": "Pokèmon Go Premium Passes X60/FAST/READ DESCRIPTION",
+   "label": "📦 60-game bundle at £0.32/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 19.46,
+   "value": 240,
+   "profit": 129.42,
+   "roi": 6.651,
+   "margin": 0.539,
+   "condition": "Like New",
+   "seller_pct": 100.0,
+   "seller_score": 91,
+   "flags": [
+    "⚠️ Bundle value is a guess (60 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/227598104114?hash=item34fde77632:g:cuAAAeSwJFFqlqnK",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Premium%20Passes%20X60%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/cuAAAeSwJFFqlqnK/s-l225.jpg",
+   "listed": "2026-11-04T18:47:38.000Z",
+   "sell_costs": 91.12,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-04T18:53:05+00:00"
+  },
+  {
    "id": "v1|227598102364|0",
    "title": "Pokèmon Go Raid Passes X60/FAST/READ DESCRIPTION",
    "label": "📦 60-game bundle at £0.32/game",
@@ -4413,6 +4467,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-04T18:51:05+00:00",
- "pushed": "2026-11-04T18:51:05+00:00"
+ "updated": "2026-11-04T18:53:05+00:00",
+ "pushed": "2026-11-04T18:53:05+00:00"
 }
