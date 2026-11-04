@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|860112814161|0",
+   "title": "Sony PlayStation 4 console only non working discoloured",
+   "label": "🔥 PS4 console",
+   "verdict": "🟢 BUY",
+   "cost": 31.85,
+   "value": 79.99,
+   "profit": 29.1,
+   "roi": 0.914,
+   "margin": 0.364,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 50,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £80"
+   ],
+   "url": "https://www.ebay.co.uk/itm/860112814161?hash=itemc842b80051:g:U~EAAeSwdMZq60Jt",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20console%20only%20non%20working%20discoloured&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/U~EAAeSwdMZq60Jt/s-l225.jpg",
+   "listed": "2026-11-04T14:35:36.000Z",
+   "sell_costs": 19.04,
+   "market_p25": 79.99,
+   "market_n": 13,
+   "offer_price": 22.7,
+   "platform": "ps4",
+   "time": "2026-11-04T14:39:06+00:00"
+  },
+  {
    "id": "v1|860112807234|0",
    "title": "Sony PlayStation 4 Slim console only non working",
    "label": "🔥 PS4 console",
@@ -3735,6 +3763,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-04T14:37:06+00:00",
- "pushed": "2026-11-04T14:37:06+00:00"
+ "updated": "2026-11-04T14:39:06+00:00",
+ "pushed": "2026-11-04T14:39:06+00:00"
 }
