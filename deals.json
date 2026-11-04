@@ -1,6 +1,88 @@
 {
  "deals": [
   {
+   "id": "v1|227596969255|0",
+   "title": "51x Myster  Platinum Trophies Bundle Service 🏆 🏆PS4/PS5 account boost only",
+   "label": "📦 51-game bundle at £0.74/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 37.9,
+   "value": 204,
+   "profit": 84.09,
+   "roi": 2.219,
+   "margin": 0.412,
+   "condition": "New",
+   "seller_pct": 95.5,
+   "seller_score": 232,
+   "flags": [
+    "⚠️ Seller trust low (95.5% · 232 reviews)",
+    "⚠️ Bundle value is a guess (51 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/227596969255?hash=item34fdd62527:g:jYcAAOSwvR5nbf8G",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=51x%20Myster%20%20Platinum%20Trophies%20Bundle%20Service%20%20%20%20PS4%20PS5%20account%20boost%20only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/jYcAAOSwvR5nbf8G/s-l225.jpg",
+   "listed": "2026-11-04T05:28:18.000Z",
+   "sell_costs": 82.01,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 32.21,
+   "platform": "ps5",
+   "time": "2026-11-04T08:49:46+00:00"
+  },
+  {
+   "id": "v1|128174046901|0",
+   "title": "AtGames Sega Mega Drive Classic Game Console - 81 Games - Boxed Complete Tested",
+   "label": "📦 81-game bundle at £1.15/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 93.37,
+   "value": 486,
+   "profit": 259.52,
+   "roi": 2.78,
+   "margin": 0.534,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 539,
+   "flags": [
+    "⚠️ Bundle value is a guess (81 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128174046901?hash=item1dd7c4beb5:g:NaQAAeSw1GNq6sxS",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=AtGames%20Sega%20Mega%20Drive%20Classic%20Game%20Console%20%20%2081%20Games%20%20%20Boxed%20Complete%20Tested&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/NaQAAeSw1GNq6sxS/s-l225.jpg",
+   "listed": "2026-11-04T06:11:52.000Z",
+   "sell_costs": 133.11,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 75.73,
+   "platform": "megadrive",
+   "time": "2026-11-04T08:49:46+00:00"
+  },
+  {
+   "id": "v1|137900350390|0",
+   "title": "Games Hub Retro Gamer Handheld System Console 100 Games Colour Screen Pink",
+   "label": "📦 100-game bundle at £0.19/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 19.09,
+   "value": 400,
+   "profit": 249.31,
+   "roi": 13.06,
+   "margin": 0.623,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 70,
+   "flags": [
+    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/137900350390?hash=item201b805bb6:g:47kAAeSw8EBq6po8",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Games%20Hub%20Retro%20Gamer%20Handheld%20System%20Console%20100%20Games%20Colour%20Screen%20Pink&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/47kAAeSw8EBq6po8/s-l225.jpg",
+   "listed": "2026-11-04T02:39:01.000Z",
+   "sell_costs": 131.6,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-04T08:49:46+00:00"
+  },
+  {
    "id": "v1|407337631615|0",
    "title": "Nintendo Mario & Luigi: Superstar Saga GBA PAL Cart AGB-A88P-EUR",
    "label": "🔥 Mario & Luigi Superstar Saga",
@@ -3517,6 +3599,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-03T22:09:04+00:00",
- "pushed": "2026-11-03T22:09:04+00:00"
+ "updated": "2026-11-04T08:49:46+00:00",
+ "pushed": "2026-11-04T08:49:46+00:00"
 }
