@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|168838506039|0",
+   "title": "Nintendo Super Nintendo Entertainment System SNES Grey Home Console PAL",
+   "label": "🔥 NES console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 37.88,
+   "value": 70,
+   "profit": 14.36,
+   "roi": 0.379,
+   "margin": 0.205,
+   "condition": "Used",
+   "seller_pct": 98.5,
+   "seller_score": 65,
+   "flags": [
+    "ℹ️ Too few current listings to check the market price"
+   ],
+   "url": "https://www.ebay.co.uk/itm/168838506039?hash=item274f8f2637:g:a8IAAeSw5nhq617d",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Super%20Nintendo%20Entertainment%20System%20SNES%20Grey%20Home%20Console%20PAL&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/a8IAAeSw5nhq617d/s-l225.jpg",
+   "listed": "2026-11-04T16:37:55.000Z",
+   "sell_costs": 17.76,
+   "market_p25": null,
+   "market_n": 4,
+   "offer_price": 29.32,
+   "platform": "snes",
+   "time": "2026-11-04T16:41:06+00:00"
+  },
+  {
    "id": "v1|128175055493|0",
    "title": "Sony PlayStation 4 PS4 CUH-1001A 500GB Black Console 1080p Wi-Fi Blu-Ray BLOD",
    "label": "🔥 PS4 console",
@@ -3846,6 +3873,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-04T16:39:04+00:00",
- "pushed": "2026-11-04T16:39:04+00:00"
+ "updated": "2026-11-04T16:41:06+00:00",
+ "pushed": "2026-11-04T16:41:06+00:00"
 }
