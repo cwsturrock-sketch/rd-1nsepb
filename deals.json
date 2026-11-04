@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|880081864966|0",
+   "title": "Sony PS 5 PS5 Blu-Ray Disc Console 4K Wi-Fi PAL. Beeps but doesn’t turn on",
+   "label": "🔥 PS5 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 163.46,
+   "value": 300,
+   "profit": 89.34,
+   "roi": 0.547,
+   "margin": 0.298,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 730,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £461"
+   ],
+   "url": "https://www.ebay.co.uk/itm/880081864966?hash=itemcce8f78906:g:QcgAAeSw9-xq6wyQ",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PS%205%20PS5%20Blu%20Ray%20Disc%20Console%204K%20Wi%20Fi%20PAL%20%20Beeps%20but%20doesn%20t%20turn%20on&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/QcgAAeSw9-xq6wyQ/s-l225.jpg",
+   "listed": "2026-11-04T10:47:56.000Z",
+   "sell_costs": 47.2,
+   "market_p25": 460.76,
+   "market_n": 13,
+   "offer_price": 133.19,
+   "platform": "ps5",
+   "time": "2026-11-04T10:51:06+00:00"
+  },
+  {
    "id": "v1|137901278633|0",
    "title": "Joblot of x31 Nintendo DS Game Cartridges",
    "label": "📦 31-game bundle at £1.19/game",
@@ -3626,6 +3653,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-04T10:43:05+00:00",
- "pushed": "2026-11-04T10:43:05+00:00"
+ "updated": "2026-11-04T10:51:06+00:00",
+ "pushed": "2026-11-04T10:51:06+00:00"
 }
