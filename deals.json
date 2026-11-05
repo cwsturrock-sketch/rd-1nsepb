@@ -1,6 +1,60 @@
 {
  "deals": [
   {
+   "id": "v1|377623848241|0",
+   "title": "THE PUNISHER  - CAPCOM - FULL GAME ON 32X SOFTWARE - PAL -  - FULLY BOXED",
+   "label": "📦 32-game bundle at £0.87/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 27.71,
+   "value": 128,
+   "profit": 37.51,
+   "roi": 1.354,
+   "margin": 0.293,
+   "condition": "New",
+   "seller_pct": 99.1,
+   "seller_score": 588,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377623848241?hash=item57ec22a531:g:sEEAAeSwUHNqKaAg",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=THE%20PUNISHER%20%20%20%20CAPCOM%20%20%20FULL%20GAME%20ON%2032X%20SOFTWARE%20%20%20PAL%20%20%20%20%20%20FULLY%20BOXED&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/sEEAAeSwUHNqKaAg/s-l225.jpg",
+   "listed": "2026-11-05T14:01:34.000Z",
+   "sell_costs": 62.78,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-05T14:05:05+00:00"
+  },
+  {
+   "id": "v1|377623842616|0",
+   "title": "WATER MARGIN A TALE OF CLOUDS & WIND  - PAL - FULL GAME ON 32X PCB - BOXED NEW",
+   "label": "📦 32-game bundle at £0.89/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 28.37,
+   "value": 128,
+   "profit": 36.85,
+   "roi": 1.299,
+   "margin": 0.288,
+   "condition": "New",
+   "seller_pct": 99.1,
+   "seller_score": 588,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377623842616?hash=item57ec228f38:g:NH8AAeSwF9xq06FN",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=WATER%20MARGIN%20A%20TALE%20OF%20CLOUDS%20%20%20WIND%20%20%20%20PAL%20%20%20FULL%20GAME%20ON%2032X%20PCB%20%20%20BOXED%20NEW&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/NH8AAeSwF9xq06FN/s-l225.jpg",
+   "listed": "2026-11-05T14:00:13.000Z",
+   "sell_costs": 62.78,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-05T14:05:05+00:00"
+  },
+  {
    "id": "v1|307268124883|0",
    "title": "Kirby Air Riders Switch 2 Game Cartridge",
    "label": "🔥 Kirby Air Ride",
@@ -4606,6 +4660,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T13:53:06+00:00",
- "pushed": "2026-11-05T13:53:06+00:00"
+ "updated": "2026-11-05T14:05:05+00:00",
+ "pushed": "2026-11-05T14:05:05+00:00"
 }
