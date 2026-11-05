@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|147668037123|0",
+   "title": "Legend of Zelda Oracle of Seasons GBA Edition - Game Boy Advance GBA",
+   "label": "🔥 Zelda Oracle of Ages / Seasons",
+   "verdict": "🟡 CONSIDER",
+   "cost": 16.99,
+   "value": 40,
+   "profit": 13.59,
+   "roi": 0.8,
+   "margin": 0.34,
+   "condition": "Very Good",
+   "seller_pct": 99.6,
+   "seller_score": 1377,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Too few photos to check the cartridge: ask for the label, the back code and the circuit board",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 30 current UK listings start at £45"
+   ],
+   "url": "https://www.ebay.co.uk/itm/147668037123?hash=item2261b36e03:g:ThoAAeSwv8xqdQsr",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Legend%20of%20Zelda%20Oracle%20of%20Seasons%20GBA%20Edition%20%20%20Game%20Boy%20Advance%20GBA&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/ThoAAeSwv8xqdQsr/s-l225.jpg",
+   "listed": "2026-11-05T19:02:25.000Z",
+   "sell_costs": 9.42,
+   "market_p25": 44.99,
+   "market_n": 30,
+   "offer_price": null,
+   "platform": "gameboy",
+   "time": "2026-11-05T19:07:06+00:00"
+  },
+  {
    "id": "v1|840097545431|0",
    "title": "Commodore 64 / 128 C64 Joblot Game Bundle - 24x Game Cassettes",
    "label": "📦 24-game bundle at £0.98/game",
@@ -4987,6 +5017,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T19:05:05+00:00",
- "pushed": "2026-11-05T19:05:05+00:00"
+ "updated": "2026-11-05T19:07:06+00:00",
+ "pushed": "2026-11-05T19:07:06+00:00"
 }
