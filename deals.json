@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|267834461151|0",
+   "title": "Job Lot of 25 x Nintendo Wii Games inc Lego Indiana Jones Ref T25",
+   "label": "📦 25-game bundle at £0.84/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 21.0,
+   "value": 100,
+   "profit": 23.3,
+   "roi": 1.11,
+   "margin": 0.233,
+   "condition": "Acceptable",
+   "seller_pct": 99.9,
+   "seller_score": 62539,
+   "flags": [
+    "⚠️ Bundle value is a guess (25 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/267834461151?hash=item3e5c2d8bdf:g:X0YAAeSwZbpq7KJv",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Job%20Lot%20of%2025%20x%20Nintendo%20Wii%20Games%20inc%20Lego%20Indiana%20Jones%20Ref%20T25&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/X0YAAeSwZbpq7KJv/s-l225.jpg",
+   "listed": "2026-11-05T15:38:00.000Z",
+   "sell_costs": 55.7,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "wii",
+   "time": "2026-11-05T15:41:05+00:00"
+  },
+  {
    "id": "v1|237165439420|0",
    "title": "36 X Video Games Bundle For PlayStation 3 !In  very Good condition",
    "label": "📦 36-game bundle at £1.41/game",
@@ -4768,6 +4795,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T15:33:04+00:00",
- "pushed": "2026-11-05T15:33:04+00:00"
+ "updated": "2026-11-05T15:41:05+00:00",
+ "pushed": "2026-11-05T15:41:05+00:00"
 }
