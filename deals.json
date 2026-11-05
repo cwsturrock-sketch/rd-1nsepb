@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820321291958|0",
+   "title": "Atari Flashback 3 Home Console Black X60 Classic Games Built-In - RCA - NEW",
+   "label": "📦 60-game bundle at £0.75/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 44.99,
+   "value": 240,
+   "profit": 103.89,
+   "roi": 2.309,
+   "margin": 0.433,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 510,
+   "flags": [
+    "⚠️ Bundle value is a guess (60 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820321291958?hash=itembefef58eb6:g:4c8AAeSwf6hq7Pol",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Atari%20Flashback%203%20Home%20Console%20Black%20X60%20Classic%20Games%20Built%20In%20%20%20RCA%20%20%20NEW&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/4c8AAeSwf6hq7Pol/s-l225.jpg",
+   "listed": "2026-11-05T21:51:12.000Z",
+   "sell_costs": 91.12,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-05T21:55:05+00:00"
+  },
+  {
    "id": "v1|377624573479|0",
    "title": "Xbox 360 Games Bundle Job Lot x76 FIFA Halo Call of Duty Battlefield Skyrim",
    "label": "📦 76-game bundle at £0.57/game",
@@ -5099,6 +5126,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T21:53:04+00:00",
- "pushed": "2026-11-05T21:53:04+00:00"
+ "updated": "2026-11-05T21:55:05+00:00",
+ "pushed": "2026-11-05T21:55:05+00:00"
 }
