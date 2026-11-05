@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|377623863713|0",
+   "title": "JUDGE DREDD  - FULL GAME ON THE 32X  - PAL - BETA VERSION - FULLY BOXED - TESTED",
+   "label": "📦 32-game bundle at £0.87/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 27.71,
+   "value": 128,
+   "profit": 37.51,
+   "roi": 1.354,
+   "margin": 0.293,
+   "condition": "New",
+   "seller_pct": 99.1,
+   "seller_score": 588,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377623863713?hash=item57ec22e1a1:g:TT0AAeSw0QpqLwn9",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=JUDGE%20DREDD%20%20%20%20FULL%20GAME%20ON%20THE%2032X%20%20%20%20PAL%20%20%20BETA%20VERSION%20%20%20FULLY%20BOXED%20%20%20TESTED&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/TT0AAeSw0QpqLwn9/s-l225.jpg",
+   "listed": "2026-11-05T14:11:35.000Z",
+   "sell_costs": 62.78,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-05T14:17:06+00:00"
+  },
+  {
    "id": "v1|377623861542|0",
    "title": "SONIC HELLFIRE SAGA - FULL GAME PLAYABLE ON THE 32X  - PAL -  BOXED - TESTED NEW",
    "label": "📦 32-game bundle at £0.87/game",
@@ -4687,6 +4714,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T14:13:05+00:00",
- "pushed": "2026-11-05T14:13:05+00:00"
+ "updated": "2026-11-05T14:17:06+00:00",
+ "pushed": "2026-11-05T14:17:06+00:00"
 }
