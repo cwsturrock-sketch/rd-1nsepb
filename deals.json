@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|800881654883|0",
+   "title": "Sony PlayStation 4 Slim Black 1TB Console CUH-2016B PAL Wi-Fi HDMI 2016",
+   "label": "🔥 PS4 console",
+   "verdict": "🟢 BUY",
+   "cost": 41.08,
+   "value": 88.58,
+   "profit": 27.36,
+   "roi": 0.666,
+   "margin": 0.309,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 33,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £89"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800881654883?hash=itemba78443c63:g:YA0AAeSw6l9q7MXb",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20Slim%20Black%201TB%20Console%20CUH%202016B%20PAL%20Wi%20Fi%20HDMI%202016&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/YA0AAeSw6l9q7MXb/s-l225.jpg",
+   "listed": "2026-11-05T18:08:59.000Z",
+   "sell_costs": 20.14,
+   "market_p25": 88.58,
+   "market_n": 15,
+   "offer_price": 32.42,
+   "platform": "ps4",
+   "time": "2026-11-05T18:13:06+00:00"
+  },
+  {
    "id": "v1|820320311290|0",
    "title": "Commodore 64 Game Bundle jobLot 30 games Tapes only Star trek , hobbit & More ",
    "label": "📦 30-game bundle at £0.84/game",
@@ -4878,6 +4905,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T18:11:04+00:00",
- "pushed": "2026-11-05T18:11:04+00:00"
+ "updated": "2026-11-05T18:13:06+00:00",
+ "pushed": "2026-11-05T18:13:06+00:00"
 }
