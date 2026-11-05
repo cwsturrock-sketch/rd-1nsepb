@@ -1,6 +1,60 @@
 {
  "deals": [
   {
+   "id": "v1|307268617456|0",
+   "title": "Nintendo Game Boy Color Purple Handheld Console CGB-001 PAL 1998",
+   "label": "🔥 Game Boy Color console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 13.5,
+   "value": 40,
+   "profit": 12.58,
+   "roi": 0.932,
+   "margin": 0.314,
+   "condition": "For parts or not working",
+   "seller_pct": 99.7,
+   "seller_score": 7085,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 20 current UK listings start at £53"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307268617456?hash=item478aa304f0:g:PGMAAeSwvAdq7NTk",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Game%20Boy%20Color%20Purple%20Handheld%20Console%20CGB%20001%20PAL%201998&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/PGMAAeSwvAdq7NTk/s-l225.jpg",
+   "listed": "2026-11-05T19:13:10.000Z",
+   "sell_costs": 13.92,
+   "market_p25": 52.94,
+   "market_n": 20,
+   "offer_price": 9.18,
+   "platform": "gameboy",
+   "time": "2026-11-05T19:17:08+00:00"
+  },
+  {
+   "id": "v1|800881854353|0",
+   "title": "Sony PlayStation 4 Slim Black 1TB Console CUH-2016B PAL Wi-Fi HDMI 2016",
+   "label": "🔥 PS4 console",
+   "verdict": "🟢 BUY",
+   "cost": 41.08,
+   "value": 88.58,
+   "profit": 27.36,
+   "roi": 0.666,
+   "margin": 0.309,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 33,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £89"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800881854353?hash=itemba78474791:g:YA0AAeSw6l9q7MXb",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20Slim%20Black%201TB%20Console%20CUH%202016B%20PAL%20Wi%20Fi%20HDMI%202016&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/YA0AAeSw6l9q7MXb/s-l225.jpg",
+   "listed": "2026-11-05T19:12:57.000Z",
+   "sell_costs": 20.14,
+   "market_p25": 88.58,
+   "market_n": 15,
+   "offer_price": 32.42,
+   "platform": "ps4",
+   "time": "2026-11-05T19:17:08+00:00"
+  },
+  {
    "id": "v1|147668037123|0",
    "title": "Legend of Zelda Oracle of Seasons GBA Edition - Game Boy Advance GBA",
    "label": "🔥 Zelda Oracle of Ages / Seasons",
@@ -5017,6 +5071,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T19:07:06+00:00",
- "pushed": "2026-11-05T19:07:06+00:00"
+ "updated": "2026-11-05T19:17:08+00:00",
+ "pushed": "2026-11-05T19:17:08+00:00"
 }
