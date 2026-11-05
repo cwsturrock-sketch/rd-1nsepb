@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|237165439420|0",
+   "title": "36 X Video Games Bundle For PlayStation 3 !In  very Good condition",
+   "label": "📦 36-game bundle at £1.41/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 50.62,
+   "value": 144,
+   "profit": 26.55,
+   "roi": 0.524,
+   "margin": 0.184,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 92,
+   "flags": [
+    "⚠️ Bundle value is a guess (36 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/237165439420?hash=item37382969bc:g:vLMAAeSw1ONq7Jua",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=36%20X%20Video%20Games%20Bundle%20For%20PlayStation%203%20%20In%20%20very%20Good%20condition&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/vLMAAeSw1ONq7Jua/s-l225.jpg",
+   "listed": "2026-11-05T15:09:39.000Z",
+   "sell_costs": 66.83,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "ps3",
+   "time": "2026-11-05T15:13:04+00:00"
+  },
+  {
    "id": "v1|206677699388|0",
    "title": "Lot Of 30 Games/DVDs Xbox 360/PS3 READ DESCRIPTION",
    "label": "📦 30-game bundle at £0.90/game",
@@ -4741,6 +4768,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T15:11:04+00:00",
- "pushed": "2026-11-05T15:11:04+00:00"
+ "updated": "2026-11-05T15:13:04+00:00",
+ "pushed": "2026-11-05T15:13:04+00:00"
 }
