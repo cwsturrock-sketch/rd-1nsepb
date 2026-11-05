@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|840097545431|0",
+   "title": "Commodore 64 / 128 C64 Joblot Game Bundle - 24x Game Cassettes",
+   "label": "📦 24-game bundle at £0.98/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 23.5,
+   "value": 96,
+   "profit": 17.81,
+   "roi": 0.758,
+   "margin": 0.186,
+   "condition": "Good",
+   "seller_pct": 99.9,
+   "seller_score": 5686,
+   "flags": [
+    "⚠️ Bundle value is a guess (24 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/840097545431?hash=itemc399b73cd7:g:AYoAAeSwZK1p-xeS",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Commodore%2064%20%20%20128%20C64%20Joblot%20Game%20Bundle%20%20%2024x%20Game%20Cassettes&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/AYoAAeSwZK1p-xeS/s-l225.jpg",
+   "listed": "2026-11-05T19:00:15.000Z",
+   "sell_costs": 54.69,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-05T19:05:05+00:00"
+  },
+  {
    "id": "v1|168840361797|0",
    "title": "78 x Empty Xbox 360 Cases Joblot- Naruto Witcher Tekken Fable Red Dead 45",
    "label": "📦 78-game bundle at £0.64/game",
@@ -4960,6 +4987,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T19:01:05+00:00",
- "pushed": "2026-11-05T19:01:05+00:00"
+ "updated": "2026-11-05T19:05:05+00:00",
+ "pushed": "2026-11-05T19:05:05+00:00"
 }
