@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|206677699388|0",
+   "title": "Lot Of 30 Games/DVDs Xbox 360/PS3 READ DESCRIPTION",
+   "label": "📦 30-game bundle at £0.90/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 27.14,
+   "value": 120,
+   "profit": 32.1,
+   "roi": 1.183,
+   "margin": 0.268,
+   "condition": "Acceptable",
+   "seller_pct": 100.0,
+   "seller_score": 35,
+   "flags": [
+    "⚠️ Bundle value is a guess (30 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/206677699388?hash=item301ef36b3c:g:vAwAAeSwI3Jq7JnE",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Lot%20Of%2030%20Games%20DVDs%20Xbox%20360%20PS3%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/vAwAAeSwI3Jq7JnE/s-l225.jpg",
+   "listed": "2026-11-05T15:07:39.000Z",
+   "sell_costs": 60.76,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "ps3",
+   "time": "2026-11-05T15:11:04+00:00"
+  },
+  {
    "id": "v1|377623863713|0",
    "title": "JUDGE DREDD  - FULL GAME ON THE 32X  - PAL - BETA VERSION - FULLY BOXED - TESTED",
    "label": "📦 32-game bundle at £0.87/game",
@@ -4714,6 +4741,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T15:01:04+00:00",
- "pushed": "2026-11-05T15:01:04+00:00"
+ "updated": "2026-11-05T15:11:04+00:00",
+ "pushed": "2026-11-05T15:11:04+00:00"
 }
