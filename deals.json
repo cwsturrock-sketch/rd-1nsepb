@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|128177406969|0",
+   "title": "Job Lot 54x ZX Spectrum C64 Amstrad Cassette Tapes Games Sinclair Crash Untested",
+   "label": "📦 54-game bundle at £0.98/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 52.71,
+   "value": 216,
+   "profit": 78.24,
+   "roi": 1.484,
+   "margin": 0.362,
+   "condition": "Acceptable",
+   "seller_pct": 100.0,
+   "seller_score": 821,
+   "flags": [
+    "⚠️ Bundle value is a guess (54 games from the title × an average price): check the photos for what's actually in it",
+    "⚠️ Untested"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128177406969?hash=item1dd7f803f9:g:zAIAAeSwP6Zq7MWY",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Job%20Lot%2054x%20ZX%20Spectrum%20C64%20Amstrad%20Cassette%20Tapes%20Games%20Sinclair%20Crash%20Untested&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/zAIAAeSwP6Zq7MWY/s-l225.jpg",
+   "listed": "2026-11-05T18:11:34.000Z",
+   "sell_costs": 85.05,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-05T18:15:05+00:00"
+  },
+  {
    "id": "v1|800881654883|0",
    "title": "Sony PlayStation 4 Slim Black 1TB Console CUH-2016B PAL Wi-Fi HDMI 2016",
    "label": "🔥 PS4 console",
@@ -4905,6 +4933,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T18:13:06+00:00",
- "pushed": "2026-11-05T18:13:06+00:00"
+ "updated": "2026-11-05T18:15:05+00:00",
+ "pushed": "2026-11-05T18:15:05+00:00"
 }
