@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|168840361797|0",
+   "title": "78 x Empty Xbox 360 Cases Joblot- Naruto Witcher Tekken Fable Red Dead 45",
+   "label": "📦 78-game bundle at £0.64/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 50.0,
+   "value": 312,
+   "profit": 152.66,
+   "roi": 3.053,
+   "margin": 0.489,
+   "condition": "Good",
+   "seller_pct": 99.6,
+   "seller_score": 49816,
+   "flags": [
+    "⚠️ Bundle value is a guess (78 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/168840361797?hash=item274fab7745:g:Z4EAAeSw~0lq7FXJ",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=78%20x%20Empty%20Xbox%20360%20Cases%20Joblot%20%20Naruto%20Witcher%20Tekken%20Fable%20Red%20Dead%2045&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/Z4EAAeSw~0lq7FXJ/s-l225.jpg",
+   "listed": "2026-11-05T18:51:00.000Z",
+   "sell_costs": 109.34,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "xbox",
+   "time": "2026-11-05T18:51:05+00:00"
+  },
+  {
    "id": "v1|128177406969|0",
    "title": "Job Lot 54x ZX Spectrum C64 Amstrad Cassette Tapes Games Sinclair Crash Untested",
    "label": "📦 54-game bundle at £0.98/game",
@@ -4933,6 +4960,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T18:45:06+00:00",
- "pushed": "2026-11-05T18:45:06+00:00"
+ "updated": "2026-11-05T18:51:05+00:00",
+ "pushed": "2026-11-05T18:51:05+00:00"
 }
