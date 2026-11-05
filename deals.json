@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820320311290|0",
+   "title": "Commodore 64 Game Bundle jobLot 30 games Tapes only Star trek , hobbit & More ",
+   "label": "📦 30-game bundle at £0.84/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 25.2,
+   "value": 120,
+   "profit": 34.04,
+   "roi": 1.351,
+   "margin": 0.284,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 2313,
+   "flags": [
+    "⚠️ Bundle value is a guess (30 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820320311290?hash=itembefee697fa:g:bmQAAeSwwilp9zLK",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Commodore%2064%20Game%20Bundle%20jobLot%2030%20games%20Tapes%20only%20Star%20trek%20%20%20hobbit%20%20%20More%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/bmQAAeSwwilp9zLK/s-l225.jpg",
+   "listed": "2026-11-05T17:11:41.000Z",
+   "sell_costs": 60.76,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-05T17:17:05+00:00"
+  },
+  {
    "id": "v1|287707366516|0",
    "title": "Sony PlayStation 4 500GB Home Console - Jet Black",
    "label": "🔥 PS4 console",
@@ -4851,6 +4878,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T17:11:05+00:00",
- "pushed": "2026-11-05T17:11:05+00:00"
+ "updated": "2026-11-05T17:17:05+00:00",
+ "pushed": "2026-11-05T17:17:05+00:00"
 }
