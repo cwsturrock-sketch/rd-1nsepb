@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|307268124883|0",
+   "title": "Kirby Air Riders Switch 2 Game Cartridge",
+   "label": "🔥 Kirby Air Ride",
+   "verdict": "🟡 CONSIDER",
+   "cost": 25.71,
+   "value": 45,
+   "profit": 9.23,
+   "roi": 0.359,
+   "margin": 0.205,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 798,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 5 current UK listings start at £240"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307268124883?hash=item478a9b80d3:g:r-oAAeSwBYpq7Ia0",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Kirby%20Air%20Riders%20Switch%202%20Game%20Cartridge&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/r-oAAeSwBYpq7Ia0/s-l225.jpg",
+   "listed": "2026-11-05T13:39:09.000Z",
+   "sell_costs": 10.06,
+   "market_p25": 239.85,
+   "market_n": 5,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-05T13:43:06+00:00"
+  },
+  {
    "id": "v1|377622082720|0",
    "title": "PS3 Games Bundle Job Lot x35 Call of Duty Skyrim Batman Borderlands Mostly CIB",
    "label": "📦 35-game bundle at £1.14/game",
@@ -4579,6 +4606,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T13:39:04+00:00",
- "pushed": "2026-11-05T13:39:04+00:00"
+ "updated": "2026-11-05T13:43:06+00:00",
+ "pushed": "2026-11-05T13:43:06+00:00"
 }
