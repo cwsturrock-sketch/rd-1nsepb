@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|137907966447|0",
+   "title": "AtGames Sega Mega Drive Classic Game Console Boxed 81 Games Built-In Tested",
+   "label": "📦 81-game bundle at £0.72/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 58.14,
+   "value": 486,
+   "profit": 294.75,
+   "roi": 5.07,
+   "margin": 0.606,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 989,
+   "flags": [
+    "⚠️ Bundle value is a guess (81 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/137907966447?hash=item201bf491ef:g:FpIAAeSwBfJq7fDc",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=AtGames%20Sega%20Mega%20Drive%20Classic%20Game%20Console%20Boxed%2081%20Games%20Built%20In%20Tested&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/FpIAAeSwBfJq7fDc/s-l225.jpg",
+   "listed": "2026-11-06T15:24:34.000Z",
+   "sell_costs": 133.11,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 45.04,
+   "platform": "megadrive",
+   "time": "2026-11-06T15:49:07+00:00"
+  },
+  {
    "id": "v1|820321291958|0",
    "title": "Atari Flashback 3 Home Console Black X60 Classic Games Built-In - RCA - NEW",
    "label": "📦 60-game bundle at £0.75/game",
@@ -5126,6 +5153,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-05T22:35:05+00:00",
- "pushed": "2026-11-05T22:35:05+00:00"
+ "updated": "2026-11-06T15:49:07+00:00",
+ "pushed": "2026-11-06T15:49:07+00:00"
 }
