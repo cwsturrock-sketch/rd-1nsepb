@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|900071001311|0",
+   "title": "Nintendo Switch 2017 Console",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 69.75,
+   "value": 130,
+   "profit": 34.81,
+   "roi": 0.499,
+   "margin": 0.268,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 73,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £150"
+   ],
+   "url": "https://www.ebay.co.uk/itm/900071001311?hash=itemd190698cdf:g:HtYAAeSwsNFq7gcZ",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%202017%20Console&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/HtYAAeSwsNFq7gcZ/s-l225.jpg",
+   "listed": "2026-11-06T17:03:31.000Z",
+   "sell_costs": 25.44,
+   "market_p25": 149.99,
+   "market_n": 15,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-06T17:07:05+00:00"
+  },
+  {
    "id": "v1|820324682944|0",
    "title": "Family Games Compendium 20 Games PS1 Boxed & Complete",
    "label": "📦 20-game bundle at £0.40/game",
@@ -5180,6 +5207,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-06T17:01:05+00:00",
- "pushed": "2026-11-06T17:01:05+00:00"
+ "updated": "2026-11-06T17:07:05+00:00",
+ "pushed": "2026-11-06T17:07:05+00:00"
 }
