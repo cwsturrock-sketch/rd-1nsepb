@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820324682944|0",
+   "title": "Family Games Compendium 20 Games PS1 Boxed & Complete",
+   "label": "📦 20-game bundle at £0.40/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 7.99,
+   "value": 80,
+   "profit": 21.37,
+   "roi": 2.675,
+   "margin": 0.267,
+   "condition": "Very Good",
+   "seller_pct": 99.4,
+   "seller_score": 153,
+   "flags": [
+    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820324682944?hash=itembeff294cc0:g:Q00AAeSwejxq7f-f",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Family%20Games%20Compendium%2020%20Games%20PS1%20Boxed%20%20%20Complete&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/Q00AAeSwejxq7f-f/s-l225.jpg",
+   "listed": "2026-11-06T17:00:01.000Z",
+   "sell_costs": 50.64,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "ps1",
+   "time": "2026-11-06T17:01:05+00:00"
+  },
+  {
    "id": "v1|137907966447|0",
    "title": "AtGames Sega Mega Drive Classic Game Console Boxed 81 Games Built-In Tested",
    "label": "📦 81-game bundle at £0.72/game",
@@ -5153,6 +5180,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-06T16:57:04+00:00",
- "pushed": "2026-11-06T16:57:04+00:00"
+ "updated": "2026-11-06T17:01:05+00:00",
+ "pushed": "2026-11-06T17:01:05+00:00"
 }
