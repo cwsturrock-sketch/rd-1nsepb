@@ -1,6 +1,60 @@
 {
  "deals": [
   {
+   "id": "v1|840104726196|0",
+   "title": "Nintendo Switch Console Tablet Only - Fully Tested Working Perfectly. Fast Post",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 48.6,
+   "value": 89.89,
+   "profit": 20.98,
+   "roi": 0.432,
+   "margin": 0.233,
+   "condition": "Used",
+   "seller_pct": 99.9,
+   "seller_score": 5090,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 23 current UK listings start at £90"
+   ],
+   "url": "https://www.ebay.co.uk/itm/840104726196?hash=itemc39a24ceb4:g:jg0AAeSwsA5q72tP",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Console%20Tablet%20Only%20%20%20Fully%20Tested%20Working%20Perfectly%20%20Fast%20Post&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/jg0AAeSwsA5q72tP/s-l225.jpg",
+   "listed": "2026-11-07T18:19:16.000Z",
+   "sell_costs": 20.31,
+   "market_p25": 89.89,
+   "market_n": 23,
+   "offer_price": 38.21,
+   "platform": "switch",
+   "time": "2026-11-07T18:29:57+00:00"
+  },
+  {
+   "id": "v1|128181399302|0",
+   "title": "Sega dreamcast console (Broken, potential project)",
+   "label": "🔥 Dreamcast console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 37.11,
+   "value": 70,
+   "profit": 15.13,
+   "roi": 0.408,
+   "margin": 0.216,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 177,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 11 current UK listings start at £80"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128181399302?hash=item1dd834ef06:g:s5kAAeSw~~tq71Xv",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sega%20dreamcast%20console%20%20Broken%20%20potential%20project%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/s5kAAeSw~~tq71Xv/s-l225.jpg",
+   "listed": "2026-11-07T17:04:03.000Z",
+   "sell_costs": 17.76,
+   "market_p25": 79.99,
+   "market_n": 11,
+   "offer_price": 27.11,
+   "platform": "dreamcast",
+   "time": "2026-11-07T18:29:57+00:00"
+  },
+  {
    "id": "v1|366791035401|0",
    "title": "Nintendo Switch HAC-001 Console Black w/ Neon Red Joy-Con & Dock 32GB 1080p",
    "label": "🔥 Nintendo Switch console",
@@ -5262,6 +5316,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-06T21:21:04+00:00",
- "pushed": "2026-11-06T21:21:04+00:00"
+ "updated": "2026-11-07T18:29:57+00:00",
+ "pushed": "2026-11-07T18:29:57+00:00"
 }
