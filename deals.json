@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|336885771596|0",
+   "title": "Nintendo DS lite Games Bundle Star Fox, Mario Kart, Lego Star Wars, 42 Games",
+   "label": "📦 42-game bundle at £1.09/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 45.68,
+   "value": 168,
+   "profit": 49.42,
+   "roi": 1.082,
+   "margin": 0.294,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 1852,
+   "flags": [
+    "⚠️ Bundle value is a guess (42 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/336885771596?hash=item4e6ff4ed4c:g:kb0AAeSwCLNq73Th",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20DS%20lite%20Games%20Bundle%20Star%20Fox%20%20Mario%20Kart%20%20Lego%20Star%20Wars%20%2042%20Games&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/kb0AAeSwCLNq73Th/s-l225.jpg",
+   "listed": "2026-11-07T19:00:15.000Z",
+   "sell_costs": 72.9,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 35.95,
+   "platform": "ds",
+   "time": "2026-11-07T19:03:26+00:00"
+  },
+  {
    "id": "v1|840104726196|0",
    "title": "Nintendo Switch Console Tablet Only - Fully Tested Working Perfectly. Fast Post",
    "label": "🔥 Nintendo Switch console",
@@ -5316,6 +5343,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-07T19:01:05+00:00",
- "pushed": "2026-11-07T19:01:05+00:00"
+ "updated": "2026-11-07T19:03:26+00:00",
+ "pushed": "2026-11-07T19:03:26+00:00"
 }
