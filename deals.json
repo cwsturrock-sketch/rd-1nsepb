@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|840105337692|0",
+   "title": "PS3 Games Bundle x34 Job Lot Gran Turismo 5 Call of Duty Assassins Creed FIFA",
+   "label": "📦 34-game bundle at £1.32/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 44.79,
+   "value": 136,
+   "profit": 26.4,
+   "roi": 0.589,
+   "margin": 0.194,
+   "condition": "Good",
+   "seller_pct": 99.7,
+   "seller_score": 896,
+   "flags": [
+    "⚠️ Bundle value is a guess (34 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/840105337692?hash=itemc39a2e235c:g:59oAAeSwPddq7647",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=PS3%20Games%20Bundle%20x34%20Job%20Lot%20Gran%20Turismo%205%20Call%20of%20Duty%20Assassins%20Creed%20FIFA&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/59oAAeSwPddq7647/s-l225.jpg",
+   "listed": "2026-11-07T23:06:29.000Z",
+   "sell_costs": 64.81,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 32.42,
+   "platform": "ps3",
+   "time": "2026-11-07T23:11:05+00:00"
+  },
+  {
    "id": "v1|820328924453|0",
    "title": "Arc Raiders 🔥 15x ARC Data Module 🔥 ( PS5 / Xbox /PC )",
    "label": "📦 15-game bundle at £0.33/game",
@@ -5511,6 +5538,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-07T23:05:05+00:00",
- "pushed": "2026-11-07T23:05:05+00:00"
+ "updated": "2026-11-07T23:11:05+00:00",
+ "pushed": "2026-11-07T23:11:05+00:00"
 }
