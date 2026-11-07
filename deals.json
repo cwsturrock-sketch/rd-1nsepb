@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|287712546494|0",
+   "title": "x29 Mixed Video Games Joblot (PS2, PS3, PS4, PC & Xbox 360)",
+   "label": "📦 29-game bundle at £1.37/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 39.7,
+   "value": 116,
+   "profit": 16.55,
+   "roi": 0.417,
+   "margin": 0.143,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 415,
+   "flags": [
+    "⚠️ Bundle value is a guess (29 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287712546494?hash=item42fd010ebe:g:macAAeSwRIhq75Le",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=x29%20Mixed%20Video%20Games%20Joblot%20%20PS2%20%20PS3%20%20PS4%20%20PC%20%20%20Xbox%20360%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/macAAeSwRIhq75Le/s-l225.jpg",
+   "listed": "2026-11-07T21:09:12.000Z",
+   "sell_costs": 59.75,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 33.75,
+   "platform": "ps4",
+   "time": "2026-11-07T21:13:07+00:00"
+  },
+  {
    "id": "v1|307271877374|0",
    "title": "Pokemon SoulSilver (Cartridge Only) - Nintendo DS - Free P&P",
    "label": "🔥 Pokemon SoulSilver",
@@ -5457,6 +5484,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-07T21:09:04+00:00",
- "pushed": "2026-11-07T21:09:04+00:00"
+ "updated": "2026-11-07T21:13:07+00:00",
+ "pushed": "2026-11-07T21:13:07+00:00"
 }
