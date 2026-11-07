@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820328924453|0",
+   "title": "Arc Raiders 🔥 15x ARC Data Module 🔥 ( PS5 / Xbox /PC )",
+   "label": "📦 15-game bundle at £0.33/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 4.99,
+   "value": 60,
+   "profit": 9.43,
+   "roi": 1.89,
+   "margin": 0.157,
+   "condition": "New",
+   "seller_pct": 99.6,
+   "seller_score": 514,
+   "flags": [
+    "⚠️ Bundle value is a guess (15 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820328924453?hash=itembeff6a0525:g:nfoAAeSwY1hq75pV",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Arc%20Raiders%20%20%2015x%20ARC%20Data%20Module%20%20%20%20%20PS5%20%20%20Xbox%20%20PC%20%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/nfoAAeSwY1hq75pV/s-l225.jpg",
+   "listed": "2026-11-07T21:38:40.000Z",
+   "sell_costs": 45.58,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "ps5",
+   "time": "2026-11-07T21:43:05+00:00"
+  },
+  {
    "id": "v1|287712546494|0",
    "title": "x29 Mixed Video Games Joblot (PS2, PS3, PS4, PC & Xbox 360)",
    "label": "📦 29-game bundle at £1.37/game",
@@ -5484,6 +5511,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-07T21:35:05+00:00",
- "pushed": "2026-11-07T21:35:05+00:00"
+ "updated": "2026-11-07T21:43:05+00:00",
+ "pushed": "2026-11-07T21:43:05+00:00"
 }
