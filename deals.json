@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|900076108974|0",
+   "title": "Sony PlayStation 4 500GB Home Console - Jet Black",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 31.91,
+   "value": 83.91,
+   "profit": 32.46,
+   "roi": 1.017,
+   "margin": 0.387,
+   "condition": "For parts or not working",
+   "seller_pct": 0.0,
+   "seller_score": 0,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 0 reviews)",
+    "ℹ️ Market check: cheapest quarter of 9 current UK listings start at £84"
+   ],
+   "url": "https://www.ebay.co.uk/itm/900076108974?hash=itemd190b77cae:g:FmwAAeSw3pJq8Ofo",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20500GB%20Home%20Console%20%20%20Jet%20Black&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/FmwAAeSw3pJq8Ofo/s-l225.jpg",
+   "listed": "2026-11-08T21:27:11.000Z",
+   "sell_costs": 19.54,
+   "market_p25": 83.91,
+   "market_n": 9,
+   "offer_price": 22.7,
+   "platform": "ps4",
+   "time": "2026-11-08T21:35:07+00:00"
+  },
+  {
    "id": "v1|257842542859|0",
    "title": "Sony PSP Handheld System Console Black with Headphone Jack Connectivity",
    "label": "🔥 PSP console",
@@ -6119,6 +6147,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T21:33:06+00:00",
- "pushed": "2026-11-08T21:33:06+00:00"
+ "updated": "2026-11-08T21:35:07+00:00",
+ "pushed": "2026-11-08T21:35:07+00:00"
 }
