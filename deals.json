@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|366795242647|0",
+   "title": "POWKIDDY X55 Handheld System Game Console Blue with USB-C & 3.5mm Jack",
+   "label": "📦 55-game bundle at £0.76/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 41.6,
+   "value": 220,
+   "profit": 92.34,
+   "roi": 2.22,
+   "margin": 0.42,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 9,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 9 reviews)",
+    "⚠️ Bundle value is a guess (55 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/366795242647?hash=item5566b33c97:g:V8AAAeSwXRNq8MqI",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=POWKIDDY%20X55%20Handheld%20System%20Game%20Console%20Blue%20with%20USB%20C%20%20%203%205mm%20Jack&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/V8AAAeSwXRNq8MqI/s-l225.jpg",
+   "listed": "2026-11-08T19:18:06.000Z",
+   "sell_costs": 86.06,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 32.86,
+   "platform": "default",
+   "time": "2026-11-08T19:23:05+00:00"
+  },
+  {
    "id": "v1|840107970264|0",
    "title": "Nintendo Switch Console HAC-001 with Pink and Green Joy-Cons",
    "label": "🔥 Nintendo Switch console",
@@ -5925,6 +5953,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T19:19:05+00:00",
- "pushed": "2026-11-08T19:19:05+00:00"
+ "updated": "2026-11-08T19:23:05+00:00",
+ "pushed": "2026-11-08T19:23:05+00:00"
 }
