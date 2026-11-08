@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|366794662890|0",
+   "title": "52 PlayStation 2 Games Random Assortment",
+   "label": "📦 52-game bundle at £0.71/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 37.11,
+   "value": 156,
+   "profit": 42.52,
+   "roi": 1.146,
+   "margin": 0.273,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 166,
+   "flags": [
+    "⚠️ Bundle value is a guess (52 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/366794662890?hash=item5566aa63ea:g:ycsAAeSwtyJq8HHa",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=52%20PlayStation%202%20Games%20Random%20Assortment&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/ycsAAeSwtyJq8HHa/s-l225.jpg",
+   "listed": "2026-11-08T12:59:50.000Z",
+   "sell_costs": 76.37,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 27.11,
+   "platform": "ps2",
+   "time": "2026-11-08T13:03:09+00:00"
+  },
+  {
    "id": "v1|237171211352|0",
    "title": " Commodre 64 games approx 80 including case- Classic titles good condition ",
    "label": "📦 64-game bundle at £0.85/game",
@@ -5786,6 +5813,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T12:59:04+00:00",
- "pushed": "2026-11-08T12:59:04+00:00"
+ "updated": "2026-11-08T13:03:09+00:00",
+ "pushed": "2026-11-08T13:03:09+00:00"
 }
