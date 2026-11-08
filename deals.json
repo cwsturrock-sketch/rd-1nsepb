@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|840107970264|0",
+   "title": "Nintendo Switch Console HAC-001 with Pink and Green Joy-Cons",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 68.3,
+   "value": 123.46,
+   "profit": 30.56,
+   "roi": 0.447,
+   "margin": 0.248,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 298,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 21 current UK listings start at £123"
+   ],
+   "url": "https://www.ebay.co.uk/itm/840107970264?hash=itemc39a564ed8:g:AE4AAeSwsUlq8Lbo",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Console%20HAC%20001%20with%20Pink%20and%20Green%20Joy%20Cons&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/AE4AAeSwsUlq8Lbo/s-l225.jpg",
+   "listed": "2026-11-08T17:58:13.000Z",
+   "sell_costs": 24.6,
+   "market_p25": 123.46,
+   "market_n": 21,
+   "offer_price": 58.05,
+   "platform": "switch",
+   "time": "2026-11-08T18:01:05+00:00"
+  },
+  {
    "id": "v1|307273007929|0",
    "title": "Pokemon HeartGold (Cartridge Only) - Nintendo DS - Free P&P",
    "label": "🔥 Pokemon HeartGold",
@@ -5898,6 +5925,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T17:51:05+00:00",
- "pushed": "2026-11-08T17:51:05+00:00"
+ "updated": "2026-11-08T18:01:05+00:00",
+ "pushed": "2026-11-08T18:01:05+00:00"
 }
