@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|920118172580|0",
+   "title": "AtGames Sega Mega Drive Classic Console - 80 Games Built-In & Cartridge Slot",
+   "label": "📦 80-game bundle at £0.33/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 26.65,
+   "value": 480,
+   "profit": 321.51,
+   "roi": 12.064,
+   "margin": 0.67,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 135,
+   "flags": [
+    "⚠️ Bundle value is a guess (80 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/920118172580?hash=itemd63b511ba4:g:wMkAAeSw6Bhq8F-E",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=AtGames%20Sega%20Mega%20Drive%20Classic%20Console%20%20%2080%20Games%20Built%20In%20%20%20Cartridge%20Slot&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/wMkAAeSw6Bhq8F-E/s-l225.jpg",
+   "listed": "2026-11-08T11:44:00.000Z",
+   "sell_costs": 131.84,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 18.27,
+   "platform": "megadrive",
+   "time": "2026-11-08T11:49:04+00:00"
+  },
+  {
    "id": "v1|800892122155|0",
    "title": "Sony PlayStation 5 PS5 Home Console White & Black USB-A USB-C Connectivity",
    "label": "🔥 PS5 console",
@@ -5622,6 +5649,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T11:45:04+00:00",
- "pushed": "2026-11-08T11:45:04+00:00"
+ "updated": "2026-11-08T11:49:04+00:00",
+ "pushed": "2026-11-08T11:49:04+00:00"
 }
