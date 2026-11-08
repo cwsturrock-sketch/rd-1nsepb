@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|257842542859|0",
+   "title": "Sony PSP Handheld System Console Black with Headphone Jack Connectivity",
+   "label": "🔥 PSP console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 17.48,
+   "value": 50,
+   "profit": 17.32,
+   "roi": 0.991,
+   "margin": 0.346,
+   "condition": "For parts or not working",
+   "seller_pct": 0.0,
+   "seller_score": 466,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 466 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 12 current UK listings start at £59"
+   ],
+   "url": "https://www.ebay.co.uk/itm/257842542859?hash=item3c089cf90b:g:fGEAAeSw67Fq8Okc",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PSP%20Handheld%20System%20Console%20Black%20with%20Headphone%20Jack%20Connectivity&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/fGEAAeSw67Fq8Okc/s-l225.jpg",
+   "listed": "2026-11-08T21:27:48.000Z",
+   "sell_costs": 15.2,
+   "market_p25": 59.35,
+   "market_n": 12,
+   "offer_price": 12.36,
+   "platform": "psp",
+   "time": "2026-11-08T21:33:06+00:00"
+  },
+  {
    "id": "v1|257842541167|0",
    "title": "Sony PSP-1003 Black Handheld System Console UMD PAL 32MB Storage",
    "label": "🔥 PSP console",
@@ -6090,6 +6119,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T21:29:06+00:00",
- "pushed": "2026-11-08T21:29:06+00:00"
+ "updated": "2026-11-08T21:33:06+00:00",
+ "pushed": "2026-11-08T21:33:06+00:00"
 }
