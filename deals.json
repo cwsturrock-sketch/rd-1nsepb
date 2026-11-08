@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|257842541167|0",
+   "title": "Sony PSP-1003 Black Handheld System Console UMD PAL 32MB Storage",
+   "label": "🔥 PSP console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 22.3,
+   "value": 50,
+   "profit": 12.5,
+   "roi": 0.561,
+   "margin": 0.25,
+   "condition": "For parts or not working",
+   "seller_pct": 0.0,
+   "seller_score": 466,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 466 reviews)",
+    "ℹ️ Market check: cheapest quarter of 12 current UK listings start at £59"
+   ],
+   "url": "https://www.ebay.co.uk/itm/257842541167?hash=item3c089cf26f:g:vHwAAeSw8z1q8Oh0",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PSP%201003%20Black%20Handheld%20System%20Console%20UMD%20PAL%2032MB%20Storage&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/vHwAAeSw8z1q8Oh0/s-l225.jpg",
+   "listed": "2026-11-08T21:25:07.000Z",
+   "sell_costs": 15.2,
+   "market_p25": 59.35,
+   "market_n": 12,
+   "offer_price": 16.46,
+   "platform": "psp",
+   "time": "2026-11-08T21:29:06+00:00"
+  },
+  {
    "id": "v1|860125730068|0",
    "title": "Sony PlayStation 4 Slim Home Console Black USB-A Connectivity",
    "label": "🔥 PS4 console",
@@ -6062,6 +6090,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T21:21:05+00:00",
- "pushed": "2026-11-08T21:21:05+00:00"
+ "updated": "2026-11-08T21:29:06+00:00",
+ "pushed": "2026-11-08T21:29:06+00:00"
 }
