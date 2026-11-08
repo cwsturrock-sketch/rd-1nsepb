@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|237171211352|0",
+   "title": " Commodre 64 games approx 80 including case- Classic titles good condition ",
+   "label": "📦 64-game bundle at £0.85/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 54.15,
+   "value": 256,
+   "profit": 106.68,
+   "roi": 1.97,
+   "margin": 0.417,
+   "condition": "Good",
+   "seller_pct": 99.4,
+   "seller_score": 2501,
+   "flags": [
+    "⚠️ Bundle value is a guess (64 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/237171211352?hash=item3738817c58:g:8QAAAeSwBgRoIymn",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=%20Commodre%2064%20games%20approx%2080%20including%20case%20%20Classic%20titles%20good%20condition%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/8QAAAeSwBgRoIymn/s-l225.jpg",
+   "listed": "2026-11-08T12:54:22.000Z",
+   "sell_costs": 95.17,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 41.65,
+   "platform": "default",
+   "time": "2026-11-08T12:59:04+00:00"
+  },
+  {
    "id": "v1|327445930717|0",
    "title": "Parasite Eve II PS1 PlayStation 1 *Only 2nd Disc* UNTESTED",
    "label": "🔥 Parasite Eve II",
@@ -5759,6 +5786,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T12:57:06+00:00",
- "pushed": "2026-11-08T12:57:06+00:00"
+ "updated": "2026-11-08T12:59:04+00:00",
+ "pushed": "2026-11-08T12:59:04+00:00"
 }
