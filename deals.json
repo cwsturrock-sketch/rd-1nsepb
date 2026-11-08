@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|307273003151|0",
+   "title": "Pokemon SoulSilver (Cartridge Only) - Nintendo DS - Free P&P",
+   "label": "🔥 Pokemon SoulSilver",
+   "verdict": "🟡 CONSIDER",
+   "cost": 21.99,
+   "value": 43.96,
+   "profit": 12.04,
+   "roi": 0.548,
+   "margin": 0.274,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 99,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 23 current UK listings start at £44"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307273003151?hash=item478ae5f08f:g:qd0AAeSw5YJqSWGm",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20SoulSilver%20%20Cartridge%20Only%20%20%20%20Nintendo%20DS%20%20%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/qd0AAeSw5YJqSWGm/s-l225.jpg",
+   "listed": "2026-11-08T17:00:51.000Z",
+   "sell_costs": 9.93,
+   "market_p25": 43.96,
+   "market_n": 23,
+   "offer_price": 18.69,
+   "platform": "ds",
+   "time": "2026-11-08T17:05:06+00:00"
+  },
+  {
    "id": "v1|820331210353|0",
    "title": "Nintendo Switch HAC-001 Console Only - Grey",
    "label": "🔥 Nintendo Switch console",
@@ -5840,6 +5869,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T17:03:06+00:00",
- "pushed": "2026-11-08T17:03:06+00:00"
+ "updated": "2026-11-08T17:05:06+00:00",
+ "pushed": "2026-11-08T17:05:06+00:00"
 }
