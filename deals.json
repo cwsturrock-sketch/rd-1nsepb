@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|137913136335|0",
+   "title": "Powkiddy X55 Handheld 5.5 Inch  Console 128GB+16GB",
+   "label": "📦 55-game bundle at £1.39/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 76.2,
+   "value": 220,
+   "profit": 57.74,
+   "roi": 0.758,
+   "margin": 0.262,
+   "condition": "Opened – never used",
+   "seller_pct": 100.0,
+   "seller_score": 420,
+   "flags": [
+    "⚠️ Bundle value is a guess (55 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/137913136335?hash=item201c4374cf:g:wjoAAeSw9blq8F~k",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Powkiddy%20X55%20Handheld%205%205%20Inch%20%20Console%20128GB%2016GB&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/wjoAAeSw9blq8F~k/s-l225.jpg",
+   "listed": "2026-11-08T11:48:59.000Z",
+   "sell_costs": 86.06,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 62.48,
+   "platform": "default",
+   "time": "2026-11-08T11:53:04+00:00"
+  },
+  {
    "id": "v1|920118172580|0",
    "title": "AtGames Sega Mega Drive Classic Console - 80 Games Built-In & Cartridge Slot",
    "label": "📦 80-game bundle at £0.33/game",
@@ -5649,6 +5676,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T11:49:04+00:00",
- "pushed": "2026-11-08T11:49:04+00:00"
+ "updated": "2026-11-08T11:53:04+00:00",
+ "pushed": "2026-11-08T11:53:04+00:00"
 }
