@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|267837429822|0",
+   "title": "Nintendo Switch OLED Pokémon Scarlet & Violet Edition Console Please Read",
+   "label": "🔥 Nintendo Switch OLED console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 74.99,
+   "value": 130.4,
+   "profit": 29.92,
+   "roi": 0.399,
+   "margin": 0.229,
+   "condition": "Used",
+   "seller_pct": 99.9,
+   "seller_score": 1493,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 23 current UK listings start at £130"
+   ],
+   "url": "https://www.ebay.co.uk/itm/267837429822?hash=item3e5c5ad83e:g:HhEAAeSwO-9q4y1t",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20OLED%20Pok%C3%A9mon%20Scarlet%20%20%20Violet%20Edition%20Console%20Please%20Read&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/HhEAAeSwO-9q4y1t/s-l225.jpg",
+   "listed": "2026-11-08T12:18:28.000Z",
+   "sell_costs": 25.49,
+   "market_p25": 130.4,
+   "market_n": 23,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-08T12:23:06+00:00"
+  },
+  {
    "id": "v1|940075492272|0",
    "title": "Sony PSP Handheld System Console Black, Sony PSP Platform, Headphone Jack",
    "label": "🔥 PSP console",
@@ -5704,6 +5731,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T12:19:06+00:00",
- "pushed": "2026-11-08T12:19:06+00:00"
+ "updated": "2026-11-08T12:23:06+00:00",
+ "pushed": "2026-11-08T12:23:06+00:00"
 }
