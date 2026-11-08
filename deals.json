@@ -1,6 +1,87 @@
 {
  "deals": [
   {
+   "id": "v1|287714655733|0",
+   "title": "Mercury Flooring Wash&Clean Teppich, 40 x 60 cm, Rot, Schmutzfangm. ro (Mercury)",
+   "label": "📦 40-game bundle at £0.29/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 11.78,
+   "value": 160,
+   "profit": 77.34,
+   "roi": 6.565,
+   "margin": 0.483,
+   "condition": "New",
+   "seller_pct": 98.7,
+   "seller_score": 1736934,
+   "flags": [
+    "⚠️ Bundle value is a guess (40 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287714655733?hash=item42fd213df5:g:esMAAeSwthZq8OLL",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Mercury%20Flooring%20Wash%20Clean%20Teppich%20%2040%20x%2060%20cm%20%20Rot%20%20Schmutzfangm%20%20ro%20%20Mercury%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/esMAAeSwthZq8OLL/s-l225.jpg",
+   "listed": "2026-11-08T20:59:50.000Z",
+   "sell_costs": 70.88,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-08T21:03:06+00:00"
+  },
+  {
+   "id": "v1|800893808706|0",
+   "title": "Lego - Technic 42137 Formula E Porsche 99X Electric - Construction bl - Q1823z",
+   "label": "📦 99-game bundle at £0.60/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 59.66,
+   "value": 396,
+   "profit": 205.75,
+   "roi": 3.449,
+   "margin": 0.52,
+   "condition": "New",
+   "seller_pct": 99.5,
+   "seller_score": 167347,
+   "flags": [
+    "⚠️ Bundle value is a guess (99 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800893808706?hash=itemba78fdb042:i:800893808706",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Lego%20%20%20Technic%2042137%20Formula%20E%20Porsche%2099X%20Electric%20%20%20Construction%20bl%20%20%20Q1823z&LH_Sold=1&LH_Complete=1",
+   "image": null,
+   "listed": "2026-11-08T20:58:47.000Z",
+   "sell_costs": 130.59,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-08T21:03:06+00:00"
+  },
+  {
+   "id": "v1|287714650457|0",
+   "title": "Tesa 04671-00058-10 Gewebeklebeband tesa® 04671 Neongelb (L x B) 25m x 38 (tesa)",
+   "label": "📦 38-game bundle at £0.76/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 28.78,
+   "value": 152,
+   "profit": 54.36,
+   "roi": 1.889,
+   "margin": 0.358,
+   "condition": "New",
+   "seller_pct": 98.7,
+   "seller_score": 1736934,
+   "flags": [
+    "⚠️ Bundle value is a guess (38 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287714650457?hash=item42fd212959:g:5pMAAeSwJSVq8OJ~",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Tesa%2004671%2000058%2010%20Gewebeklebeband%20tesa%20%2004671%20Neongelb%20%20L%20x%20B%20%2025m%20x%2038%20%20tesa%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/5pMAAeSwJSVq8OJ~/s-l225.jpg",
+   "listed": "2026-11-08T20:58:35.000Z",
+   "sell_costs": 68.86,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-08T21:03:06+00:00"
+  },
+  {
    "id": "v1|366795242647|0",
    "title": "POWKIDDY X55 Handheld System Game Console Blue with USB-C & 3.5mm Jack",
    "label": "📦 55-game bundle at £0.76/game",
@@ -5953,6 +6034,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T21:01:05+00:00",
- "pushed": "2026-11-08T21:01:05+00:00"
+ "updated": "2026-11-08T21:03:06+00:00",
+ "pushed": "2026-11-08T21:03:06+00:00"
 }
