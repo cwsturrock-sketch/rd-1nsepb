@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|800892122155|0",
+   "title": "Sony PlayStation 5 PS5 Home Console White & Black USB-A USB-C Connectivity",
+   "label": "🔥 PS5 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 127.06,
+   "value": 300,
+   "profit": 125.74,
+   "roi": 0.99,
+   "margin": 0.419,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 4,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 4 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £459"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800892122155?hash=itemba78e3f42b:g:d5cAAeSwk~Vq8FJF",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%205%20PS5%20Home%20Console%20White%20%20%20Black%20USB%20A%20USB%20C%20Connectivity&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/d5cAAeSwk~Vq8FJF/s-l225.jpg",
+   "listed": "2026-11-08T10:43:50.000Z",
+   "sell_costs": 47.2,
+   "market_p25": 459.0,
+   "market_n": 14,
+   "offer_price": 102.25,
+   "platform": "ps5",
+   "time": "2026-11-08T10:49:06+00:00"
+  },
+  {
    "id": "v1|920116942444|0",
    "title": "20x Palworld Jetragon Level 80 perfect Stats (can do custom amount)",
    "label": "📦 20-game bundle at £0.06/game",
@@ -5593,6 +5622,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-08T10:39:06+00:00",
- "pushed": "2026-11-08T10:39:06+00:00"
+ "updated": "2026-11-08T10:49:06+00:00",
+ "pushed": "2026-11-08T10:49:06+00:00"
 }
