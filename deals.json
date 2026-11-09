@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|840111652770|0",
+   "title": "Nintendo Switch Lite Yellow Handheld System Read description batman bundle",
+   "label": "📦 Bundle incl. Nintendo Switch Lite",
+   "verdict": "🟡 CONSIDER",
+   "cost": 34.99,
+   "value": 71.67999999999999,
+   "profit": 18.71,
+   "roi": 0.535,
+   "margin": 0.261,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 171,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 31 current UK listings start at £72"
+   ],
+   "url": "https://www.ebay.co.uk/itm/840111652770?hash=itemc39a8e7fa2:g:y10AAeSwg2Fq8hUF",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Lite%20Yellow%20Handheld%20System%20Read%20description%20batman%20bundle&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/y10AAeSwg2Fq8hUF/s-l225.jpg",
+   "listed": "2026-11-09T18:49:37.000Z",
+   "sell_costs": 17.98,
+   "market_p25": 71.67999999999999,
+   "market_n": 31,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-09T18:53:06+00:00"
+  },
+  {
    "id": "v1|307273308546|0",
    "title": "Nintendo Switch 32GB Console - Neon Blue / Neon Red",
    "label": "🔥 Nintendo Switch console",
@@ -6477,6 +6504,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T18:43:05+00:00",
- "pushed": "2026-11-09T18:43:05+00:00"
+ "updated": "2026-11-09T18:53:06+00:00",
+ "pushed": "2026-11-09T18:53:06+00:00"
 }
