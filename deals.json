@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|307274422626|0",
+   "title": "Joblot of Xbox 360, PS2 and Wii games - scratched disc's x 27",
+   "label": "📦 27-game bundle at £0.79/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 21.36,
+   "value": 108,
+   "profit": 28.92,
+   "roi": 1.354,
+   "margin": 0.268,
+   "condition": "Acceptable",
+   "seller_pct": 100.0,
+   "seller_score": 3806,
+   "flags": [
+    "⚠️ Bundle value is a guess (27 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307274422626?hash=item478afb9962:g:J1IAAeSw5Gxq8dBa",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Joblot%20of%20Xbox%20360%20%20PS2%20and%20Wii%20games%20%20%20scratched%20disc%20s%20x%2027&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/J1IAAeSw5Gxq8dBa/s-l225.jpg",
+   "listed": "2026-11-09T14:04:31.000Z",
+   "sell_costs": 57.72,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "wii",
+   "time": "2026-11-09T14:09:05+00:00"
+  },
+  {
    "id": "v1|137915973615|0",
    "title": "Nintendo Switch 32GB Black V2 - Console Only - Won't Dock",
    "label": "🔥 Nintendo Switch console",
@@ -6256,6 +6283,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T13:57:09+00:00",
- "pushed": "2026-11-09T13:57:09+00:00"
+ "updated": "2026-11-09T14:09:05+00:00",
+ "pushed": "2026-11-09T14:09:05+00:00"
 }
