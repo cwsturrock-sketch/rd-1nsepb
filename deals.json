@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|198783978722|0",
+   "title": "Roblox Virtual Pet In-Game Item/Resource Icon x48 Blue - PC - Unbranded",
+   "label": "📦 48-game bundle at £0.25/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 11.93,
+   "value": 192,
+   "profit": 101.09,
+   "roi": 8.474,
+   "margin": 0.527,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 21,
+   "flags": [
+    "⚠️ Bundle value is a guess (48 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/198783978722?hash=item2e4872cce2:g:fxcAAeSwAxRq8izk",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Roblox%20Virtual%20Pet%20In%20Game%20Item%20Resource%20Icon%20x48%20Blue%20%20%20PC%20%20%20Unbranded&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/fxcAAeSwAxRq8izk/s-l225.jpg",
+   "listed": "2026-11-09T20:32:00.000Z",
+   "sell_costs": 78.98,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 7.64,
+   "platform": "default",
+   "time": "2026-11-09T20:37:06+00:00"
+  },
+  {
    "id": "v1|800897524783|0",
    "title": "30 x Vintage Retro BBC Model B / Micro Computer Games Bundle - Retro Gaming",
    "label": "📦 30-game bundle at £1.32/game",
@@ -6531,6 +6558,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T20:33:05+00:00",
- "pushed": "2026-11-09T20:33:05+00:00"
+ "updated": "2026-11-09T20:37:06+00:00",
+ "pushed": "2026-11-09T20:37:06+00:00"
 }
