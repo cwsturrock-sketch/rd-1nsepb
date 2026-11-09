@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|840111882871|0",
+   "title": "Wii Carnival Funfair Games - Over 25 Games. Unused.",
+   "label": "📦 25-game bundle at £0.25/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 6.2,
+   "value": 100,
+   "profit": 38.1,
+   "roi": 6.145,
+   "margin": 0.381,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 115,
+   "flags": [
+    "⚠️ Bundle value is a guess (25 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/840111882871?hash=itemc39a920277:g:r8AAAeSwHD5q8jDH",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Wii%20Carnival%20Funfair%20Games%20%20%20Over%2025%20Games%20%20Unused%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/r8AAAeSwHD5q8jDH/s-l225.jpg",
+   "listed": "2026-11-09T20:46:48.000Z",
+   "sell_costs": 55.7,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 2.98,
+   "platform": "wii",
+   "time": "2026-11-09T20:51:05+00:00"
+  },
+  {
    "id": "v1|198783978722|0",
    "title": "Roblox Virtual Pet In-Game Item/Resource Icon x48 Blue - PC - Unbranded",
    "label": "📦 48-game bundle at £0.25/game",
@@ -6558,6 +6585,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T20:49:04+00:00",
- "pushed": "2026-11-09T20:49:04+00:00"
+ "updated": "2026-11-09T20:51:05+00:00",
+ "pushed": "2026-11-09T20:51:05+00:00"
 }
