@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|377633239977|645903158186",
+   "title": "Metroid Fusion/Metroid: Zero Mission",
+   "label": "🔥 Metroid Fusion",
+   "verdict": "🟡 CONSIDER",
+   "cost": 11.1,
+   "value": 30,
+   "profit": 10.76,
+   "roi": 0.969,
+   "margin": 0.359,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 60,
+   "flags": [
+    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 32 current UK listings start at £40"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377633239977?hash=item57ecb1f3a9:g:WycAAeSwMOVq8fU~",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Metroid%20Fusion%20Metroid%20%20Zero%20Mission&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/WycAAeSwMOVq8fU~/s-l225.jpg",
+   "listed": "2026-11-09T16:39:32.000Z",
+   "sell_costs": 8.14,
+   "market_p25": 39.800000000000004,
+   "market_n": 32,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-09T16:43:06+00:00"
+  },
+  {
    "id": "v1|920122208874|0",
    "title": "Nintendo Switch HAC-001 Console Tablet Black + Red/Blue Joy-Con 32GB Wi-Fi USB-C",
    "label": "🔥 Nintendo Switch console",
@@ -6338,6 +6367,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T16:33:06+00:00",
- "pushed": "2026-11-09T16:33:06+00:00"
+ "updated": "2026-11-09T16:43:06+00:00",
+ "pushed": "2026-11-09T16:43:06+00:00"
 }
