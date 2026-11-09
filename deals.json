@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|117512762464|0",
+   "title": "Sony PlayStation 4 Slim Black Console",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 47.51,
+   "value": 86.97999999999999,
+   "profit": 19.54,
+   "roi": 0.411,
+   "margin": 0.225,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 154,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £87"
+   ],
+   "url": "https://www.ebay.co.uk/itm/117512762464?hash=item1b5c4e7460:g:V1gAAeSwJM1q8fcA",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20Slim%20Black%20Console&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/V1gAAeSwJM1q8fcA/s-l225.jpg",
+   "listed": "2026-11-09T16:40:19.000Z",
+   "sell_costs": 19.93,
+   "market_p25": 86.97999999999999,
+   "market_n": 15,
+   "offer_price": 35.95,
+   "platform": "ps4",
+   "time": "2026-11-09T16:45:05+00:00"
+  },
+  {
    "id": "v1|377633239977|645903158186",
    "title": "Metroid Fusion/Metroid: Zero Mission",
    "label": "🔥 Metroid Fusion",
@@ -6367,6 +6394,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T16:43:06+00:00",
- "pushed": "2026-11-09T16:43:06+00:00"
+ "updated": "2026-11-09T16:45:05+00:00",
+ "pushed": "2026-11-09T16:45:05+00:00"
 }
