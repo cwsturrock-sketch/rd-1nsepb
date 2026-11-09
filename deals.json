@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|880099268938|0",
+   "title": "Nintendo Game Boy Color Handheld Console Green CGB-001 Headphone Jack 1998",
+   "label": "🔥 Game Boy Color console",
+   "verdict": "🟢 BUY",
+   "cost": 9.93,
+   "value": 40,
+   "profit": 16.15,
+   "roi": 1.626,
+   "margin": 0.404,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 21,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £53"
+   ],
+   "url": "https://www.ebay.co.uk/itm/880099268938?hash=itemccea01194a:g:2IcAAeSw4k9q8eV-",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Game%20Boy%20Color%20Handheld%20Console%20Green%20CGB%20001%20Headphone%20Jack%201998&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/2IcAAeSw4k9q8eV-/s-l225.jpg",
+   "listed": "2026-11-09T15:25:50.000Z",
+   "sell_costs": 13.92,
+   "market_p25": 52.94,
+   "market_n": 16,
+   "offer_price": 5.94,
+   "platform": "gameboy",
+   "time": "2026-11-09T15:29:06+00:00"
+  },
+  {
    "id": "v1|307274422626|0",
    "title": "Joblot of Xbox 360, PS2 and Wii games - scratched disc's x 27",
    "label": "📦 27-game bundle at £0.79/game",
@@ -6283,6 +6310,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T15:23:07+00:00",
- "pushed": "2026-11-09T15:23:07+00:00"
+ "updated": "2026-11-09T15:29:06+00:00",
+ "pushed": "2026-11-09T15:29:06+00:00"
 }
