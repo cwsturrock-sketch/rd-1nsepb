@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|287716707941|0",
+   "title": "Job Lot x 27 Games PS3 Xbox 360 Wii PC - Mass Effect WWE 12 Plants vs Zombies",
+   "label": "📦 27-game bundle at £1.22/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 32.99,
+   "value": 108,
+   "profit": 17.29,
+   "roi": 0.524,
+   "margin": 0.16,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 2364,
+   "flags": [
+    "⚠️ Bundle value is a guess (27 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287716707941?hash=item42fd408e65:g:zwgAAeSwnvxq8fK0",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Job%20Lot%20x%2027%20Games%20PS3%20Xbox%20360%20Wii%20PC%20%20%20Mass%20Effect%20WWE%2012%20Plants%20vs%20Zombies&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/zwgAAeSwnvxq8fK0/s-l225.jpg",
+   "listed": "2026-11-09T16:44:58.000Z",
+   "sell_costs": 57.72,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 28.04,
+   "platform": "wii",
+   "time": "2026-11-09T16:49:06+00:00"
+  },
+  {
    "id": "v1|117512762464|0",
    "title": "Sony PlayStation 4 Slim Black Console",
    "label": "🔥 PS4 console",
@@ -6394,6 +6421,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T16:45:05+00:00",
- "pushed": "2026-11-09T16:45:05+00:00"
+ "updated": "2026-11-09T16:49:06+00:00",
+ "pushed": "2026-11-09T16:49:06+00:00"
 }
