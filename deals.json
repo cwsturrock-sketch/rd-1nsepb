@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|307273308546|0",
+   "title": "Nintendo Switch 32GB Console - Neon Blue / Neon Red",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 53.37,
+   "value": 130,
+   "profit": 51.19,
+   "roi": 0.959,
+   "margin": 0.394,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 5,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 5 reviews)",
+    "ℹ️ Market check: cheapest quarter of 22 current UK listings start at £150"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307273308546?hash=item478aea9982:g:Gv4AAeSwBfJq8PEC",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%2032GB%20Console%20%20%20Neon%20Blue%20%20%20Neon%20Red&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/Gv4AAeSwBfJq8PEC/s-l225.jpg",
+   "listed": "2026-11-09T18:00:01.000Z",
+   "sell_costs": 25.44,
+   "market_p25": 149.95,
+   "market_n": 22,
+   "offer_price": 42.49,
+   "platform": "switch",
+   "time": "2026-11-09T18:01:05+00:00"
+  },
+  {
    "id": "v1|960175349049|0",
    "title": "Nintendo Switch Console Black with Red/Blue Joy-Con & Extra joy con green spla",
    "label": "🔥 Nintendo Switch console",
@@ -6449,6 +6477,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T17:57:07+00:00",
- "pushed": "2026-11-09T17:57:07+00:00"
+ "updated": "2026-11-09T18:01:05+00:00",
+ "pushed": "2026-11-09T18:01:05+00:00"
 }
