@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820336313241|0",
+   "title": "DIGITUS monitor wall mount - for screens up to 32\" - VESA 75x75 & 100x (Digitus)",
+   "label": "📦 100-game bundle at £0.34/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 33.69,
+   "value": 400,
+   "profit": 234.71,
+   "roi": 6.967,
+   "margin": 0.587,
+   "condition": "New",
+   "seller_pct": 98.7,
+   "seller_score": 1738222,
+   "flags": [
+    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820336313241?hash=itembeffdac399:g:IJ4AAeSw3R9q8j8N",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=DIGITUS%20monitor%20wall%20mount%20%20%20for%20screens%20up%20to%2032%20%20%20%20VESA%2075x75%20%20%20100x%20%20Digitus%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/IJ4AAeSw3R9q8j8N/s-l225.jpg",
+   "listed": "2026-11-09T21:45:44.000Z",
+   "sell_costs": 131.6,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-09T21:49:06+00:00"
+  },
+  {
    "id": "v1|198784062113|0",
    "title": "Arc Raiders 🔥 100x Herbal Bandage 🔥 ( PS5 / Xbox /PC ) FAST DELIVERY & CHEAP",
    "label": "📦 100-game bundle at £0.08/game",
@@ -6612,6 +6639,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T21:39:06+00:00",
- "pushed": "2026-11-09T21:39:06+00:00"
+ "updated": "2026-11-09T21:49:06+00:00",
+ "pushed": "2026-11-09T21:49:06+00:00"
 }
