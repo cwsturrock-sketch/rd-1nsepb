@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|198784062113|0",
+   "title": "Arc Raiders 🔥 100x Herbal Bandage 🔥 ( PS5 / Xbox /PC ) FAST DELIVERY & CHEAP",
+   "label": "📦 100-game bundle at £0.08/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 7.99,
+   "value": 400,
+   "profit": 260.41,
+   "roi": 32.592,
+   "margin": 0.651,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 252,
+   "flags": [
+    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/198784062113?hash=item2e487412a1:g:2bgAAeSwx89q8jwm",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Arc%20Raiders%20%20%20100x%20Herbal%20Bandage%20%20%20%20%20PS5%20%20%20Xbox%20%20PC%20%20%20FAST%20DELIVERY%20%20%20CHEAP&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/2bgAAeSwx89q8jwm/s-l225.jpg",
+   "listed": "2026-11-09T21:34:08.000Z",
+   "sell_costs": 131.6,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "ps5",
+   "time": "2026-11-09T21:39:06+00:00"
+  },
+  {
    "id": "v1|840111882871|0",
    "title": "Wii Carnival Funfair Games - Over 25 Games. Unused.",
    "label": "📦 25-game bundle at £0.25/game",
@@ -6585,6 +6612,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T21:35:04+00:00",
- "pushed": "2026-11-09T21:35:04+00:00"
+ "updated": "2026-11-09T21:39:06+00:00",
+ "pushed": "2026-11-09T21:39:06+00:00"
 }
