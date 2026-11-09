@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|257843458915|0",
+   "title": "WORKING LOW FIRMWARE V11.0 PlayStation 500GB PS4 console CUH-1216A (2nd gen) PAL",
+   "label": "🔥 PS5 console",
+   "verdict": "🟢 BUY",
+   "cost": 95.09,
+   "value": 300,
+   "profit": 157.71,
+   "roi": 1.659,
+   "margin": 0.526,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 37,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 19 current UK listings start at £456"
+   ],
+   "url": "https://www.ebay.co.uk/itm/257843458915?hash=item3c08aaf363:g:Nc4AAeSwnT1q8bHR",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=WORKING%20LOW%20FIRMWARE%20V11%200%20PlayStation%20500GB%20PS4%20console%20CUH%201216A%20%202nd%20gen%20%20PAL&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/Nc4AAeSwnT1q8bHR/s-l225.jpg",
+   "listed": "2026-11-09T11:43:40.000Z",
+   "sell_costs": 47.2,
+   "market_p25": 455.88,
+   "market_n": 19,
+   "offer_price": 75.73,
+   "platform": "ps5",
+   "time": "2026-11-09T11:47:06+00:00"
+  },
+  {
    "id": "v1|900076108974|0",
    "title": "Sony PlayStation 4 500GB Home Console - Jet Black",
    "label": "🔥 PS4 console",
@@ -6147,6 +6174,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T11:37:04+00:00",
- "pushed": "2026-11-09T11:37:04+00:00"
+ "updated": "2026-11-09T11:47:06+00:00",
+ "pushed": "2026-11-09T11:47:06+00:00"
 }
