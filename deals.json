@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|198783315740|0",
+   "title": "FIFA 12 & FIFA 15 Xbox 360 Game Bundle Football EA Sports Job Lot Pack PAL",
+   "label": "📦 15-game bundle at £0.40/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 6.03,
+   "value": 60,
+   "profit": 8.39,
+   "roi": 1.391,
+   "margin": 0.14,
+   "condition": "Very Good",
+   "seller_pct": 99.2,
+   "seller_score": 1419,
+   "flags": [
+    "⚠️ Bundle value is a guess (15 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/198783315740?hash=item2e4868af1c:g:MC8AAeSwQAJq8cLV",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=FIFA%2012%20%20%20FIFA%2015%20Xbox%20360%20Game%20Bundle%20Football%20EA%20Sports%20Job%20Lot%20Pack%20PAL&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/MC8AAeSwQAJq8cLV/s-l225.jpg",
+   "listed": "2026-11-09T12:58:00.000Z",
+   "sell_costs": 45.58,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 2.81,
+   "platform": "xbox",
+   "time": "2026-11-09T13:01:04+00:00"
+  },
+  {
    "id": "v1|257843507279|0",
    "title": "Nintendo Switch Console Neon Blue/Neon Red Joy-Con",
    "label": "🔥 Nintendo Switch console",
@@ -6202,6 +6229,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T12:53:04+00:00",
- "pushed": "2026-11-09T12:53:04+00:00"
+ "updated": "2026-11-09T13:01:04+00:00",
+ "pushed": "2026-11-09T13:01:04+00:00"
 }
