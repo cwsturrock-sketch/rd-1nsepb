@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|800897524783|0",
+   "title": "30 x Vintage Retro BBC Model B / Micro Computer Games Bundle - Retro Gaming",
+   "label": "📦 30-game bundle at £1.32/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 39.5,
+   "value": 120,
+   "profit": 19.74,
+   "roi": 0.5,
+   "margin": 0.165,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 1062,
+   "flags": [
+    "⚠️ Bundle value is a guess (30 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800897524783?hash=itemba7936642f:g:bJkAAeSw2AdqZy8w",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=30%20x%20Vintage%20Retro%20BBC%20Model%20B%20%20%20Micro%20Computer%20Games%20Bundle%20%20%20Retro%20Gaming&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/bJkAAeSw2AdqZy8w/s-l225.jpg",
+   "listed": "2026-11-09T20:29:44.000Z",
+   "sell_costs": 60.76,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 29.75,
+   "platform": "default",
+   "time": "2026-11-09T20:33:05+00:00"
+  },
+  {
    "id": "v1|840111652770|0",
    "title": "Nintendo Switch Lite Yellow Handheld System Read description batman bundle",
    "label": "📦 Bundle incl. Nintendo Switch Lite",
@@ -6504,6 +6531,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T20:31:04+00:00",
- "pushed": "2026-11-09T20:31:04+00:00"
+ "updated": "2026-11-09T20:33:05+00:00",
+ "pushed": "2026-11-09T20:33:05+00:00"
 }
