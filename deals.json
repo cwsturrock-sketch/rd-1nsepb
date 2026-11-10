@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|257846033797|0",
+   "title": "Nintendo DS Lite USG-003 Handheld Gaming Console Genuine Batteries Tested VGC",
+   "label": "🔥 Nintendo DS Lite console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 8.38,
+   "value": 30,
+   "profit": 8.98,
+   "roi": 1.072,
+   "margin": 0.299,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 537,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 9 current UK listings start at £39"
+   ],
+   "url": "https://www.ebay.co.uk/itm/257846033797?hash=item3c08d23d85:g:wlsAAeSwsA5q83Wi",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20DS%20Lite%20USG%20003%20Handheld%20Gaming%20Console%20Genuine%20Batteries%20Tested%20VGC&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/wlsAAeSwsA5q83Wi/s-l225.jpg",
+   "listed": "2026-11-10T19:57:59.000Z",
+   "sell_costs": 12.64,
+   "market_p25": 38.74,
+   "market_n": 9,
+   "offer_price": 4.62,
+   "platform": "ds",
+   "time": "2026-11-10T20:03:06+00:00"
+  },
+  {
    "id": "v1|820339556633|0",
    "title": "AtGames Sega Mega Drive Classic Game Console Boxed 81 Games Built-In Tested",
    "label": "📦 81-game bundle at £0.66/game",
@@ -6916,6 +6943,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-10T19:53:06+00:00",
- "pushed": "2026-11-10T19:53:06+00:00"
+ "updated": "2026-11-10T20:03:06+00:00",
+ "pushed": "2026-11-10T20:03:06+00:00"
 }
