@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820339556633|0",
+   "title": "AtGames Sega Mega Drive Classic Game Console Boxed 81 Games Built-In Tested",
+   "label": "📦 81-game bundle at £0.66/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 53.71,
+   "value": 486,
+   "profit": 299.18,
+   "roi": 5.57,
+   "margin": 0.616,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 697,
+   "flags": [
+    "⚠️ Bundle value is a guess (81 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820339556633?hash=itembf000c4119:g:T4oAAeSww~1q8yh2",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=AtGames%20Sega%20Mega%20Drive%20Classic%20Game%20Console%20Boxed%2081%20Games%20Built%20In%20Tested&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/T4oAAeSww~1q8yh2/s-l225.jpg",
+   "listed": "2026-11-10T19:26:47.000Z",
+   "sell_costs": 133.11,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "megadrive",
+   "time": "2026-11-10T19:31:05+00:00"
+  },
+  {
    "id": "v1|960178242583|0",
    "title": "Sony PSP 1003 Series Handheld Game Console - Black - Doesn't Turn On ",
    "label": "🔥 PSP console",
@@ -6889,6 +6916,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-10T19:23:04+00:00",
- "pushed": "2026-11-10T19:23:04+00:00"
+ "updated": "2026-11-10T19:31:05+00:00",
+ "pushed": "2026-11-10T19:31:05+00:00"
 }
