@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|960178242583|0",
+   "title": "Sony PSP 1003 Series Handheld Game Console - Black - Doesn't Turn On ",
+   "label": "🔥 PSP console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 25.64,
+   "value": 50,
+   "profit": 9.16,
+   "roi": 0.357,
+   "margin": 0.183,
+   "condition": "For parts or not working",
+   "seller_pct": 99.8,
+   "seller_score": 1179,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 9 current UK listings start at £50"
+   ],
+   "url": "https://www.ebay.co.uk/itm/960178242583?hash=itemdf8f154417:g:jJ4AAeSwZlxq8vdC",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PSP%201003%20Series%20Handheld%20Game%20Console%20%20%20Black%20%20%20Doesn%20t%20Turn%20On%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/jJ4AAeSwZlxq8vdC/s-l225.jpg",
+   "listed": "2026-11-10T19:00:01.000Z",
+   "sell_costs": 15.2,
+   "market_p25": 50.44,
+   "market_n": 9,
+   "offer_price": null,
+   "platform": "psp",
+   "time": "2026-11-10T19:01:10+00:00"
+  },
+  {
    "id": "v1|407353246416|0",
    "title": "Nintendo Switch  HAC-001-01 - Console & Joycons - Tested & Working",
    "label": "🔥 Nintendo Switch console",
@@ -6862,6 +6889,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-10T18:55:04+00:00",
- "pushed": "2026-11-10T18:55:04+00:00"
+ "updated": "2026-11-10T19:01:10+00:00",
+ "pushed": "2026-11-10T19:01:10+00:00"
 }
