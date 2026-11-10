@@ -1,6 +1,119 @@
 {
  "deals": [
   {
+   "id": "v1|198785771582|497684672380",
+   "title": "Metroid Fusion/Metroid: Zero Mission",
+   "label": "🔥 Metroid Fusion",
+   "verdict": "🟡 CONSIDER",
+   "cost": 11.0,
+   "value": 30,
+   "profit": 10.86,
+   "roi": 0.987,
+   "margin": 0.362,
+   "condition": "New",
+   "seller_pct": 98.6,
+   "seller_score": 232,
+   "flags": [
+    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 31 current UK listings start at £38"
+   ],
+   "url": "https://www.ebay.co.uk/itm/198785771582?hash=item2e488e283e:g:IGIAAeSw-hpq8zzX",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Metroid%20Fusion%20Metroid%20%20Zero%20Mission&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/IGIAAeSw-hpq8zzX/s-l225.jpg",
+   "listed": "2026-11-10T15:56:23.000Z",
+   "sell_costs": 8.14,
+   "market_p25": 37.7,
+   "market_n": 31,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-10T16:29:58+00:00"
+  },
+  {
+   "id": "v1|820338975414|0",
+   "title": "Playstation 2, PS2 Slim Black - Console And Wires Only",
+   "label": "🔥 PS2 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 17.54,
+   "value": 40,
+   "profit": 8.54,
+   "roi": 0.487,
+   "margin": 0.213,
+   "condition": "For parts or not working",
+   "seller_pct": 99.9,
+   "seller_score": 908,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 9 current UK listings start at £79"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820338975414?hash=itembf000362b6:g:UE8AAeSwsNFq8fHw",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Playstation%202%20%20PS2%20Slim%20Black%20%20%20Console%20And%20Wires%20Only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/UE8AAeSwsNFq8fHw/s-l225.jpg",
+   "listed": "2026-11-10T16:05:30.000Z",
+   "sell_costs": 13.92,
+   "market_p25": 78.71,
+   "market_n": 9,
+   "offer_price": 13.59,
+   "platform": "ps2",
+   "time": "2026-11-10T16:29:58+00:00"
+  },
+  {
+   "id": "v1|307276019543|0",
+   "title": "Sega dreamcast console (Broken, potential project)",
+   "label": "🔥 Dreamcast console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 38.54,
+   "value": 70,
+   "profit": 13.7,
+   "roi": 0.355,
+   "margin": 0.196,
+   "condition": "For parts or not working",
+   "seller_pct": 99.9,
+   "seller_score": 2088,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £80"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307276019543?hash=item478b13f757:g:i2AAAeSwVr1q8ymj",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sega%20dreamcast%20console%20%20Broken%20%20potential%20project%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/i2AAAeSwVr1q8ymj/s-l225.jpg",
+   "listed": "2026-11-10T15:08:40.000Z",
+   "sell_costs": 17.76,
+   "market_p25": 79.99,
+   "market_n": 13,
+   "offer_price": null,
+   "platform": "dreamcast",
+   "time": "2026-11-10T16:29:58+00:00"
+  },
+  {
+   "id": "v1|880102303608|0",
+   "title": "Radiant Historia Nintendo DS Game",
+   "label": "Radiant Historia (DS)",
+   "verdict": "🟡 CONSIDER",
+   "cost": 34.62,
+   "value": 60,
+   "profit": 13.4,
+   "roi": 0.387,
+   "margin": 0.223,
+   "condition": "Like New",
+   "seller_pct": 100.0,
+   "seller_score": 806,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 10 current UK listings start at £92"
+   ],
+   "url": "https://www.ebay.co.uk/itm/880102303608?_skw=Radiant+Historia++&hash=itemccea2f6778:g:SaYAAeSwfIxq8yLI",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Radiant%20Historia%20Nintendo%20DS%20Game&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/SaYAAeSwfIxq8yLI/s-l225.jpg",
+   "listed": "2026-11-10T13:58:23.000Z",
+   "sell_costs": 11.98,
+   "market_p25": 92.22,
+   "market_n": 10,
+   "offer_price": 27.11,
+   "platform": "ds",
+   "source": "sweep",
+   "time": "2026-11-10T16:29:58+00:00"
+  },
+  {
    "id": "v1|198784083301|0",
    "title": "Sony PlayStation 4 PS4 Home Console, Black, HDMI Connectivity",
    "label": "🔥 PS4 console",
@@ -6667,6 +6780,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-09T22:13:05+00:00",
- "pushed": "2026-11-09T22:13:05+00:00"
+ "updated": "2026-11-10T16:29:58+00:00",
+ "pushed": "2026-11-10T16:29:58+00:00"
 }
