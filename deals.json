@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|128187106138|0",
+   "title": "Sony PlayStation 4 PS4 Console 500GB 1080p Black Region Free CUH-1001A",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 34.51,
+   "value": 75.19999999999999,
+   "profit": 22.26,
+   "roi": 0.645,
+   "margin": 0.296,
+   "condition": "For parts or not working",
+   "seller_pct": 0.0,
+   "seller_score": 1,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 1 reviews)",
+    "ℹ️ Market check: cheapest quarter of 10 current UK listings start at £75"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128187106138?hash=item1dd88c035a:g:dOMAAeSwclZq80Un",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20Console%20500GB%201080p%20Black%20Region%20Free%20CUH%201001A&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/dOMAAeSwclZq80Un/s-l225.jpg",
+   "listed": "2026-11-10T16:24:37.000Z",
+   "sell_costs": 18.43,
+   "market_p25": 75.19999999999999,
+   "market_n": 10,
+   "offer_price": 24.91,
+   "platform": "ps4",
+   "time": "2026-11-10T16:31:10+00:00"
+  },
+  {
    "id": "v1|198785771582|497684672380",
    "title": "Metroid Fusion/Metroid: Zero Mission",
    "label": "🔥 Metroid Fusion",
@@ -6780,6 +6808,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-10T16:29:58+00:00",
- "pushed": "2026-11-10T16:29:58+00:00"
+ "updated": "2026-11-10T16:31:10+00:00",
+ "pushed": "2026-11-10T16:31:10+00:00"
 }
