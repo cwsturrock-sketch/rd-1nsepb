@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|267839809067|0",
+   "title": "Roblox Adopt X20 Crystal Eggs",
+   "label": "📦 20-game bundle at £0.38/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 7.5,
+   "value": 80,
+   "profit": 21.86,
+   "roi": 2.915,
+   "margin": 0.273,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 209,
+   "flags": [
+    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/267839809067?hash=item3e5c7f262b:g:tAEAAeSwgjFq80zB",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Roblox%20Adopt%20X20%20Crystal%20Eggs&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/tAEAAeSwgjFq80zB/s-l225.jpg",
+   "listed": "2026-11-10T16:58:12.000Z",
+   "sell_costs": 50.64,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-10T17:01:06+00:00"
+  },
+  {
    "id": "v1|128187106138|0",
    "title": "Sony PlayStation 4 PS4 Console 500GB 1080p Black Region Free CUH-1001A",
    "label": "🔥 PS4 console",
@@ -6808,6 +6835,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-10T16:53:09+00:00",
- "pushed": "2026-11-10T16:53:09+00:00"
+ "updated": "2026-11-10T17:01:06+00:00",
+ "pushed": "2026-11-10T17:01:06+00:00"
 }
