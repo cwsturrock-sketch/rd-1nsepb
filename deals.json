@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|137922354687|0",
+   "title": "Sony PlayStation 5 PS5 GOW Ragnarok Edition Game and Box NO CONSOLE ",
+   "label": "🔥 PS5 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 163.46,
+   "value": 300,
+   "profit": 89.34,
+   "roi": 0.547,
+   "margin": 0.298,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 287,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 33 current UK listings start at £454"
+   ],
+   "url": "https://www.ebay.co.uk/itm/137922354687?hash=item201cd01dff:g:OdkAAeSwob5q9K6d",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%205%20PS5%20GOW%20Ragnarok%20Edition%20Game%20and%20Box%20NO%20CONSOLE%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/OdkAAeSwob5q9K6d/s-l225.jpg",
+   "listed": "2026-11-11T18:09:06.000Z",
+   "sell_costs": 47.2,
+   "market_p25": 453.95,
+   "market_n": 33,
+   "offer_price": 133.19,
+   "platform": "ps5",
+   "time": "2026-11-11T18:13:05+00:00"
+  },
+  {
    "id": "v1|840118431038|0",
    "title": "UNBOXED ASSORTED SNES GAME BUNDLE - X 32 GAMES TOTAL - AS PICTURED",
    "label": "📦 32-game bundle at £1.48/game",
@@ -7139,6 +7166,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-11T18:09:05+00:00",
- "pushed": "2026-11-11T18:09:05+00:00"
+ "updated": "2026-11-11T18:13:05+00:00",
+ "pushed": "2026-11-11T18:13:05+00:00"
 }
