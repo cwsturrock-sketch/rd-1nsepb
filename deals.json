@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|960183351871|0",
+   "title": "Nintendo Switch Oled 64GB Tablet / Console Only",
+   "label": "🔥 Nintendo Switch OLED console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 81.64,
+   "value": 141.73999999999998,
+   "profit": 33.16,
+   "roi": 0.406,
+   "margin": 0.234,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 1873,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 21 current UK listings start at £142"
+   ],
+   "url": "https://www.ebay.co.uk/itm/960183351871?hash=itemdf8f633a3f:g:CgQAAeSwyxZq9JD7",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Oled%2064GB%20Tablet%20%20%20Console%20Only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/CgQAAeSwyxZq9JD7/s-l225.jpg",
+   "listed": "2026-11-11T16:00:07.000Z",
+   "sell_costs": 26.94,
+   "market_p25": 141.73999999999998,
+   "market_n": 21,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-11T16:05:06+00:00"
+  },
+  {
    "id": "v1|237177282797|0",
    "title": "Konami Silent Hill 2 (PS5) Silent Hill Series Survival Horror PEGI 18",
    "label": "🔥 Silent Hill 2",
@@ -7084,6 +7112,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-11T16:03:04+00:00",
- "pushed": "2026-11-11T16:03:04+00:00"
+ "updated": "2026-11-11T16:05:06+00:00",
+ "pushed": "2026-11-11T16:05:06+00:00"
 }
