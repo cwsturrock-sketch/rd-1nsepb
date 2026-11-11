@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|128188594531|0",
+   "title": "Nintendo Switch Original HAC-001 Console – Water Damaged – Not Turning On",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 29.64,
+   "value": 105.53999999999999,
+   "profit": 53.59,
+   "roi": 1.808,
+   "margin": 0.508,
+   "condition": "For parts or not working",
+   "seller_pct": 0.0,
+   "seller_score": 180,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 180 reviews)",
+    "ℹ️ Market check: cheapest quarter of 23 current UK listings start at £106"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128188594531?hash=item1dd8a2b963:g:qFUAAeSwajVq9Fq7",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Original%20HAC%20001%20Console%20%20%20Water%20Damaged%20%20%20Not%20Turning%20On&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/qFUAAeSwajVq9Fq7/s-l225.jpg",
+   "listed": "2026-11-11T12:10:18.000Z",
+   "sell_costs": 22.31,
+   "market_p25": 105.53999999999999,
+   "market_n": 23,
+   "offer_price": 22.7,
+   "platform": "switch",
+   "time": "2026-11-11T12:15:05+00:00"
+  },
+  {
    "id": "v1|257846033797|0",
    "title": "Nintendo DS Lite USG-003 Handheld Gaming Console Genuine Batteries Tested VGC",
    "label": "🔥 Nintendo DS Lite console",
@@ -6943,6 +6971,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-11T12:11:04+00:00",
- "pushed": "2026-11-11T12:11:04+00:00"
+ "updated": "2026-11-11T12:15:05+00:00",
+ "pushed": "2026-11-11T12:15:05+00:00"
 }
