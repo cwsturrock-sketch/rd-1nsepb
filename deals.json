@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|287721434386|0",
+   "title": "Sony PSP-1003 PlayStation Portable Black Handheld System Console",
+   "label": "🔥 PSP console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 24.99,
+   "value": 50,
+   "profit": 9.81,
+   "roi": 0.393,
+   "margin": 0.196,
+   "condition": "For parts or not working",
+   "seller_pct": 99.8,
+   "seller_score": 17587,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 11 current UK listings start at £50"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287721434386?hash=item42fd88ad12:g:kx4AAeSwzHBq9GXj",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PSP%201003%20PlayStation%20Portable%20Black%20Handheld%20System%20Console&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/kx4AAeSwzHBq9GXj/s-l225.jpg",
+   "listed": "2026-11-11T12:58:30.000Z",
+   "sell_costs": 15.2,
+   "market_p25": 50.44,
+   "market_n": 11,
+   "offer_price": null,
+   "platform": "psp",
+   "time": "2026-11-11T13:03:06+00:00"
+  },
+  {
    "id": "v1|128188594531|0",
    "title": "Nintendo Switch Original HAC-001 Console – Water Damaged – Not Turning On",
    "label": "🔥 Nintendo Switch console",
@@ -6971,6 +6999,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-11T12:57:04+00:00",
- "pushed": "2026-11-11T12:57:04+00:00"
+ "updated": "2026-11-11T13:03:06+00:00",
+ "pushed": "2026-11-11T13:03:06+00:00"
 }
