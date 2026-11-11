@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|307277587982|0",
+   "title": "Pokemon FireRed/LeafGreen Bundle (Cartridges Only) - GBA - Free P&P",
+   "label": "📦 Bundle incl. Pokemon FireRed / LeafGreen",
+   "verdict": "🟡 CONSIDER",
+   "cost": 20.0,
+   "value": 52.690000000000005,
+   "profit": 21.65,
+   "roi": 1.082,
+   "margin": 0.411,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 100,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Too few photos to check the cartridge: ask for the label, the back code and the circuit board",
+    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £53"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307277587982?hash=item478b2be60e:g:6bQAAeSwAoxq0pST",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20FireRed%20LeafGreen%20Bundle%20%20Cartridges%20Only%20%20%20%20GBA%20%20%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/6bQAAeSwAoxq0pST/s-l225.jpg",
+   "listed": "2026-11-11T14:45:00.000Z",
+   "sell_costs": 11.04,
+   "market_p25": 52.690000000000005,
+   "market_n": 13,
+   "offer_price": 17.0,
+   "platform": "gameboy",
+   "time": "2026-11-11T14:49:06+00:00"
+  },
+  {
    "id": "v1|227609568444|0",
    "title": "Sony PSP Handheld Console PSP-1003/PSP-3003 Black Wi-Fi Headphone Jack",
    "label": "🔥 PSP console",
@@ -7027,6 +7056,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-11T14:39:05+00:00",
- "pushed": "2026-11-11T14:39:05+00:00"
+ "updated": "2026-11-11T14:49:06+00:00",
+ "pushed": "2026-11-11T14:49:06+00:00"
 }
