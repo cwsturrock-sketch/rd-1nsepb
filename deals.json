@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|840118431038|0",
+   "title": "UNBOXED ASSORTED SNES GAME BUNDLE - X 32 GAMES TOTAL - AS PICTURED",
+   "label": "📦 32-game bundle at £1.48/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 47.49,
+   "value": 384,
+   "profit": 240.96,
+   "roi": 5.074,
+   "margin": 0.627,
+   "condition": "Acceptable",
+   "seller_pct": 98.8,
+   "seller_score": 19869,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/840118431038?hash=itemc39af5ed3e:g:wC8AAeSw3R9q9Ka3",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=UNBOXED%20ASSORTED%20SNES%20GAME%20BUNDLE%20%20%20X%2032%20GAMES%20TOTAL%20%20%20AS%20PICTURED&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/wC8AAeSw3R9q9Ka3/s-l225.jpg",
+   "listed": "2026-11-11T17:45:45.000Z",
+   "sell_costs": 95.55,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "snes",
+   "time": "2026-11-11T17:49:04+00:00"
+  },
+  {
    "id": "v1|960183351871|0",
    "title": "Nintendo Switch Oled 64GB Tablet / Console Only",
    "label": "🔥 Nintendo Switch OLED console",
@@ -7112,6 +7139,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-11T17:43:04+00:00",
- "pushed": "2026-11-11T17:43:04+00:00"
+ "updated": "2026-11-11T17:49:04+00:00",
+ "pushed": "2026-11-11T17:49:04+00:00"
 }
