@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|227609568444|0",
+   "title": "Sony PSP Handheld Console PSP-1003/PSP-3003 Black Wi-Fi Headphone Jack",
+   "label": "🔥 PSP console",
+   "verdict": "🟢 BUY",
+   "cost": 18.85,
+   "value": 50,
+   "profit": 15.95,
+   "roi": 0.846,
+   "margin": 0.319,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 1787,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 11 current UK listings start at £50"
+   ],
+   "url": "https://www.ebay.co.uk/itm/227609568444?hash=item34fe9664bc:g:QOoAAeSwBXNq9HE6",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PSP%20Handheld%20Console%20PSP%201003%20PSP%203003%20Black%20Wi%20Fi%20Headphone%20Jack&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/QOoAAeSwBXNq9HE6/s-l225.jpg",
+   "listed": "2026-11-11T13:50:31.000Z",
+   "sell_costs": 15.2,
+   "market_p25": 50.44,
+   "market_n": 11,
+   "offer_price": 13.73,
+   "platform": "psp",
+   "time": "2026-11-11T13:55:07+00:00"
+  },
+  {
    "id": "v1|287721434386|0",
    "title": "Sony PSP-1003 PlayStation Portable Black Handheld System Console",
    "label": "🔥 PSP console",
@@ -6999,6 +7027,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-11T13:47:07+00:00",
- "pushed": "2026-11-11T13:47:07+00:00"
+ "updated": "2026-11-11T13:55:07+00:00",
+ "pushed": "2026-11-11T13:55:07+00:00"
 }
