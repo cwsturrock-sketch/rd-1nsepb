@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|800908084908|0",
+   "title": "Nintendo 3DS Red PAL Handheld Console 3D Capable 2GB CTR-001(EUR)",
+   "label": "🔥 Nintendo 3DS console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 28.6,
+   "value": 70,
+   "profit": 23.64,
+   "roi": 0.827,
+   "margin": 0.338,
+   "condition": "For parts or not working",
+   "seller_pct": 80.0,
+   "seller_score": 4,
+   "flags": [
+    "⚠️ Seller trust low (80.0% · 4 reviews)",
+    "ℹ️ Market check: cheapest quarter of 6 current UK listings start at £124"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800908084908?hash=itemba79d786ac:g:RzEAAeSwTZNq9c95",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%203DS%20Red%20PAL%20Handheld%20Console%203D%20Capable%202GB%20CTR%20001%20EUR%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/RzEAAeSwTZNq9c95/s-l225.jpg",
+   "listed": "2026-11-12T14:39:24.000Z",
+   "sell_costs": 17.76,
+   "market_p25": 124.28,
+   "market_n": 6,
+   "offer_price": 21.81,
+   "platform": "3ds",
+   "time": "2026-11-12T14:43:06+00:00"
+  },
+  {
    "id": "v1|860137636968|0",
    "title": "59x PS3 PlayStation 3 Games Bundle/Joblot Discs Only Few Duplicates Good Mix GC ",
    "label": "📦 59-game bundle at £0.72/game",
@@ -7414,6 +7442,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-12T14:35:04+00:00",
- "pushed": "2026-11-12T14:35:04+00:00"
+ "updated": "2026-11-12T14:43:06+00:00",
+ "pushed": "2026-11-12T14:43:06+00:00"
 }
