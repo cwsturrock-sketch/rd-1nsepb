@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|800908256427|0",
+   "title": "80x Sony PlayStation 4 PS4 games Bundle Job Lot FIFA 15 16 17 18 19 20 21 22",
+   "label": "📦 80-game bundle at £1.50/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 119.99,
+   "value": 320,
+   "profit": 88.65,
+   "roi": 0.739,
+   "margin": 0.277,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 419,
+   "flags": [
+    "⚠️ Bundle value is a guess (80 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800908256427?hash=itemba79da24ab:g:gMoAAeSwg2tq9dj4",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=80x%20Sony%20PlayStation%204%20PS4%20games%20Bundle%20Job%20Lot%20FIFA%2015%2016%2017%2018%2019%2020%2021%2022&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/gMoAAeSwg2tq9dj4/s-l225.jpg",
+   "listed": "2026-11-12T15:20:57.000Z",
+   "sell_costs": 111.36,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 101.99,
+   "platform": "ps4",
+   "time": "2026-11-12T15:25:05+00:00"
+  },
+  {
    "id": "v1|800908084908|0",
    "title": "Nintendo 3DS Red PAL Handheld Console 3D Capable 2GB CTR-001(EUR)",
    "label": "🔥 Nintendo 3DS console",
@@ -7442,6 +7469,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-12T15:15:04+00:00",
- "pushed": "2026-11-12T15:15:04+00:00"
+ "updated": "2026-11-12T15:25:05+00:00",
+ "pushed": "2026-11-12T15:25:05+00:00"
 }
