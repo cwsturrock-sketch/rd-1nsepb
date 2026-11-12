@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|257848924599|0",
+   "title": "Nintendo Switch lite",
+   "label": "🔥 Nintendo Switch Lite",
+   "verdict": "🟡 CONSIDER",
+   "cost": 39.99,
+   "value": 76.46,
+   "profit": 17.88,
+   "roi": 0.447,
+   "margin": 0.234,
+   "condition": "For parts or not working",
+   "seller_pct": 99.8,
+   "seller_score": 7909,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 32 current UK listings start at £76"
+   ],
+   "url": "https://www.ebay.co.uk/itm/257848924599?hash=item3c08fe59b7:g:sPkAAeSw9LZq9afw",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20lite&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/sPkAAeSw9LZq9afw/s-l225.jpg",
+   "listed": "2026-11-12T11:50:02.000Z",
+   "sell_costs": 18.59,
+   "market_p25": 76.46,
+   "market_n": 32,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-12T11:53:07+00:00"
+  },
+  {
    "id": "v1|227610795301|0",
    "title": "AtGames Sega Mega Drive Classic Game Console -80 Games Built-In & Cartridge Slot",
    "label": "📦 80-game bundle at £0.35/game",
@@ -7193,6 +7221,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-12T11:43:04+00:00",
- "pushed": "2026-11-12T11:43:04+00:00"
+ "updated": "2026-11-12T11:53:07+00:00",
+ "pushed": "2026-11-12T11:53:07+00:00"
 }
