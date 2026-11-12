@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|307278992613|0",
+   "title": "Pokemon HeartGold (Cartridge Only) - Nintendo DS - Free P&P",
+   "label": "🔥 Pokemon HeartGold",
+   "verdict": "🟡 CONSIDER",
+   "cost": 21.99,
+   "value": 57.72,
+   "profit": 24.04,
+   "roi": 1.093,
+   "margin": 0.417,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 100,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £58"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307278992613?hash=item478b4154e5:g:mK4AAeSwUD9qSB-H",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20HeartGold%20%20Cartridge%20Only%20%20%20%20Nintendo%20DS%20%20%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/mK4AAeSwUD9qSB-H/s-l225.jpg",
+   "listed": "2026-11-12T11:54:48.000Z",
+   "sell_costs": 11.69,
+   "market_p25": 57.72,
+   "market_n": 13,
+   "offer_price": 18.69,
+   "platform": "ds",
+   "time": "2026-11-12T11:59:06+00:00"
+  },
+  {
    "id": "v1|257848924599|0",
    "title": "Nintendo Switch lite",
    "label": "🔥 Nintendo Switch Lite",
@@ -7221,6 +7250,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-12T11:53:07+00:00",
- "pushed": "2026-11-12T11:53:07+00:00"
+ "updated": "2026-11-12T11:59:06+00:00",
+ "pushed": "2026-11-12T11:59:06+00:00"
 }
