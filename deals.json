@@ -1,6 +1,60 @@
 {
  "deals": [
   {
+   "id": "v1|800907978120|0",
+   "title": "100x Sony PlayStation 3 PS3 games Bundle Job Lot FIFA 08 09 10 11 12 13 14 15 16",
+   "label": "📦 100-game bundle at £1.25/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 124.99,
+   "value": 400,
+   "profit": 143.41,
+   "roi": 1.147,
+   "margin": 0.359,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 419,
+   "flags": [
+    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800907978120?hash=itemba79d5e588:g:d3wAAeSwtb9q9cY1",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=100x%20Sony%20PlayStation%203%20PS3%20games%20Bundle%20Job%20Lot%20FIFA%2008%2009%2010%2011%2012%2013%2014%2015%2016&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/d3wAAeSwtb9q9cY1/s-l225.jpg",
+   "listed": "2026-11-12T14:02:08.000Z",
+   "sell_costs": 131.6,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 106.24,
+   "platform": "ps3",
+   "time": "2026-11-12T14:07:05+00:00"
+  },
+  {
+   "id": "v1|287724282845|0",
+   "title": "Expeditions: A MudRunner Game + FC 25 Games PlayStation 5 , 2 Games Bundle",
+   "label": "📦 25-game bundle at £0.78/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 19.53,
+   "value": 100,
+   "profit": 24.77,
+   "roi": 1.268,
+   "margin": 0.248,
+   "condition": "Good",
+   "seller_pct": 99.0,
+   "seller_score": 1034,
+   "flags": [
+    "⚠️ Bundle value is a guess (25 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287724282845?hash=item42fdb423dd:g:d0oAAeSw-lhq9cZs",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Expeditions%20%20A%20MudRunner%20Game%20%20%20FC%2025%20Games%20PlayStation%205%20%20%202%20Games%20Bundle&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/d0oAAeSw-lhq9cZs/s-l225.jpg",
+   "listed": "2026-11-12T14:02:01.000Z",
+   "sell_costs": 55.7,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 13.73,
+   "platform": "ps5",
+   "time": "2026-11-12T14:07:05+00:00"
+  },
+  {
    "id": "v1|168857293738|0",
    "title": "POWKIDDY X55 Linux Handheld Games Console 5.5in IPS 16GB 720p HDMI USB-C",
    "label": "📦 55-game bundle at £1.20/game",
@@ -7306,6 +7360,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-12T14:03:04+00:00",
- "pushed": "2026-11-12T14:03:04+00:00"
+ "updated": "2026-11-12T14:07:05+00:00",
+ "pushed": "2026-11-12T14:07:05+00:00"
 }
