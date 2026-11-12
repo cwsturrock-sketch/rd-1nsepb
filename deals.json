@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|206695942419|0",
+   "title": "Chibi-Robo! Zip Lash - New & sealed Nintendo 3DS game",
+   "label": "🔥 Chibi-Robo",
+   "verdict": "🟢 BUY",
+   "cost": 8.39,
+   "value": 35,
+   "profit": 17.83,
+   "roi": 2.125,
+   "margin": 0.509,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 9907,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 6 current UK listings start at £194"
+   ],
+   "url": "https://www.ebay.co.uk/itm/206695942419?hash=item302009c913:g:FcgAAeSwphZq6icV",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Chibi%20Robo%20%20Zip%20Lash%20%20%20New%20%20%20sealed%20Nintendo%203DS%20game&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/FcgAAeSwphZq6icV/s-l225.jpg",
+   "listed": "2026-11-12T18:37:16.000Z",
+   "sell_costs": 8.78,
+   "market_p25": 193.70000000000002,
+   "market_n": 6,
+   "offer_price": 4.63,
+   "platform": "3ds",
+   "time": "2026-11-12T18:43:06+00:00"
+  },
+  {
    "id": "v1|147677826826|0",
    "title": "Legend of Zelda Oracle of Ages GBA Edition - Game Boy Advance GBA",
    "label": "🔥 Zelda Oracle of Ages / Seasons",
@@ -7589,6 +7616,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-12T18:31:05+00:00",
- "pushed": "2026-11-12T18:31:05+00:00"
+ "updated": "2026-11-12T18:43:06+00:00",
+ "pushed": "2026-11-12T18:43:06+00:00"
 }
