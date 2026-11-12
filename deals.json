@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|267841962372|0",
+   "title": "Advent Calendar 25 Games Multiplayer (PAL) PEGI 3 Nintendo Switch 2021",
+   "label": "📦 25-game bundle at £0.41/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 10.31,
+   "value": 100,
+   "profit": 33.99,
+   "roi": 3.297,
+   "margin": 0.34,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 462,
+   "flags": [
+    "⚠️ Bundle value is a guess (25 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/267841962372?hash=item3e5ca00184:g:eHEAAeSwVoBq9jOl",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Advent%20Calendar%2025%20Games%20Multiplayer%20%20PAL%20%20PEGI%203%20Nintendo%20Switch%202021&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/eHEAAeSwVoBq9jOl/s-l225.jpg",
+   "listed": "2026-11-12T21:47:42.000Z",
+   "sell_costs": 55.7,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 6.45,
+   "platform": "switch",
+   "time": "2026-11-12T21:51:05+00:00"
+  },
+  {
    "id": "v1|407358742538|0",
    "title": "Super Smash Bros. (Nintendo 64, 2002) - European Version",
    "label": "🔥 Super Smash Bros (N64)",
@@ -7644,6 +7671,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-12T21:42:24+00:00",
- "pushed": "2026-11-12T21:42:24+00:00"
+ "updated": "2026-11-12T21:51:05+00:00",
+ "pushed": "2026-11-12T21:51:05+00:00"
 }
