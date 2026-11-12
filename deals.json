@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|860137636968|0",
+   "title": "59x PS3 PlayStation 3 Games Bundle/Joblot Discs Only Few Duplicates Good Mix GC ",
+   "label": "📦 59-game bundle at £0.72/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 42.75,
+   "value": 236,
+   "profit": 103.14,
+   "roi": 2.413,
+   "margin": 0.437,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 9750,
+   "flags": [
+    "⚠️ Bundle value is a guess (59 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/860137636968?hash=itemc84432c468:g:e0AAAeSwnRJq9cxh",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=59x%20PS3%20PlayStation%203%20Games%20Bundle%20Joblot%20Discs%20Only%20Few%20Duplicates%20Good%20Mix%20GC%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/e0AAAeSwnRJq9cxh/s-l225.jpg",
+   "listed": "2026-11-12T14:31:08.000Z",
+   "sell_costs": 90.11,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 36.34,
+   "platform": "ps3",
+   "time": "2026-11-12T14:35:04+00:00"
+  },
+  {
    "id": "v1|800908038201|0",
    "title": "75x Microsoft Xbox 360  games Bundle Job Lot FIFA 07 08 09 10 11 12 13 14 15 16",
    "label": "📦 75-game bundle at £1.20/game",
@@ -7387,6 +7414,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-12T14:31:04+00:00",
- "pushed": "2026-11-12T14:31:04+00:00"
+ "updated": "2026-11-12T14:35:04+00:00",
+ "pushed": "2026-11-12T14:35:04+00:00"
 }
