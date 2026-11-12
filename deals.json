@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|168857293738|0",
+   "title": "POWKIDDY X55 Linux Handheld Games Console 5.5in IPS 16GB 720p HDMI USB-C",
+   "label": "📦 55-game bundle at £1.20/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 66.04,
+   "value": 220,
+   "profit": 67.9,
+   "roi": 1.028,
+   "margin": 0.309,
+   "condition": "Opened – never used",
+   "seller_pct": 100.0,
+   "seller_score": 27,
+   "flags": [
+    "⚠️ Bundle value is a guess (55 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/168857293738?hash=item2750add3aa:g:dLQAAeSwanNq9cO-",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=POWKIDDY%20X55%20Linux%20Handheld%20Games%20Console%205%205in%20IPS%2016GB%20720p%20HDMI%20USB%20C&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/dLQAAeSwanNq9cO-/s-l225.jpg",
+   "listed": "2026-11-12T13:49:55.000Z",
+   "sell_costs": 86.06,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 53.63,
+   "platform": "default",
+   "time": "2026-11-12T13:53:04+00:00"
+  },
+  {
    "id": "v1|307278993872|0",
    "title": "Pokemon SoulSilver (Cartridge Only) - Nintendo DS - Free P&P",
    "label": "🔥 Pokemon SoulSilver",
@@ -7279,6 +7306,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-12T13:51:04+00:00",
- "pushed": "2026-11-12T13:51:04+00:00"
+ "updated": "2026-11-12T13:53:04+00:00",
+ "pushed": "2026-11-12T13:53:04+00:00"
 }
