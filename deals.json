@@ -1,6 +1,38 @@
 {
  "deals": [
   {
+   "id": "v1|860137941112|0",
+   "title": "Game Card Yellow Version For Pokemon GBC",
+   "label": "🔥 Pokemon Red / Blue / Yellow",
+   "verdict": "🟡 CONSIDER",
+   "cost": 13.19,
+   "value": 40,
+   "profit": 17.39,
+   "roi": 1.318,
+   "margin": 0.435,
+   "condition": "New",
+   "seller_pct": 97.0,
+   "seller_score": 733,
+   "flags": [
+    "⚠️ Seller trust low (97.0% · 733 reviews)",
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Price is far below market: treat as a likely reproduction unless photos prove otherwise",
+    "⚠️ Too few photos to check the cartridge: ask for the label, the back code and the circuit board",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 6 current UK listings start at £60"
+   ],
+   "url": "https://www.ebay.co.uk/itm/860137941112?hash=itemc844376878:g:X8MAAeSw-5tq9ehU",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Game%20Card%20Yellow%20Version%20For%20Pokemon%20GBC&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/X8MAAeSw-5tq9ehU/s-l225.jpg",
+   "listed": "2026-11-12T16:48:12.000Z",
+   "sell_costs": 9.42,
+   "market_p25": 59.71,
+   "market_n": 6,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-12T16:53:06+00:00"
+  },
+  {
    "id": "v1|800908626392|0",
    "title": "Microsoft Kinect Adventures! Xbox 360 PAL PEGI 3 Kinect Multiplayer 2010 X16",
    "label": "📦 16-game bundle at £0.48/game",
@@ -7496,6 +7528,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-12T16:51:06+00:00",
- "pushed": "2026-11-12T16:51:06+00:00"
+ "updated": "2026-11-12T16:53:06+00:00",
+ "pushed": "2026-11-12T16:53:06+00:00"
 }
