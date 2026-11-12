@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|307278993872|0",
+   "title": "Pokemon SoulSilver (Cartridge Only) - Nintendo DS - Free P&P",
+   "label": "🔥 Pokemon SoulSilver",
+   "verdict": "🟡 CONSIDER",
+   "cost": 21.99,
+   "value": 59.49999999999999,
+   "profit": 25.59,
+   "roi": 1.164,
+   "margin": 0.43,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 100,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 24 current UK listings start at £71"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307278993872?hash=item478b4159d0:g:qd0AAeSw5YJqSWGm",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20SoulSilver%20%20Cartridge%20Only%20%20%20%20Nintendo%20DS%20%20%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/qd0AAeSw5YJqSWGm/s-l225.jpg",
+   "listed": "2026-11-12T11:56:13.000Z",
+   "sell_costs": 11.92,
+   "market_p25": 71.0,
+   "market_n": 24,
+   "offer_price": 18.69,
+   "platform": "ds",
+   "time": "2026-11-12T12:01:06+00:00"
+  },
+  {
    "id": "v1|307278992613|0",
    "title": "Pokemon HeartGold (Cartridge Only) - Nintendo DS - Free P&P",
    "label": "🔥 Pokemon HeartGold",
@@ -7250,6 +7279,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-12T11:59:06+00:00",
- "pushed": "2026-11-12T11:59:06+00:00"
+ "updated": "2026-11-12T12:01:06+00:00",
+ "pushed": "2026-11-12T12:01:06+00:00"
 }
