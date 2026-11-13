@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|287727195004|0",
+   "title": "Sony PlayStation 4 PS4 Console 500GB 1080p Wi‑Fi Black CUH-1001A",
+   "label": "🔥 PS4 console",
+   "verdict": "🟢 BUY",
+   "cost": 31.27,
+   "value": 85.35000000000001,
+   "profit": 34.36,
+   "roi": 1.099,
+   "margin": 0.403,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 36,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 12 current UK listings start at £85"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287727195004?hash=item42fde0937c:g:2CcAAeSwV7Vq9yQy",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20Console%20500GB%201080p%20Wi%20Fi%20Black%20CUH%201001A&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/2CcAAeSwV7Vq9yQy/s-l225.jpg",
+   "listed": "2026-11-13T14:54:53.000Z",
+   "sell_costs": 19.72,
+   "market_p25": 85.35000000000001,
+   "market_n": 12,
+   "offer_price": 20.93,
+   "platform": "ps4",
+   "time": "2026-11-13T14:59:05+00:00"
+  },
+  {
    "id": "v1|267841962372|0",
    "title": "Advent Calendar 25 Games Multiplayer (PAL) PEGI 3 Nintendo Switch 2021",
    "label": "📦 25-game bundle at £0.41/game",
@@ -7671,6 +7698,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-13T14:57:04+00:00",
- "pushed": "2026-11-13T14:57:04+00:00"
+ "updated": "2026-11-13T14:59:05+00:00",
+ "pushed": "2026-11-13T14:59:05+00:00"
 }
