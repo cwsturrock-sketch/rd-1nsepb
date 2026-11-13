@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|366807830677|0",
+   "title": "Nintendo Switch Lite Handheld System Console Blue USB-C Headphone Jack",
+   "label": "🔥 Nintendo Switch Lite",
+   "verdict": "🟡 CONSIDER",
+   "cost": 30.08,
+   "value": 74.99,
+   "profit": 26.51,
+   "roi": 0.881,
+   "margin": 0.354,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 11,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 11 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 27 current UK listings start at £75"
+   ],
+   "url": "https://www.ebay.co.uk/itm/366807830677?hash=item5567735095:g:WdEAAeSwgF1q90k1",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Lite%20Handheld%20System%20Console%20Blue%20USB%20C%20Headphone%20Jack&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/WdEAAeSwgF1q90k1/s-l225.jpg",
+   "listed": "2026-11-13T17:36:02.000Z",
+   "sell_costs": 18.4,
+   "market_p25": 74.99,
+   "market_n": 27,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-13T17:39:06+00:00"
+  },
+  {
    "id": "v1|137927732709|0",
    "title": "Sony PlayStation 4 PS4 Console 500GB PAL 1080p Wi‑Fi Black CUH-1216A",
    "label": "🔥 PS4 console",
@@ -7725,6 +7754,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-13T17:35:04+00:00",
- "pushed": "2026-11-13T17:35:04+00:00"
+ "updated": "2026-11-13T17:39:06+00:00",
+ "pushed": "2026-11-13T17:39:06+00:00"
 }
