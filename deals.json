@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|267842797651|0",
+   "title": "Nintendo Switch V1 Console Tablet ONLY – Tested & Working",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟢 BUY",
+   "cost": 39.99,
+   "value": 84.99,
+   "profit": 25.32,
+   "roi": 0.633,
+   "margin": 0.298,
+   "condition": "Used",
+   "seller_pct": 99.5,
+   "seller_score": 1196,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 18 current UK listings start at £85"
+   ],
+   "url": "https://www.ebay.co.uk/itm/267842797651?hash=item3e5cacc053:g:tqQAAeSwE41q923t",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20V1%20Console%20Tablet%20ONLY%20%20%20Tested%20%20%20Working&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/tqQAAeSwE41q923t/s-l225.jpg",
+   "listed": "2026-11-13T20:13:10.000Z",
+   "sell_costs": 19.68,
+   "market_p25": 84.99,
+   "market_n": 18,
+   "offer_price": 33.99,
+   "platform": "switch",
+   "time": "2026-11-13T20:17:05+00:00"
+  },
+  {
    "id": "v1|377643231861|0",
    "title": "Sony PlayStation 4 Slim Home Console Black HDMI USB-A RJ-45 (Console Only)",
    "label": "🔥 PS4 console",
@@ -7809,6 +7836,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-13T20:09:06+00:00",
- "pushed": "2026-11-13T20:09:06+00:00"
+ "updated": "2026-11-13T20:17:05+00:00",
+ "pushed": "2026-11-13T20:17:05+00:00"
 }
