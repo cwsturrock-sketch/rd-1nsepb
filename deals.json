@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|377643231861|0",
+   "title": "Sony PlayStation 4 Slim Home Console Black HDMI USB-A RJ-45 (Console Only)",
+   "label": "🔥 PS4 console",
+   "verdict": "🟢 BUY",
+   "cost": 33.87,
+   "value": 75.58999999999999,
+   "profit": 23.24,
+   "roi": 0.686,
+   "margin": 0.308,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 2552,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 12 current UK listings start at £76"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377643231861?hash=item57ed4a6a75:g:5~oAAeSwsB5q911q",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20Slim%20Home%20Console%20Black%20HDMI%20USB%20A%20RJ%2045%20%20Console%20Only%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/5~oAAeSwsB5q911q/s-l225.jpg",
+   "listed": "2026-11-13T18:59:44.000Z",
+   "sell_costs": 18.48,
+   "market_p25": 75.58999999999999,
+   "market_n": 12,
+   "offer_price": 23.14,
+   "platform": "ps4",
+   "time": "2026-11-13T19:03:08+00:00"
+  },
+  {
    "id": "v1|168857184939|0",
    "title": "88 x Empty Xbox 360 Cases Joblot- Rayman Borderlands Resident Evil Fallout 15",
    "label": "📦 88-game bundle at £0.57/game",
@@ -7781,6 +7809,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-13T18:55:04+00:00",
- "pushed": "2026-11-13T18:55:04+00:00"
+ "updated": "2026-11-13T19:03:08+00:00",
+ "pushed": "2026-11-13T19:03:08+00:00"
 }
