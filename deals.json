@@ -1,6 +1,37 @@
 {
  "deals": [
   {
+   "id": "v1|128195326109|0",
+   "title": "The Legend of Zelda: The Minish Cap Nintendo PAL GBA AGB-BZMP-EUR Cart Only",
+   "label": "Zelda Minish Cap",
+   "verdict": "🟡 CONSIDER",
+   "cost": 17.49,
+   "value": 35.0,
+   "profit": 8.73,
+   "roi": 0.499,
+   "margin": 0.249,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 155,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Too few photos to check the cartridge: ask for the label, the back code and the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 23 current UK listings start at £44"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128195326109?_skw=Zelda+Minish+Cap&hash=item1dd909709d:g:Ck0AAeSw6xhq-OuT",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=The%20Legend%20of%20Zelda%20%20The%20Minish%20Cap%20Nintendo%20PAL%20GBA%20AGB%20BZMP%20EUR%20Cart%20Only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/Ck0AAeSw6xhq-OuT/s-l225.jpg",
+   "listed": "2026-11-14T23:18:15.000Z",
+   "sell_costs": 8.78,
+   "market_p25": 43.940000000000005,
+   "market_n": 23,
+   "offer_price": null,
+   "platform": "gameboy",
+   "source": "sweep",
+   "time": "2026-11-15T20:40:02+00:00"
+  },
+  {
    "id": "v1|800915440794|0",
    "title": "Nintendo Switch  Handheld Console Black/Grey NOT RESET AND HAS AN UNKNOWN PIN",
    "label": "🔥 Nintendo Switch console",
@@ -7945,6 +7976,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-14T11:13:05+00:00",
- "pushed": "2026-11-14T11:13:05+00:00"
+ "updated": "2026-11-15T20:40:02+00:00",
+ "pushed": "2026-11-15T20:40:02+00:00"
 }
