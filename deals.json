@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|860149841697|0",
+   "title": "Nintendo Wii U Gamepad WUP-010 Handheld Gaming Console Black Untested",
+   "label": "🔥 Wii U console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 25.0,
+   "value": 52.71,
+   "profit": 12.16,
+   "roi": 0.487,
+   "margin": 0.231,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 9364,
+   "flags": [
+    "⚠️ Untested",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £53"
+   ],
+   "url": "https://www.ebay.co.uk/itm/860149841697?hash=itemc844ecff21:g:qPIAAeSwUs9q-1ZU",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Wii%20U%20Gamepad%20WUP%20010%20Handheld%20Gaming%20Console%20Black%20Untested&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/qPIAAeSwUs9q-1ZU/s-l225.jpg",
+   "listed": "2026-11-16T19:17:15.000Z",
+   "sell_costs": 15.55,
+   "market_p25": 52.71,
+   "market_n": 14,
+   "offer_price": null,
+   "platform": "wii u",
+   "time": "2026-11-16T19:21:08+00:00"
+  },
+  {
    "id": "v1|820220398341|627026806934",
    "title": "Metroid Fusion/Metroid: Zero Mission",
    "label": "Metroid Zero Mission",
@@ -8244,38 +8273,8 @@
    "platform": "gameboy",
    "source": "sweep",
    "time": "2026-10-27T20:25:38+00:00"
-  },
-  {
-   "id": "v1|278425703037|2561019804066",
-   "title": "Metroid Fusion/Metroid: Zero Mission",
-   "label": "Metroid Fusion",
-   "verdict": "🟡 CONSIDER",
-   "cost": 9.99,
-   "value": 29.98,
-   "profit": 11.85,
-   "roi": 1.186,
-   "margin": 0.395,
-   "condition": "New",
-   "seller_pct": 98.2,
-   "seller_score": 303,
-   "flags": [
-    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
-    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
-    "ℹ️ Market check: cheapest quarter of 34 current UK listings start at £30"
-   ],
-   "url": "https://www.ebay.co.uk/itm/278425703037?_skw=Metroid+Fusion&hash=item40d377127d:g:BJwAAeSw~yNqvlVl",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Metroid%20Fusion%20Metroid%20%20Zero%20Mission&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/BJwAAeSw~yNqvlVl/s-l225.jpg",
-   "listed": "2026-10-01T13:15:27.000Z",
-   "sell_costs": 8.14,
-   "market_p25": 29.98,
-   "market_n": 34,
-   "offer_price": null,
-   "platform": "gameboy",
-   "source": "sweep",
-   "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-16T19:15:05+00:00",
- "pushed": "2026-11-16T19:15:05+00:00"
+ "updated": "2026-11-16T19:21:08+00:00",
+ "pushed": "2026-11-16T19:21:08+00:00"
 }
