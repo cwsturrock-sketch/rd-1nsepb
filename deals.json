@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|960204476165|0",
+   "title": "Nintendo Switch Lite",
+   "label": "🔥 Nintendo Switch Lite",
+   "verdict": "🟡 CONSIDER",
+   "cost": 34.84,
+   "value": 66.48,
+   "profit": 14.33,
+   "roi": 0.411,
+   "margin": 0.216,
+   "condition": "For parts or not working",
+   "seller_pct": 92.9,
+   "seller_score": 192,
+   "flags": [
+    "⚠️ Seller trust low (92.9% · 192 reviews)",
+    "ℹ️ Market check: cheapest quarter of 30 current UK listings start at £66"
+   ],
+   "url": "https://www.ebay.co.uk/itm/960204476165?hash=itemdf90a58f05:g:EegAAeSw2VZq-0za",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Lite&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/EegAAeSw2VZq-0za/s-l225.jpg",
+   "listed": "2026-11-16T18:34:03.000Z",
+   "sell_costs": 17.31,
+   "market_p25": 66.48,
+   "market_n": 30,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-16T18:39:05+00:00"
+  },
+  {
    "id": "v1|307285575841|0",
    "title": "Playstation PS4 Console Black-- Model CUH 1003A",
    "label": "🔥 PS4 console",
@@ -8245,38 +8273,8 @@
    "platform": "gameboy",
    "source": "sweep",
    "time": "2026-10-27T20:25:38+00:00"
-  },
-  {
-   "id": "v1|178498214557|0",
-   "title": "(DISC ONLY) Shin Megami Tensei III: Lucifer's Call / Nocturne PS2",
-   "label": "Shin Megami Tensei Lucifer's Call",
-   "verdict": "🟡 CONSIDER",
-   "cost": 16.71,
-   "value": 34.59,
-   "profit": 9.15,
-   "roi": 0.548,
-   "margin": 0.265,
-   "condition": "Good",
-   "seller_pct": 100.0,
-   "seller_score": 17,
-   "flags": [
-    "⚠️ Seller trust low (100.0% · 17 reviews)",
-    "ℹ️ Loose / incomplete: valued at the loose price",
-    "ℹ️ Market check: cheapest quarter of 19 current UK listings start at £35"
-   ],
-   "url": "https://www.ebay.co.uk/itm/178498214557?_skw=Shin+Megami+Tensei+Lucifer%27s+Call&hash=item298f529a9d:g:rpwAAeSwsKFqqRCb",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=%20DISC%20ONLY%20%20Shin%20Megami%20Tensei%20III%20%20Lucifer%20s%20Call%20%20%20Nocturne%20PS2&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/rpwAAeSwsKFqqRCb/s-l225.jpg",
-   "listed": "2026-09-15T09:41:11.000Z",
-   "sell_costs": 8.73,
-   "market_p25": 34.59,
-   "market_n": 19,
-   "offer_price": 11.91,
-   "platform": "ps2",
-   "source": "sweep",
-   "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-16T18:29:04+00:00",
- "pushed": "2026-11-16T18:29:04+00:00"
+ "updated": "2026-11-16T18:39:05+00:00",
+ "pushed": "2026-11-16T18:39:05+00:00"
 }
