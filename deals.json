@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|168866524314|0",
+   "title": "Sony PSP-1003 PlayStation Portable Handheld Console Black Wi‑Fi PAL",
+   "label": "🔥 PSP console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 23.9,
+   "value": 50,
+   "profit": 10.9,
+   "roi": 0.456,
+   "margin": 0.218,
+   "condition": "For parts or not working",
+   "seller_pct": 0.0,
+   "seller_score": 0,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 0 reviews)",
+    "ℹ️ Market check: cheapest quarter of 10 current UK listings start at £60"
+   ],
+   "url": "https://www.ebay.co.uk/itm/168866524314?hash=item27513aac9a:g:2Z8AAeSw5CRq-vgE",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PSP%201003%20PlayStation%20Portable%20Handheld%20Console%20Black%20Wi%20Fi%20PAL&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/2Z8AAeSw5CRq-vgE/s-l225.jpg",
+   "listed": "2026-11-16T12:33:46.000Z",
+   "sell_costs": 15.2,
+   "market_p25": 60.0,
+   "market_n": 10,
+   "offer_price": 17.82,
+   "platform": "psp",
+   "time": "2026-11-16T12:37:06+00:00"
+  },
+  {
    "id": "v1|137935856655|0",
    "title": "Sony PlayStation 2 PS2 Black Home Console SCPH-50004 PAL USB Expansion Bay",
    "label": "🔥 PS2 console",
@@ -8085,6 +8113,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-16T12:33:04+00:00",
- "pushed": "2026-11-16T12:33:04+00:00"
+ "updated": "2026-11-16T12:37:06+00:00",
+ "pushed": "2026-11-16T12:37:06+00:00"
 }
