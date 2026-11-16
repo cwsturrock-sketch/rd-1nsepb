@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|327460016913|0",
+   "title": "Game Card Sapphire For Pokemon GBA",
+   "label": "🔥 Pokemon Ruby / Sapphire",
+   "verdict": "🟡 CONSIDER",
+   "cost": 15.64,
+   "value": 40,
+   "profit": 14.94,
+   "roi": 0.955,
+   "margin": 0.373,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 573,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 12 current UK listings start at £43"
+   ],
+   "url": "https://www.ebay.co.uk/itm/327460016913?hash=item4c3e235311:g:fDIAAeSwBehq-2Cz",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Game%20Card%20Sapphire%20For%20Pokemon%20GBA&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/fDIAAeSwBehq-2Cz/s-l225.jpg",
+   "listed": "2026-11-16T20:00:36.000Z",
+   "sell_costs": 9.42,
+   "market_p25": 42.71,
+   "market_n": 12,
+   "offer_price": 11.0,
+   "platform": "gameboy",
+   "time": "2026-11-16T20:05:06+00:00"
+  },
+  {
    "id": "v1|860149841697|0",
    "title": "Nintendo Wii U Gamepad WUP-010 Handheld Gaming Console Black Untested",
    "label": "🔥 Wii U console",
@@ -8244,37 +8273,8 @@
    "platform": "n64",
    "source": "sweep",
    "time": "2026-10-27T20:25:38+00:00"
-  },
-  {
-   "id": "v1|128159390058|0",
-   "title": "Zelda - Minish Cap & A Link to the Past Four Swords - GBA Cartridges",
-   "label": "Zelda Minish Cap",
-   "verdict": "🟡 CONSIDER",
-   "cost": 28.99,
-   "value": 50,
-   "profit": 10.31,
-   "roi": 0.356,
-   "margin": 0.206,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 132,
-   "flags": [
-    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
-    "ℹ️ Market check: cheapest quarter of 28 current UK listings start at £50"
-   ],
-   "url": "https://www.ebay.co.uk/itm/128159390058?_skw=Zelda+Minish+Cap&hash=item1dd6e5196a:g:q7EAAeSwwnNq4Ljo",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Zelda%20%20%20Minish%20Cap%20%20%20A%20Link%20to%20the%20Past%20Four%20Swords%20%20%20GBA%20Cartridges&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/q7EAAeSwwnNq4Ljo/s-l225.jpg",
-   "listed": "2026-10-27T14:47:43.000Z",
-   "sell_costs": 10.7,
-   "market_p25": 50.43,
-   "market_n": 28,
-   "offer_price": null,
-   "platform": "gameboy",
-   "source": "sweep",
-   "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-16T19:55:05+00:00",
- "pushed": "2026-11-16T19:55:05+00:00"
+ "updated": "2026-11-16T20:05:06+00:00",
+ "pushed": "2026-11-16T20:05:06+00:00"
 }
