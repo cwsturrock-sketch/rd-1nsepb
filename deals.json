@@ -1,6 +1,60 @@
 {
  "deals": [
   {
+   "id": "v1|168866284763|0",
+   "title": "EA SPORTS FIFA 17-20 PS4 Games Bundle - Multiplayer & Online Play",
+   "label": "📦 20-game bundle at £0.55/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 11.06,
+   "value": 80,
+   "profit": 18.3,
+   "roi": 1.655,
+   "margin": 0.229,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 116,
+   "flags": [
+    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/168866284763?hash=item27513704db:g:cFcAAeSwqdFq-tfT",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=EA%20SPORTS%20FIFA%2017%2020%20PS4%20Games%20Bundle%20%20%20Multiplayer%20%20%20Online%20Play&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/cFcAAeSwqdFq-tfT/s-l225.jpg",
+   "listed": "2026-11-16T10:16:51.000Z",
+   "sell_costs": 50.64,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 6.9,
+   "platform": "ps4",
+   "time": "2026-11-16T11:02:34+00:00"
+  },
+  {
+   "id": "v1|117524392806|0",
+   "title": "Nintendo Wii Console white Console Only  gamecube playable tested working - GR1",
+   "label": "🔥 GameCube console",
+   "verdict": "🟢 BUY",
+   "cost": 13.5,
+   "value": 60,
+   "profit": 30.02,
+   "roi": 2.224,
+   "margin": 0.5,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 9504,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 10 current UK listings start at £61"
+   ],
+   "url": "https://www.ebay.co.uk/itm/117524392806?hash=item1b5cffeb66:g:DW0AAeSw~7pqjsNH",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Wii%20Console%20white%20Console%20Only%20%20gamecube%20playable%20tested%20working%20%20%20GR1&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/DW0AAeSw~7pqjsNH/s-l225.jpg",
+   "listed": "2026-11-16T10:32:09.000Z",
+   "sell_costs": 16.48,
+   "market_p25": 61.28,
+   "market_n": 10,
+   "offer_price": 11.47,
+   "platform": "gamecube",
+   "time": "2026-11-16T11:02:34+00:00"
+  },
+  {
    "id": "v1|117523409555|0",
    "title": "47 x Games Bundle | PS3 / PS2 / Xbox 360 / PS4 | Untested",
    "label": "📦 47-game bundle at £0.60/game",
@@ -8004,6 +8058,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-15T21:43:04+00:00",
- "pushed": "2026-11-15T21:43:04+00:00"
+ "updated": "2026-11-16T11:13:05+00:00",
+ "pushed": "2026-11-16T11:13:05+00:00"
 }
