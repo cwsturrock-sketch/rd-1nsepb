@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|920148805949|0",
+   "title": "Nintendo 3DS DS Bundle 32 Games Various Titles Good Condition Cartridge ",
+   "label": "📦 32-game bundle at £1.41/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 45.02,
+   "value": 128,
+   "profit": 20.2,
+   "roi": 0.449,
+   "margin": 0.158,
+   "condition": "Good",
+   "seller_pct": 99.2,
+   "seller_score": 2803,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/920148805949?hash=itemd63d24893d:g:s9EAAeSwmYZqz6Wu",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%203DS%20DS%20Bundle%2032%20Games%20Various%20Titles%20Good%20Condition%20Cartridge%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/s9EAAeSwmYZqz6Wu/s-l225.jpg",
+   "listed": "2026-11-16T12:50:40.000Z",
+   "sell_costs": 62.78,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 35.95,
+   "platform": "3ds",
+   "time": "2026-11-16T12:55:04+00:00"
+  },
+  {
    "id": "v1|407367057868|0",
    "title": "Nintendo Switch Lite Yellow Handheld Console 32GB 720p",
    "label": "🔥 Nintendo Switch Lite",
@@ -8140,6 +8167,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-16T12:53:06+00:00",
- "pushed": "2026-11-16T12:53:06+00:00"
+ "updated": "2026-11-16T12:55:04+00:00",
+ "pushed": "2026-11-16T12:55:04+00:00"
 }
