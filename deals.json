@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|407367057868|0",
+   "title": "Nintendo Switch Lite Yellow Handheld Console 32GB 720p",
+   "label": "🔥 Nintendo Switch Lite",
+   "verdict": "🟡 CONSIDER",
+   "cost": 32.94,
+   "value": 66.48,
+   "profit": 16.23,
+   "roi": 0.493,
+   "margin": 0.244,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 272,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 30 current UK listings start at £66"
+   ],
+   "url": "https://www.ebay.co.uk/itm/407367057868?hash=item5ed8f801cc:g:NcoAAeSwQXxq-vre",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Lite%20Yellow%20Handheld%20Console%2032GB%20720p&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/NcoAAeSwQXxq-vre/s-l225.jpg",
+   "listed": "2026-11-16T12:47:29.000Z",
+   "sell_costs": 17.31,
+   "market_p25": 66.48,
+   "market_n": 30,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-16T12:53:06+00:00"
+  },
+  {
    "id": "v1|168866524314|0",
    "title": "Sony PSP-1003 PlayStation Portable Handheld Console Black Wi‑Fi PAL",
    "label": "🔥 PSP console",
@@ -8113,6 +8140,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-16T12:49:04+00:00",
- "pushed": "2026-11-16T12:49:04+00:00"
+ "updated": "2026-11-16T12:53:06+00:00",
+ "pushed": "2026-11-16T12:53:06+00:00"
 }
