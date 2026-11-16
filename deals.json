@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|336900251794|0",
+   "title": "Sony PlayStation 2 Black Console (SCPH-30003 R)",
+   "label": "🔥 PS2 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 16.01,
+   "value": 40,
+   "profit": 10.07,
+   "roi": 0.629,
+   "margin": 0.252,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 640,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 10 current UK listings start at £48"
+   ],
+   "url": "https://www.ebay.co.uk/itm/336900251794?hash=item4e70d1e092:g:78oAAeSwzixq-wS7",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%202%20Black%20Console%20%20SCPH%2030003%20R%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/78oAAeSwzixq-wS7/s-l225.jpg",
+   "listed": "2026-11-16T13:29:50.000Z",
+   "sell_costs": 13.92,
+   "market_p25": 47.51,
+   "market_n": 10,
+   "offer_price": null,
+   "platform": "ps2",
+   "time": "2026-11-16T13:33:05+00:00"
+  },
+  {
    "id": "v1|960203544206|0",
    "title": "Nintendo Switch Console Only - Fully Working And Tested",
    "label": "🔥 Nintendo Switch console",
@@ -8195,6 +8222,6 @@
    "time": "2026-10-27T20:25:38+00:00"
   }
  ],
- "updated": "2026-11-16T13:31:06+00:00",
- "pushed": "2026-11-16T13:31:06+00:00"
+ "updated": "2026-11-16T13:33:05+00:00",
+ "pushed": "2026-11-16T13:33:05+00:00"
 }
