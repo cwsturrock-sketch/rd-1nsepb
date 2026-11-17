@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|227618570744|0",
+   "title": "Nintendo Switch Lite  read description ",
+   "label": "🔥 Nintendo Switch Lite",
+   "verdict": "🟢 BUY",
+   "cost": 24.88,
+   "value": 73.36999999999999,
+   "profit": 30.3,
+   "roi": 1.218,
+   "margin": 0.413,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 792,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 30 current UK listings start at £73"
+   ],
+   "url": "https://www.ebay.co.uk/itm/227618570744?hash=item34ff1fc1f8:g:TiQAAeSwi7Nq~FAc",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Lite%20%20read%20description%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/TiQAAeSwi7Nq~FAc/s-l225.jpg",
+   "listed": "2026-11-17T13:04:05.000Z",
+   "sell_costs": 18.19,
+   "market_p25": 73.36999999999999,
+   "market_n": 30,
+   "offer_price": 18.27,
+   "platform": "switch",
+   "time": "2026-11-17T13:09:05+00:00"
+  },
+  {
    "id": "v1|800929642688|0",
    "title": "NES : Nintendo Entertainment Console Unit Only Untested",
    "label": "🔥 NES console",
@@ -8253,37 +8280,8 @@
    "offer_price": 9.17,
    "platform": "ds",
    "time": "2026-10-28T15:43:06+00:00"
-  },
-  {
-   "id": "v1|237148918701|0",
-   "title": "Nintendo GameCube Game Pokemon Box Ruby & Sapphire Disc Only",
-   "label": "🔥 Pokemon Box Ruby & Sapphire",
-   "verdict": "🟡 CONSIDER",
-   "cost": 74.99,
-   "value": 124.23,
-   "profit": 29.04,
-   "roi": 0.387,
-   "margin": 0.234,
-   "condition": "Acceptable",
-   "seller_pct": 99.9,
-   "seller_score": 62444,
-   "flags": [
-    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
-    "ℹ️ Loose / incomplete: valued at the loose price",
-    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £124"
-   ],
-   "url": "https://www.ebay.co.uk/itm/237148918701?hash=item37372d53ad:g:iN8AAeSwD8hq4hJj",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20GameCube%20Game%20Pokemon%20Box%20Ruby%20%20%20Sapphire%20Disc%20Only&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/iN8AAeSwD8hq4hJj/s-l225.jpg",
-   "listed": "2026-10-28T15:20:08.000Z",
-   "sell_costs": 20.2,
-   "market_p25": 124.23,
-   "market_n": 14,
-   "offer_price": null,
-   "platform": "gamecube",
-   "time": "2026-10-28T15:25:10+00:00"
   }
  ],
- "updated": "2026-11-17T13:05:04+00:00",
- "pushed": "2026-11-17T13:05:04+00:00"
+ "updated": "2026-11-17T13:09:05+00:00",
+ "pushed": "2026-11-17T13:09:05+00:00"
 }
