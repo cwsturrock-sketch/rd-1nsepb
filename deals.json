@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|267846168075|0",
+   "title": "Sony PSP (Sony PSP Platform) Handheld System Console, Black, Headphone Jack",
+   "label": "🔥 PSP console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 24.44,
+   "value": 50,
+   "profit": 10.36,
+   "roi": 0.424,
+   "margin": 0.207,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 122,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 10 current UK listings start at £56"
+   ],
+   "url": "https://www.ebay.co.uk/itm/267846168075?hash=item3e5ce02e0b:g:nmkAAeSwiftq~I-O",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PSP%20%20Sony%20PSP%20Platform%20%20Handheld%20System%20Console%20%20Black%20%20Headphone%20Jack&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/nmkAAeSwiftq~I-O/s-l225.jpg",
+   "listed": "2026-11-17T17:34:19.000Z",
+   "sell_costs": 15.2,
+   "market_p25": 56.080000000000005,
+   "market_n": 10,
+   "offer_price": 18.27,
+   "platform": "psp",
+   "time": "2026-11-17T17:39:07+00:00"
+  },
+  {
    "id": "v1|237188361712|0",
    "title": "Pokémon GO 30x Hundo Catch Service 100% IV Random Wild Hundo Pokémon",
    "label": "📦 30-game bundle at £0.92/game",
@@ -8255,35 +8283,8 @@
    "offer_price": null,
    "platform": "ps1",
    "time": "2026-10-28T19:35:07+00:00"
-  },
-  {
-   "id": "v1|257822305511|0",
-   "title": "X80 HANDHELD GAME CONSOLE",
-   "label": "📦 80-game bundle at £0.66/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 53.01,
-   "value": 320,
-   "profit": 155.63,
-   "roi": 2.936,
-   "margin": 0.486,
-   "condition": "Used",
-   "seller_pct": 100.0,
-   "seller_score": 1759,
-   "flags": [
-    "⚠️ Bundle value is a guess (80 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/257822305511?hash=item3c07682ce7:g:qjMAAeSwnSJq4klJ",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=X80%20HANDHELD%20GAME%20CONSOLE&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/qjMAAeSwnSJq4klJ/s-l225.jpg",
-   "listed": "2026-10-28T19:15:18.000Z",
-   "sell_costs": 111.36,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-10-28T19:19:06+00:00"
   }
  ],
- "updated": "2026-11-17T17:35:05+00:00",
- "pushed": "2026-11-17T17:35:05+00:00"
+ "updated": "2026-11-17T17:39:07+00:00",
+ "pushed": "2026-11-17T17:39:07+00:00"
 }
