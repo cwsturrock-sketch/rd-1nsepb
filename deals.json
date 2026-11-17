@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|147685201854|0",
+   "title": "Legend of Zelda Oracle of Ages GBA Edition - Game Boy Advance GBA",
+   "label": "🔥 Zelda Oracle of Ages / Seasons",
+   "verdict": "🟡 CONSIDER",
+   "cost": 16.99,
+   "value": 40,
+   "profit": 13.59,
+   "roi": 0.8,
+   "margin": 0.34,
+   "condition": "Very Good",
+   "seller_pct": 99.6,
+   "seller_score": 1412,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Too few photos to check the cartridge: ask for the label, the back code and the circuit board",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 32 current UK listings start at £45"
+   ],
+   "url": "https://www.ebay.co.uk/itm/147685201854?hash=item2262b957be:g:yoMAAeSwms5qb2zn",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Legend%20of%20Zelda%20Oracle%20of%20Ages%20GBA%20Edition%20%20%20Game%20Boy%20Advance%20GBA&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/yoMAAeSwms5qb2zn/s-l225.jpg",
+   "listed": "2026-11-17T18:49:43.000Z",
+   "sell_costs": 9.42,
+   "market_p25": 45.0,
+   "market_n": 32,
+   "offer_price": null,
+   "platform": "gameboy",
+   "time": "2026-11-17T18:53:06+00:00"
+  },
+  {
    "id": "v1|128201049421|0",
    "title": "Nintendo Ds Games Bundle 42 Games  Mario Kart , Super Mario Assorted Games",
    "label": "📦 42-game bundle at £1.32/game",
@@ -8256,35 +8286,8 @@
    "offer_price": 3.26,
    "platform": "default",
    "time": "2026-10-29T11:15:04+00:00"
-  },
-  {
-   "id": "v1|168824157227|0",
-   "title": "Console Games Bundle of x38 Games in Total For PS2, PS3, PS4, PS5, XBOX, WII",
-   "label": "📦 38-game bundle at £1.26/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 47.99,
-   "value": 152,
-   "profit": 35.15,
-   "roi": 0.733,
-   "margin": 0.231,
-   "condition": "Very Good",
-   "seller_pct": 98.8,
-   "seller_score": 307,
-   "flags": [
-    "⚠️ Bundle value is a guess (38 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/168824157227?hash=item274eb4342b:g:nH0AAeSwHghq4wvS",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Console%20Games%20Bundle%20of%20x38%20Games%20in%20Total%20For%20PS2%20%20PS3%20%20PS4%20%20PS5%20%20XBOX%20%20WII&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/nH0AAeSwHghq4wvS/s-l225.jpg",
-   "listed": "2026-10-29T09:06:12.000Z",
-   "sell_costs": 68.86,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": 40.79,
-   "platform": "wii",
-   "time": "2026-10-29T09:51:49+00:00"
   }
  ],
- "updated": "2026-11-17T18:41:07+00:00",
- "pushed": "2026-11-17T18:41:07+00:00"
+ "updated": "2026-11-17T18:53:06+00:00",
+ "pushed": "2026-11-17T18:53:06+00:00"
 }
