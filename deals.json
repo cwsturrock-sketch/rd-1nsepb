@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|128201049421|0",
+   "title": "Nintendo Ds Games Bundle 42 Games  Mario Kart , Super Mario Assorted Games",
+   "label": "📦 42-game bundle at £1.32/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 55.64,
+   "value": 168,
+   "profit": 39.46,
+   "roi": 0.709,
+   "margin": 0.235,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 181,
+   "flags": [
+    "⚠️ Bundle value is a guess (42 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128201049421?hash=item1dd960c54d:g:brgAAeSwrcdq~JN1",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Ds%20Games%20Bundle%2042%20Games%20%20Mario%20Kart%20%20%20Super%20Mario%20Assorted%20Games&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/brgAAeSwrcdq~JN1/s-l225.jpg",
+   "listed": "2026-11-17T17:53:49.000Z",
+   "sell_costs": 72.9,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 44.8,
+   "platform": "ds",
+   "time": "2026-11-17T17:59:07+00:00"
+  },
+  {
    "id": "v1|267846168075|0",
    "title": "Sony PSP (Sony PSP Platform) Handheld System Console, Black, Headphone Jack",
    "label": "🔥 PSP console",
@@ -8256,35 +8283,8 @@
    "offer_price": 40.79,
    "platform": "wii",
    "time": "2026-10-29T09:51:49+00:00"
-  },
-  {
-   "id": "v1|137882631025|0",
-   "title": "Sony PlayStation 1 Home Console SCPH-5502 PAL Grey *Read description*",
-   "label": "🔥 PS1 console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 13.38,
-   "value": 40,
-   "profit": 12.7,
-   "roi": 0.949,
-   "margin": 0.318,
-   "condition": "For parts or not working",
-   "seller_pct": 100.0,
-   "seller_score": 885,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £60"
-   ],
-   "url": "https://www.ebay.co.uk/itm/137882631025?hash=item201a71fb71:g:q4wAAeSwKwpq4k0E",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%201%20Home%20Console%20SCPH%205502%20PAL%20Grey%20%20Read%20description%20&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/q4wAAeSwKwpq4k0E/s-l225.jpg",
-   "listed": "2026-10-28T19:28:09.000Z",
-   "sell_costs": 13.92,
-   "market_p25": 59.95,
-   "market_n": 16,
-   "offer_price": null,
-   "platform": "ps1",
-   "time": "2026-10-28T19:35:07+00:00"
   }
  ],
- "updated": "2026-11-17T17:51:05+00:00",
- "pushed": "2026-11-17T17:51:05+00:00"
+ "updated": "2026-11-17T17:59:07+00:00",
+ "pushed": "2026-11-17T17:59:07+00:00"
 }
