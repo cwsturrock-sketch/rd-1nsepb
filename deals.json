@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|820365210972|0",
+   "title": "Nintendo Wii U Gamepad WUP-010 Handheld Gaming Console Black - Doesnt Charge",
+   "label": "🔥 Wii U console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 24.5,
+   "value": 48.2,
+   "profit": 8.73,
+   "roi": 0.356,
+   "margin": 0.181,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 4339,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £48"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820365210972?hash=itembf0193b55c:g:RTcAAeSwmihq~Dxi",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Wii%20U%20Gamepad%20WUP%20010%20Handheld%20Gaming%20Console%20Black%20%20%20Doesnt%20Charge&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/RTcAAeSwmihq~Dxi/s-l225.jpg",
+   "listed": "2026-11-17T11:38:51.000Z",
+   "sell_costs": 14.97,
+   "market_p25": 48.2,
+   "market_n": 14,
+   "offer_price": null,
+   "platform": "wii u",
+   "time": "2026-11-17T11:43:06+00:00"
+  },
+  {
    "id": "v1|397295058431|665686726527",
    "title": "Etrian Odyssey/Etrian Odyssey II: Heroes of Lagaard DS Video Game",
    "label": "Etrian Odyssey (DS)",
@@ -8251,36 +8279,8 @@
    "offer_price": 8.27,
    "platform": "gamecube",
    "time": "2026-10-28T14:53:07+00:00"
-  },
-  {
-   "id": "v1|900046959003|0",
-   "title": "Sony PlayStation 2 PS2 Fat Satin Silver SCPH-50003 Console Only Untested",
-   "label": "🔥 PS2 console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 17.99,
-   "value": 40,
-   "profit": 8.09,
-   "roi": 0.45,
-   "margin": 0.202,
-   "condition": "For parts or not working",
-   "seller_pct": 100.0,
-   "seller_score": 1760,
-   "flags": [
-    "⚠️ Untested",
-    "ℹ️ Market check: cheapest quarter of 11 current UK listings start at £41"
-   ],
-   "url": "https://www.ebay.co.uk/itm/900046959003?hash=itemd18efab19b:g:a-oAAeSw5Wlq4fWe",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%202%20PS2%20Fat%20Satin%20Silver%20SCPH%2050003%20Console%20Only%20Untested&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/a-oAAeSw5Wlq4fWe/s-l225.jpg",
-   "listed": "2026-10-28T13:17:55.000Z",
-   "sell_costs": 13.92,
-   "market_p25": 40.65,
-   "market_n": 11,
-   "offer_price": 15.29,
-   "platform": "ps2",
-   "time": "2026-10-28T13:21:05+00:00"
   }
  ],
- "updated": "2026-11-17T11:35:06+00:00",
- "pushed": "2026-11-17T11:35:06+00:00"
+ "updated": "2026-11-17T11:43:06+00:00",
+ "pushed": "2026-11-17T11:43:06+00:00"
 }
