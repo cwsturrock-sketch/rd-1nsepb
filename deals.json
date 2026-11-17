@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|237188361712|0",
+   "title": "Pokémon GO 30x Hundo Catch Service 100% IV Random Wild Hundo Pokémon",
+   "label": "📦 30-game bundle at £0.92/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 27.69,
+   "value": 120,
+   "profit": 31.55,
+   "roi": 1.139,
+   "margin": 0.263,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 3,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 3 reviews)",
+    "⚠️ Bundle value is a guess (30 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/237188361712?hash=item3739872df0:g:ubYAAeSwvmBq~Ina",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A9mon%20GO%2030x%20Hundo%20Catch%20Service%20100%20%20IV%20Random%20Wild%20Hundo%20Pok%C3%A9mon&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/ubYAAeSwvmBq~Ina/s-l225.jpg",
+   "listed": "2026-11-17T17:09:14.000Z",
+   "sell_costs": 60.76,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-17T17:13:06+00:00"
+  },
+  {
    "id": "v1|137939445494|0",
    "title": "AtGames Sega Mega Drive Classic Game Console Boxed 81 Games Built-In Tested",
    "label": "📦 81-game bundle at £0.70/game",
@@ -8254,35 +8282,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-10-28T19:19:06+00:00"
-  },
-  {
-   "id": "v1|366767312168|0",
-   "title": "Galaxy of Games: Blue Edition (PC: Windows, 2000) - UK Version 50 Games SEALED",
-   "label": "📦 50-game bundle at £0.24/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 12.21,
-   "value": 200,
-   "profit": 106.79,
-   "roi": 8.746,
-   "margin": 0.534,
-   "condition": "New",
-   "seller_pct": 100.0,
-   "seller_score": 113,
-   "flags": [
-    "⚠️ Bundle value is a guess (50 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/366767312168?hash=item5565090d28:g:HIIAAeSwD8hq4kgW",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Galaxy%20of%20Games%20%20Blue%20Edition%20%20PC%20%20Windows%20%202000%20%20%20%20UK%20Version%2050%20Games%20SEALED&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/HIIAAeSwD8hq4kgW/s-l225.jpg",
-   "listed": "2026-10-28T19:09:17.000Z",
-   "sell_costs": 81.0,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": 7.51,
-   "platform": "default",
-   "time": "2026-10-28T19:13:05+00:00"
   }
  ],
- "updated": "2026-11-17T17:07:05+00:00",
- "pushed": "2026-11-17T17:07:05+00:00"
+ "updated": "2026-11-17T17:13:06+00:00",
+ "pushed": "2026-11-17T17:13:06+00:00"
 }
