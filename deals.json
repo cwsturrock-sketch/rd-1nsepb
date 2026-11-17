@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|128201205133|0",
+   "title": "Amstrad tape bundle x50 untested various condition",
+   "label": "📦 50-game bundle at £1.16/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 57.91,
+   "value": 200,
+   "profit": 61.09,
+   "roi": 1.055,
+   "margin": 0.305,
+   "condition": "Acceptable",
+   "seller_pct": 100.0,
+   "seller_score": 815,
+   "flags": [
+    "⚠️ Bundle value is a guess (50 games from the title × an average price): check the photos for what's actually in it",
+    "⚠️ Untested"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128201205133?hash=item1dd963258d:g:G2AAAeSw7Rdq~LCg",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Amstrad%20tape%20bundle%20x50%20untested%20various%20condition&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/G2AAAeSw7Rdq~LCg/s-l225.jpg",
+   "listed": "2026-11-17T19:55:56.000Z",
+   "sell_costs": 81.0,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 44.8,
+   "platform": "default",
+   "time": "2026-11-17T19:59:05+00:00"
+  },
+  {
    "id": "v1|267846252740|0",
    "title": "PlayStation Vita Slim Console Black Not Sure If Working",
    "label": "🔥 PS Vita console",
@@ -8262,35 +8290,8 @@
    "offer_price": 13.27,
    "platform": "ps1",
    "time": "2026-10-29T12:25:06+00:00"
-  },
-  {
-   "id": "v1|117492651071|0",
-   "title": "Sega Mega Drive Ultimate Portable Game Player 80 Games Boxed Retro READ LISTING",
-   "label": "📦 80-game bundle at £0.51/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 40.48,
-   "value": 480,
-   "profit": 307.68,
-   "roi": 7.601,
-   "margin": 0.641,
-   "condition": "Used",
-   "seller_pct": 100.0,
-   "seller_score": 131,
-   "flags": [
-    "⚠️ Bundle value is a guess (80 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/117492651071?hash=item1b5b1b943f:g:In4AAeSw~O9q4zeD",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sega%20Mega%20Drive%20Ultimate%20Portable%20Game%20Player%2080%20Games%20Boxed%20Retro%20READ%20LISTING&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/In4AAeSw~O9q4zeD/s-l225.jpg",
-   "listed": "2026-10-29T12:09:49.000Z",
-   "sell_costs": 131.84,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": 31.54,
-   "platform": "megadrive",
-   "time": "2026-10-29T12:13:05+00:00"
   }
  ],
- "updated": "2026-11-17T19:49:05+00:00",
- "pushed": "2026-11-17T19:49:05+00:00"
+ "updated": "2026-11-17T19:59:05+00:00",
+ "pushed": "2026-11-17T19:59:05+00:00"
 }
