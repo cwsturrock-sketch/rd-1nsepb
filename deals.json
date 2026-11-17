@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|227619093641|0",
+   "title": "X80 Handheld Games Console 7 Inch Screen Black USB 2.0 (Over 21000 Games) Boxed",
+   "label": "📦 80-game bundle at £0.50/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 39.99,
+   "value": 320,
+   "profit": 168.65,
+   "roi": 4.217,
+   "margin": 0.527,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 310,
+   "flags": [
+    "⚠️ Bundle value is a guess (80 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/227619093641?hash=item34ff27bc89:g:G1QAAeSwOpJq~Ltv",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=X80%20Handheld%20Games%20Console%207%20Inch%20Screen%20Black%20USB%202%200%20%20Over%2021000%20Games%20%20Boxed&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/G1QAAeSwOpJq~Ltv/s-l225.jpg",
+   "listed": "2026-11-17T20:51:32.000Z",
+   "sell_costs": 111.36,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-17T20:55:05+00:00"
+  },
+  {
    "id": "v1|128201205133|0",
    "title": "Amstrad tape bundle x50 untested various condition",
    "label": "📦 50-game bundle at £1.16/game",
@@ -8262,36 +8289,8 @@
    "offer_price": 44.62,
    "platform": "switch",
    "time": "2026-10-29T12:53:05+00:00"
-  },
-  {
-   "id": "v1|840071281027|0",
-   "title": "Sony PlayStation 1 Grey PAL Console SCPH-7502 Disc Untested, Been In Storage.",
-   "label": "🔥 PS1 console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 18.99,
-   "value": 40,
-   "profit": 7.09,
-   "roi": 0.373,
-   "margin": 0.177,
-   "condition": "Used",
-   "seller_pct": 100.0,
-   "seller_score": 63,
-   "flags": [
-    "⚠️ Untested",
-    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £42"
-   ],
-   "url": "https://www.ebay.co.uk/itm/840071281027?hash=itemc398267983:g:sVcAAeSwXDhq4zn1",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%201%20Grey%20PAL%20Console%20SCPH%207502%20Disc%20Untested%20%20Been%20In%20Storage%20&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/sVcAAeSwXDhq4zn1/s-l225.jpg",
-   "listed": "2026-10-29T12:21:04.000Z",
-   "sell_costs": 13.92,
-   "market_p25": 42.29,
-   "market_n": 16,
-   "offer_price": 13.27,
-   "platform": "ps1",
-   "time": "2026-10-29T12:25:06+00:00"
   }
  ],
- "updated": "2026-11-17T20:51:04+00:00",
- "pushed": "2026-11-17T20:51:04+00:00"
+ "updated": "2026-11-17T20:55:05+00:00",
+ "pushed": "2026-11-17T20:55:05+00:00"
 }
