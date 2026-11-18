@@ -3,7 +3,7 @@
   {
    "id": "v1|366820080295|0",
    "title": "Sega Saturn Console Only",
-   "label": "Sega Saturn console",
+   "label": "🔥 Sega Saturn console",
    "verdict": "🟢 BUY",
    "cost": 25.5,
    "value": 80,
@@ -14,19 +14,18 @@
    "seller_pct": 99.9,
    "seller_score": 2158,
    "flags": [
-    "ℹ️ Market check: cheapest quarter of 6 current UK listings start at £91"
+    "ℹ️ Market check: cheapest quarter of 9 current UK listings start at £110"
    ],
-   "url": "https://www.ebay.co.uk/itm/366820080295?_skw=Sega+Saturn+console&hash=item55682e3aa7:g:y7MAAeSwg2tq~fL3",
+   "url": "https://www.ebay.co.uk/itm/366820080295?hash=item55682e3aa7:g:y7MAAeSwg2tq~fL3",
    "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sega%20Saturn%20Console%20Only&LH_Sold=1&LH_Complete=1",
    "image": "https://i.ebayimg.com/images/g/y7MAAeSwg2tq~fL3/s-l225.jpg",
    "listed": "2026-11-18T18:48:43.000Z",
    "sell_costs": 19.04,
-   "market_p25": 90.99,
-   "market_n": 6,
+   "market_p25": 109.99,
+   "market_n": 9,
    "offer_price": 16.96,
    "platform": "saturn",
-   "source": "sweep",
-   "time": "2026-11-18T18:51:56+00:00"
+   "time": "2026-11-18T18:53:08+00:00"
   },
   {
    "id": "v1|920157387611|0",
@@ -8289,6 +8288,6 @@
    "time": "2026-10-31T15:49:54+00:00"
   }
  ],
- "updated": "2026-11-18T18:51:56+00:00",
- "pushed": "2026-11-18T18:51:56+00:00"
+ "updated": "2026-11-18T18:53:08+00:00",
+ "pushed": "2026-11-18T18:53:08+00:00"
 }
