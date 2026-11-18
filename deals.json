@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|820369707361|0",
+   "title": "Nintendo Switch Console 2019 V2 Model, Fully Working, Good Condition ",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 49.99,
+   "value": 87.79,
+   "profit": 17.76,
+   "roi": 0.355,
+   "margin": 0.202,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 664,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 18 current UK listings start at £88"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820369707361?hash=itembf01d85161:g:upcAAeSwgd9q~c5k",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Console%202019%20V2%20Model%20%20Fully%20Working%20%20Good%20Condition%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/upcAAeSwgd9q~c5k/s-l225.jpg",
+   "listed": "2026-11-18T16:14:09.000Z",
+   "sell_costs": 20.04,
+   "market_p25": 87.79,
+   "market_n": 18,
+   "offer_price": 42.49,
+   "platform": "switch",
+   "time": "2026-11-18T16:19:05+00:00"
+  },
+  {
    "id": "v1|920157103124|0",
    "title": "Bundle of 26 x Commodore 64 C64 Video Game Cassette Tapes + 6 Blanks",
    "label": "📦 26-game bundle at £1.23/game",
@@ -8258,37 +8286,8 @@
    "offer_price": 28.88,
    "platform": "3ds",
    "time": "2026-10-30T16:53:08+00:00"
-  },
-  {
-   "id": "v1|128164331857|0",
-   "title": "Radiant Historia for Nintendo DS US Import Game",
-   "label": "Radiant Historia (DS)",
-   "verdict": "🟡 CONSIDER",
-   "cost": 30.08,
-   "value": 60,
-   "profit": 17.94,
-   "roi": 0.596,
-   "margin": 0.299,
-   "condition": "Good",
-   "seller_pct": 100.0,
-   "seller_score": 2716,
-   "flags": [
-    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
-    "ℹ️ Market check: cheapest quarter of 11 current UK listings start at £93"
-   ],
-   "url": "https://www.ebay.co.uk/itm/128164331857?_skw=Radiant+Historia++&hash=item1dd7308151:g:dkkAAeSwcg9q5IfG",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Radiant%20Historia%20for%20Nintendo%20DS%20US%20Import%20Game&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/dkkAAeSwcg9q5IfG/s-l225.jpg",
-   "listed": "2026-10-30T12:07:44.000Z",
-   "sell_costs": 11.98,
-   "market_p25": 92.98,
-   "market_n": 11,
-   "offer_price": null,
-   "platform": "ds",
-   "source": "sweep",
-   "time": "2026-10-30T16:22:11+00:00"
   }
  ],
- "updated": "2026-11-18T16:15:08+00:00",
- "pushed": "2026-11-18T16:15:08+00:00"
+ "updated": "2026-11-18T16:19:05+00:00",
+ "pushed": "2026-11-18T16:19:05+00:00"
 }
