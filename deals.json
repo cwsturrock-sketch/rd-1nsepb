@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|366820080295|0",
+   "title": "Sega Saturn Console Only",
+   "label": "Sega Saturn console",
+   "verdict": "🟢 BUY",
+   "cost": 25.5,
+   "value": 80,
+   "profit": 35.46,
+   "roi": 1.391,
+   "margin": 0.443,
+   "condition": "For parts or not working",
+   "seller_pct": 99.9,
+   "seller_score": 2158,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 6 current UK listings start at £91"
+   ],
+   "url": "https://www.ebay.co.uk/itm/366820080295?_skw=Sega+Saturn+console&hash=item55682e3aa7:g:y7MAAeSwg2tq~fL3",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sega%20Saturn%20Console%20Only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/y7MAAeSwg2tq~fL3/s-l225.jpg",
+   "listed": "2026-11-18T18:48:43.000Z",
+   "sell_costs": 19.04,
+   "market_p25": 90.99,
+   "market_n": 6,
+   "offer_price": 16.96,
+   "platform": "saturn",
+   "source": "sweep",
+   "time": "2026-11-18T18:51:56+00:00"
+  },
+  {
    "id": "v1|920157387611|0",
    "title": "Atari Flashback Portable Console with 70 Games - Black",
    "label": "📦 70-game bundle at £0.58/game",
@@ -8259,36 +8287,8 @@
    "offer_price": null,
    "platform": "snes",
    "time": "2026-10-31T15:49:54+00:00"
-  },
-  {
-   "id": "v1|147658536590|0",
-   "title": "Nintendo Switch V2 Console and Joycons only",
-   "label": "🔥 Nintendo Switch console",
-   "verdict": "🟢 BUY",
-   "cost": 63.37,
-   "value": 130,
-   "profit": 41.19,
-   "roi": 0.65,
-   "margin": 0.317,
-   "condition": "Used",
-   "seller_pct": 100.0,
-   "seller_score": 1080,
-   "flags": [
-    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
-    "ℹ️ Market check: cheapest quarter of 17 current UK listings start at £130"
-   ],
-   "url": "https://www.ebay.co.uk/itm/147658536590?hash=item226122768e:g:BxoAAeSw2l9q5Q2z",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20V2%20Console%20and%20Joycons%20only&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/BxoAAeSw2l9q5Q2z/s-l225.jpg",
-   "listed": "2026-10-30T21:37:00.000Z",
-   "sell_costs": 25.44,
-   "market_p25": 130.4,
-   "market_n": 17,
-   "offer_price": null,
-   "platform": "switch",
-   "time": "2026-10-30T21:41:05+00:00"
   }
  ],
- "updated": "2026-11-18T18:41:04+00:00",
- "pushed": "2026-11-18T18:41:04+00:00"
+ "updated": "2026-11-18T18:51:56+00:00",
+ "pushed": "2026-11-18T18:51:56+00:00"
 }
