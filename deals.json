@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|168871361537|0",
+   "title": "Sony PlayStation 4 Slim Home Console - Black, HDMI RJ-45 USB-A Connectivity",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 35.61,
+   "value": 80.15,
+   "profit": 25.48,
+   "roi": 0.716,
+   "margin": 0.318,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 5,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 5 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £80"
+   ],
+   "url": "https://www.ebay.co.uk/itm/168871361537?hash=item2751847c01:g:XooAAeSwvMtq~cye",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20Slim%20Home%20Console%20%20%20Black%20%20HDMI%20RJ%2045%20USB%20A%20Connectivity&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/XooAAeSwvMtq~cye/s-l225.jpg",
+   "listed": "2026-11-18T16:31:30.000Z",
+   "sell_costs": 19.06,
+   "market_p25": 80.15,
+   "market_n": 15,
+   "offer_price": 27.11,
+   "platform": "ps4",
+   "time": "2026-11-18T16:35:05+00:00"
+  },
+  {
    "id": "v1|820369707361|0",
    "title": "Nintendo Switch Console 2019 V2 Model, Fully Working, Good Condition ",
    "label": "🔥 Nintendo Switch console",
@@ -8258,36 +8287,8 @@
    "offer_price": 27.11,
    "platform": "switch",
    "time": "2026-10-30T16:53:08+00:00"
-  },
-  {
-   "id": "v1|960133552543|0",
-   "title": "Nintendo 3DS White Handheld Console, Wi‑Fi, 2GB, Region Free (CTR-001)",
-   "label": "🔥 Nintendo 3DS console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 36.92,
-   "value": 70,
-   "profit": 15.32,
-   "roi": 0.415,
-   "margin": 0.219,
-   "condition": "For parts or not working",
-   "seller_pct": 100.0,
-   "seller_score": 9,
-   "flags": [
-    "⚠️ Seller trust low (100.0% · 9 reviews)",
-    "ℹ️ Market check: cheapest quarter of 7 current UK listings start at £79"
-   ],
-   "url": "https://www.ebay.co.uk/itm/960133552543?hash=itemdf8c6b599f:g:VkgAAeSwc8Nq5MmV",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%203DS%20White%20Handheld%20Console%20%20Wi%20Fi%20%202GB%20%20Region%20Free%20%20CTR%20001%20&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/VkgAAeSwc8Nq5MmV/s-l225.jpg",
-   "listed": "2026-10-30T16:47:39.000Z",
-   "sell_costs": 17.76,
-   "market_p25": 78.83999999999999,
-   "market_n": 7,
-   "offer_price": 28.88,
-   "platform": "3ds",
-   "time": "2026-10-30T16:53:08+00:00"
   }
  ],
- "updated": "2026-11-18T16:29:06+00:00",
- "pushed": "2026-11-18T16:29:06+00:00"
+ "updated": "2026-11-18T16:35:05+00:00",
+ "pushed": "2026-11-18T16:35:05+00:00"
 }
