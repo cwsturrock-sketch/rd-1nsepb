@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|377656672809|0",
+   "title": "DOUBLE DRAGON  ZEEBO ON 32X  SOFTWARE - PAL - UNOFFICIAL PORT - FULLY BOXED ETC",
+   "label": "📦 32-game bundle at £0.89/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 28.37,
+   "value": 128,
+   "profit": 36.85,
+   "roi": 1.299,
+   "margin": 0.288,
+   "condition": "New",
+   "seller_pct": 99.1,
+   "seller_score": 598,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377656672809?hash=item57ee178229:g:EakAAeSw6DFq~dqM",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=DOUBLE%20DRAGON%20%20ZEEBO%20ON%2032X%20%20SOFTWARE%20%20%20PAL%20%20%20UNOFFICIAL%20PORT%20%20%20FULLY%20BOXED%20ETC&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/EakAAeSw6DFq~dqM/s-l225.jpg",
+   "listed": "2026-11-18T17:08:39.000Z",
+   "sell_costs": 62.78,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-18T17:13:04+00:00"
+  },
+  {
    "id": "v1|168871361537|0",
    "title": "Sony PlayStation 4 Slim Home Console - Black, HDMI RJ-45 USB-A Connectivity",
    "label": "🔥 PS4 console",
@@ -8259,36 +8286,8 @@
    "offer_price": 131.75,
    "platform": "ps5",
    "time": "2026-10-30T18:21:06+00:00"
-  },
-  {
-   "id": "v1|366771813127|0",
-   "title": "Nintendo Switch Console Handheld System with Neon Red/Neon Blue Joy-Con",
-   "label": "🔥 Nintendo Switch console",
-   "verdict": "🟢 BUY",
-   "cost": 35.28,
-   "value": 130,
-   "profit": 69.28,
-   "roi": 1.964,
-   "margin": 0.533,
-   "condition": "For parts or not working",
-   "seller_pct": 100.0,
-   "seller_score": 104,
-   "flags": [
-    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
-    "ℹ️ Market check: cheapest quarter of 17 current UK listings start at £130"
-   ],
-   "url": "https://www.ebay.co.uk/itm/366771813127?hash=item55654dbb07:g:lKoAAeSw0z9q5Mnw",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Console%20Handheld%20System%20with%20Neon%20Red%20Neon%20Blue%20Joy%20Con&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/lKoAAeSw0z9q5Mnw/s-l225.jpg",
-   "listed": "2026-10-30T16:48:39.000Z",
-   "sell_costs": 25.44,
-   "market_p25": 130.4,
-   "market_n": 17,
-   "offer_price": 27.11,
-   "platform": "switch",
-   "time": "2026-10-30T16:53:08+00:00"
   }
  ],
- "updated": "2026-11-18T17:07:04+00:00",
- "pushed": "2026-11-18T17:07:04+00:00"
+ "updated": "2026-11-18T17:13:04+00:00",
+ "pushed": "2026-11-18T17:13:04+00:00"
 }
