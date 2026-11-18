@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820368823811|0",
+   "title": "Sony PlayStation 4 PS4 Console Black PAL 1080p Wi‑Fi CUH-1116A",
+   "label": "🔥 PS4 console",
+   "verdict": "🟢 BUY",
+   "cost": 27.23,
+   "value": 80.15,
+   "profit": 33.86,
+   "roi": 1.244,
+   "margin": 0.422,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 128,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £80"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820368823811?hash=itembf01cad603:g:RV0AAeSwid9q~YTj",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20Console%20Black%20PAL%201080p%20Wi%20Fi%20CUH%201116A&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/RV0AAeSwid9q~YTj/s-l225.jpg",
+   "listed": "2026-11-18T10:59:48.000Z",
+   "sell_costs": 19.06,
+   "market_p25": 80.15,
+   "market_n": 15,
+   "offer_price": 18.72,
+   "platform": "ps4",
+   "time": "2026-11-18T11:03:08+00:00"
+  },
+  {
    "id": "v1|128201285841|0",
    "title": "Amstrad tapes bundle various assorted. Untested.  X38",
    "label": "📦 38-game bundle at £1.32/game",
@@ -8260,37 +8287,8 @@
    "offer_price": 27.11,
    "platform": "dreamcast",
    "time": "2026-10-29T14:05:06+00:00"
-  },
-  {
-   "id": "v1|800594812290|0",
-   "title": "Rule Of Rose Ps2 PlayStation 2 Boxed Complete Itallian Version",
-   "label": "Rule of Rose",
-   "verdict": "🟡 CONSIDER",
-   "cost": 160.62,
-   "value": 280.0,
-   "profit": 79.24,
-   "roi": 0.493,
-   "margin": 0.283,
-   "condition": "Good",
-   "seller_pct": 95.8,
-   "seller_score": 476,
-   "flags": [
-    "⚠️ Seller trust low (95.8% · 476 reviews)",
-    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £280"
-   ],
-   "url": "https://www.ebay.co.uk/itm/800594812290?_skw=Rule+of+Rose&hash=itemba672b5d82:g:yKAAAeSw6rdqQsrf",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Rule%20Of%20Rose%20Ps2%20PlayStation%202%20Boxed%20Complete%20Itallian%20Version&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/yKAAAeSw6rdqQsrf/s-l225.jpg",
-   "listed": "2026-09-01T07:14:23.000Z",
-   "sell_costs": 40.14,
-   "market_p25": 280.0,
-   "market_n": 13,
-   "offer_price": null,
-   "platform": "ps2",
-   "source": "sweep",
-   "time": "2026-10-29T13:53:53+00:00"
   }
  ],
- "updated": "2026-11-18T10:59:04+00:00",
- "pushed": "2026-11-18T10:59:04+00:00"
+ "updated": "2026-11-18T11:03:08+00:00",
+ "pushed": "2026-11-18T11:03:08+00:00"
 }
