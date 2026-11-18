@@ -1,6 +1,62 @@
 {
  "deals": [
   {
+   "id": "v1|920157103124|0",
+   "title": "Bundle of 26 x Commodore 64 C64 Video Game Cassette Tapes + 6 Blanks",
+   "label": "📦 26-game bundle at £1.23/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 31.85,
+   "value": 104,
+   "profit": 15.44,
+   "roi": 0.485,
+   "margin": 0.148,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 267,
+   "flags": [
+    "⚠️ Bundle value is a guess (26 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/920157103124?hash=itemd63da32414:g:mJAAAeSwRTFq~cay",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Bundle%20of%2026%20x%20Commodore%2064%20C64%20Video%20Game%20Cassette%20Tapes%20%20%206%20Blanks&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/mJAAAeSwRTFq~cay/s-l225.jpg",
+   "listed": "2026-11-18T16:11:46.000Z",
+   "sell_costs": 56.71,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-18T16:15:08+00:00"
+  },
+  {
+   "id": "v1|168871337963|0",
+   "title": "Sony PlayStation 4 Slim Home Console - Black, HDMI RJ-45 USB-A Connectivity",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 28.33,
+   "value": 80.15,
+   "profit": 32.76,
+   "roi": 1.156,
+   "margin": 0.409,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 5,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 5 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £80"
+   ],
+   "url": "https://www.ebay.co.uk/itm/168871337963?hash=item2751841feb:g:XooAAeSwvMtq~cye",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20Slim%20Home%20Console%20%20%20Black%20%20HDMI%20RJ%2045%20USB%20A%20Connectivity&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/XooAAeSwvMtq~cye/s-l225.jpg",
+   "listed": "2026-11-18T16:11:43.000Z",
+   "sell_costs": 19.06,
+   "market_p25": 80.15,
+   "market_n": 15,
+   "offer_price": 20.93,
+   "platform": "ps4",
+   "time": "2026-11-18T16:15:08+00:00"
+  },
+  {
    "id": "v1|147686686293|0",
    "title": "Metroid Prime Trilogy - Collector's Edition (Nintendo Wii)",
    "label": "🔥 Metroid Prime Trilogy",
@@ -8231,62 +8287,8 @@
    "platform": "ds",
    "source": "sweep",
    "time": "2026-10-30T16:22:11+00:00"
-  },
-  {
-   "id": "v1|336869255889|0",
-   "title": "Nintendo Switch HAC-001 Console Black/Red Joy-Con 32GB 720p Wi-Fi 2017",
-   "label": "🔥 Nintendo Switch console",
-   "verdict": "🟢 BUY",
-   "cost": 29.04,
-   "value": 130,
-   "profit": 75.52,
-   "roi": 2.601,
-   "margin": 0.581,
-   "condition": "For parts or not working",
-   "seller_pct": 100.0,
-   "seller_score": 33,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £140"
-   ],
-   "url": "https://www.ebay.co.uk/itm/336869255889?hash=item4e6ef8ead1:g:LDMAAeSwvvZq44n7",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20HAC%20001%20Console%20Black%20Red%20Joy%20Con%2032GB%20720p%20Wi%20Fi%202017&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/LDMAAeSwvvZq44n7/s-l225.jpg",
-   "listed": "2026-10-29T18:02:45.000Z",
-   "sell_costs": 25.44,
-   "market_p25": 139.99,
-   "market_n": 15,
-   "offer_price": 21.81,
-   "platform": "switch",
-   "time": "2026-10-29T18:09:06+00:00"
-  },
-  {
-   "id": "v1|336869254023|0",
-   "title": "Nintendo Switch HAC-001 Console Tablet w/ Red Joy-Con 32GB 720p USB-C Wi-Fi",
-   "label": "🔥 Nintendo Switch console",
-   "verdict": "🟢 BUY",
-   "cost": 35.36,
-   "value": 130,
-   "profit": 69.2,
-   "roi": 1.957,
-   "margin": 0.532,
-   "condition": "For parts or not working",
-   "seller_pct": 100.0,
-   "seller_score": 33,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £140"
-   ],
-   "url": "https://www.ebay.co.uk/itm/336869254023?hash=item4e6ef8e387:g:27IAAeSwMONq44mt",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20HAC%20001%20Console%20Tablet%20w%20%20Red%20Joy%20Con%2032GB%20720p%20USB%20C%20Wi%20Fi&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/27IAAeSwMONq44mt/s-l225.jpg",
-   "listed": "2026-10-29T18:00:49.000Z",
-   "sell_costs": 25.44,
-   "market_p25": 139.99,
-   "market_n": 15,
-   "offer_price": 27.56,
-   "platform": "switch",
-   "time": "2026-10-29T18:05:05+00:00"
   }
  ],
- "updated": "2026-11-18T16:07:18+00:00",
- "pushed": "2026-11-18T16:07:18+00:00"
+ "updated": "2026-11-18T16:15:08+00:00",
+ "pushed": "2026-11-18T16:15:08+00:00"
 }
