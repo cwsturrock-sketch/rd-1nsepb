@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|920157387611|0",
+   "title": "Atari Flashback Portable Console with 70 Games - Black",
+   "label": "📦 70-game bundle at £0.58/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 40.48,
+   "value": 280,
+   "profit": 138.28,
+   "roi": 3.416,
+   "margin": 0.494,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 2,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 2 reviews)",
+    "⚠️ Bundle value is a guess (70 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/920157387611?hash=itemd63da77b5b:g:takAAeSwc5hq~eSD",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Atari%20Flashback%20Portable%20Console%20with%2070%20Games%20%20%20Black&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/takAAeSwc5hq~eSD/s-l225.jpg",
+   "listed": "2026-11-18T18:01:55.000Z",
+   "sell_costs": 101.24,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 31.54,
+   "platform": "default",
+   "time": "2026-11-18T18:07:05+00:00"
+  },
+  {
    "id": "v1|377656672809|0",
    "title": "DOUBLE DRAGON  ZEEBO ON 32X  SOFTWARE - PAL - UNOFFICIAL PORT - FULLY BOXED ETC",
    "label": "📦 32-game bundle at £0.89/game",
@@ -8259,35 +8287,8 @@
    "offer_price": null,
    "platform": "switch",
    "time": "2026-10-30T21:41:05+00:00"
-  },
-  {
-   "id": "v1|257825720216|0",
-   "title": "Sony PlayStation 5 PS5 Home Console 825GB CFI-1116A *Read Description*",
-   "label": "🔥 PS5 console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 161.76,
-   "value": 300,
-   "profit": 91.04,
-   "roi": 0.563,
-   "margin": 0.303,
-   "condition": "For parts or not working",
-   "seller_pct": 100.0,
-   "seller_score": 217,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 20 current UK listings start at £447"
-   ],
-   "url": "https://www.ebay.co.uk/itm/257825720216?hash=item3c079c4798:g:b~IAAeSwRb5q5MxV",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%205%20PS5%20Home%20Console%20825GB%20CFI%201116A%20%20Read%20Description%20&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/b~IAAeSwRb5q5MxV/s-l225.jpg",
-   "listed": "2026-10-30T18:16:12.000Z",
-   "sell_costs": 47.2,
-   "market_p25": 446.86,
-   "market_n": 20,
-   "offer_price": 131.75,
-   "platform": "ps5",
-   "time": "2026-10-30T18:21:06+00:00"
   }
  ],
- "updated": "2026-11-18T17:55:06+00:00",
- "pushed": "2026-11-18T17:55:06+00:00"
+ "updated": "2026-11-18T18:07:05+00:00",
+ "pushed": "2026-11-18T18:07:05+00:00"
 }
