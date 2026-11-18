@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|287739165615|0",
+   "title": "Sony PlayStation 4 PS4 White Home Console - HDMI USB-A Connectivity",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 38.55,
+   "value": 80.15,
+   "profit": 22.54,
+   "roi": 0.585,
+   "margin": 0.281,
+   "condition": "For parts or not working",
+   "seller_pct": 99.4,
+   "seller_score": 1839,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £80"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287739165615?hash=item42fe973baf:g:H2gAAeSwmnJq~b8s",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20White%20Home%20Console%20%20%20HDMI%20USB%20A%20Connectivity&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/H2gAAeSwmnJq~b8s/s-l225.jpg",
+   "listed": "2026-11-18T15:08:39.000Z",
+   "sell_costs": 19.06,
+   "market_p25": 80.15,
+   "market_n": 15,
+   "offer_price": 27.11,
+   "platform": "ps4",
+   "time": "2026-11-18T15:17:06+00:00"
+  },
+  {
    "id": "v1|377655935692|0",
    "title": "Nintendo Switch V2 main tablet console unit only",
    "label": "🔥 Nintendo Switch console",
@@ -8259,35 +8287,8 @@
    "offer_price": null,
    "platform": "ps5",
    "time": "2026-10-29T17:43:06+00:00"
-  },
-  {
-   "id": "v1|267827411334|0",
-   "title": "Nintendo Switch V1 Console 32GB, 2017, Original",
-   "label": "🔥 Nintendo Switch console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 76.88,
-   "value": 130,
-   "profit": 27.68,
-   "roi": 0.36,
-   "margin": 0.213,
-   "condition": "Used",
-   "seller_pct": 100.0,
-   "seller_score": 200,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £140"
-   ],
-   "url": "https://www.ebay.co.uk/itm/267827411334?hash=item3e5bc1f986:g:4kMAAeSwwvJq4olK",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20V1%20Console%2032GB%20%202017%20%20Original&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/4kMAAeSwwvJq4olK/s-l225.jpg",
-   "listed": "2026-10-29T17:31:18.000Z",
-   "sell_costs": 25.44,
-   "market_p25": 139.99,
-   "market_n": 15,
-   "offer_price": 62.48,
-   "platform": "switch",
-   "time": "2026-10-29T17:35:06+00:00"
   }
  ],
- "updated": "2026-11-18T15:11:06+00:00",
- "pushed": "2026-11-18T15:11:06+00:00"
+ "updated": "2026-11-18T15:17:06+00:00",
+ "pushed": "2026-11-18T15:17:06+00:00"
 }
