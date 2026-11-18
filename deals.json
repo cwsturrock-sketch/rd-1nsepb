@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820368882985|0",
+   "title": "Sony PlayStation 4 PS4 Console Black PAL 1080p Wi‑Fi CUH-1116A",
+   "label": "🔥 PS4 console",
+   "verdict": "🟢 BUY",
+   "cost": 27.23,
+   "value": 80.15,
+   "profit": 33.86,
+   "roi": 1.244,
+   "margin": 0.422,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 128,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £80"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820368882985?hash=itembf01cbbd29:g:RV0AAeSwid9q~YTj",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20Console%20Black%20PAL%201080p%20Wi%20Fi%20CUH%201116A&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/RV0AAeSwid9q~YTj/s-l225.jpg",
+   "listed": "2026-11-18T11:13:30.000Z",
+   "sell_costs": 19.06,
+   "market_p25": 80.15,
+   "market_n": 15,
+   "offer_price": 18.72,
+   "platform": "ps4",
+   "time": "2026-11-18T11:17:06+00:00"
+  },
+  {
    "id": "v1|820368823811|0",
    "title": "Sony PlayStation 4 PS4 Console Black PAL 1080p Wi‑Fi CUH-1116A",
    "label": "🔥 PS4 console",
@@ -8260,35 +8287,8 @@
    "offer_price": 40.38,
    "platform": "switch",
    "time": "2026-10-29T17:17:07+00:00"
-  },
-  {
-   "id": "v1|227588713982|0",
-   "title": "SEGA Dreamcast Console HKT-3030 White PAL Region Sega Dreamcast AV Out",
-   "label": "🔥 Dreamcast console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 37.11,
-   "value": 70,
-   "profit": 15.13,
-   "roi": 0.408,
-   "margin": 0.216,
-   "condition": "Used",
-   "seller_pct": 100.0,
-   "seller_score": 33,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 6 current UK listings start at £84"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227588713982?hash=item34fd582dfe:g:vK0AAeSw08Zq41FN",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=SEGA%20Dreamcast%20Console%20HKT%203030%20White%20PAL%20Region%20Sega%20Dreamcast%20AV%20Out&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/vK0AAeSw08Zq41FN/s-l225.jpg",
-   "listed": "2026-10-29T14:01:19.000Z",
-   "sell_costs": 17.76,
-   "market_p25": 83.95,
-   "market_n": 6,
-   "offer_price": 27.11,
-   "platform": "dreamcast",
-   "time": "2026-10-29T14:05:06+00:00"
   }
  ],
- "updated": "2026-11-18T11:15:05+00:00",
- "pushed": "2026-11-18T11:15:05+00:00"
+ "updated": "2026-11-18T11:17:06+00:00",
+ "pushed": "2026-11-18T11:17:06+00:00"
 }
