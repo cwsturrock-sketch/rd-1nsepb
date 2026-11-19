@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|336906127735|0",
+   "title": "Sony PlayStation 4 PS4 Console 500GB Black Wi‑Fi 1080p Console Only",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 43.75,
+   "value": 79.95,
+   "profit": 17.17,
+   "roi": 0.392,
+   "margin": 0.215,
+   "condition": "Used",
+   "seller_pct": 97.6,
+   "seller_score": 40,
+   "flags": [
+    "⚠️ Seller trust low (97.6% · 40 reviews)",
+    "ℹ️ Market check: cheapest quarter of 17 current UK listings start at £80"
+   ],
+   "url": "https://www.ebay.co.uk/itm/336906127735?hash=item4e712b8977:g:ZlUAAeSwwzVq~1jr",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20Console%20500GB%20Black%20Wi%20Fi%201080p%20Console%20Only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/ZlUAAeSwwzVq~1jr/s-l225.jpg",
+   "listed": "2026-11-19T20:17:40.000Z",
+   "sell_costs": 19.03,
+   "market_p25": 79.95,
+   "market_n": 17,
+   "offer_price": 31.54,
+   "platform": "ps4",
+   "time": "2026-11-19T20:23:06+00:00"
+  },
+  {
    "id": "v1|880133773939|0",
    "title": "X18 PS3 Bundle Watch Dogs Call Of Duty Little Big Planet Battlefield Saints Row",
    "label": "📦 18-game bundle at £0.79/game",
@@ -8260,36 +8288,8 @@
    "platform": "dreamcast",
    "source": "sweep",
    "time": "2026-11-01T13:07:43+00:00"
-  },
-  {
-   "id": "v1|407331027528|0",
-   "title": "Nintendo Switch HAC-001 Black Console w/ Joy-Con, Dock, 32GB 1080p HDMI Wi-Fi",
-   "label": "🔥 Nintendo Switch console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 50.88,
-   "value": 130,
-   "profit": 53.68,
-   "roi": 1.055,
-   "margin": 0.413,
-   "condition": "Used",
-   "seller_pct": 100.0,
-   "seller_score": 3,
-   "flags": [
-    "⚠️ Seller trust low (100.0% · 3 reviews)",
-    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £150"
-   ],
-   "url": "https://www.ebay.co.uk/itm/407331027528?hash=item5ed6d23a48:g:jSMAAeSwyIJq5ync",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20HAC%20001%20Black%20Console%20w%20%20Joy%20Con%20%20Dock%20%2032GB%201080p%20HDMI%20Wi%20Fi&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/jSMAAeSwyIJq5ync/s-l225.jpg",
-   "listed": "2026-11-01T12:02:37.000Z",
-   "sell_costs": 25.44,
-   "market_p25": 149.99,
-   "market_n": 15,
-   "offer_price": 40.38,
-   "platform": "switch",
-   "time": "2026-11-01T12:07:06+00:00"
   }
  ],
- "updated": "2026-11-19T20:19:05+00:00",
- "pushed": "2026-11-19T20:19:05+00:00"
+ "updated": "2026-11-19T20:23:06+00:00",
+ "pushed": "2026-11-19T20:23:06+00:00"
 }
