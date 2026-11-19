@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|227621799204|0",
+   "title": "Blaze AtGames Portable Video Game Player 30 Games Boxed Working        ",
+   "label": "📦 30-game bundle at £0.81/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 24.44,
+   "value": 120,
+   "profit": 34.8,
+   "roi": 1.424,
+   "margin": 0.29,
+   "condition": "Used",
+   "seller_pct": 99.4,
+   "seller_score": 1659,
+   "flags": [
+    "⚠️ Bundle value is a guess (30 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/227621799204?hash=item34ff510524:g:BIoAAeSwPq1q~wQI",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Blaze%20AtGames%20Portable%20Video%20Game%20Player%2030%20Games%20Boxed%20Working%20%20%20%20%20%20%20%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/BIoAAeSwPq1q~wQI/s-l225.jpg",
+   "listed": "2026-11-19T14:15:14.000Z",
+   "sell_costs": 60.76,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 18.27,
+   "platform": "default",
+   "time": "2026-11-19T14:19:05+00:00"
+  },
+  {
    "id": "v1|940105389223|0",
    "title": "BROKEN Nintendo 3DS XL  Animal Crossing New Leaf Special Edition Boxed ",
    "label": "🔥 New Nintendo 3DS XL",
@@ -8260,35 +8287,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-10-31T16:05:06+00:00"
-  },
-  {
-   "id": "v1|377610784060|0",
-   "title": "THE PUNISHER  - CAPCOM - FULL GAME ON THE 32X  - PAL -  - FULLY BOXED",
-   "label": "📦 32-game bundle at £0.87/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 27.71,
-   "value": 128,
-   "profit": 37.51,
-   "roi": 1.354,
-   "margin": 0.293,
-   "condition": "New",
-   "seller_pct": 99.1,
-   "seller_score": 585,
-   "flags": [
-    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/377610784060?hash=item57eb5b4d3c:g:sEEAAeSwUHNqKaAg",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=THE%20PUNISHER%20%20%20%20CAPCOM%20%20%20FULL%20GAME%20ON%20THE%2032X%20%20%20%20PAL%20%20%20%20%20%20FULLY%20BOXED&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/sEEAAeSwUHNqKaAg/s-l225.jpg",
-   "listed": "2026-10-31T16:00:04.000Z",
-   "sell_costs": 62.78,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-10-31T16:05:06+00:00"
   }
  ],
- "updated": "2026-11-19T14:09:04+00:00",
- "pushed": "2026-11-19T14:09:04+00:00"
+ "updated": "2026-11-19T14:19:05+00:00",
+ "pushed": "2026-11-19T14:19:05+00:00"
 }
