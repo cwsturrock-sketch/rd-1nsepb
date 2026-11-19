@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|237192968536|0",
+   "title": "Nintendo Switch HAC-001 32GB Grey/Black Console w/ Grey Joy-Cons Wi-Fi 2017.",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 45.68,
+   "value": 83.88,
+   "profit": 18.66,
+   "roi": 0.409,
+   "margin": 0.223,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 251,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 18 current UK listings start at £84"
+   ],
+   "url": "https://www.ebay.co.uk/itm/237192968536?hash=item3739cd7958:g:ssgAAeSwcuhq~0lM",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20HAC%20001%2032GB%20Grey%20Black%20Console%20w%20%20Grey%20Joy%20Cons%20Wi%20Fi%202017%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/ssgAAeSwcuhq~0lM/s-l225.jpg",
+   "listed": "2026-11-19T19:11:50.000Z",
+   "sell_costs": 19.54,
+   "market_p25": 83.88,
+   "market_n": 18,
+   "offer_price": 35.95,
+   "platform": "switch",
+   "time": "2026-11-19T19:17:06+00:00"
+  },
+  {
    "id": "v1|287741785369|0",
    "title": "Donut SMP Skeleton Spawners x32 - fast and trusted",
    "label": "📦 32-game bundle at £0.39/game",
@@ -8262,36 +8289,8 @@
    "offer_price": null,
    "platform": "switch",
    "time": "2026-11-01T11:47:05+00:00"
-  },
-  {
-   "id": "v1|800862744766|0",
-   "title": "Nintendo Switch Handheld Console, Blue & Yellow Joy-Con, USB-C Connectivity",
-   "label": "🔥 Nintendo Switch console",
-   "verdict": "🟢 BUY",
-   "cost": 46.46,
-   "value": 130,
-   "profit": 58.1,
-   "roi": 1.251,
-   "margin": 0.447,
-   "condition": "Used",
-   "seller_pct": 100.0,
-   "seller_score": 386,
-   "flags": [
-    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
-    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £150"
-   ],
-   "url": "https://www.ebay.co.uk/itm/800862744766?hash=itemba7723b0be:g:u5oAAeSwI5Fq5yJH",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Handheld%20Console%20%20Blue%20%20%20Yellow%20Joy%20Con%20%20USB%20C%20Connectivity&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/u5oAAeSwI5Fq5yJH/s-l225.jpg",
-   "listed": "2026-11-01T11:28:50.000Z",
-   "sell_costs": 25.44,
-   "market_p25": 149.99,
-   "market_n": 15,
-   "offer_price": 39.49,
-   "platform": "switch",
-   "time": "2026-11-01T11:33:05+00:00"
   }
  ],
- "updated": "2026-11-19T19:13:06+00:00",
- "pushed": "2026-11-19T19:13:06+00:00"
+ "updated": "2026-11-19T19:17:06+00:00",
+ "pushed": "2026-11-19T19:17:06+00:00"
 }
