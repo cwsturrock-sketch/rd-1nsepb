@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|900103648880|0",
+   "title": "The Settlers: Heritage of Kings PC GAME Windows XP / 2000 / X64 / Vista",
+   "label": "📦 64-game bundle at £0.08/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 5.36,
+   "value": 256,
+   "profit": 155.47,
+   "roi": 29.006,
+   "margin": 0.607,
+   "condition": "Very Good",
+   "seller_pct": 99.9,
+   "seller_score": 2030,
+   "flags": [
+    "⚠️ Bundle value is a guess (64 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/900103648880?hash=itemd1925bb670:g:~ZEAAOSwW5hmnVkR",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=The%20Settlers%20%20Heritage%20of%20Kings%20PC%20GAME%20Windows%20XP%20%20%202000%20%20%20X64%20%20%20Vista&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/~ZEAAOSwW5hmnVkR/s-l225.jpg",
+   "listed": "2026-11-19T09:28:45.000Z",
+   "sell_costs": 95.17,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 2.77,
+   "platform": "default",
+   "time": "2026-11-19T09:35:06+00:00"
+  },
+  {
    "id": "v1|920157733591|0",
    "title": "Nintendo Switch HAC-001 Console 32GB 720p Wi-Fi Neon Red/Blue Joy-Con",
    "label": "🔥 Nintendo Switch console",
@@ -8259,35 +8286,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-10-31T16:01:06+00:00"
-  },
-  {
-   "id": "v1|920091182925|0",
-   "title": "Activision Monkey Mischief! 20 Games PAL (Nintendo Wii) PEGI 3 Multiplayer",
-   "label": "📦 20-game bundle at £0.46/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 9.22,
-   "value": 80,
-   "profit": 20.14,
-   "roi": 2.184,
-   "margin": 0.252,
-   "condition": "Very Good",
-   "seller_pct": 100.0,
-   "seller_score": 66,
-   "flags": [
-    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/920091182925?hash=itemd639b5474d:g:m3oAAeSwx5Jq5gvq",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Activision%20Monkey%20Mischief%20%2020%20Games%20PAL%20%20Nintendo%20Wii%20%20PEGI%203%20Multiplayer&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/m3oAAeSwx5Jq5gvq/s-l225.jpg",
-   "listed": "2026-10-31T15:40:56.000Z",
-   "sell_costs": 50.64,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "wii",
-   "time": "2026-10-31T15:49:54+00:00"
   }
  ],
- "updated": "2026-11-19T09:33:59+00:00",
- "pushed": "2026-11-19T09:33:59+00:00"
+ "updated": "2026-11-19T09:35:06+00:00",
+ "pushed": "2026-11-19T09:35:06+00:00"
 }
