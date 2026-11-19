@@ -1,6 +1,64 @@
 {
  "deals": [
   {
+   "id": "v1|307290791435|0",
+   "title": "Pokemon HeartGold (Cartridge Only) - Nintendo DS - Free P&P",
+   "label": "🔥 Pokemon HeartGold",
+   "verdict": "🟡 CONSIDER",
+   "cost": 21.99,
+   "value": 59.49999999999999,
+   "profit": 25.59,
+   "roi": 1.164,
+   "margin": 0.43,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 110,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £73"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307290791435?hash=item478bf55e0b:g:mK4AAeSwUD9qSB-H",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20HeartGold%20%20Cartridge%20Only%20%20%20%20Nintendo%20DS%20%20%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/mK4AAeSwUD9qSB-H/s-l225.jpg",
+   "listed": "2026-11-19T16:48:31.000Z",
+   "sell_costs": 11.92,
+   "market_p25": 72.75,
+   "market_n": 14,
+   "offer_price": 18.69,
+   "platform": "ds",
+   "time": "2026-11-19T16:53:08+00:00"
+  },
+  {
+   "id": "v1|307290790410|0",
+   "title": "Pokemon SoulSilver (Cartridge Only) - Nintendo DS - Free P&P",
+   "label": "🔥 Pokemon SoulSilver",
+   "verdict": "🟡 CONSIDER",
+   "cost": 21.99,
+   "value": 59.49999999999999,
+   "profit": 25.59,
+   "roi": 1.164,
+   "margin": 0.43,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 110,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 18 current UK listings start at £71"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307290790410?hash=item478bf55a0a:g:qd0AAeSw5YJqSWGm",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20SoulSilver%20%20Cartridge%20Only%20%20%20%20Nintendo%20DS%20%20%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/qd0AAeSw5YJqSWGm/s-l225.jpg",
+   "listed": "2026-11-19T16:47:42.000Z",
+   "sell_costs": 11.92,
+   "market_p25": 71.0,
+   "market_n": 18,
+   "offer_price": 18.69,
+   "platform": "ds",
+   "time": "2026-11-19T16:53:08+00:00"
+  },
+  {
    "id": "v1|800938849251|0",
    "title": "Xbox 360 Games Job Lot Bundle x29 | All Working",
    "label": "📦 29-game bundle at £0.87/game",
@@ -8232,63 +8290,8 @@
    "offer_price": 9.18,
    "platform": "ps1",
    "time": "2026-11-01T10:55:05+00:00"
-  },
-  {
-   "id": "v1|287696401133|0",
-   "title": "Nintendo Switch HAC-001 Handheld Console Tablet Black 32GB 720p Wi-Fi USB-C",
-   "label": "🔥 Nintendo Switch console",
-   "verdict": "🟢 BUY",
-   "cost": 63.1,
-   "value": 130,
-   "profit": 41.46,
-   "roi": 0.657,
-   "margin": 0.319,
-   "condition": "Used",
-   "seller_pct": 100.0,
-   "seller_score": 67,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £150"
-   ],
-   "url": "https://www.ebay.co.uk/itm/287696401133?hash=item42fc0ab2ed:g:zWMAAeSwGERq5wqW",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20HAC%20001%20Handheld%20Console%20Tablet%20Black%2032GB%20720p%20Wi%20Fi%20USB%20C&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/zWMAAeSwGERq5wqW/s-l225.jpg",
-   "listed": "2026-11-01T09:53:28.000Z",
-   "sell_costs": 25.44,
-   "market_p25": 149.99,
-   "market_n": 15,
-   "offer_price": null,
-   "platform": "switch",
-   "time": "2026-11-01T09:57:07+00:00"
-  },
-  {
-   "id": "v1|336872253289|0",
-   "title": "Super Nintendo Entertainment System Console Only, #CON031, UNTESTED",
-   "label": "🔥 NES console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 26.37,
-   "value": 70,
-   "profit": 25.87,
-   "roi": 0.981,
-   "margin": 0.37,
-   "condition": "Used",
-   "seller_pct": 99.2,
-   "seller_score": 511,
-   "flags": [
-    "⚠️ Untested",
-    "ℹ️ Too few current listings to check the market price"
-   ],
-   "url": "https://www.ebay.co.uk/itm/336872253289?hash=item4e6f26a769:g:suMAAeSw8Glq5iAS",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Super%20Nintendo%20Entertainment%20System%20Console%20Only%20%20%20CON031%20%20UNTESTED&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/suMAAeSw8Glq5iAS/s-l225.jpg",
-   "listed": "2026-10-31T17:11:25.000Z",
-   "sell_costs": 17.76,
-   "market_p25": null,
-   "market_n": 3,
-   "offer_price": null,
-   "platform": "snes",
-   "time": "2026-10-31T17:15:05+00:00"
   }
  ],
- "updated": "2026-11-19T16:51:05+00:00",
- "pushed": "2026-11-19T16:51:05+00:00"
+ "updated": "2026-11-19T16:53:08+00:00",
+ "pushed": "2026-11-19T16:53:08+00:00"
 }
