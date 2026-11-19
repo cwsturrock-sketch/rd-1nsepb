@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|800938849251|0",
+   "title": "Xbox 360 Games Job Lot Bundle x29 | All Working",
+   "label": "📦 29-game bundle at £0.87/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 25.21,
+   "value": 116,
+   "profit": 31.04,
+   "roi": 1.231,
+   "margin": 0.268,
+   "condition": "Acceptable",
+   "seller_pct": 99.8,
+   "seller_score": 1429,
+   "flags": [
+    "⚠️ Bundle value is a guess (29 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800938849251?hash=itemba7bacf3e3:g:fqQAAeSwqrpq-t8A",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Xbox%20360%20Games%20Job%20Lot%20Bundle%20x29%20%20%20All%20Working&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/fqQAAeSwqrpq-t8A/s-l225.jpg",
+   "listed": "2026-11-19T15:19:53.000Z",
+   "sell_costs": 59.75,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 17.0,
+   "platform": "xbox",
+   "time": "2026-11-19T15:23:05+00:00"
+  },
+  {
    "id": "v1|227621799204|0",
    "title": "Blaze AtGames Portable Video Game Player 30 Games Boxed Working        ",
    "label": "📦 30-game bundle at £0.81/game",
@@ -8260,35 +8287,8 @@
    "offer_price": null,
    "platform": "snes",
    "time": "2026-10-31T17:15:05+00:00"
-  },
-  {
-   "id": "v1|377610786989|0",
-   "title": "TEMPO RETAIL GAME WITH IPS PAL PATCH APPLIED  - WILL PLAY ON UK PAL 32X - BOXED",
-   "label": "📦 32-game bundle at £0.87/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 27.71,
-   "value": 128,
-   "profit": 37.51,
-   "roi": 1.354,
-   "margin": 0.293,
-   "condition": "New",
-   "seller_pct": 99.1,
-   "seller_score": 585,
-   "flags": [
-    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/377610786989?hash=item57eb5b58ad:g:-W0AAeSwaTtqCGkv",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=TEMPO%20RETAIL%20GAME%20WITH%20IPS%20PAL%20PATCH%20APPLIED%20%20%20%20WILL%20PLAY%20ON%20UK%20PAL%2032X%20%20%20BOXED&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/-W0AAeSwaTtqCGkv/s-l225.jpg",
-   "listed": "2026-10-31T16:01:19.000Z",
-   "sell_costs": 62.78,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-10-31T16:05:06+00:00"
   }
  ],
- "updated": "2026-11-19T15:13:06+00:00",
- "pushed": "2026-11-19T15:13:06+00:00"
+ "updated": "2026-11-19T15:23:05+00:00",
+ "pushed": "2026-11-19T15:23:05+00:00"
 }
