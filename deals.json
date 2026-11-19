@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|128131822291|0",
+   "title": "SEGA Jet Set Radio Sega Dreamcast Game Disc Only MK-51058 Game Disc",
+   "label": "Jet Set Radio",
+   "verdict": "🟡 CONSIDER",
+   "cost": 12.35,
+   "value": 28.0,
+   "profit": 7.77,
+   "roi": 0.629,
+   "margin": 0.277,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 698,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 24 current UK listings start at £32"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128131822291?_skw=Jet+Set+Radio&hash=item1dd54072d3:g:xQMAAeSwB9ZqzXLO",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=SEGA%20Jet%20Set%20Radio%20Sega%20Dreamcast%20Game%20Disc%20Only%20MK%2051058%20Game%20Disc&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/xQMAAeSwB9ZqzXLO/s-l225.jpg",
+   "listed": "2026-10-12T23:53:49.000Z",
+   "sell_costs": 7.88,
+   "market_p25": 31.9,
+   "market_n": 24,
+   "offer_price": 9.18,
+   "platform": "dreamcast",
+   "source": "sweep",
+   "time": "2026-11-19T21:38:18+00:00"
+  },
+  {
    "id": "v1|307291027483|0",
    "title": "Pokemon Platinum (Cartridge Only) - Nintendo DS - Free P&P",
    "label": "🔥 Pokemon Platinum",
@@ -8260,36 +8290,8 @@
    "offer_price": 31.54,
    "platform": "ps4",
    "time": "2026-11-01T13:57:06+00:00"
-  },
-  {
-   "id": "v1|960140847677|0",
-   "title": "ZONE 40 GAMES CONSOLE SYSTEM * FULLY BOXED * ",
-   "label": "📦 40-game bundle at £0.35/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 13.98,
-   "value": 160,
-   "profit": 75.14,
-   "roi": 5.375,
-   "margin": 0.47,
-   "condition": "Opened – never used",
-   "seller_pct": 95.3,
-   "seller_score": 6143,
-   "flags": [
-    "⚠️ Seller trust low (95.3% · 6143 reviews)",
-    "⚠️ Bundle value is a guess (40 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/960140847677?hash=itemdf8cdaaa3d:g:Rm0AAeSw~ahq50IA",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=ZONE%2040%20GAMES%20CONSOLE%20SYSTEM%20%20%20FULLY%20BOXED%20%20%20&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/Rm0AAeSw~ahq50IA/s-l225.jpg",
-   "listed": "2026-11-01T13:45:28.000Z",
-   "sell_costs": 70.88,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": 8.49,
-   "platform": "default",
-   "time": "2026-11-01T13:49:07+00:00"
   }
  ],
- "updated": "2026-11-19T21:29:04+00:00",
- "pushed": "2026-11-19T21:29:04+00:00"
+ "updated": "2026-11-19T21:38:18+00:00",
+ "pushed": "2026-11-19T21:38:18+00:00"
 }
