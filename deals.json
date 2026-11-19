@@ -1,6 +1,60 @@
 {
  "deals": [
   {
+   "id": "v1|137944749349|0",
+   "title": "40 Best Windows '95 Games",
+   "label": "📦 95-game bundle at £0.07/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 6.24,
+   "value": 380,
+   "profit": 247.22,
+   "roi": 39.619,
+   "margin": 0.651,
+   "condition": "Good",
+   "seller_pct": 99.7,
+   "seller_score": 337524,
+   "flags": [
+    "⚠️ Bundle value is a guess (95 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/137944749349?hash=item201e25d525:g:b7IAAeSwQRRq~yt2",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=40%20Best%20Windows%20%2095%20Games&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/b7IAAeSwQRRq~yt2/s-l225.jpg",
+   "listed": "2026-11-19T17:01:37.000Z",
+   "sell_costs": 126.54,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-19T17:05:05+00:00"
+  },
+  {
+   "id": "v1|227621982412|0",
+   "title": "Nintendo DS Game Bundle 18 games in total",
+   "label": "📦 18-game bundle at £0.73/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 13.11,
+   "value": 72,
+   "profit": 10.27,
+   "roi": 0.784,
+   "margin": 0.143,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 812,
+   "flags": [
+    "⚠️ Bundle value is a guess (18 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/227621982412?hash=item34ff53d0cc:g:1xYAAeSwGOlq~yo~",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20DS%20Game%20Bundle%2018%20games%20in%20total&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/1xYAAeSwGOlq~yo~/s-l225.jpg",
+   "listed": "2026-11-19T16:59:48.000Z",
+   "sell_costs": 48.62,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 8.27,
+   "platform": "ds",
+   "time": "2026-11-19T17:05:05+00:00"
+  },
+  {
    "id": "v1|307290791435|0",
    "title": "Pokemon HeartGold (Cartridge Only) - Nintendo DS - Free P&P",
    "label": "🔥 Pokemon HeartGold",
@@ -8235,63 +8289,8 @@
    "offer_price": 18.27,
    "platform": "megadrive",
    "time": "2026-11-01T10:59:04+00:00"
-  },
-  {
-   "id": "v1|800862652874|0",
-   "title": "OFFERS / COMBINE - SEGA MEGA DRIVE 32x - RE-WIPEOUT / WIPEOUT",
-   "label": "📦 32-game bundle at £0.73/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 23.49,
-   "value": 192,
-   "profit": 97.53,
-   "roi": 4.152,
-   "margin": 0.508,
-   "condition": "Good",
-   "seller_pct": 99.0,
-   "seller_score": 1685,
-   "flags": [
-    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/800862652874?hash=itemba772249ca:g:-ywAAeSwM~Nq5xn1",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=OFFERS%20%20%20COMBINE%20%20%20SEGA%20MEGA%20DRIVE%2032x%20%20%20RE%20WIPEOUT%20%20%20WIPEOUT&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/-ywAAeSwM~Nq5xn1/s-l225.jpg",
-   "listed": "2026-11-01T10:54:23.000Z",
-   "sell_costs": 70.98,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": 18.27,
-   "platform": "megadrive",
-   "time": "2026-11-01T10:59:04+00:00"
-  },
-  {
-   "id": "v1|800862645118|0",
-   "title": "Two PlayStation 1 PS1 Consoles ONLY. Untested.",
-   "label": "🔥 PS1 console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 17.45,
-   "value": 40,
-   "profit": 8.63,
-   "roi": 0.495,
-   "margin": 0.216,
-   "condition": "For parts or not working",
-   "seller_pct": 100.0,
-   "seller_score": 275,
-   "flags": [
-    "⚠️ Untested",
-    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £41"
-   ],
-   "url": "https://www.ebay.co.uk/itm/800862645118?hash=itemba77222b7e:g:gssAAeSwFM9q5xkP",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Two%20PlayStation%201%20PS1%20Consoles%20ONLY%20%20Untested%20&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/gssAAeSwFM9q5xkP/s-l225.jpg",
-   "listed": "2026-11-01T10:51:08.000Z",
-   "sell_costs": 13.92,
-   "market_p25": 41.25,
-   "market_n": 14,
-   "offer_price": 9.18,
-   "platform": "ps1",
-   "time": "2026-11-01T10:55:05+00:00"
   }
  ],
- "updated": "2026-11-19T16:53:08+00:00",
- "pushed": "2026-11-19T16:53:08+00:00"
+ "updated": "2026-11-19T17:05:05+00:00",
+ "pushed": "2026-11-19T17:05:05+00:00"
 }
