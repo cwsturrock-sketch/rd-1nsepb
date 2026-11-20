@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|117531920569|0",
+   "title": "Nintendo GameCube Black Console console only- UNTESTED",
+   "label": "🔥 GameCube console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 24.99,
+   "value": 48.949999999999996,
+   "profit": 8.89,
+   "roi": 0.356,
+   "margin": 0.182,
+   "condition": "For parts or not working",
+   "seller_pct": 99.7,
+   "seller_score": 8733,
+   "flags": [
+    "⚠️ Untested",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 11 current UK listings start at £49"
+   ],
+   "url": "https://www.ebay.co.uk/itm/117531920569?hash=item1b5d72c8b9:g:utEAAeSwUoZrAA0C",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20GameCube%20Black%20Console%20console%20only%20%20UNTESTED&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/utEAAeSwUoZrAA0C/s-l225.jpg",
+   "listed": "2026-11-20T09:05:23.000Z",
+   "sell_costs": 15.07,
+   "market_p25": 48.949999999999996,
+   "market_n": 11,
+   "offer_price": 21.24,
+   "platform": "gamecube",
+   "time": "2026-11-20T09:09:06+00:00"
+  },
+  {
    "id": "v1|128131822291|0",
    "title": "SEGA Jet Set Radio Sega Dreamcast Game Disc Only MK-51058 Game Disc",
    "label": "Jet Set Radio",
@@ -8261,37 +8290,8 @@
    "offer_price": null,
    "platform": "xbox",
    "time": "2026-11-01T15:05:05+00:00"
-  },
-  {
-   "id": "v1|840081717789|0",
-   "title": "Sony PlayStation 4 Slim Home Console, Black, HDMI Connectivity",
-   "label": "🔥 PS4 console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 42.31,
-   "value": 79.99,
-   "profit": 18.64,
-   "roi": 0.441,
-   "margin": 0.233,
-   "condition": "Used",
-   "seller_pct": 0.0,
-   "seller_score": 0,
-   "flags": [
-    "⚠️ Seller trust low (0.0% · 0 reviews)",
-    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
-    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £80"
-   ],
-   "url": "https://www.ebay.co.uk/itm/840081717789?hash=itemc398c5ba1d:g:IAYAAeSwcKtq50PJ",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20Slim%20Home%20Console%20%20Black%20%20HDMI%20Connectivity&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/IAYAAeSwcKtq50PJ/s-l225.jpg",
-   "listed": "2026-11-01T13:51:44.000Z",
-   "sell_costs": 19.04,
-   "market_p25": 79.99,
-   "market_n": 16,
-   "offer_price": 31.54,
-   "platform": "ps4",
-   "time": "2026-11-01T13:57:06+00:00"
   }
  ],
- "updated": "2026-11-20T09:05:05+00:00",
- "pushed": "2026-11-20T09:05:05+00:00"
+ "updated": "2026-11-20T09:09:06+00:00",
+ "pushed": "2026-11-20T09:09:06+00:00"
 }
