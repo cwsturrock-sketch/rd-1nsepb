@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|377662006800|0",
+   "title": "ATARI JAGUAR DOOM ON 32X  SOFTWARE - PAL - UNOFFICIAL PORT - FULLY BOXED ETC",
+   "label": "📦 32-game bundle at £0.89/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 28.37,
+   "value": 128,
+   "profit": 36.85,
+   "roi": 1.299,
+   "margin": 0.288,
+   "condition": "New",
+   "seller_pct": 99.1,
+   "seller_score": 599,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377662006800?hash=item57ee68e610:g:-f8AAeSwj8drAFmd",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=ATARI%20JAGUAR%20DOOM%20ON%2032X%20%20SOFTWARE%20%20%20PAL%20%20%20UNOFFICIAL%20PORT%20%20%20FULLY%20BOXED%20ETC&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/-f8AAeSwj8drAFmd/s-l225.jpg",
+   "listed": "2026-11-20T14:33:46.000Z",
+   "sell_costs": 62.78,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-20T14:39:04+00:00"
+  },
+  {
    "id": "v1|307292131030|0",
    "title": "Nintendo 3DS game Chibi-Robo zip lash NEW",
    "label": "🔥 Chibi-Robo",
@@ -8263,36 +8290,8 @@
    "offer_price": null,
    "platform": "ds",
    "time": "2026-11-02T09:39:05+00:00"
-  },
-  {
-   "id": "v1|257115764580|0",
-   "title": "RULE OF ROSE PS2 SEALED ENGLISH !!!- SONY PAL PLAYSTATION 2 - GRAIL UK VERSION",
-   "label": "Rule of Rose",
-   "verdict": "🟡 CONSIDER",
-   "cost": 169.99,
-   "value": 280.0,
-   "profit": 69.87,
-   "roi": 0.411,
-   "margin": 0.25,
-   "condition": "New",
-   "seller_pct": 100.0,
-   "seller_score": 3553,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £280"
-   ],
-   "url": "https://www.ebay.co.uk/itm/257115764580?_skw=Rule+of+Rose&hash=item3bdd4b3764:g:cvEAAOSw8f5n1o-J",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=RULE%20OF%20ROSE%20PS2%20SEALED%20ENGLISH%20%20%20%20%20%20SONY%20PAL%20PLAYSTATION%202%20%20%20GRAIL%20UK%20VERSION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/cvEAAOSw8f5n1o-J/s-l225.jpg",
-   "listed": "2025-09-20T11:38:20.000Z",
-   "sell_costs": 40.14,
-   "market_p25": 280.0,
-   "market_n": 16,
-   "offer_price": null,
-   "platform": "ps2",
-   "source": "sweep",
-   "time": "2026-11-01T21:10:03+00:00"
   }
  ],
- "updated": "2026-11-20T14:35:05+00:00",
- "pushed": "2026-11-20T14:35:05+00:00"
+ "updated": "2026-11-20T14:39:04+00:00",
+ "pushed": "2026-11-20T14:39:04+00:00"
 }
