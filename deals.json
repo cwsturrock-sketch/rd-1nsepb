@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820376075692|0",
+   "title": "SEGA Mega Drive Ultimate Portable Game Player Handheld White 80 Games, working",
+   "label": "📦 80-game bundle at £0.85/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 68.38,
+   "value": 480,
+   "profit": 279.78,
+   "roi": 4.092,
+   "margin": 0.583,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 47,
+   "flags": [
+    "⚠️ Bundle value is a guess (80 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820376075692?hash=itembf02397dac:g:DEcAAeSwh4prABNx",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=SEGA%20Mega%20Drive%20Ultimate%20Portable%20Game%20Player%20Handheld%20White%2080%20Games%20%20working&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/DEcAAeSwh4prABNx/s-l225.jpg",
+   "listed": "2026-11-20T09:46:11.000Z",
+   "sell_costs": 131.84,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 55.25,
+   "platform": "megadrive",
+   "time": "2026-11-20T09:51:05+00:00"
+  },
+  {
    "id": "v1|117531920569|0",
    "title": "Nintendo GameCube Black Console console only- UNTESTED",
    "label": "🔥 GameCube console",
@@ -8263,35 +8290,8 @@
    "offer_price": 42.49,
    "platform": "switch",
    "time": "2026-11-01T15:45:05+00:00"
-  },
-  {
-   "id": "v1|307260437556|0",
-   "title": "Xbox  One Fifa 20 21 22 & 24 Games Bundle Job Lot",
-   "label": "📦 24-game bundle at £0.58/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 13.9,
-   "value": 96,
-   "profit": 27.41,
-   "roi": 1.972,
-   "margin": 0.286,
-   "condition": "Very Good",
-   "seller_pct": 100.0,
-   "seller_score": 6597,
-   "flags": [
-    "⚠️ Bundle value is a guess (24 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/307260437556?hash=item478a263434:g:PhgAAeSw07NqvrTt",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Xbox%20%20One%20Fifa%2020%2021%2022%20%20%2024%20Games%20Bundle%20Job%20Lot&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/PhgAAeSw07NqvrTt/s-l225.jpg",
-   "listed": "2026-11-01T14:59:12.000Z",
-   "sell_costs": 54.69,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "xbox",
-   "time": "2026-11-01T15:05:05+00:00"
   }
  ],
- "updated": "2026-11-20T09:45:04+00:00",
- "pushed": "2026-11-20T09:45:04+00:00"
+ "updated": "2026-11-20T09:51:05+00:00",
+ "pushed": "2026-11-20T09:51:05+00:00"
 }
