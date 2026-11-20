@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|377661834765|0",
+   "title": "WOLFENSTEIN 3D - PROJECT TOTENGRAEBER ON 32X  SOFTWARE - PAL - UNOFFICIAL PORT",
+   "label": "📦 32-game bundle at £0.89/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 28.37,
+   "value": 128,
+   "profit": 36.85,
+   "roi": 1.299,
+   "margin": 0.288,
+   "condition": "New",
+   "seller_pct": 99.1,
+   "seller_score": 599,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377661834765?hash=item57ee66460d:g:3nsAAeSwwbJrAEQk",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=WOLFENSTEIN%203D%20%20%20PROJECT%20TOTENGRAEBER%20ON%2032X%20%20SOFTWARE%20%20%20PAL%20%20%20UNOFFICIAL%20PORT&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/3nsAAeSwwbJrAEQk/s-l225.jpg",
+   "listed": "2026-11-20T13:08:52.000Z",
+   "sell_costs": 62.78,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-20T13:13:05+00:00"
+  },
+  {
    "id": "v1|407376784784|0",
    "title": "Power Stone 2 Sega Dreamcast Game",
    "label": "🔥 Power Stone 2",
@@ -8265,35 +8292,8 @@
    "offer_price": 4.24,
    "platform": "3ds",
    "time": "2026-11-01T20:59:06+00:00"
-  },
-  {
-   "id": "v1|307260755076|0",
-   "title": "Nintendo Switch Lite Grey Handheld Gaming System Charging Port Issue",
-   "label": "🔥 Nintendo Switch Lite",
-   "verdict": "🟡 CONSIDER",
-   "cost": 42.94,
-   "value": 83.11,
-   "profit": 20.73,
-   "roi": 0.483,
-   "margin": 0.249,
-   "condition": "For parts or not working",
-   "seller_pct": 99.4,
-   "seller_score": 745,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 29 current UK listings start at £83"
-   ],
-   "url": "https://www.ebay.co.uk/itm/307260755076?hash=item478a2b0c84:g:YSQAAeSwXtdq54yW",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Lite%20Grey%20Handheld%20Gaming%20System%20Charging%20Port%20Issue&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/YSQAAeSwXtdq54yW/s-l225.jpg",
-   "listed": "2026-11-01T19:03:29.000Z",
-   "sell_costs": 19.44,
-   "market_p25": 83.11,
-   "market_n": 29,
-   "offer_price": 34.0,
-   "platform": "switch",
-   "time": "2026-11-01T19:07:06+00:00"
   }
  ],
- "updated": "2026-11-20T13:03:04+00:00",
- "pushed": "2026-11-20T13:03:04+00:00"
+ "updated": "2026-11-20T13:13:05+00:00",
+ "pushed": "2026-11-20T13:13:05+00:00"
 }
