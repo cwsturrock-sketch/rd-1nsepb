@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|860164361086|0",
+   "title": "Sony PlayStation 2 PS2 Black Console Bundle DualShock 2 & 8MB MagicGate",
+   "label": "📦 Bundle incl. PS2 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 16.15,
+   "value": 40,
+   "profit": 9.93,
+   "roi": 0.615,
+   "margin": 0.248,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 48,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £59"
+   ],
+   "url": "https://www.ebay.co.uk/itm/860164361086?hash=itemc845ca8b7e:g:peUAAeSwspVrAWZr",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%202%20PS2%20Black%20Console%20Bundle%20DualShock%202%20%20%208MB%20MagicGate&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/peUAAeSwspVrAWZr/s-l225.jpg",
+   "listed": "2026-11-21T09:39:30.000Z",
+   "sell_costs": 13.92,
+   "market_p25": 59.339999999999996,
+   "market_n": 13,
+   "offer_price": 13.73,
+   "platform": "ps2",
+   "time": "2026-11-21T09:43:06+00:00"
+  },
+  {
    "id": "v1|128208247159|0",
    "title": "Nintendo Switch Lite Blue Handheld Console 32GB 720p HD Region Free",
    "label": "🔥 Nintendo Switch Lite",
@@ -8262,36 +8290,8 @@
    "offer_price": null,
    "platform": "ds",
    "time": "2026-11-02T11:41:05+00:00"
-  },
-  {
-   "id": "v1|198765081941|0",
-   "title": "Nintendo Switch Grey Console, HAC-001, Original Version (Slight Damage Working)",
-   "label": "🔥 Nintendo Switch console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 56.08,
-   "value": 129.95,
-   "profit": 48.44,
-   "roi": 0.864,
-   "margin": 0.373,
-   "condition": "Used",
-   "seller_pct": 100.0,
-   "seller_score": 18,
-   "flags": [
-    "⚠️ Seller trust low (100.0% · 18 reviews)",
-    "ℹ️ Market check: cheapest quarter of 20 current UK listings start at £130"
-   ],
-   "url": "https://www.ebay.co.uk/itm/198765081941?hash=item2e47527555:g:hqQAAeSwvnlq6HFP",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Grey%20Console%20%20HAC%20001%20%20Original%20Version%20%20Slight%20Damage%20Working%20&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/hqQAAeSwvnlq6HFP/s-l225.jpg",
-   "listed": "2026-11-02T11:21:33.000Z",
-   "sell_costs": 25.43,
-   "market_p25": 129.95,
-   "market_n": 20,
-   "offer_price": 44.8,
-   "platform": "switch",
-   "time": "2026-11-02T11:27:06+00:00"
   }
  ],
- "updated": "2026-11-21T09:37:06+00:00",
- "pushed": "2026-11-21T09:37:06+00:00"
+ "updated": "2026-11-21T09:43:06+00:00",
+ "pushed": "2026-11-21T09:43:06+00:00"
 }
