@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|267658133916|0",
+   "title": "The Legend of Zelda: Majora's Mask (Nintendo 64, 2000)",
+   "label": "Zelda Majora's Mask (N64)",
+   "verdict": "🟡 CONSIDER",
+   "cost": 15.64,
+   "value": 40,
+   "profit": 14.94,
+   "roi": 0.955,
+   "margin": 0.373,
+   "condition": "New",
+   "seller_pct": 99.4,
+   "seller_score": 646,
+   "flags": [
+    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 17 current UK listings start at £60"
+   ],
+   "url": "https://www.ebay.co.uk/itm/267658133916?_skw=Zelda+Majora%27s+Mask++&hash=item3e51ab019c:g:me4AAeSwLGBp9zHv",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=The%20Legend%20of%20Zelda%20%20Majora%20s%20Mask%20%20Nintendo%2064%20%202000%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/me4AAeSwLGBp9zHv/s-l225.jpg",
+   "listed": "2026-05-03T11:32:23.000Z",
+   "sell_costs": 9.42,
+   "market_p25": 60.39,
+   "market_n": 17,
+   "offer_price": null,
+   "platform": "n64",
+   "source": "sweep",
+   "time": "2026-11-21T09:17:56+00:00"
+  },
+  {
    "id": "v1|377662006800|0",
    "title": "ATARI JAGUAR DOOM ON 32X  SOFTWARE - PAL - UNOFFICIAL PORT - FULLY BOXED ETC",
    "label": "📦 32-game bundle at £0.89/game",
@@ -8261,37 +8291,8 @@
    "offer_price": null,
    "platform": "gameboy",
    "time": "2026-11-02T10:55:04+00:00"
-  },
-  {
-   "id": "v1|128170087558|0",
-   "title": "Neo: The World Ends With You - 8",
-   "label": "🔥 The World Ends With You",
-   "verdict": "🟡 CONSIDER",
-   "cost": 9.99,
-   "value": 25,
-   "profit": 7.51,
-   "roi": 0.752,
-   "margin": 0.3,
-   "condition": "Good",
-   "seller_pct": 99.3,
-   "seller_score": 6117,
-   "flags": [
-    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
-    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
-    "ℹ️ Market check: cheapest quarter of 12 current UK listings start at £45"
-   ],
-   "url": "https://www.ebay.co.uk/itm/128170087558?hash=item1dd7885486:g:pQEAAeSwGqJq6Flr",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Neo%20%20The%20World%20Ends%20With%20You%20%20%208&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/pQEAAeSwGqJq6Flr/s-l225.jpg",
-   "listed": "2026-11-02T09:34:35.000Z",
-   "sell_costs": 7.5,
-   "market_p25": 44.99,
-   "market_n": 12,
-   "offer_price": null,
-   "platform": "ds",
-   "time": "2026-11-02T09:39:05+00:00"
   }
  ],
- "updated": "2026-11-20T17:25:05+00:00",
- "pushed": "2026-11-20T17:25:05+00:00"
+ "updated": "2026-11-21T09:17:56+00:00",
+ "pushed": "2026-11-21T09:17:56+00:00"
 }
