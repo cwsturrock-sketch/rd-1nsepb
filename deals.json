@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|307294290985|0",
+   "title": "Pokemon Platinum (Cartridge Only) - Nintendo DS - Free P&P",
+   "label": "🔥 Pokemon Platinum",
+   "verdict": "🟡 CONSIDER",
+   "cost": 16.99,
+   "value": 38.5,
+   "profit": 12.28,
+   "roi": 0.723,
+   "margin": 0.319,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 112,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Too few photos to check the cartridge: ask for the label, the back code and the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 22 current UK listings start at £39"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307294290985?hash=item478c2ac429:g:nY8AAeSweipq~19F",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Platinum%20%20Cartridge%20Only%20%20%20%20Nintendo%20DS%20%20%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/nY8AAeSweipq~19F/s-l225.jpg",
+   "listed": "2026-11-21T20:43:29.000Z",
+   "sell_costs": 9.23,
+   "market_p25": 38.89,
+   "market_n": 22,
+   "offer_price": 14.44,
+   "platform": "ds",
+   "time": "2026-11-21T20:49:06+00:00"
+  },
+  {
    "id": "v1|128209090701|0",
    "title": "Nintendo Switch Console Only - Model HAC-001 slight easy fix ",
    "label": "🔥 Nintendo Switch console",
@@ -8261,36 +8291,8 @@
    "offer_price": 9.18,
    "platform": "ps2",
    "time": "2026-11-02T13:41:06+00:00"
-  },
-  {
-   "id": "v1|800867184197|0",
-   "title": "Nintendo Switch HAC-001 Console Neon Green/Neon Pink Joy-Con Dock 32GB",
-   "label": "🔥 Nintendo Switch console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 73.5,
-   "value": 129.95,
-   "profit": 31.02,
-   "roi": 0.422,
-   "margin": 0.239,
-   "condition": "Used",
-   "seller_pct": 100.0,
-   "seller_score": 15,
-   "flags": [
-    "⚠️ Seller trust low (100.0% · 15 reviews)",
-    "ℹ️ Market check: cheapest quarter of 20 current UK listings start at £130"
-   ],
-   "url": "https://www.ebay.co.uk/itm/800867184197?hash=itemba77676e45:g:LyMAAeSws0tq6JFU",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20HAC%20001%20Console%20Neon%20Green%20Neon%20Pink%20Joy%20Con%20Dock%2032GB&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/LyMAAeSws0tq6JFU/s-l225.jpg",
-   "listed": "2026-11-02T13:36:54.000Z",
-   "sell_costs": 25.43,
-   "market_p25": 129.95,
-   "market_n": 20,
-   "offer_price": 62.48,
-   "platform": "switch",
-   "time": "2026-11-02T13:41:06+00:00"
   }
  ],
- "updated": "2026-11-21T20:47:04+00:00",
- "pushed": "2026-11-21T20:47:04+00:00"
+ "updated": "2026-11-21T20:49:06+00:00",
+ "pushed": "2026-11-21T20:49:06+00:00"
 }
