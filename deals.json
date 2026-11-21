@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|327469133308|0",
+   "title": "Compendium Family Games 20 Games  (Sony PlayStation 1, PS1 2001) Complete",
+   "label": "📦 20-game bundle at £0.50/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 9.99,
+   "value": 80,
+   "profit": 19.37,
+   "roi": 1.939,
+   "margin": 0.242,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 121,
+   "flags": [
+    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/327469133308?hash=item4c3eae6dfc:g:dK8AAeSwZwFrAg1Q",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Compendium%20Family%20Games%2020%20Games%20%20%20Sony%20PlayStation%201%20%20PS1%202001%20%20Complete&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/dK8AAeSwZwFrAg1Q/s-l225.jpg",
+   "listed": "2026-11-21T21:31:03.000Z",
+   "sell_costs": 50.64,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "ps1",
+   "time": "2026-11-21T21:35:05+00:00"
+  },
+  {
    "id": "v1|307294290985|0",
    "title": "Pokemon Platinum (Cartridge Only) - Nintendo DS - Free P&P",
    "label": "🔥 Pokemon Platinum",
@@ -8263,36 +8290,8 @@
    "offer_price": null,
    "platform": "switch",
    "time": "2026-11-02T15:29:07+00:00"
-  },
-  {
-   "id": "v1|800867184518|0",
-   "title": "Sony PlayStation 2 PS2 Home Console PAL Black SCPH-39003, Untested. Console Only",
-   "label": "🔥 PS2 console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 17.45,
-   "value": 39.99,
-   "profit": 8.62,
-   "roi": 0.494,
-   "margin": 0.216,
-   "condition": "For parts or not working",
-   "seller_pct": 100.0,
-   "seller_score": 276,
-   "flags": [
-    "⚠️ Untested",
-    "ℹ️ Market check: cheapest quarter of 9 current UK listings start at £40"
-   ],
-   "url": "https://www.ebay.co.uk/itm/800867184518?hash=itemba77676f86:g:2e0AAeSwSxlq6JGr",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%202%20PS2%20Home%20Console%20PAL%20Black%20SCPH%2039003%20%20Untested%20%20Console%20Only&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/2e0AAeSwSxlq6JGr/s-l225.jpg",
-   "listed": "2026-11-02T13:37:02.000Z",
-   "sell_costs": 13.92,
-   "market_p25": 39.99,
-   "market_n": 9,
-   "offer_price": 9.18,
-   "platform": "ps2",
-   "time": "2026-11-02T13:41:06+00:00"
   }
  ],
- "updated": "2026-11-21T21:31:04+00:00",
- "pushed": "2026-11-21T21:31:04+00:00"
+ "updated": "2026-11-21T21:35:05+00:00",
+ "pushed": "2026-11-21T21:35:05+00:00"
 }
