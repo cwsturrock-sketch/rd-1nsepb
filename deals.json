@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|128208247159|0",
+   "title": "Nintendo Switch Lite Blue Handheld Console 32GB 720p HD Region Free",
+   "label": "🔥 Nintendo Switch Lite",
+   "verdict": "🟡 CONSIDER",
+   "cost": 40.04,
+   "value": 76.46,
+   "profit": 17.83,
+   "roi": 0.445,
+   "margin": 0.233,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 83,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 26 current UK listings start at £76"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128208247159?hash=item1dd9ce9977:g:f~QAAeSwBrBrAWSr",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Lite%20Blue%20Handheld%20Console%2032GB%20720p%20HD%20Region%20Free&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/f~QAAeSwBrBrAWSr/s-l225.jpg",
+   "listed": "2026-11-21T09:33:25.000Z",
+   "sell_costs": 18.59,
+   "market_p25": 76.46,
+   "market_n": 26,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-21T09:37:06+00:00"
+  },
+  {
    "id": "v1|267658133916|0",
    "title": "The Legend of Zelda: Majora's Mask (Nintendo 64, 2000)",
    "label": "Zelda Majora's Mask (N64)",
@@ -8263,36 +8290,8 @@
    "offer_price": 44.8,
    "platform": "switch",
    "time": "2026-11-02T11:27:06+00:00"
-  },
-  {
-   "id": "v1|820306471763|0",
-   "title": "GBA Homeboy 88 TV Game Console - Plays Game Boy Advance Cartridges + 88 Games",
-   "label": "📦 88-game bundle at £1.14/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 99.99,
-   "value": 704,
-   "profit": 403.5,
-   "roi": 4.035,
-   "margin": 0.573,
-   "condition": "New",
-   "seller_pct": 97.4,
-   "seller_score": 1373,
-   "flags": [
-    "⚠️ Seller trust low (97.4% · 1373 reviews)",
-    "⚠️ Bundle value is a guess (88 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/820306471763?hash=itembefe136b53:g:uMYAAeSwT05qDYXN",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=GBA%20Homeboy%2088%20TV%20Game%20Console%20%20%20Plays%20Game%20Boy%20Advance%20Cartridges%20%20%2088%20Games&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/uMYAAeSwT05qDYXN/s-l225.jpg",
-   "listed": "2026-11-02T10:50:49.000Z",
-   "sell_costs": 200.51,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "gameboy",
-   "time": "2026-11-02T10:55:04+00:00"
   }
  ],
- "updated": "2026-11-21T09:29:05+00:00",
- "pushed": "2026-11-21T09:29:05+00:00"
+ "updated": "2026-11-21T09:37:06+00:00",
+ "pushed": "2026-11-21T09:37:06+00:00"
 }
