@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|287749708454|0",
+   "title": "Nintendo 3DS & DS Game Bundle Chibi-Robo! Zip Lash & To-Fu Collection PAL",
+   "label": "📦 Bundle incl. Chibi-Robo",
+   "verdict": "🟡 CONSIDER",
+   "cost": 18.01,
+   "value": 35,
+   "profit": 8.21,
+   "roi": 0.456,
+   "margin": 0.235,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 42,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 7 current UK listings start at £130"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287749708454?hash=item42ff381aa6:g:SEwAAeSw-G5rAxTX",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%203DS%20%20%20DS%20Game%20Bundle%20Chibi%20Robo%20%20Zip%20Lash%20%20%20To%20Fu%20Collection%20PAL&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/SEwAAeSw-G5rAxTX/s-l225.jpg",
+   "listed": "2026-11-22T16:17:26.000Z",
+   "sell_costs": 8.78,
+   "market_p25": 130.0,
+   "market_n": 7,
+   "offer_price": 12.81,
+   "platform": "3ds",
+   "time": "2026-11-22T16:23:07+00:00"
+  },
+  {
    "id": "v1|198815793716|0",
    "title": "Xbox 360 Games Job Lot Bundle x18",
    "label": "📦 18-game bundle at £0.60/game",
@@ -8262,35 +8289,8 @@
    "offer_price": 53.63,
    "platform": "default",
    "time": "2026-11-02T18:15:04+00:00"
-  },
-  {
-   "id": "v1|800867893645|0",
-   "title": "FIFA 15, 16, 17, 18, 19, 20 PS4 Game Bundle",
-   "label": "📦 20-game bundle at £1.00/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 19.95,
-   "value": 80,
-   "profit": 9.41,
-   "roi": 0.472,
-   "margin": 0.118,
-   "condition": "Good",
-   "seller_pct": 99.7,
-   "seller_score": 1516,
-   "flags": [
-    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/800867893645?hash=itemba7772418d:g:oS8AAeSwNoxq6KgD",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=FIFA%2015%20%2016%20%2017%20%2018%20%2019%20%2020%20PS4%20Game%20Bundle&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/oS8AAeSwNoxq6KgD/s-l225.jpg",
-   "listed": "2026-11-02T18:02:15.000Z",
-   "sell_costs": 50.64,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": 16.96,
-   "platform": "ps4",
-   "time": "2026-11-02T18:05:06+00:00"
   }
  ],
- "updated": "2026-11-22T16:11:05+00:00",
- "pushed": "2026-11-22T16:11:05+00:00"
+ "updated": "2026-11-22T16:23:07+00:00",
+ "pushed": "2026-11-22T16:23:07+00:00"
 }
