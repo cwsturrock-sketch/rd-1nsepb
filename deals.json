@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|820385211820|0",
+   "title": "Nintendo Switch OLED Handheld System Console Red/White Joy-Con, White Dock, HDMI",
+   "label": "🔥 Nintendo Switch OLED console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 87.79,
+   "value": 151.20000000000002,
+   "profit": 35.26,
+   "roi": 0.402,
+   "margin": 0.233,
+   "condition": "Used",
+   "seller_pct": 0.0,
+   "seller_score": 0,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 0 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 27 current UK listings start at £151"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820385211820?hash=itembf02c4e5ac:g:0PUAAeSwV8hrA0~c",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20OLED%20Handheld%20System%20Console%20Red%20White%20Joy%20Con%20%20White%20Dock%20%20HDMI&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/0PUAAeSwV8hrA0~c/s-l225.jpg",
+   "listed": "2026-11-22T20:28:06.000Z",
+   "sell_costs": 28.15,
+   "market_p25": 151.20000000000002,
+   "market_n": 27,
+   "offer_price": 71.31,
+   "platform": "switch",
+   "time": "2026-11-22T20:33:06+00:00"
+  },
+  {
    "id": "v1|168880336147|0",
    "title": "Games Hub , Classic Console With 100 Games , Age 6+",
    "label": "📦 100-game bundle at £0.19/game",
@@ -8270,35 +8299,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:19:09+00:00"
-  },
-  {
-   "id": "v1|227594387227|0",
-   "title": "Pokemon Go Raids Farm Legendary/Mythical Raids x100/READ DESCRIPTION",
-   "label": "📦 100-game bundle at £0.40/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 39.8,
-   "value": 400,
-   "profit": 228.6,
-   "roi": 5.744,
-   "margin": 0.572,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387227?hash=item34fdaebf1b:g:eCwAAeSwGERq3IFT",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Raids%20Farm%20Legendary%20Mythical%20Raids%20x100%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/eCwAAeSwGERq3IFT/s-l225.jpg",
-   "listed": "2026-11-02T18:16:07.000Z",
-   "sell_costs": 131.6,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:19:09+00:00"
   }
  ],
- "updated": "2026-11-22T20:31:04+00:00",
- "pushed": "2026-11-22T20:31:04+00:00"
+ "updated": "2026-11-22T20:33:06+00:00",
+ "pushed": "2026-11-22T20:33:06+00:00"
 }
