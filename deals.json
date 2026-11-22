@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|168880336147|0",
+   "title": "Games Hub , Classic Console With 100 Games , Age 6+",
+   "label": "📦 100-game bundle at £0.19/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 19.09,
+   "value": 400,
+   "profit": 249.31,
+   "roi": 13.06,
+   "margin": 0.623,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 698,
+   "flags": [
+    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/168880336147?hash=item27520d6d13:g:2r8AAeSwyQ1rA0bJ",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Games%20Hub%20%20%20Classic%20Console%20With%20100%20Games%20%20%20Age%206%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/2r8AAeSwyQ1rA0bJ/s-l225.jpg",
+   "listed": "2026-11-22T19:53:50.000Z",
+   "sell_costs": 131.6,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 13.73,
+   "platform": "default",
+   "time": "2026-11-22T19:57:05+00:00"
+  },
+  {
    "id": "v1|147693092002|0",
    "title": "Tales of Symphonia Chronicles Sony PlayStation 3, 2013,",
    "label": "🔥 Tales of Symphonia",
@@ -8270,35 +8297,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:19:09+00:00"
-  },
-  {
-   "id": "v1|227594387019|0",
-   "title": "Pokemon Go Grunts Farm x100 Catches/FAST/READ DESCRIPTION",
-   "label": "📦 100-game bundle at £0.08/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 8.22,
-   "value": 400,
-   "profit": 260.18,
-   "roi": 31.652,
-   "margin": 0.65,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387019?hash=item34fdaebe4b:g:DncAAeSw7SlqlrpW",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Grunts%20Farm%20x100%20Catches%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/DncAAeSw7SlqlrpW/s-l225.jpg",
-   "listed": "2026-11-02T18:16:06.000Z",
-   "sell_costs": 131.6,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:19:09+00:00"
   }
  ],
- "updated": "2026-11-22T19:53:04+00:00",
- "pushed": "2026-11-22T19:53:04+00:00"
+ "updated": "2026-11-22T19:57:05+00:00",
+ "pushed": "2026-11-22T19:57:05+00:00"
 }
