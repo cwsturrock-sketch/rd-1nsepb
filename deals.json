@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|147693092002|0",
+   "title": "Tales of Symphonia Chronicles Sony PlayStation 3, 2013,",
+   "label": "🔥 Tales of Symphonia",
+   "verdict": "🟡 CONSIDER",
+   "cost": 11.99,
+   "value": 27.29,
+   "profit": 7.51,
+   "roi": 0.626,
+   "margin": 0.275,
+   "condition": "Good",
+   "seller_pct": 99.3,
+   "seller_score": 2195,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 12 current UK listings start at £27"
+   ],
+   "url": "https://www.ebay.co.uk/itm/147693092002?hash=item226331bca2:g:2bIAAeSwHrRrA0Q9",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Tales%20of%20Symphonia%20Chronicles%20Sony%20PlayStation%203%20%202013%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/2bIAAeSwHrRrA0Q9/s-l225.jpg",
+   "listed": "2026-11-22T19:36:54.000Z",
+   "sell_costs": 7.79,
+   "market_p25": 27.29,
+   "market_n": 12,
+   "offer_price": null,
+   "platform": "ps3",
+   "time": "2026-11-22T19:41:07+00:00"
+  },
+  {
    "id": "v1|960230839934|0",
    "title": "Nintendo Switch OLED - Console Only",
    "label": "🔥 Nintendo Switch OLED console",
@@ -8270,35 +8297,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:19:09+00:00"
-  },
-  {
-   "id": "v1|227594387033|0",
-   "title": "Pokemon Go Premium Raid Pass X30/FAST/READ DESCRIPTION",
-   "label": "📦 30-game bundle at £0.36/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 10.9,
-   "value": 120,
-   "profit": 48.34,
-   "roi": 4.435,
-   "margin": 0.403,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (30 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387033?hash=item34fdaebe59:g:cuAAAeSwJFFqlqnK",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Premium%20Raid%20Pass%20X30%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/cuAAAeSwJFFqlqnK/s-l225.jpg",
-   "listed": "2026-11-02T18:16:06.000Z",
-   "sell_costs": 60.76,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:19:09+00:00"
   }
  ],
- "updated": "2026-11-22T19:35:04+00:00",
- "pushed": "2026-11-22T19:35:04+00:00"
+ "updated": "2026-11-22T19:41:07+00:00",
+ "pushed": "2026-11-22T19:41:07+00:00"
 }
