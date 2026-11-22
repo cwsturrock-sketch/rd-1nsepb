@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|860167371069|0",
+   "title": "Sony PlayStation 4 PS4 500GB PAL Console CUH-1115A Black 1080p Blu-Ray",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 43.38,
+   "value": 79.99,
+   "profit": 17.57,
+   "roi": 0.405,
+   "margin": 0.22,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 80,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £80"
+   ],
+   "url": "https://www.ebay.co.uk/itm/860167371069?hash=itemc845f8793d:g:wqkAAeSwOwVrAhQf",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20500GB%20PAL%20Console%20CUH%201115A%20Black%201080p%20Blu%20Ray&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/wqkAAeSwOwVrAhQf/s-l225.jpg",
+   "listed": "2026-11-22T11:57:52.000Z",
+   "sell_costs": 19.04,
+   "market_p25": 79.99,
+   "market_n": 14,
+   "offer_price": null,
+   "platform": "ps4",
+   "time": "2026-11-22T12:03:07+00:00"
+  },
+  {
    "id": "v1|336910476267|0",
    "title": "Nintendo Pokémon SoulSilver Version Game Cartridge for Nintendo DS NTR-IPGP-EUR",
    "label": "🔥 Pokemon SoulSilver",
@@ -8265,35 +8292,8 @@
    "offer_price": 9.13,
    "platform": "gameboy",
    "time": "2026-11-02T16:09:06+00:00"
-  },
-  {
-   "id": "v1|840085168329|0",
-   "title": "Rule of Rose PlayStation 2 PAL UK Version Sealed Brand New",
-   "label": "🔥 Rule of Rose",
-   "verdict": "🟡 CONSIDER",
-   "cost": 164.6,
-   "value": 280.0,
-   "profit": 75.26,
-   "roi": 0.457,
-   "margin": 0.269,
-   "condition": "New",
-   "seller_pct": 100.0,
-   "seller_score": 200,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £280"
-   ],
-   "url": "https://www.ebay.co.uk/itm/840085168329?hash=itemc398fa60c9:g:ozUAAeSwFadq6K0i",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Rule%20of%20Rose%20PlayStation%202%20PAL%20UK%20Version%20Sealed%20Brand%20New&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/ozUAAeSwFadq6K0i/s-l225.jpg",
-   "listed": "2026-11-02T15:48:59.000Z",
-   "sell_costs": 40.14,
-   "market_p25": 280.0,
-   "market_n": 16,
-   "offer_price": 134.22,
-   "platform": "ps2",
-   "time": "2026-11-02T15:56:17+00:00"
   }
  ],
- "updated": "2026-11-22T12:01:04+00:00",
- "pushed": "2026-11-22T12:01:04+00:00"
+ "updated": "2026-11-22T12:03:07+00:00",
+ "pushed": "2026-11-22T12:03:07+00:00"
 }
