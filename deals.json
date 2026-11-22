@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|128210747122|0",
+   "title": "The Legend of Zelda: The Minish Cap Nintendo PAL GBA AGB-BZMP-EUR Cart Only",
+   "label": "🔥 Zelda Minish Cap",
+   "verdict": "🟡 CONSIDER",
+   "cost": 17.49,
+   "value": 35.0,
+   "profit": 8.73,
+   "roi": 0.499,
+   "margin": 0.249,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 162,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 21 current UK listings start at £44"
+   ],
+   "url": "https://www.ebay.co.uk/itm/128210747122?hash=item1dd9f4bef2:g:MYMAAeSwuFprAyj0",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=The%20Legend%20of%20Zelda%20%20The%20Minish%20Cap%20Nintendo%20PAL%20GBA%20AGB%20BZMP%20EUR%20Cart%20Only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/MYMAAeSwuFprAyj0/s-l225.jpg",
+   "listed": "2026-11-22T17:40:56.000Z",
+   "sell_costs": 8.78,
+   "market_p25": 43.940000000000005,
+   "market_n": 21,
+   "offer_price": null,
+   "platform": "gameboy",
+   "time": "2026-11-22T17:45:06+00:00"
+  },
+  {
    "id": "v1|128210738037|0",
    "title": "Pokemon SoulSilver Cartridge NDS Game",
    "label": "🔥 Pokemon SoulSilver",
@@ -8266,35 +8295,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:19:09+00:00"
-  },
-  {
-   "id": "v1|227594387132|0",
-   "title": "Pokemon Go Zygarde Cells X60/FAST/READ DESCRIPTION",
-   "label": "📦 60-game bundle at £0.66/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 39.8,
-   "value": 240,
-   "profit": 109.08,
-   "roi": 2.741,
-   "margin": 0.454,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (60 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387132?hash=item34fdaebebc:g:c-oAAeSwGGJqlrMk",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Zygarde%20Cells%20X60%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/c-oAAeSwGGJqlrMk/s-l225.jpg",
-   "listed": "2026-11-02T18:16:06.000Z",
-   "sell_costs": 91.12,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:19:09+00:00"
   }
  ],
- "updated": "2026-11-22T17:37:09+00:00",
- "pushed": "2026-11-22T17:37:09+00:00"
+ "updated": "2026-11-22T17:45:06+00:00",
+ "pushed": "2026-11-22T17:45:06+00:00"
 }
