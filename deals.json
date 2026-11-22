@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|336910476267|0",
+   "title": "Nintendo Pokémon SoulSilver Version Game Cartridge for Nintendo DS NTR-IPGP-EUR",
+   "label": "🔥 Pokemon SoulSilver",
+   "verdict": "🟡 CONSIDER",
+   "cost": 39.8,
+   "value": 72.75,
+   "profit": 19.34,
+   "roi": 0.486,
+   "margin": 0.266,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 218,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 18 current UK listings start at £73"
+   ],
+   "url": "https://www.ebay.co.uk/itm/336910476267?hash=item4e716de3eb:g:n4cAAeSw5HhrAsRH",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Pok%C3%A9mon%20SoulSilver%20Version%20Game%20Cartridge%20for%20Nintendo%20DS%20NTR%20IPGP%20EUR&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/n4cAAeSw5HhrAsRH/s-l225.jpg",
+   "listed": "2026-11-22T10:31:56.000Z",
+   "sell_costs": 13.61,
+   "market_p25": 72.75,
+   "market_n": 18,
+   "offer_price": 31.54,
+   "platform": "ds",
+   "time": "2026-11-22T10:35:06+00:00"
+  },
+  {
    "id": "v1|137952215384|0",
    "title": "Vintage Super Nintendo Entertainment System SNES Console",
    "label": "🔥 NES console",
@@ -8262,35 +8292,8 @@
    "offer_price": 134.22,
    "platform": "ps2",
    "time": "2026-11-02T15:56:17+00:00"
-  },
-  {
-   "id": "v1|900059317368|0",
-   "title": "SingStar ABBA PS2 Karaoke 2008 Game 100% Complete SUPERB x20 Tracks Free P&P",
-   "label": "📦 20-game bundle at £0.20/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 3.95,
-   "value": 60,
-   "profit": 7.97,
-   "roi": 2.018,
-   "margin": 0.133,
-   "condition": "Very Good",
-   "seller_pct": 100.0,
-   "seller_score": 5104,
-   "flags": [
-    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/900059317368?hash=itemd18fb74478:g:ruUAAeSwZJxpzn99",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=SingStar%20ABBA%20PS2%20Karaoke%202008%20Game%20100%20%20Complete%20SUPERB%20x20%20Tracks%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/ruUAAeSwZJxpzn99/s-l225.jpg",
-   "listed": "2026-11-02T15:31:54.000Z",
-   "sell_costs": 48.08,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "ps2",
-   "time": "2026-11-02T15:35:05+00:00"
   }
  ],
- "updated": "2026-11-22T10:31:04+00:00",
- "pushed": "2026-11-22T10:31:04+00:00"
+ "updated": "2026-11-22T10:35:06+00:00",
+ "pushed": "2026-11-22T10:35:06+00:00"
 }
