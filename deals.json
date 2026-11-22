@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|960230839934|0",
+   "title": "Nintendo Switch OLED - Console Only",
+   "label": "🔥 Nintendo Switch OLED console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 81.82,
+   "value": 151.20000000000002,
+   "profit": 41.23,
+   "roi": 0.504,
+   "margin": 0.273,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 118,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 27 current UK listings start at £151"
+   ],
+   "url": "https://www.ebay.co.uk/itm/960230839934?hash=itemdf9237d67e:g:VhsAAeSw0RRrAz6e",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20OLED%20%20%20Console%20Only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/VhsAAeSw0RRrAz6e/s-l225.jpg",
+   "listed": "2026-11-22T19:18:34.000Z",
+   "sell_costs": 28.15,
+   "market_p25": 151.20000000000002,
+   "market_n": 27,
+   "offer_price": 69.55,
+   "platform": "switch",
+   "time": "2026-11-22T19:23:05+00:00"
+  },
+  {
    "id": "v1|800952642218|0",
    "title": "Sony PlayStation 4 PS4 Console 500GB Black PAL 1080p CUH-1004A",
    "label": "🔥 PS4 console",
@@ -8270,35 +8297,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:19:09+00:00"
-  },
-  {
-   "id": "v1|227594387036|0",
-   "title": "Pokemon Go Raids Farm Legendary/Mythical Raids x20/READ DESCRIPTION",
-   "label": "📦 20-game bundle at £0.49/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 9.83,
-   "value": 80,
-   "profit": 19.53,
-   "roi": 1.987,
-   "margin": 0.244,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387036?hash=item34fdaebe5c:g:eCwAAeSwGERq3IFT",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Raids%20Farm%20Legendary%20Mythical%20Raids%20x20%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/eCwAAeSwGERq3IFT/s-l225.jpg",
-   "listed": "2026-11-02T18:16:06.000Z",
-   "sell_costs": 50.64,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:19:09+00:00"
   }
  ],
- "updated": "2026-11-22T19:21:04+00:00",
- "pushed": "2026-11-22T19:21:04+00:00"
+ "updated": "2026-11-22T19:23:05+00:00",
+ "pushed": "2026-11-22T19:23:05+00:00"
 }
