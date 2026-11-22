@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|168879925707|0",
+   "title": "Sony PlayStation 4 PS4 Console 500GB PAL 1080p Wi-Fi Black CUH-1216A Includes or",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 37.11,
+   "value": 79.99,
+   "profit": 23.84,
+   "roi": 0.642,
+   "margin": 0.298,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 7,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 7 reviews)",
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £80"
+   ],
+   "url": "https://www.ebay.co.uk/itm/168879925707?hash=item27520729cb:g:GmgAAeSw5cprAwY7",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20Console%20500GB%20PAL%201080p%20Wi%20Fi%20Black%20CUH%201216A%20Includes%20or&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/GmgAAeSw5cprAwY7/s-l225.jpg",
+   "listed": "2026-11-22T15:15:34.000Z",
+   "sell_costs": 19.04,
+   "market_p25": 79.99,
+   "market_n": 14,
+   "offer_price": 27.11,
+   "platform": "ps4",
+   "time": "2026-11-22T15:21:05+00:00"
+  },
+  {
    "id": "v1|407381310386|0",
    "title": "Sony PlayStation 4 PS4 Console Black Only ! UNTESTED !",
    "label": "🔥 PS4 console",
@@ -8261,35 +8289,8 @@
    "offer_price": 89.0,
    "platform": "default",
    "time": "2026-11-02T17:19:05+00:00"
-  },
-  {
-   "id": "v1|267831166037|0",
-   "title": "Konami Silent Hill Sony PlayStation 1 PS1 Game PAL Survival Horror Complete",
-   "label": "🔥 Silent Hill (PS1)",
-   "verdict": "🟡 CONSIDER",
-   "cost": 26.45,
-   "value": 50,
-   "profit": 12.85,
-   "roi": 0.486,
-   "margin": 0.257,
-   "condition": "Acceptable",
-   "seller_pct": 99.3,
-   "seller_score": 4478,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 19 current UK listings start at £114"
-   ],
-   "url": "https://www.ebay.co.uk/itm/267831166037?hash=item3e5bfb4455:g:7k4AAeSwR95q6Lct",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Konami%20Silent%20Hill%20Sony%20PlayStation%201%20PS1%20Game%20PAL%20Survival%20Horror%20Complete&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/7k4AAeSwR95q6Lct/s-l225.jpg",
-   "listed": "2026-11-02T16:18:08.000Z",
-   "sell_costs": 10.7,
-   "market_p25": 114.18,
-   "market_n": 19,
-   "offer_price": 18.7,
-   "platform": "ps1",
-   "time": "2026-11-02T16:19:08+00:00"
   }
  ],
- "updated": "2026-11-22T15:19:04+00:00",
- "pushed": "2026-11-22T15:19:04+00:00"
+ "updated": "2026-11-22T15:21:05+00:00",
+ "pushed": "2026-11-22T15:21:05+00:00"
 }
