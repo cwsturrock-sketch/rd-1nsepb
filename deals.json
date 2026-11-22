@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|407381861195|0",
+   "title": "Nintendo Switch Game Console Grey 32GB",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 52.7,
+   "value": 95.94,
+   "profit": 22.16,
+   "roi": 0.42,
+   "margin": 0.231,
+   "condition": "Used",
+   "seller_pct": 96.1,
+   "seller_score": 71,
+   "flags": [
+    "⚠️ Seller trust low (96.1% · 71 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 18 current UK listings start at £96"
+   ],
+   "url": "https://www.ebay.co.uk/itm/407381861195?hash=item5ed9d9e34b:g:2agAAeSwlTZqwUXR",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Game%20Console%20Grey%2032GB&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/2agAAeSwlTZqwUXR/s-l225.jpg",
+   "listed": "2026-11-22T20:43:06.000Z",
+   "sell_costs": 21.08,
+   "market_p25": 95.94,
+   "market_n": 18,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-22T20:47:05+00:00"
+  },
+  {
    "id": "v1|820385211820|0",
    "title": "Nintendo Switch OLED Handheld System Console Red/White Joy-Con, White Dock, HDMI",
    "label": "🔥 Nintendo Switch OLED console",
@@ -8272,35 +8301,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:19:09+00:00"
-  },
-  {
-   "id": "v1|227594387216|0",
-   "title": "Pokemon Go XP Task x100 Dynamax Battles/READ DESCRIPTION",
-   "label": "📦 100-game bundle at £0.45/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 45.0,
-   "value": 400,
-   "profit": 223.4,
-   "roi": 4.964,
-   "margin": 0.558,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387216?hash=item34fdaebf10:g:w3wAAeSwRu1qn894",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20XP%20Task%20x100%20Dynamax%20Battles%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/w3wAAeSwRu1qn894/s-l225.jpg",
-   "listed": "2026-11-02T18:16:07.000Z",
-   "sell_costs": 131.6,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:19:09+00:00"
   }
  ],
- "updated": "2026-11-22T20:45:05+00:00",
- "pushed": "2026-11-22T20:45:05+00:00"
+ "updated": "2026-11-22T20:47:05+00:00",
+ "pushed": "2026-11-22T20:47:05+00:00"
 }
