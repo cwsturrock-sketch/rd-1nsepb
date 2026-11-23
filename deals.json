@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|257867387797|0",
+   "title": "Nintendo Switch OLED Model Handheld Console - 64GB - RED BLUE Poor Condition++++",
+   "label": "🔥 Nintendo Switch OLED console",
+   "verdict": "🟢 BUY",
+   "cost": 58.99,
+   "value": 144.89000000000001,
+   "profit": 58.55,
+   "roi": 0.993,
+   "margin": 0.404,
+   "condition": "Used",
+   "seller_pct": 99.6,
+   "seller_score": 72752,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 26 current UK listings start at £145"
+   ],
+   "url": "https://www.ebay.co.uk/itm/257867387797?hash=item3c0a181395:g:gfsAAeSwxVVrBBvj",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20OLED%20Model%20Handheld%20Console%20%20%2064GB%20%20%20RED%20BLUE%20Poor%20Condition%20%20%20%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/gfsAAeSwxVVrBBvj/s-l225.jpg",
+   "listed": "2026-11-23T10:59:25.000Z",
+   "sell_costs": 27.35,
+   "market_p25": 144.89000000000001,
+   "market_n": 26,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-23T11:03:06+00:00"
+  },
+  {
    "id": "v1|820387144200|0",
    "title": "Huge Video Game Bundle Xbox PlayStation PC Games X24 Job Lot PS4 PS3 Xbox One PC",
    "label": "📦 24-game bundle at £1.27/game",
@@ -8275,35 +8303,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:21:07+00:00"
-  },
-  {
-   "id": "v1|227594387143|0",
-   "title": "Pokemon Go Raid Passes X15/FAST/READ DESCRIPTION",
-   "label": "📦 15-game bundle at £0.44/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 6.62,
-   "value": 60,
-   "profit": 7.8,
-   "roi": 1.178,
-   "margin": 0.13,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (15 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387143?hash=item34fdaebec7:g:cuAAAeSwJFFqlqnK",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Raid%20Passes%20X15%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/cuAAAeSwJFFqlqnK/s-l225.jpg",
-   "listed": "2026-11-02T18:16:06.000Z",
-   "sell_costs": 45.58,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:21:07+00:00"
   }
  ],
- "updated": "2026-11-23T10:55:05+00:00",
- "pushed": "2026-11-23T10:55:05+00:00"
+ "updated": "2026-11-23T11:03:06+00:00",
+ "pushed": "2026-11-23T11:03:06+00:00"
 }
