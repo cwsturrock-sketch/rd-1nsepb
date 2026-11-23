@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|287752416089|0",
+   "title": "Sea of Thieves X25 Emote - 25 Years of Xbox Celebration Global 🌎 XBOX 🔑",
+   "label": "📦 25-game bundle at £0.18/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 4.38,
+   "value": 100,
+   "profit": 39.92,
+   "roi": 9.114,
+   "margin": 0.399,
+   "condition": "New",
+   "seller_pct": 100.0,
+   "seller_score": 32,
+   "flags": [
+    "⚠️ Bundle value is a guess (25 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287752416089?hash=item42ff616b59:g:BYAAAeSwsL9rBDQw",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sea%20of%20Thieves%20X25%20Emote%20%20%2025%20Years%20of%20Xbox%20Celebration%20Global%20%20%20XBOX%20%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/BYAAAeSwsL9rBDQw/s-l225.jpg",
+   "listed": "2026-11-23T12:41:31.000Z",
+   "sell_costs": 55.7,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 3.72,
+   "platform": "xbox",
+   "time": "2026-11-23T12:47:04+00:00"
+  },
+  {
    "id": "v1|377670218144|0",
    "title": "Sony PS4 Pro 1TB Jet Black Console CUH-7016B Boxed w/ Inserts Packaging",
    "label": "🔥 PS4 console",
@@ -8286,35 +8313,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:21:07+00:00"
-  },
-  {
-   "id": "v1|227594387040|0",
-   "title": "Pokemon Go Team Rocket Shadow X100/FAST/READ DESCRIPTION",
-   "label": "📦 100-game bundle at £0.08/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 8.22,
-   "value": 400,
-   "profit": 260.18,
-   "roi": 31.652,
-   "margin": 0.65,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387040?hash=item34fdaebe60:g:DncAAeSw7SlqlrpW",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Team%20Rocket%20Shadow%20X100%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/DncAAeSw7SlqlrpW/s-l225.jpg",
-   "listed": "2026-11-02T18:16:06.000Z",
-   "sell_costs": 131.6,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:21:07+00:00"
   }
  ],
- "updated": "2026-11-23T12:37:05+00:00",
- "pushed": "2026-11-23T12:37:05+00:00"
+ "updated": "2026-11-23T12:47:04+00:00",
+ "pushed": "2026-11-23T12:47:04+00:00"
 }
