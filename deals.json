@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|880146596519|0",
+   "title": "Sony PlayStation 4 PS4 500GB - Console Only - Tested Working - No Leads",
+   "label": "🔥 PS4 console",
+   "verdict": "🟢 BUY",
+   "cost": 42.31,
+   "value": 98.58,
+   "profit": 34.85,
+   "roi": 0.824,
+   "margin": 0.354,
+   "condition": "Used",
+   "seller_pct": 98.3,
+   "seller_score": 290,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 11 current UK listings start at £99"
+   ],
+   "url": "https://www.ebay.co.uk/itm/880146596519?hash=itemccecd342a7:g:V7IAAeSwhhJrBC~7",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20500GB%20%20%20Console%20Only%20%20%20Tested%20Working%20%20%20No%20Leads&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/V7IAAeSwhhJrBC~7/s-l225.jpg",
+   "listed": "2026-11-23T12:23:55.000Z",
+   "sell_costs": 21.42,
+   "market_p25": 98.58,
+   "market_n": 11,
+   "offer_price": null,
+   "platform": "ps4",
+   "time": "2026-11-23T12:27:05+00:00"
+  },
+  {
    "id": "v1|820388099291|0",
    "title": "Sony PlayStation 4 Slim Home Console, Black, HDMI Connectivity",
    "label": "🔥 PS4 console",
@@ -8283,35 +8310,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:21:07+00:00"
-  },
-  {
-   "id": "v1|227594387131|0",
-   "title": "Pokemon Go Raids Farm Dynamax/Gigantamax Raids x100/READ DESCRIPTION",
-   "label": "📦 100-game bundle at £0.76/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 76.2,
-   "value": 400,
-   "profit": 192.2,
-   "roi": 2.522,
-   "margin": 0.481,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387131?hash=item34fdaebebb:g:MfAAAeSwVJFq3IHZ",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Raids%20Farm%20Dynamax%20Gigantamax%20Raids%20x100%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/MfAAAeSwVJFq3IHZ/s-l225.jpg",
-   "listed": "2026-11-02T18:16:06.000Z",
-   "sell_costs": 131.6,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:21:07+00:00"
   }
  ],
- "updated": "2026-11-23T12:19:05+00:00",
- "pushed": "2026-11-23T12:19:05+00:00"
+ "updated": "2026-11-23T12:27:05+00:00",
+ "pushed": "2026-11-23T12:27:05+00:00"
 }
