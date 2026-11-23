@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|860170082933|0",
+   "title": "Sony PlayStation 4 PS4 Home Console Black HDMI Connectivity Platform",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 48.55,
+   "value": 98.58,
+   "profit": 28.61,
+   "roi": 0.589,
+   "margin": 0.29,
+   "condition": "Used",
+   "seller_pct": 0.0,
+   "seller_score": 1,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 1 reviews)",
+    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 11 current UK listings start at £99"
+   ],
+   "url": "https://www.ebay.co.uk/itm/860170082933?hash=itemc84621da75:g:idkAAeSwjrlrBCV~",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20Home%20Console%20Black%20HDMI%20Connectivity%20Platform&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/idkAAeSwjrlrBCV~/s-l225.jpg",
+   "listed": "2026-11-23T11:38:51.000Z",
+   "sell_costs": 21.42,
+   "market_p25": 98.58,
+   "market_n": 11,
+   "offer_price": 36.84,
+   "platform": "ps4",
+   "time": "2026-11-23T11:43:06+00:00"
+  },
+  {
    "id": "v1|820387747037|0",
    "title": "Nintendo DS Game: Pokemon Soul Silver Version - Cartridge (NTR-031)",
    "label": "🔥 Pokemon Gold / Silver",
@@ -8278,35 +8308,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:21:07+00:00"
-  },
-  {
-   "id": "v1|227594387141|0",
-   "title": "Pokemon Go XP Task x100 Purify Pokemon/READ DESCRIPTION",
-   "label": "📦 100-game bundle at £0.06/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 5.55,
-   "value": 400,
-   "profit": 262.85,
-   "roi": 47.36,
-   "margin": 0.657,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387141?hash=item34fdaebec5:g:w3wAAeSwRu1qn894",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20XP%20Task%20x100%20Purify%20Pokemon%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/w3wAAeSwRu1qn894/s-l225.jpg",
-   "listed": "2026-11-02T18:16:06.000Z",
-   "sell_costs": 131.6,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:21:07+00:00"
   }
  ],
- "updated": "2026-11-23T11:41:05+00:00",
- "pushed": "2026-11-23T11:41:05+00:00"
+ "updated": "2026-11-23T11:43:06+00:00",
+ "pushed": "2026-11-23T11:43:06+00:00"
 }
