@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|880146836466|0",
+   "title": "Nintendo GameCube Console No Leads To Test",
+   "label": "🔥 GameCube console",
+   "verdict": "🟢 BUY",
+   "cost": 23.81,
+   "value": 60,
+   "profit": 19.71,
+   "roi": 0.828,
+   "margin": 0.328,
+   "condition": "For parts or not working",
+   "seller_pct": 98.3,
+   "seller_score": 290,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 8 current UK listings start at £61"
+   ],
+   "url": "https://www.ebay.co.uk/itm/880146836466?hash=itemccecd6ebf2:g:DVQAAeSwBWdrBEbd",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20GameCube%20Console%20No%20Leads%20To%20Test&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/DVQAAeSwBWdrBEbd/s-l225.jpg",
+   "listed": "2026-11-23T14:01:18.000Z",
+   "sell_costs": 16.48,
+   "market_p25": 61.28,
+   "market_n": 8,
+   "offer_price": null,
+   "platform": "gamecube",
+   "time": "2026-11-23T14:05:07+00:00"
+  },
+  {
    "id": "v1|327472191480|0",
    "title": "Nintendo Game Boy Advance SP AGS-001 Blue Handheld System, UNTESTED",
    "label": "🔥 Game Boy Advance SP",
@@ -8290,35 +8317,8 @@
    "offer_price": 53.55,
    "platform": "default",
    "time": "2026-11-02T19:59:06+00:00"
-  },
-  {
-   "id": "v1|960144295194|0",
-   "title": "Nintendo Switch Lite Yellow - Doesn't Turn On ",
-   "label": "🔥 Nintendo Switch Lite",
-   "verdict": "🟡 CONSIDER",
-   "cost": 36.64,
-   "value": 74.79,
-   "profit": 19.78,
-   "roi": 0.54,
-   "margin": 0.264,
-   "condition": "For parts or not working",
-   "seller_pct": 99.8,
-   "seller_score": 1170,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 30 current UK listings start at £75"
-   ],
-   "url": "https://www.ebay.co.uk/itm/960144295194?hash=itemdf8d0f451a:g:hXwAAeSwZlxq6GkJ",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Lite%20Yellow%20%20%20Doesn%20t%20Turn%20On%20&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/hXwAAeSwZlxq6GkJ/s-l225.jpg",
-   "listed": "2026-11-02T19:30:01.000Z",
-   "sell_costs": 18.37,
-   "market_p25": 74.79,
-   "market_n": 30,
-   "offer_price": null,
-   "platform": "switch",
-   "time": "2026-11-02T19:31:06+00:00"
   }
  ],
- "updated": "2026-11-23T13:53:07+00:00",
- "pushed": "2026-11-23T13:53:07+00:00"
+ "updated": "2026-11-23T14:05:07+00:00",
+ "pushed": "2026-11-23T14:05:07+00:00"
 }
