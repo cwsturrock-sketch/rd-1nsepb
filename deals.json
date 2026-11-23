@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|307297414746|0",
+   "title": "Pokemon Platinum (Cartridge Only) - Nintendo DS - Free P&P",
+   "label": "🔥 Pokemon Platinum",
+   "verdict": "🟡 CONSIDER",
+   "cost": 17.99,
+   "value": 38.5,
+   "profit": 11.28,
+   "roi": 0.627,
+   "margin": 0.293,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 115,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Too few photos to check the cartridge: ask for the label, the back code and the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 25 current UK listings start at £40"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307297414746?hash=item478c5a6e5a:g:nY8AAeSweipq~19F",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Platinum%20%20Cartridge%20Only%20%20%20%20Nintendo%20DS%20%20%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/nY8AAeSweipq~19F/s-l225.jpg",
+   "listed": "2026-11-23T14:34:34.000Z",
+   "sell_costs": 9.23,
+   "market_p25": 39.86,
+   "market_n": 25,
+   "offer_price": 15.29,
+   "platform": "ds",
+   "time": "2026-11-23T14:39:05+00:00"
+  },
+  {
    "id": "v1|287752611103|0",
    "title": "Sony PlayStation 5 Digital Edition Home Console 825GB Black/White USB-C HDMI",
    "label": "🔥 PS5 console",
@@ -8293,35 +8323,8 @@
    "offer_price": 24.91,
    "platform": "ps4",
    "time": "2026-11-02T20:39:07+00:00"
-  },
-  {
-   "id": "v1|820308091787|0",
-   "title": "Retro Games The Spectrum Personal Computer, 48 Games Included, HDMI USB-C",
-   "label": "📦 48-game bundle at £1.38/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 66.38,
-   "value": 192,
-   "profit": 46.64,
-   "roi": 0.703,
-   "margin": 0.243,
-   "condition": "Opened – never used",
-   "seller_pct": 100.0,
-   "seller_score": 702,
-   "flags": [
-    "⚠️ Bundle value is a guess (48 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/820308091787?hash=itembefe2c238b:g:v2UAAeSwY1hq6Ol2",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Retro%20Games%20The%20Spectrum%20Personal%20Computer%20%2048%20Games%20Included%20%20HDMI%20USB%20C&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/v2UAAeSwY1hq6Ol2/s-l225.jpg",
-   "listed": "2026-11-02T20:29:21.000Z",
-   "sell_costs": 78.98,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": 53.55,
-   "platform": "default",
-   "time": "2026-11-02T20:33:05+00:00"
   }
  ],
- "updated": "2026-11-23T14:37:05+00:00",
- "pushed": "2026-11-23T14:37:05+00:00"
+ "updated": "2026-11-23T14:39:05+00:00",
+ "pushed": "2026-11-23T14:39:05+00:00"
 }
