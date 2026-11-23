@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|287752611103|0",
+   "title": "Sony PlayStation 5 Digital Edition Home Console 825GB Black/White USB-C HDMI",
+   "label": "🔥 PS5 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 161.91,
+   "value": 300,
+   "profit": 90.89,
+   "roi": 0.561,
+   "margin": 0.303,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 19,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 19 reviews)",
+    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 18 current UK listings start at £477"
+   ],
+   "url": "https://www.ebay.co.uk/itm/287752611103?hash=item42ff64651f:g:PbMAAeSwnnxrBEgd",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%205%20Digital%20Edition%20Home%20Console%20825GB%20Black%20White%20USB%20C%20HDMI&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/PbMAAeSwnnxrBEgd/s-l225.jpg",
+   "listed": "2026-11-23T14:21:09.000Z",
+   "sell_costs": 47.2,
+   "market_p25": 477.46,
+   "market_n": 18,
+   "offer_price": null,
+   "platform": "ps5",
+   "time": "2026-11-23T14:25:08+00:00"
+  },
+  {
    "id": "v1|880146836466|0",
    "title": "Nintendo GameCube Console No Leads To Test",
    "label": "🔥 GameCube console",
@@ -8290,35 +8320,8 @@
    "offer_price": 53.55,
    "platform": "default",
    "time": "2026-11-02T20:33:05+00:00"
-  },
-  {
-   "id": "v1|820307974835|0",
-   "title": "Retro Games The Spectrum Personal Computer, 48 Games Included, HDMI USB-C",
-   "label": "📦 48-game bundle at £1.38/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 66.38,
-   "value": 192,
-   "profit": 46.64,
-   "roi": 0.703,
-   "margin": 0.243,
-   "condition": "Opened – never used",
-   "seller_pct": 100.0,
-   "seller_score": 702,
-   "flags": [
-    "⚠️ Bundle value is a guess (48 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/820307974835?hash=itembefe2a5ab3:g:v2IAAeSwFadq6OmH",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Retro%20Games%20The%20Spectrum%20Personal%20Computer%20%2048%20Games%20Included%20%20HDMI%20USB%20C&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/v2IAAeSwFadq6OmH/s-l225.jpg",
-   "listed": "2026-11-02T19:51:40.000Z",
-   "sell_costs": 78.98,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": 53.55,
-   "platform": "default",
-   "time": "2026-11-02T19:59:06+00:00"
   }
  ],
- "updated": "2026-11-23T14:17:04+00:00",
- "pushed": "2026-11-23T14:17:04+00:00"
+ "updated": "2026-11-23T14:25:08+00:00",
+ "pushed": "2026-11-23T14:25:08+00:00"
 }
