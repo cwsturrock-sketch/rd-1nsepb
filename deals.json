@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|820388142927|0",
+   "title": "Sony PlayStation 4 Slim Home Console, Black, HDMI Connectivity",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 52.19,
+   "value": 98.58,
+   "profit": 24.97,
+   "roi": 0.478,
+   "margin": 0.253,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 6,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 6 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 11 current UK listings start at £99"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820388142927?hash=itembf02f19f4f:g:5j8AAeSwtTBrBC3h",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20Slim%20Home%20Console%20%20Black%20%20HDMI%20Connectivity&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/5j8AAeSwtTBrBC3h/s-l225.jpg",
+   "listed": "2026-11-23T12:24:21.000Z",
+   "sell_costs": 21.42,
+   "market_p25": 98.58,
+   "market_n": 11,
+   "offer_price": 39.93,
+   "platform": "ps4",
+   "time": "2026-11-23T12:29:07+00:00"
+  },
+  {
    "id": "v1|880146596519|0",
    "title": "Sony PlayStation 4 PS4 500GB - Console Only - Tested Working - No Leads",
    "label": "🔥 PS4 console",
@@ -8283,35 +8312,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:21:07+00:00"
-  },
-  {
-   "id": "v1|227594387052|0",
-   "title": "Pokemon Go Raids Farm Dynamax/Gigantamax Raids x20/READ DESCRIPTION",
-   "label": "📦 20-game bundle at £1.08/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 21.6,
-   "value": 80,
-   "profit": 7.76,
-   "roi": 0.359,
-   "margin": 0.097,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387052?hash=item34fdaebe6c:g:MfAAAeSwVJFq3IHZ",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Raids%20Farm%20Dynamax%20Gigantamax%20Raids%20x20%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/MfAAAeSwVJFq3IHZ/s-l225.jpg",
-   "listed": "2026-11-02T18:16:06.000Z",
-   "sell_costs": 50.64,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:21:07+00:00"
   }
  ],
- "updated": "2026-11-23T12:27:05+00:00",
- "pushed": "2026-11-23T12:27:05+00:00"
+ "updated": "2026-11-23T12:29:07+00:00",
+ "pushed": "2026-11-23T12:29:07+00:00"
 }
