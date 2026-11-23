@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|820389435882|0",
+   "title": "Sony PlayStation 4 PS4 Home Console Black HDMI USB-A Connectivity",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 35.55,
+   "value": 74.99,
+   "profit": 21.04,
+   "roi": 0.592,
+   "margin": 0.281,
+   "condition": "For parts or not working",
+   "seller_pct": 0.0,
+   "seller_score": 2,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 2 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £75"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820389435882?hash=itembf030559ea:g:rGkAAeSw1PlrBHyA",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20Home%20Console%20Black%20HDMI%20USB%20A%20Connectivity&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/rGkAAeSw1PlrBHyA/s-l225.jpg",
+   "listed": "2026-11-23T17:49:37.000Z",
+   "sell_costs": 18.4,
+   "market_p25": 74.99,
+   "market_n": 14,
+   "offer_price": 25.79,
+   "platform": "ps4",
+   "time": "2026-11-23T17:53:06+00:00"
+  },
+  {
    "id": "v1|800956843801|0",
    "title": "Sony PlayStation 4 PS4 Home Console Black with USB-A Connectivity",
    "label": "🔥 PS4 console",
@@ -8296,35 +8325,8 @@
    "offer_price": 2.95,
    "platform": "default",
    "time": "2026-11-03T03:55:05+00:00"
-  },
-  {
-   "id": "v1|960146534972|0",
-   "title": "Wallace & Gromit Fun 2 Pack PC CD-ROM BBC 1999 Windows 95/98 Games Screensaver",
-   "label": "📦 98-game bundle at £0.17/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 16.5,
-   "value": 392,
-   "profit": 245.92,
-   "roi": 14.904,
-   "margin": 0.627,
-   "condition": "Good",
-   "seller_pct": 100.0,
-   "seller_score": 1990,
-   "flags": [
-    "⚠️ Bundle value is a guess (98 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/960146534972?hash=itemdf8d31723c:g:zx0AAeSwVqBq6Rbq",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Wallace%20%20%20Gromit%20Fun%202%20Pack%20PC%20CD%20ROM%20BBC%201999%20Windows%2095%2098%20Games%20Screensaver&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/zx0AAeSwVqBq6Rbq/s-l225.jpg",
-   "listed": "2026-11-02T23:05:27.000Z",
-   "sell_costs": 129.58,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T23:09:05+00:00"
   }
  ],
- "updated": "2026-11-23T17:45:05+00:00",
- "pushed": "2026-11-23T17:45:05+00:00"
+ "updated": "2026-11-23T17:53:06+00:00",
+ "pushed": "2026-11-23T17:53:06+00:00"
 }
