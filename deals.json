@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|227621689166|0",
+   "title": "working NINTENDO SWITCH VIDEO GAMES CONSOLE UNIT TABLET ONLY damaged",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 45.24,
+   "value": 89.1,
+   "profit": 23.66,
+   "roi": 0.523,
+   "margin": 0.265,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 923,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £89"
+   ],
+   "url": "https://www.ebay.co.uk/itm/227621689166?hash=item34ff4f574e:g:ba8AAeSwT9Fq~ug8",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=working%20NINTENDO%20SWITCH%20VIDEO%20GAMES%20CONSOLE%20UNIT%20TABLET%20ONLY%20damaged&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/ba8AAeSwT9Fq~ug8/s-l225.jpg",
+   "listed": "2026-11-23T16:16:00.000Z",
+   "sell_costs": 20.2,
+   "market_p25": 89.1,
+   "market_n": 13,
+   "offer_price": null,
+   "platform": "switch",
+   "time": "2026-11-23T16:17:06+00:00"
+  },
+  {
    "id": "v1|168878754754|0",
    "title": "WWF Road to Wrestlemania X8 Nintendo Gameboy Advance Cartridge Only Tested PAL",
    "label": "📦 8-game bundle at £0.82/game",
@@ -8295,37 +8322,8 @@
    "offer_price": null,
    "platform": "xbox",
    "time": "2026-11-02T21:43:04+00:00"
-  },
-  {
-   "id": "v1|900059985294|0",
-   "title": "Game Card Silver Gold Crystal Version For Pokemon GBC Game Bundle",
-   "label": "📦 Bundle incl. Pokemon Crystal",
-   "verdict": "🟡 CONSIDER",
-   "cost": 32.71,
-   "value": 70,
-   "profit": 24.03,
-   "roi": 0.735,
-   "margin": 0.343,
-   "condition": "New",
-   "seller_pct": 98.1,
-   "seller_score": 103,
-   "flags": [
-    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
-    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
-    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £77"
-   ],
-   "url": "https://www.ebay.co.uk/itm/900059985294?hash=itemd18fc1758e:g:yvkAAeSwShpq6PU8",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Game%20Card%20Silver%20Gold%20Crystal%20Version%20For%20Pokemon%20GBC%20Game%20Bundle&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/yvkAAeSwShpq6PU8/s-l225.jpg",
-   "listed": "2026-11-02T20:44:20.000Z",
-   "sell_costs": 13.26,
-   "market_p25": 76.88,
-   "market_n": 16,
-   "offer_price": 25.49,
-   "platform": "default",
-   "time": "2026-11-02T20:49:06+00:00"
   }
  ],
- "updated": "2026-11-23T16:13:05+00:00",
- "pushed": "2026-11-23T16:13:05+00:00"
+ "updated": "2026-11-23T16:17:06+00:00",
+ "pushed": "2026-11-23T16:17:06+00:00"
 }
