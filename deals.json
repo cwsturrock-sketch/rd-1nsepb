@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|327472191480|0",
+   "title": "Nintendo Game Boy Advance SP AGS-001 Blue Handheld System, UNTESTED",
+   "label": "🔥 Game Boy Advance SP",
+   "verdict": "🟡 CONSIDER",
+   "cost": 19.53,
+   "value": 50,
+   "profit": 15.27,
+   "roi": 0.782,
+   "margin": 0.305,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 516,
+   "flags": [
+    "⚠️ Untested",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 21 current UK listings start at £61"
+   ],
+   "url": "https://www.ebay.co.uk/itm/327472191480?hash=item4c3edd17f8:g:CJ4AAeSwkcdrBD5X",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Game%20Boy%20Advance%20SP%20AGS%20001%20Blue%20Handheld%20System%20%20UNTESTED&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/CJ4AAeSwkcdrBD5X/s-l225.jpg",
+   "listed": "2026-11-23T13:24:20.000Z",
+   "sell_costs": 15.2,
+   "market_p25": 61.28,
+   "market_n": 21,
+   "offer_price": null,
+   "platform": "gameboy",
+   "time": "2026-11-23T13:29:14+00:00"
+  },
+  {
    "id": "v1|820388206765|0",
    "title": "Sony PlayStation 4 Slim Home Console, Black, HDMI Connectivity",
    "label": "🔥 PS4 console",
@@ -8288,35 +8317,8 @@
    "offer_price": null,
    "platform": "switch",
    "time": "2026-11-02T19:31:06+00:00"
-  },
-  {
-   "id": "v1|227594389664|0",
-   "title": "Pokemon Go Raid Passes X60/FAST/READ DESCRIPTION",
-   "label": "📦 60-game bundle at £0.32/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 19.46,
-   "value": 240,
-   "profit": 129.42,
-   "roi": 6.651,
-   "margin": 0.539,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (60 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594389664?hash=item34fdaec8a0:g:cuAAAeSwJFFqlqnK",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Raid%20Passes%20X60%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/cuAAAeSwJFFqlqnK/s-l225.jpg",
-   "listed": "2026-11-02T18:18:53.000Z",
-   "sell_costs": 91.12,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:23:07+00:00"
   }
  ],
- "updated": "2026-11-23T13:25:04+00:00",
- "pushed": "2026-11-23T13:25:04+00:00"
+ "updated": "2026-11-23T13:29:14+00:00",
+ "pushed": "2026-11-23T13:29:14+00:00"
 }
