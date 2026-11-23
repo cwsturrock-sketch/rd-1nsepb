@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|800956843801|0",
+   "title": "Sony PlayStation 4 PS4 Home Console Black with USB-A Connectivity",
+   "label": "🔥 PS4 console",
+   "verdict": "🟢 BUY",
+   "cost": 47.51,
+   "value": 98.58,
+   "profit": 29.65,
+   "roi": 0.624,
+   "margin": 0.301,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 76,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 11 current UK listings start at £99"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800956843801?hash=itemba7cbf8719:g:tukAAeSwPNlrBGqM",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20Home%20Console%20Black%20with%20USB%20A%20Connectivity&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/tukAAeSwPNlrBGqM/s-l225.jpg",
+   "listed": "2026-11-23T16:34:18.000Z",
+   "sell_costs": 21.42,
+   "market_p25": 98.58,
+   "market_n": 11,
+   "offer_price": null,
+   "platform": "ps4",
+   "time": "2026-11-23T16:39:08+00:00"
+  },
+  {
    "id": "v1|880147144737|0",
    "title": "PlayStation 4 Console, 500GB Black *READ DESCRIPTION*",
    "label": "🔥 PS4 console",
@@ -8295,36 +8323,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T23:09:05+00:00"
-  },
-  {
-   "id": "v1|800868687029|0",
-   "title": "Vampyr Microsoft Xbox One PAL PEGI 18 X Enhanced",
-   "label": "📦 18-game bundle at £0.75/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 13.5,
-   "value": 72,
-   "profit": 9.88,
-   "roi": 0.732,
-   "margin": 0.137,
-   "condition": "Very Good",
-   "seller_pct": 100.0,
-   "seller_score": 6,
-   "flags": [
-    "⚠️ Seller trust low (100.0% · 6 reviews)",
-    "⚠️ Bundle value is a guess (18 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/800868687029?hash=itemba777e5cb5:g:GI0AAeSwzqNq6Qls",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Vampyr%20Microsoft%20Xbox%20One%20PAL%20PEGI%2018%20X%20Enhanced&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/GI0AAeSwzqNq6Qls/s-l225.jpg",
-   "listed": "2026-11-02T22:09:23.000Z",
-   "sell_costs": 48.62,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": 9.18,
-   "platform": "xbox",
-   "time": "2026-11-02T22:13:05+00:00"
   }
  ],
- "updated": "2026-11-23T16:35:11+00:00",
- "pushed": "2026-11-23T16:35:11+00:00"
+ "updated": "2026-11-23T16:39:08+00:00",
+ "pushed": "2026-11-23T16:39:08+00:00"
 }
