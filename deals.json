@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|820387747037|0",
+   "title": "Nintendo DS Game: Pokemon Soul Silver Version - Cartridge (NTR-031)",
+   "label": "🔥 Pokemon Gold / Silver",
+   "verdict": "🟡 CONSIDER",
+   "cost": 22.41,
+   "value": 40,
+   "profit": 8.17,
+   "roi": 0.365,
+   "margin": 0.204,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 12,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 12 reviews)",
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "ℹ️ Too few current listings to check the market price"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820387747037?hash=itembf02eb94dd:g:WlAAAeSwWEJq0O7A",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20DS%20Game%20%20Pokemon%20Soul%20Silver%20Version%20%20%20Cartridge%20%20NTR%20031%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/WlAAAeSwWEJq0O7A/s-l225.jpg",
+   "listed": "2026-11-23T11:05:23.000Z",
+   "sell_costs": 9.42,
+   "market_p25": null,
+   "market_n": 4,
+   "offer_price": 18.27,
+   "platform": "ds",
+   "time": "2026-11-23T11:09:06+00:00"
+  },
+  {
    "id": "v1|257867387797|0",
    "title": "Nintendo Switch OLED Model Handheld Console - 64GB - RED BLUE Poor Condition++++",
    "label": "🔥 Nintendo Switch OLED console",
@@ -8276,35 +8305,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:21:07+00:00"
-  },
-  {
-   "id": "v1|227594387142|0",
-   "title": "Pokemon Go Premium Passes X15/FAST/READ DESCRIPTION",
-   "label": "📦 15-game bundle at £0.44/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 6.62,
-   "value": 60,
-   "profit": 7.8,
-   "roi": 1.178,
-   "margin": 0.13,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (15 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387142?hash=item34fdaebec6:g:cuAAAeSwJFFqlqnK",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Premium%20Passes%20X15%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/cuAAAeSwJFFqlqnK/s-l225.jpg",
-   "listed": "2026-11-02T18:16:06.000Z",
-   "sell_costs": 45.58,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:21:07+00:00"
   }
  ],
- "updated": "2026-11-23T11:03:06+00:00",
- "pushed": "2026-11-23T11:03:06+00:00"
+ "updated": "2026-11-23T11:09:06+00:00",
+ "pushed": "2026-11-23T11:09:06+00:00"
 }
