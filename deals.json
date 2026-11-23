@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|820388206765|0",
+   "title": "Sony PlayStation 4 Slim Home Console, Black, HDMI Connectivity",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 52.19,
+   "value": 98.58,
+   "profit": 24.97,
+   "roi": 0.478,
+   "margin": 0.253,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 6,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 6 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 11 current UK listings start at £99"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820388206765?hash=itembf02f298ad:g:5j8AAeSwtTBrBC3h",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20Slim%20Home%20Console%20%20Black%20%20HDMI%20Connectivity&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/5j8AAeSwtTBrBC3h/s-l225.jpg",
+   "listed": "2026-11-23T12:45:30.000Z",
+   "sell_costs": 21.42,
+   "market_p25": 98.58,
+   "market_n": 11,
+   "offer_price": 39.93,
+   "platform": "ps4",
+   "time": "2026-11-23T12:51:05+00:00"
+  },
+  {
    "id": "v1|287752416089|0",
    "title": "Sea of Thieves X25 Emote - 25 Years of Xbox Celebration Global 🌎 XBOX 🔑",
    "label": "📦 25-game bundle at £0.18/game",
@@ -8286,35 +8315,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-02T18:23:07+00:00"
-  },
-  {
-   "id": "v1|227594387172|0",
-   "title": "Pokemon Go Zygarde Cells X30/FAST/READ DESCRIPTION",
-   "label": "📦 30-game bundle at £0.65/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 19.46,
-   "value": 120,
-   "profit": 39.78,
-   "roi": 2.044,
-   "margin": 0.331,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 89,
-   "flags": [
-    "⚠️ Bundle value is a guess (30 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227594387172?hash=item34fdaebee4:g:c-oAAeSwGGJqlrMk",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20Go%20Zygarde%20Cells%20X30%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/c-oAAeSwGGJqlrMk/s-l225.jpg",
-   "listed": "2026-11-02T18:16:07.000Z",
-   "sell_costs": 60.76,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-02T18:21:07+00:00"
   }
  ],
- "updated": "2026-11-23T12:47:04+00:00",
- "pushed": "2026-11-23T12:47:04+00:00"
+ "updated": "2026-11-23T12:51:05+00:00",
+ "pushed": "2026-11-23T12:51:05+00:00"
 }
