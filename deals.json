@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|168878754754|0",
+   "title": "WWF Road to Wrestlemania X8 Nintendo Gameboy Advance Cartridge Only Tested PAL",
+   "label": "📦 8-game bundle at £0.82/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 6.54,
+   "value": 64,
+   "profit": 14.87,
+   "roi": 2.273,
+   "margin": 0.232,
+   "condition": "Very Good",
+   "seller_pct": 99.8,
+   "seller_score": 3047,
+   "flags": [
+    "⚠️ Bundle value is a guess (8 games from the title × an average price): check the photos for what's actually in it",
+    "ℹ️ Loose / incomplete: valued at the loose price"
+   ],
+   "url": "https://www.ebay.co.uk/itm/168878754754?hash=item2751f54bc2:g:S4sAAeSwg-ZpV-bT",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=WWF%20Road%20to%20Wrestlemania%20X8%20Nintendo%20Gameboy%20Advance%20Cartridge%20Only%20Tested%20PAL&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/S4sAAeSwg-ZpV-bT/s-l225.jpg",
+   "listed": "2026-11-23T16:00:01.000Z",
+   "sell_costs": 42.59,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "gameboy",
+   "time": "2026-11-23T16:01:05+00:00"
+  },
+  {
    "id": "v1|307297414746|0",
    "title": "Pokemon Platinum (Cartridge Only) - Nintendo DS - Free P&P",
    "label": "🔥 Pokemon Platinum",
@@ -8296,35 +8324,8 @@
    "offer_price": 25.49,
    "platform": "default",
    "time": "2026-11-02T20:49:06+00:00"
-  },
-  {
-   "id": "v1|168833315797|0",
-   "title": "Sony PlayStation 4 PS4 500GB Console Black CUH-1001A Wi-Fi Region Free",
-   "label": "🔥 PS4 console",
-   "verdict": "🟢 BUY",
-   "cost": 34.51,
-   "value": 74.95,
-   "profit": 22.05,
-   "roi": 0.639,
-   "margin": 0.294,
-   "condition": "For parts or not working",
-   "seller_pct": 100.0,
-   "seller_score": 133,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 19 current UK listings start at £75"
-   ],
-   "url": "https://www.ebay.co.uk/itm/168833315797?hash=item274f3ff3d5:g:oRUAAeSwXhxq6PN3",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20500GB%20Console%20Black%20CUH%201001A%20Wi%20Fi%20Region%20Free&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/oRUAAeSwXhxq6PN3/s-l225.jpg",
-   "listed": "2026-11-02T20:35:02.000Z",
-   "sell_costs": 18.39,
-   "market_p25": 74.95,
-   "market_n": 19,
-   "offer_price": 24.91,
-   "platform": "ps4",
-   "time": "2026-11-02T20:39:07+00:00"
   }
  ],
- "updated": "2026-11-23T15:53:04+00:00",
- "pushed": "2026-11-23T15:53:04+00:00"
+ "updated": "2026-11-23T16:01:05+00:00",
+ "pushed": "2026-11-23T16:01:05+00:00"
 }
