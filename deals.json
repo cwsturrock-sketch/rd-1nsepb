@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|800957470543|0",
+   "title": "Sony PlayStation 4 Slim Home Console Black HDMI USB-A RJ-45 Connectivity",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 33.47,
+   "value": 74.99,
+   "profit": 23.12,
+   "roi": 0.691,
+   "margin": 0.308,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 13,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 13 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £75"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800957470543?hash=itemba7cc9174f:g:4DkAAeSwE75rBJrb",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20Slim%20Home%20Console%20Black%20HDMI%20USB%20A%20RJ%2045%20Connectivity&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/4DkAAeSwE75rBJrb/s-l225.jpg",
+   "listed": "2026-11-23T20:00:19.000Z",
+   "sell_costs": 18.4,
+   "market_p25": 74.99,
+   "market_n": 14,
+   "offer_price": 24.02,
+   "platform": "ps4",
+   "time": "2026-11-23T20:05:05+00:00"
+  },
+  {
    "id": "v1|820389435882|0",
    "title": "Sony PlayStation 4 PS4 Home Console Black HDMI USB-A Connectivity",
    "label": "🔥 PS4 console",
@@ -8298,35 +8327,8 @@
    "platform": "switch",
    "source": "sweep",
    "time": "2026-11-03T03:59:31+00:00"
-  },
-  {
-   "id": "v1|267831715050|0",
-   "title": "Block Party! 20 Games Family/Kids Amazing Value Free P&P",
-   "label": "📦 20-game bundle at £0.17/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 3.47,
-   "value": 80,
-   "profit": 25.89,
-   "roi": 7.461,
-   "margin": 0.324,
-   "condition": "Good",
-   "seller_pct": 99.6,
-   "seller_score": 217919,
-   "flags": [
-    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/267831715050?hash=item3e5c03a4ea:g:twsAAeSwf1VpzjT-",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Block%20Party%20%2020%20Games%20Family%20Kids%20Amazing%20Value%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/twsAAeSwf1VpzjT-/s-l225.jpg",
-   "listed": "2026-11-03T03:50:01.000Z",
-   "sell_costs": 50.64,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": 2.95,
-   "platform": "default",
-   "time": "2026-11-03T03:55:05+00:00"
   }
  ],
- "updated": "2026-11-23T20:03:05+00:00",
- "pushed": "2026-11-23T20:03:05+00:00"
+ "updated": "2026-11-23T20:05:05+00:00",
+ "pushed": "2026-11-23T20:05:05+00:00"
 }
