@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|860169381533|617331117678",
+   "title": "Metroid Fusion/Metroid: Zero Mission",
+   "label": "Metroid Zero Mission",
+   "verdict": "🟡 CONSIDER",
+   "cost": 11.86,
+   "value": 29.4,
+   "profit": 9.48,
+   "roi": 0.799,
+   "margin": 0.322,
+   "condition": "New",
+   "seller_pct": 0.0,
+   "seller_score": 0,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 0 reviews)",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 29 current UK listings start at £29"
+   ],
+   "url": "https://www.ebay.co.uk/itm/860169381533?_skw=Metroid+Zero+Mission&hash=itemc84617269d:g:2poAAeSwX9BrA9JH",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Metroid%20Fusion%20Metroid%20%20Zero%20Mission&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/2poAAeSwX9BrA9JH/s-l225.jpg",
+   "listed": "2026-11-24T17:50:19.000Z",
+   "sell_costs": 8.06,
+   "market_p25": 29.4,
+   "market_n": 29,
+   "offer_price": null,
+   "platform": "gameboy",
+   "source": "sweep",
+   "time": "2026-11-24T20:23:59+00:00"
+  },
+  {
    "id": "v1|800961839512|0",
    "title": "Sony PlayStation 4 Slim PS4 Home Console System - Black (USB-A)",
    "label": "🔥 PS4 console",
@@ -8301,36 +8331,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-04T08:49:46+00:00"
-  },
-  {
-   "id": "v1|407337631615|0",
-   "title": "Nintendo Mario & Luigi: Superstar Saga GBA PAL Cart AGB-A88P-EUR",
-   "label": "🔥 Mario & Luigi Superstar Saga",
-   "verdict": "🟡 CONSIDER",
-   "cost": 9.14,
-   "value": 25,
-   "profit": 8.36,
-   "roi": 0.915,
-   "margin": 0.334,
-   "condition": "Good",
-   "seller_pct": 100.0,
-   "seller_score": 69,
-   "flags": [
-    "⚠️ Too few photos to check the cartridge: ask for the label, the back code and the circuit board",
-    "ℹ️ Market check: cheapest quarter of 17 current UK listings start at £35"
-   ],
-   "url": "https://www.ebay.co.uk/itm/407337631615?hash=item5ed736ff7f:g:Y2YAAeSwyHhq6lV8",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Mario%20%20%20Luigi%20%20Superstar%20Saga%20GBA%20PAL%20Cart%20AGB%20A88P%20EUR&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/Y2YAAeSwyHhq6lV8/s-l225.jpg",
-   "listed": "2026-11-03T21:44:00.000Z",
-   "sell_costs": 7.5,
-   "market_p25": 34.99,
-   "market_n": 17,
-   "offer_price": 6.45,
-   "platform": "gameboy",
-   "time": "2026-11-03T21:47:06+00:00"
   }
  ],
- "updated": "2026-11-24T20:19:05+00:00",
- "pushed": "2026-11-24T20:19:05+00:00"
+ "updated": "2026-11-24T20:23:59+00:00",
+ "pushed": "2026-11-24T20:23:59+00:00"
 }
