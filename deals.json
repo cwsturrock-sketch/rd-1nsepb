@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|237204174407|0",
+   "title": "Nintendo Switch Console HAC-001(-01) 2019 32GB 720p Neon Blue/Yellow Joy-Con",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟢 BUY",
+   "cost": 45.68,
+   "value": 105.0,
+   "profit": 37.08,
+   "roi": 0.812,
+   "margin": 0.353,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 950,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 18 current UK listings start at £105"
+   ],
+   "url": "https://www.ebay.co.uk/itm/237204174407?hash=item373a787647:g:AcsAAeSwm4FrBaNv",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Console%20HAC%20001%20%2001%20%202019%2032GB%20720p%20Neon%20Blue%20Yellow%20Joy%20Con&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/AcsAAeSwm4FrBaNv/s-l225.jpg",
+   "listed": "2026-11-24T16:28:34.000Z",
+   "sell_costs": 22.24,
+   "market_p25": 105.0,
+   "market_n": 18,
+   "offer_price": 35.95,
+   "platform": "switch",
+   "time": "2026-11-24T16:33:07+00:00"
+  },
+  {
    "id": "v1|168884300203|0",
    "title": "Nintendo Switch Original Console - *SEE DESCRIPTION*",
    "label": "🔥 Nintendo Switch console",
@@ -8298,35 +8325,8 @@
    "offer_price": 27.11,
    "platform": "ds",
    "time": "2026-11-03T16:21:07+00:00"
-  },
-  {
-   "id": "v1|147663999972|0",
-   "title": "Job lot of 20 xbox 360 games",
-   "label": "📦 20-game bundle at £0.87/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 17.45,
-   "value": 80,
-   "profit": 11.91,
-   "roi": 0.683,
-   "margin": 0.149,
-   "condition": "Very Good",
-   "seller_pct": 99.0,
-   "seller_score": 1889,
-   "flags": [
-    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/147663999972?hash=item226175d3e4:g:m9wAAeSwWm1q6ffw",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Job%20lot%20of%2020%20xbox%20360%20games&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/m9wAAeSwWm1q6ffw/s-l225.jpg",
-   "listed": "2026-11-03T15:13:04.000Z",
-   "sell_costs": 50.64,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": 9.18,
-   "platform": "xbox",
-   "time": "2026-11-03T15:17:10+00:00"
   }
  ],
- "updated": "2026-11-24T16:27:05+00:00",
- "pushed": "2026-11-24T16:27:05+00:00"
+ "updated": "2026-11-24T16:33:07+00:00",
+ "pushed": "2026-11-24T16:33:07+00:00"
 }
