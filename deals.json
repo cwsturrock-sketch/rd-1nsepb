@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|377674049582|0",
+   "title": "BACKROOMS 32X  - PAL - NEW HOMEBREW GAME BASED ON THE RECENT HORROR MOVIE",
+   "label": "📦 32-game bundle at £0.89/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 28.37,
+   "value": 128,
+   "profit": 36.85,
+   "roi": 1.299,
+   "margin": 0.288,
+   "condition": "New",
+   "seller_pct": 99.1,
+   "seller_score": 603,
+   "flags": [
+    "⚠️ Bundle value is a guess (32 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/377674049582?hash=item57ef20a82e:g:GjcAAeSwX59rBgdj",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=BACKROOMS%2032X%20%20%20%20PAL%20%20%20NEW%20HOMEBREW%20GAME%20BASED%20ON%20THE%20RECENT%20HORROR%20MOVIE&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/GjcAAeSwX59rBgdj/s-l225.jpg",
+   "listed": "2026-11-24T21:57:08.000Z",
+   "sell_costs": 62.78,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-24T22:01:04+00:00"
+  },
+  {
    "id": "v1|820393945204|0",
    "title": "Nintendo Switch HAC-001(-01) Console Neon Red/Blue Joy-Con 32GB Wi-Fi 2020",
    "label": "🔥 Nintendo Switch console",
@@ -8308,35 +8335,8 @@
    "offer_price": 8.13,
    "platform": "ps4",
    "time": "2026-11-04T12:01:05+00:00"
-  },
-  {
-   "id": "v1|880081864966|0",
-   "title": "Sony PS 5 PS5 Blu-Ray Disc Console 4K Wi-Fi PAL. Beeps but doesn’t turn on",
-   "label": "🔥 PS5 console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 163.46,
-   "value": 300,
-   "profit": 89.34,
-   "roi": 0.547,
-   "margin": 0.298,
-   "condition": "For parts or not working",
-   "seller_pct": 100.0,
-   "seller_score": 730,
-   "flags": [
-    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £461"
-   ],
-   "url": "https://www.ebay.co.uk/itm/880081864966?hash=itemcce8f78906:g:QcgAAeSw9-xq6wyQ",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PS%205%20PS5%20Blu%20Ray%20Disc%20Console%204K%20Wi%20Fi%20PAL%20%20Beeps%20but%20doesn%20t%20turn%20on&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/QcgAAeSw9-xq6wyQ/s-l225.jpg",
-   "listed": "2026-11-04T10:47:56.000Z",
-   "sell_costs": 47.2,
-   "market_p25": 460.76,
-   "market_n": 13,
-   "offer_price": 133.19,
-   "platform": "ps5",
-   "time": "2026-11-04T10:51:06+00:00"
   }
  ],
- "updated": "2026-11-24T21:51:04+00:00",
- "pushed": "2026-11-24T21:51:04+00:00"
+ "updated": "2026-11-24T22:01:04+00:00",
+ "pushed": "2026-11-24T22:01:04+00:00"
 }
