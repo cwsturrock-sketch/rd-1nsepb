@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|307299852439|0",
+   "title": "Pokemon SoulSilver (Cartridge Only) - Nintendo DS - Free P&P",
+   "label": "🔥 Pokemon SoulSilver",
+   "verdict": "🟡 CONSIDER",
+   "cost": 21.99,
+   "value": 59.49999999999999,
+   "profit": 25.59,
+   "roi": 1.164,
+   "margin": 0.43,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 116,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 19 current UK listings start at £73"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307299852439?hash=item478c7fa097:g:qd0AAeSw5YJqSWGm",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20SoulSilver%20%20Cartridge%20Only%20%20%20%20Nintendo%20DS%20%20%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/qd0AAeSw5YJqSWGm/s-l225.jpg",
+   "listed": "2026-11-24T20:22:03.000Z",
+   "sell_costs": 11.92,
+   "market_p25": 72.75,
+   "market_n": 19,
+   "offer_price": 18.69,
+   "platform": "ds",
+   "time": "2026-11-24T20:27:07+00:00"
+  },
+  {
    "id": "v1|860169381533|617331117678",
    "title": "Metroid Fusion/Metroid: Zero Mission",
    "label": "Metroid Zero Mission",
@@ -8304,35 +8333,8 @@
    "offer_price": 75.73,
    "platform": "megadrive",
    "time": "2026-11-04T08:49:46+00:00"
-  },
-  {
-   "id": "v1|137900350390|0",
-   "title": "Games Hub Retro Gamer Handheld System Console 100 Games Colour Screen Pink",
-   "label": "📦 100-game bundle at £0.19/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 19.09,
-   "value": 400,
-   "profit": 249.31,
-   "roi": 13.06,
-   "margin": 0.623,
-   "condition": "New",
-   "seller_pct": 100.0,
-   "seller_score": 70,
-   "flags": [
-    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/137900350390?hash=item201b805bb6:g:47kAAeSw8EBq6po8",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Games%20Hub%20Retro%20Gamer%20Handheld%20System%20Console%20100%20Games%20Colour%20Screen%20Pink&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/47kAAeSw8EBq6po8/s-l225.jpg",
-   "listed": "2026-11-04T02:39:01.000Z",
-   "sell_costs": 131.6,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T08:49:46+00:00"
   }
  ],
- "updated": "2026-11-24T20:23:59+00:00",
- "pushed": "2026-11-24T20:23:59+00:00"
+ "updated": "2026-11-24T20:27:07+00:00",
+ "pushed": "2026-11-24T20:27:07+00:00"
 }
