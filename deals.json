@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|206724286543|0",
+   "title": "SHENMUE PASSPORT - Dreamcast Game - Disk only",
+   "label": "🔥 Shenmue (DC)",
+   "verdict": "🟡 CONSIDER",
+   "cost": 9.59,
+   "value": 25,
+   "profit": 7.91,
+   "roi": 0.825,
+   "margin": 0.316,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 15146,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 31 current UK listings start at £32"
+   ],
+   "url": "https://www.ebay.co.uk/itm/206724286543?hash=item3021ba484f:g:w9cAAeSwM2drBVIz",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=SHENMUE%20PASSPORT%20%20%20Dreamcast%20Game%20%20%20Disk%20only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/w9cAAeSwM2drBVIz/s-l225.jpg",
+   "listed": "2026-11-24T09:01:51.000Z",
+   "sell_costs": 7.5,
+   "market_p25": 32.49,
+   "market_n": 31,
+   "offer_price": null,
+   "platform": "dreamcast",
+   "time": "2026-11-24T09:05:05+00:00"
+  },
+  {
    "id": "v1|800957470543|0",
    "title": "Sony PlayStation 4 Slim Home Console Black HDMI USB-A RJ-45 Connectivity",
    "label": "🔥 PS4 console",
@@ -8296,39 +8323,8 @@
    "offer_price": null,
    "platform": "ds",
    "time": "2026-11-03T08:39:05+00:00"
-  },
-  {
-   "id": "v1|307260284601|0",
-   "title": "Legend Of Zelda Tears Of The Kingdom Nintendo Switch 1 Case",
-   "label": "Zelda Tears of the Kingdom",
-   "verdict": "🟡 CONSIDER",
-   "cost": 10.8,
-   "value": 35,
-   "profit": 15.42,
-   "roi": 1.428,
-   "margin": 0.441,
-   "condition": "Good",
-   "seller_pct": 0.0,
-   "seller_score": 0,
-   "flags": [
-    "⚠️ Seller trust low (0.0% · 0 reviews)",
-    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
-    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
-    "ℹ️ Market check: cheapest quarter of 30 current UK listings start at £37"
-   ],
-   "url": "https://www.ebay.co.uk/itm/307260284601?_skw=Zelda+Tears+of+the+Kingdom&hash=item478a23deb9:g:DggAAeSwjzpq5vi0",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Legend%20Of%20Zelda%20Tears%20Of%20The%20Kingdom%20Nintendo%20Switch%201%20Case&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/DggAAeSwjzpq5vi0/s-l225.jpg",
-   "listed": "2026-11-03T00:32:33.000Z",
-   "sell_costs": 8.78,
-   "market_p25": 36.68,
-   "market_n": 30,
-   "offer_price": 9.18,
-   "platform": "switch",
-   "source": "sweep",
-   "time": "2026-11-03T03:59:31+00:00"
   }
  ],
- "updated": "2026-11-24T09:03:05+00:00",
- "pushed": "2026-11-24T09:03:05+00:00"
+ "updated": "2026-11-24T09:05:05+00:00",
+ "pushed": "2026-11-24T09:05:05+00:00"
 }
