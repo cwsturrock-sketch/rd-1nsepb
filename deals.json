@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|820393945204|0",
+   "title": "Nintendo Switch HAC-001(-01) Console Neon Red/Blue Joy-Con 32GB Wi-Fi 2020",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 66.48,
+   "value": 130,
+   "profit": 38.08,
+   "roi": 0.573,
+   "margin": 0.293,
+   "condition": "Used",
+   "seller_pct": 100.0,
+   "seller_score": 4,
+   "flags": [
+    "⚠️ Seller trust low (100.0% · 4 reviews)",
+    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £130"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820393945204?hash=itembf034a2874:g:9UsAAeSwUJJrBgK9",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20HAC%20001%20%2001%20%20Console%20Neon%20Red%20Blue%20Joy%20Con%2032GB%20Wi%20Fi%202020&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/9UsAAeSwUJJrBgK9/s-l225.jpg",
+   "listed": "2026-11-24T21:35:06.000Z",
+   "sell_costs": 25.44,
+   "market_p25": 130.4,
+   "market_n": 16,
+   "offer_price": 53.63,
+   "platform": "switch",
+   "time": "2026-11-24T21:39:05+00:00"
+  },
+  {
    "id": "v1|327474727597|0",
    "title": "Super Nintendo SNES Console Only PAL (Please read description)",
    "label": "🔥 SNES console",
@@ -8307,35 +8335,8 @@
    "offer_price": 133.19,
    "platform": "ps5",
    "time": "2026-11-04T10:51:06+00:00"
-  },
-  {
-   "id": "v1|137901278633|0",
-   "title": "Joblot of x31 Nintendo DS Game Cartridges",
-   "label": "📦 31-game bundle at £1.19/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 36.99,
-   "value": 124,
-   "profit": 25.24,
-   "roi": 0.682,
-   "margin": 0.204,
-   "condition": "Good",
-   "seller_pct": 98.8,
-   "seller_score": 25426,
-   "flags": [
-    "⚠️ Bundle value is a guess (31 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/137901278633?hash=item201b8e85a9:g:jwsAAeSw3R9q6wMv",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Joblot%20of%20x31%20Nintendo%20DS%20Game%20Cartridges&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/jwsAAeSw3R9q6wMv/s-l225.jpg",
-   "listed": "2026-11-04T10:06:00.000Z",
-   "sell_costs": 61.77,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "ds",
-   "time": "2026-11-04T10:09:06+00:00"
   }
  ],
- "updated": "2026-11-24T21:29:06+00:00",
- "pushed": "2026-11-24T21:29:06+00:00"
+ "updated": "2026-11-24T21:39:05+00:00",
+ "pushed": "2026-11-24T21:39:05+00:00"
 }
