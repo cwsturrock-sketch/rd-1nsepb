@@ -1,6 +1,35 @@
 {
  "deals": [
   {
+   "id": "v1|800961839512|0",
+   "title": "Sony PlayStation 4 Slim PS4 Home Console System - Black (USB-A)",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 40.23,
+   "value": 74.99,
+   "profit": 16.36,
+   "roi": 0.407,
+   "margin": 0.218,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 42,
+   "flags": [
+    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £75"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800961839512?hash=itemba7d0bc198:g:s-gAAeSwfn9rBeVW",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20Slim%20PS4%20Home%20Console%20System%20%20%20Black%20%20USB%20A%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/s-gAAeSwfn9rBeVW/s-l225.jpg",
+   "listed": "2026-11-24T19:29:28.000Z",
+   "sell_costs": 18.4,
+   "market_p25": 74.99,
+   "market_n": 14,
+   "offer_price": null,
+   "platform": "ps4",
+   "time": "2026-11-24T19:35:06+00:00"
+  },
+  {
    "id": "v1|860174133881|0",
    "title": "20x PS3 Games Bundle Discs Only GTA 4 GTA 5 Assassin's Creed Resident Evil Etc",
    "label": "📦 20-game bundle at £0.99/game",
@@ -8300,36 +8329,8 @@
    "offer_price": 6.45,
    "platform": "gameboy",
    "time": "2026-11-03T21:47:06+00:00"
-  },
-  {
-   "id": "v1|117502703219|0",
-   "title": "Nintendo Switch Neon V1 Console",
-   "label": "🔥 Nintendo Switch console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 63.11,
-   "value": 109.9,
-   "profit": 23.92,
-   "roi": 0.379,
-   "margin": 0.218,
-   "condition": "Used",
-   "seller_pct": 100.0,
-   "seller_score": 223,
-   "flags": [
-    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
-    "ℹ️ Market check: cheapest quarter of 20 current UK listings start at £110"
-   ],
-   "url": "https://www.ebay.co.uk/itm/117502703219?hash=item1b5bb4f673:g:Kr0AAeSw3mxq6kri",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Neon%20V1%20Console&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/Kr0AAeSw3mxq6kri/s-l225.jpg",
-   "listed": "2026-11-03T20:59:29.000Z",
-   "sell_costs": 22.87,
-   "market_p25": 109.9,
-   "market_n": 20,
-   "offer_price": 49.21,
-   "platform": "switch",
-   "time": "2026-11-03T21:03:05+00:00"
   }
  ],
- "updated": "2026-11-24T19:29:05+00:00",
- "pushed": "2026-11-24T19:29:05+00:00"
+ "updated": "2026-11-24T19:35:06+00:00",
+ "pushed": "2026-11-24T19:35:06+00:00"
 }
