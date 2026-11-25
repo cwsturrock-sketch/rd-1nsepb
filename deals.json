@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|880152027974|0",
+   "title": "Nintendo Switch Lite Grey Handheld Console 32GB 720p HD 2019 HDH-001",
+   "label": "🔥 Nintendo Switch Lite",
+   "verdict": "🟡 CONSIDER",
+   "cost": 34.84,
+   "value": 87.79,
+   "profit": 32.91,
+   "roi": 0.945,
+   "margin": 0.375,
+   "condition": "For parts or not working",
+   "seller_pct": 0.0,
+   "seller_score": 12,
+   "flags": [
+    "⚠️ Seller trust low (0.0% · 12 reviews)",
+    "ℹ️ Market check: cheapest quarter of 25 current UK listings start at £88"
+   ],
+   "url": "https://www.ebay.co.uk/itm/880152027974?hash=itemcced262346:g:fU8AAeSwN5hrBuAk",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Lite%20Grey%20Handheld%20Console%2032GB%20720p%20HD%202019%20HDH%20001&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/fU8AAeSwN5hrBuAk/s-l225.jpg",
+   "listed": "2026-11-25T13:20:33.000Z",
+   "sell_costs": 20.04,
+   "market_p25": 87.79,
+   "market_n": 25,
+   "offer_price": 27.11,
+   "platform": "switch",
+   "time": "2026-11-25T13:25:05+00:00"
+  },
+  {
    "id": "v1|147697217022|0",
    "title": "Silent Hill 2 Special Edition (PlayStation2, 2001) (BOXSET AND DVD ONLY)",
    "label": "🔥 Silent Hill 2",
@@ -8306,35 +8334,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|227598102528|0",
-   "title": "Pokèmon Go Zygarde Cells X90/FAST/READ DESCRIPTION",
-   "label": "📦 90-game bundle at £0.62/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 55.4,
-   "value": 360,
-   "profit": 183.12,
-   "roi": 3.305,
-   "margin": 0.509,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 91,
-   "flags": [
-    "⚠️ Bundle value is a guess (90 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227598102528?hash=item34fde77000:g:c-oAAeSwGGJqlrMk",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Zygarde%20Cells%20X90%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/c-oAAeSwGGJqlrMk/s-l225.jpg",
-   "listed": "2026-11-04T18:45:20.000Z",
-   "sell_costs": 121.48,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T18:49:12+00:00"
   }
  ],
- "updated": "2026-11-25T13:19:05+00:00",
- "pushed": "2026-11-25T13:19:05+00:00"
+ "updated": "2026-11-25T13:25:05+00:00",
+ "pushed": "2026-11-25T13:25:05+00:00"
 }
