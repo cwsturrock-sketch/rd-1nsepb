@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|168886480451|0",
+   "title": "PS4 Slim 500GB Console CUH 2016A Console Only Broken PlayStation 4",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 39.99,
+   "value": 74.99,
+   "profit": 16.6,
+   "roi": 0.415,
+   "margin": 0.221,
+   "condition": "For parts or not working",
+   "seller_pct": 99.8,
+   "seller_score": 8670,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £75"
+   ],
+   "url": "https://www.ebay.co.uk/itm/168886480451?hash=item27526b2e43:g:NlYAAeSwaRtrBvue",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=PS4%20Slim%20500GB%20Console%20CUH%202016A%20Console%20Only%20Broken%20PlayStation%204&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/NlYAAeSwaRtrBvue/s-l225.jpg",
+   "listed": "2026-11-25T15:19:39.000Z",
+   "sell_costs": 18.4,
+   "market_p25": 74.99,
+   "market_n": 14,
+   "offer_price": null,
+   "platform": "ps4",
+   "time": "2026-11-25T15:25:05+00:00"
+  },
+  {
    "id": "v1|880152133131|0",
    "title": "Nintendo Switch Lite Grey Handheld Console 32GB 720p HD 2019 HDH-001",
    "label": "🔥 Nintendo Switch Lite",
@@ -8308,35 +8335,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|227598102516|0",
-   "title": "Pokèmon Go Raids Farm Dynamax/Gigantamax Raids x100/READ DESCRIPTION",
-   "label": "📦 100-game bundle at £0.76/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 76.2,
-   "value": 400,
-   "profit": 192.2,
-   "roi": 2.522,
-   "margin": 0.481,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 91,
-   "flags": [
-    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227598102516?hash=item34fde76ff4:g:MfAAAeSwVJFq3IHZ",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Raids%20Farm%20Dynamax%20Gigantamax%20Raids%20x100%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/MfAAAeSwVJFq3IHZ/s-l225.jpg",
-   "listed": "2026-11-04T18:45:20.000Z",
-   "sell_costs": 131.6,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T18:49:12+00:00"
   }
  ],
- "updated": "2026-11-25T15:23:04+00:00",
- "pushed": "2026-11-25T15:23:04+00:00"
+ "updated": "2026-11-25T15:25:05+00:00",
+ "pushed": "2026-11-25T15:25:05+00:00"
 }
