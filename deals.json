@@ -1,6 +1,63 @@
 {
  "deals": [
   {
+   "id": "v1|117541966218|0",
+   "title": "ps2 slim console only",
+   "label": "🔥 PS2 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 15.99,
+   "value": 40,
+   "profit": 10.09,
+   "roi": 0.631,
+   "margin": 0.252,
+   "condition": "For parts or not working",
+   "seller_pct": 99.4,
+   "seller_score": 1155,
+   "flags": [
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £45"
+   ],
+   "url": "https://www.ebay.co.uk/itm/117541966218?hash=item1b5e0c118a:g:MnQAAeSwctlrBwb2",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=ps2%20slim%20console%20only&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/MnQAAeSwctlrBwb2/s-l225.jpg",
+   "listed": "2026-11-25T16:05:24.000Z",
+   "sell_costs": 13.92,
+   "market_p25": 44.64,
+   "market_n": 13,
+   "offer_price": null,
+   "platform": "ps2",
+   "time": "2026-11-25T16:11:05+00:00"
+  },
+  {
+   "id": "v1|307301339728|0",
+   "title": "Pokemon HeartGold (Cartridge Only) - Nintendo DS - Free P&P",
+   "label": "🔥 Pokemon HeartGold",
+   "verdict": "🟡 CONSIDER",
+   "cost": 21.99,
+   "value": 59.49999999999999,
+   "profit": 25.59,
+   "roi": 1.164,
+   "margin": 0.43,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 117,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £85"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307301339728?hash=item478c965250:g:mK4AAeSwUD9qSB-H",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon%20HeartGold%20%20Cartridge%20Only%20%20%20%20Nintendo%20DS%20%20%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/mK4AAeSwUD9qSB-H/s-l225.jpg",
+   "listed": "2026-11-25T16:00:46.000Z",
+   "sell_costs": 11.92,
+   "market_p25": 84.99,
+   "market_n": 14,
+   "offer_price": 18.69,
+   "platform": "ds",
+   "time": "2026-11-25T16:05:08+00:00"
+  },
+  {
    "id": "v1|168886480451|0",
    "title": "PS4 Slim 500GB Console CUH 2016A Console Only Broken PlayStation 4",
    "label": "🔥 PS4 console",
@@ -8281,62 +8338,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|227598102483|0",
-   "title": "Pokèmon Go Zygarde Cells X60/FAST/READ DESCRIPTION",
-   "label": "📦 60-game bundle at £0.66/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 39.8,
-   "value": 240,
-   "profit": 109.08,
-   "roi": 2.741,
-   "margin": 0.454,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 91,
-   "flags": [
-    "⚠️ Bundle value is a guess (60 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227598102483?hash=item34fde76fd3:g:c-oAAeSwGGJqlrMk",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Zygarde%20Cells%20X60%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/c-oAAeSwGGJqlrMk/s-l225.jpg",
-   "listed": "2026-11-04T18:45:20.000Z",
-   "sell_costs": 91.12,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|227598102494|0",
-   "title": "Pokèmon Go Premium Passes X30/FAST/READ DESCRIPTION",
-   "label": "📦 30-game bundle at £0.36/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 10.9,
-   "value": 120,
-   "profit": 48.34,
-   "roi": 4.435,
-   "margin": 0.403,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 91,
-   "flags": [
-    "⚠️ Bundle value is a guess (30 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227598102494?hash=item34fde76fde:g:cuAAAeSwJFFqlqnK",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Premium%20Passes%20X30%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/cuAAAeSwJFFqlqnK/s-l225.jpg",
-   "listed": "2026-11-04T18:45:20.000Z",
-   "sell_costs": 60.76,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T18:49:12+00:00"
   }
  ],
- "updated": "2026-11-25T15:47:05+00:00",
- "pushed": "2026-11-25T15:47:05+00:00"
+ "updated": "2026-11-25T16:23:05+00:00",
+ "pushed": "2026-11-25T16:23:05+00:00"
 }
