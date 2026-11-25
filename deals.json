@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|820396278891|0",
+   "title": "PS4 FIFA 17 And 20 Games",
+   "label": "📦 20-game bundle at £0.45/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 8.92,
+   "value": 80,
+   "profit": 20.44,
+   "roi": 2.291,
+   "margin": 0.255,
+   "condition": "Like New",
+   "seller_pct": 94.6,
+   "seller_score": 67,
+   "flags": [
+    "⚠️ Seller trust low (94.6% · 67 reviews)",
+    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820396278891?hash=itembf036dc46b:g:qOwAAeSw9a1rBsN8",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=PS4%20FIFA%2017%20And%2020%20Games&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/qOwAAeSw9a1rBsN8/s-l225.jpg",
+   "listed": "2026-11-25T11:21:10.000Z",
+   "sell_costs": 50.64,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 5.08,
+   "platform": "ps4",
+   "time": "2026-11-25T11:27:04+00:00"
+  },
+  {
    "id": "v1|257871504326|0",
    "title": "PC Game Job Game Lot Various Titles 30 Games",
    "label": "📦 30-game bundle at £0.65/game",
@@ -8308,35 +8336,8 @@
    "offer_price": 27.11,
    "platform": "ps4",
    "time": "2026-11-04T14:37:06+00:00"
-  },
-  {
-   "id": "v1|237163080337|0",
-   "title": "Job Lot fo 25 x Nintendo Wii Games inc Sports Island Ref T06",
-   "label": "📦 25-game bundle at £0.84/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 21.0,
-   "value": 100,
-   "profit": 23.3,
-   "roi": 1.11,
-   "margin": 0.233,
-   "condition": "Acceptable",
-   "seller_pct": 99.9,
-   "seller_score": 62518,
-   "flags": [
-    "⚠️ Bundle value is a guess (25 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/237163080337?hash=item3738056a91:g:sJAAAeSwpzNq6zj4",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Job%20Lot%20fo%2025%20x%20Nintendo%20Wii%20Games%20inc%20Sports%20Island%20Ref%20T06&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/sJAAAeSwpzNq6zj4/s-l225.jpg",
-   "listed": "2026-11-04T13:55:37.000Z",
-   "sell_costs": 55.7,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "wii",
-   "time": "2026-11-04T13:59:06+00:00"
   }
  ],
- "updated": "2026-11-25T11:21:04+00:00",
- "pushed": "2026-11-25T11:21:04+00:00"
+ "updated": "2026-11-25T11:27:04+00:00",
+ "pushed": "2026-11-25T11:27:04+00:00"
 }
