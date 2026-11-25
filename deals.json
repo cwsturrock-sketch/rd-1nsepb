@@ -1,6 +1,60 @@
 {
  "deals": [
   {
+   "id": "v1|147697217022|0",
+   "title": "Silent Hill 2 Special Edition (PlayStation2, 2001) (BOXSET AND DVD ONLY)",
+   "label": "🔥 Silent Hill 2",
+   "verdict": "🟡 CONSIDER",
+   "cost": 21.5,
+   "value": 40,
+   "profit": 9.08,
+   "roi": 0.422,
+   "margin": 0.227,
+   "condition": "Acceptable",
+   "seller_pct": 100.0,
+   "seller_score": 290,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £79"
+   ],
+   "url": "https://www.ebay.co.uk/itm/147697217022?hash=item226370adfe:g:gzIAAeSwlUBrBtia",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Silent%20Hill%202%20Special%20Edition%20%20PlayStation2%20%202001%20%20%20BOXSET%20AND%20DVD%20ONLY%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/gzIAAeSwlUBrBtia/s-l225.jpg",
+   "listed": "2026-11-25T12:52:34.000Z",
+   "sell_costs": 9.42,
+   "market_p25": 78.7,
+   "market_n": 16,
+   "offer_price": 18.27,
+   "platform": "default",
+   "time": "2026-11-25T12:57:07+00:00"
+  },
+  {
+   "id": "v1|336916250714|0",
+   "title": "The Spectrum Retro Games ZX Spectrum Full-Size Console 48 Games – New, Unused",
+   "label": "📦 48-game bundle at £1.49/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 71.68,
+   "value": 192,
+   "profit": 41.34,
+   "roi": 0.577,
+   "margin": 0.215,
+   "condition": "Opened – never used",
+   "seller_pct": 100.0,
+   "seller_score": 497,
+   "flags": [
+    "⚠️ Bundle value is a guess (48 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/336916250714?hash=item4e71c6005a:g:2KAAAeSwu8NrBthI",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=The%20Spectrum%20Retro%20Games%20ZX%20Spectrum%20Full%20Size%20Console%2048%20Games%20%20%20New%20%20Unused&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/2KAAAeSwu8NrBthI/s-l225.jpg",
+   "listed": "2026-11-25T12:52:57.000Z",
+   "sell_costs": 78.98,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": 58.05,
+   "platform": "default",
+   "time": "2026-11-25T12:57:07+00:00"
+  },
+  {
    "id": "v1|336916241448|0",
    "title": "Broken Nintendo Switch Lite Handheld System Console - Yellow & White",
    "label": "🔥 Nintendo Switch Lite",
@@ -8279,62 +8333,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|227598102531|0",
-   "title": "Pokèmon Go Premium Raid Pass X15/FAST/READ DESCRIPTION",
-   "label": "📦 15-game bundle at £0.44/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 6.62,
-   "value": 60,
-   "profit": 7.8,
-   "roi": 1.178,
-   "margin": 0.13,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 91,
-   "flags": [
-    "⚠️ Bundle value is a guess (15 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227598102531?hash=item34fde77003:g:cuAAAeSwJFFqlqnK",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Premium%20Raid%20Pass%20X15%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/cuAAAeSwJFFqlqnK/s-l225.jpg",
-   "listed": "2026-11-04T18:45:20.000Z",
-   "sell_costs": 45.58,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|168838506039|0",
-   "title": "Nintendo Super Nintendo Entertainment System SNES Grey Home Console PAL",
-   "label": "🔥 NES console",
-   "verdict": "🟡 CONSIDER",
-   "cost": 37.88,
-   "value": 70,
-   "profit": 14.36,
-   "roi": 0.379,
-   "margin": 0.205,
-   "condition": "Used",
-   "seller_pct": 98.5,
-   "seller_score": 65,
-   "flags": [
-    "ℹ️ Too few current listings to check the market price"
-   ],
-   "url": "https://www.ebay.co.uk/itm/168838506039?hash=item274f8f2637:g:a8IAAeSw5nhq617d",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Super%20Nintendo%20Entertainment%20System%20SNES%20Grey%20Home%20Console%20PAL&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/a8IAAeSw5nhq617d/s-l225.jpg",
-   "listed": "2026-11-04T16:37:55.000Z",
-   "sell_costs": 17.76,
-   "market_p25": null,
-   "market_n": 4,
-   "offer_price": 29.32,
-   "platform": "snes",
-   "time": "2026-11-04T16:41:06+00:00"
   }
  ],
- "updated": "2026-11-25T12:51:06+00:00",
- "pushed": "2026-11-25T12:51:06+00:00"
+ "updated": "2026-11-25T12:57:07+00:00",
+ "pushed": "2026-11-25T12:57:07+00:00"
 }
