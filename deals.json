@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|267854599702|0",
+   "title": "Nintendo Switch Console Tablet Only V1 HAC-001 (See Description)",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟢 BUY",
+   "cost": 31.72,
+   "value": 87.79,
+   "profit": 36.03,
+   "roi": 1.136,
+   "margin": 0.41,
+   "condition": "For parts or not working",
+   "seller_pct": 99.2,
+   "seller_score": 2149,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £88"
+   ],
+   "url": "https://www.ebay.co.uk/itm/267854599702?hash=item3e5d60d616:g:2ZAAAeSwoqlrBz1r",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20Console%20Tablet%20Only%20V1%20HAC%20001%20%20See%20Description%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/2ZAAAeSwoqlrBz1r/s-l225.jpg",
+   "listed": "2026-11-25T19:58:12.000Z",
+   "sell_costs": 20.04,
+   "market_p25": 87.79,
+   "market_n": 16,
+   "offer_price": 24.46,
+   "platform": "switch",
+   "time": "2026-11-25T20:03:07+00:00"
+  },
+  {
    "id": "v1|198824393433|0",
    "title": "THQ Road to WrestleMania X8 Nintendo Game Boy Advance Wrestling Game (PAL)",
    "label": "📦 8-game bundle at £1.18/game",
@@ -8313,35 +8340,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|227598102454|0",
-   "title": "Pokèmon Go Zygarde Cells X30/FAST/READ DESCRIPTION",
-   "label": "📦 30-game bundle at £0.65/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 19.46,
-   "value": 120,
-   "profit": 39.78,
-   "roi": 2.044,
-   "margin": 0.331,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 91,
-   "flags": [
-    "⚠️ Bundle value is a guess (30 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227598102454?hash=item34fde76fb6:g:c-oAAeSwGGJqlrMk",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Zygarde%20Cells%20X30%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/c-oAAeSwGGJqlrMk/s-l225.jpg",
-   "listed": "2026-11-04T18:45:20.000Z",
-   "sell_costs": 60.76,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T18:49:12+00:00"
   }
  ],
- "updated": "2026-11-25T19:51:05+00:00",
- "pushed": "2026-11-25T19:51:05+00:00"
+ "updated": "2026-11-25T20:03:07+00:00",
+ "pushed": "2026-11-25T20:03:07+00:00"
 }
