@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|137961576861|0",
+   "title": "Sony PlayStation 4 PS4 500GB Black Console CUH-1216A (hdmi issue)",
+   "label": "🔥 PS4 console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 37.11,
+   "value": 74.99,
+   "profit": 19.48,
+   "roi": 0.525,
+   "margin": 0.26,
+   "condition": "For parts or not working",
+   "seller_pct": 100.0,
+   "seller_score": 1049,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 14 current UK listings start at £75"
+   ],
+   "url": "https://www.ebay.co.uk/itm/137961576861?hash=item201f26999d:g:ukoAAeSwu2prBsiE",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20PS4%20500GB%20Black%20Console%20CUH%201216A%20%20hdmi%20issue%20&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/ukoAAeSwu2prBsiE/s-l225.jpg",
+   "listed": "2026-11-25T11:42:13.000Z",
+   "sell_costs": 18.4,
+   "market_p25": 74.99,
+   "market_n": 14,
+   "offer_price": 27.11,
+   "platform": "ps4",
+   "time": "2026-11-25T11:47:05+00:00"
+  },
+  {
    "id": "v1|820396278891|0",
    "title": "PS4 FIFA 17 And 20 Games",
    "label": "📦 20-game bundle at £0.45/game",
@@ -8308,36 +8335,8 @@
    "offer_price": 22.7,
    "platform": "ps4",
    "time": "2026-11-04T14:39:06+00:00"
-  },
-  {
-   "id": "v1|860112807234|0",
-   "title": "Sony PlayStation 4 Slim console only non working",
-   "label": "🔥 PS4 console",
-   "verdict": "🟢 BUY",
-   "cost": 37.05,
-   "value": 79.99,
-   "profit": 23.9,
-   "roi": 0.645,
-   "margin": 0.299,
-   "condition": "For parts or not working",
-   "seller_pct": 100.0,
-   "seller_score": 50,
-   "flags": [
-    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
-    "ℹ️ Market check: cheapest quarter of 13 current UK listings start at £80"
-   ],
-   "url": "https://www.ebay.co.uk/itm/860112807234?hash=itemc842b7e542:g:QkIAAeSwtlFq60H9",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PlayStation%204%20Slim%20console%20only%20non%20working&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/QkIAAeSwtlFq60H9/s-l225.jpg",
-   "listed": "2026-11-04T14:32:56.000Z",
-   "sell_costs": 19.04,
-   "market_p25": 79.99,
-   "market_n": 13,
-   "offer_price": 27.11,
-   "platform": "ps4",
-   "time": "2026-11-04T14:37:06+00:00"
   }
  ],
- "updated": "2026-11-25T11:37:04+00:00",
- "pushed": "2026-11-25T11:37:04+00:00"
+ "updated": "2026-11-25T11:47:05+00:00",
+ "pushed": "2026-11-25T11:47:05+00:00"
 }
