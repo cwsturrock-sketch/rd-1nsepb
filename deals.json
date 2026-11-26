@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|960242582707|0",
+   "title": "Nintendo The Legend of Zelda: The Minish Cap (Game Boy Advance) PAL AGB-BZMP-EUR",
+   "label": "Zelda Minish Cap",
+   "verdict": "🟡 CONSIDER",
+   "cost": 17.49,
+   "value": 34.59,
+   "profit": 8.37,
+   "roi": 0.479,
+   "margin": 0.242,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 423,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Only one photo, which may be a stock image: ask the seller for photos of the actual item",
+    "ℹ️ Market check: cheapest quarter of 26 current UK listings start at £35"
+   ],
+   "url": "https://www.ebay.co.uk/itm/960242582707?_skw=Zelda+Minish+Cap&hash=itemdf92eb04b3:g:HGMAAeSwhCZrB5gX",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20The%20Legend%20of%20Zelda%20%20The%20Minish%20Cap%20%20Game%20Boy%20Advance%20%20PAL%20AGB%20BZMP%20EUR&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/HGMAAeSwhCZrB5gX/s-l225.jpg",
+   "listed": "2026-11-26T02:25:36.000Z",
+   "sell_costs": 8.73,
+   "market_p25": 34.59,
+   "market_n": 26,
+   "offer_price": 14.87,
+   "platform": "gameboy",
+   "source": "sweep",
+   "time": "2026-11-26T19:09:49+00:00"
+  },
+  {
    "id": "v1|840165761960|0",
    "title": "Microsoft XBOX Game Bundle x 30 - Disc Only",
    "label": "📦 30-game bundle at £1.28/game",
@@ -8314,35 +8344,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|227598102440|0",
-   "title": "Pokèmon Go Raids Farm Dynamax/Gigantamax Raids x20/READ DESCRIPTION",
-   "label": "📦 20-game bundle at £1.08/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 21.6,
-   "value": 80,
-   "profit": 7.76,
-   "roi": 0.359,
-   "margin": 0.097,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 91,
-   "flags": [
-    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227598102440?hash=item34fde76fa8:g:MfAAAeSwVJFq3IHZ",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Raids%20Farm%20Dynamax%20Gigantamax%20Raids%20x20%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/MfAAAeSwVJFq3IHZ/s-l225.jpg",
-   "listed": "2026-11-04T18:45:20.000Z",
-   "sell_costs": 50.64,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T18:49:12+00:00"
   }
  ],
- "updated": "2026-11-26T11:49:04+00:00",
- "pushed": "2026-11-26T11:49:04+00:00"
+ "updated": "2026-11-26T19:09:49+00:00",
+ "pushed": "2026-11-26T19:09:49+00:00"
 }
