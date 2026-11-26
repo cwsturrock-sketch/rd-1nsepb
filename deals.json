@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|307303473987|0",
+   "title": "The Legend of Zelda: The Minish Cap (Cartridge Only) - GBA - Free P&P",
+   "label": "🔥 Zelda Minish Cap",
+   "verdict": "🟡 CONSIDER",
+   "cost": 13.0,
+   "value": 34.59,
+   "profit": 12.86,
+   "roi": 0.989,
+   "margin": 0.372,
+   "condition": "Very Good",
+   "seller_pct": 100.0,
+   "seller_score": 118,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Too few photos to check the cartridge: ask for the label, the back code and the circuit board",
+    "ℹ️ Loose / incomplete: valued at the loose price",
+    "ℹ️ Market check: cheapest quarter of 26 current UK listings start at £35"
+   ],
+   "url": "https://www.ebay.co.uk/itm/307303473987?hash=item478cb6e343:g:WoMAAeSw8fBqaQwg",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=The%20Legend%20of%20Zelda%20%20The%20Minish%20Cap%20%20Cartridge%20Only%20%20%20%20GBA%20%20%20Free%20P%20P&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/WoMAAeSw8fBqaQwg/s-l225.jpg",
+   "listed": "2026-11-26T19:37:23.000Z",
+   "sell_costs": 8.73,
+   "market_p25": 34.59,
+   "market_n": 26,
+   "offer_price": 11.05,
+   "platform": "gameboy",
+   "time": "2026-11-26T19:41:05+00:00"
+  },
+  {
    "id": "v1|960242582707|0",
    "title": "Nintendo The Legend of Zelda: The Minish Cap (Game Boy Advance) PAL AGB-BZMP-EUR",
    "label": "Zelda Minish Cap",
@@ -8317,35 +8347,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|227598102419|0",
-   "title": "Pokèmon Go Raids Farm Legendary/Mythical Raids x100/READ DESCRIPTION",
-   "label": "📦 100-game bundle at £0.40/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 39.8,
-   "value": 400,
-   "profit": 228.6,
-   "roi": 5.744,
-   "margin": 0.572,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 91,
-   "flags": [
-    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227598102419?hash=item34fde76f93:g:eCwAAeSwGERq3IFT",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Raids%20Farm%20Legendary%20Mythical%20Raids%20x100%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/eCwAAeSwGERq3IFT/s-l225.jpg",
-   "listed": "2026-11-04T18:45:20.000Z",
-   "sell_costs": 131.6,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T18:49:12+00:00"
   }
  ],
- "updated": "2026-11-26T19:33:04+00:00",
- "pushed": "2026-11-26T19:33:04+00:00"
+ "updated": "2026-11-26T19:41:05+00:00",
+ "pushed": "2026-11-26T19:41:05+00:00"
 }
