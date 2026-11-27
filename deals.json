@@ -1,6 +1,33 @@
 {
  "deals": [
   {
+   "id": "v1|820404726631|0",
+   "title": "Nintendo Switch HAC-001 Console Red/Blue Joy-Cons Dock HDMI USB-C",
+   "label": "🔥 Nintendo Switch console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 76.88,
+   "value": 130,
+   "profit": 27.68,
+   "roi": 0.36,
+   "margin": 0.213,
+   "condition": "Used",
+   "seller_pct": 99.4,
+   "seller_score": 358,
+   "flags": [
+    "ℹ️ Market check: cheapest quarter of 16 current UK listings start at £160"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820404726631?hash=itembf03eeab67:g:A3cAAeSwkCNrCVNr",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Switch%20HAC%20001%20Console%20Red%20Blue%20Joy%20Cons%20Dock%20HDMI%20USB%20C&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/A3cAAeSwkCNrCVNr/s-l225.jpg",
+   "listed": "2026-11-27T09:56:14.000Z",
+   "sell_costs": 25.44,
+   "market_p25": 159.95,
+   "market_n": 16,
+   "offer_price": 62.48,
+   "platform": "switch",
+   "time": "2026-11-27T10:13:52+00:00"
+  },
+  {
    "id": "v1|307303473987|0",
    "title": "The Legend of Zelda: The Minish Cap (Cartridge Only) - GBA - Free P&P",
    "label": "🔥 Zelda Minish Cap",
@@ -8320,35 +8347,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|227598102397|0",
-   "title": "Pokèmon Go Raids Farm Dynamax/Gigantamax Raids x50/READ DESCRIPTION",
-   "label": "📦 50-game bundle at £0.84/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 41.88,
-   "value": 200,
-   "profit": 77.12,
-   "roi": 1.841,
-   "margin": 0.386,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 91,
-   "flags": [
-    "⚠️ Bundle value is a guess (50 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227598102397?hash=item34fde76f7d:g:MfAAAeSwVJFq3IHZ",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Raids%20Farm%20Dynamax%20Gigantamax%20Raids%20x50%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/MfAAAeSwVJFq3IHZ/s-l225.jpg",
-   "listed": "2026-11-04T18:45:20.000Z",
-   "sell_costs": 81.0,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T18:49:12+00:00"
   }
  ],
- "updated": "2026-11-26T21:09:04+00:00",
- "pushed": "2026-11-26T21:09:04+00:00"
+ "updated": "2026-11-27T10:13:52+00:00",
+ "pushed": "2026-11-27T10:13:52+00:00"
 }
