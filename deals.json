@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|960245899135|0",
+   "title": "Sony PSP-2003 Black Handheld System untested PAL Console",
+   "label": "🔥 PSP console",
+   "verdict": "🟡 CONSIDER",
+   "cost": 19.09,
+   "value": 40.04,
+   "profit": 7.02,
+   "roi": 0.368,
+   "margin": 0.175,
+   "condition": "For parts or not working",
+   "seller_pct": 99.5,
+   "seller_score": 562,
+   "flags": [
+    "⚠️ Untested",
+    "ℹ️ Market check: cheapest quarter of 15 current UK listings start at £40"
+   ],
+   "url": "https://www.ebay.co.uk/itm/960245899135?hash=itemdf931d9f7f:g:DksAAeSwtrJrCWt2",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Sony%20PSP%202003%20Black%20Handheld%20System%20untested%20PAL%20Console&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/DksAAeSwtrJrCWt2/s-l225.jpg",
+   "listed": "2026-11-27T11:38:44.000Z",
+   "sell_costs": 13.93,
+   "market_p25": 40.04,
+   "market_n": 15,
+   "offer_price": null,
+   "platform": "psp",
+   "time": "2026-11-27T11:43:06+00:00"
+  },
+  {
    "id": "v1|820404851419|0",
    "title": "Nintendo Pokémon SoulSilver Version Nintendo DS Game Case PEGI 3",
    "label": "🔥 Pokemon SoulSilver",
@@ -8324,35 +8352,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|227598102366|0",
-   "title": "Pokèmon Go Raids Farm Legendary/Mythical Raids x50/READ DESCRIPTION",
-   "label": "📦 50-game bundle at £0.43/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 21.6,
-   "value": 200,
-   "profit": 97.4,
-   "roi": 4.509,
-   "margin": 0.487,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 91,
-   "flags": [
-    "⚠️ Bundle value is a guess (50 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227598102366?hash=item34fde76f5e:g:eCwAAeSwGERq3IFT",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Raids%20Farm%20Legendary%20Mythical%20Raids%20x50%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/eCwAAeSwGERq3IFT/s-l225.jpg",
-   "listed": "2026-11-04T18:45:20.000Z",
-   "sell_costs": 81.0,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T18:49:12+00:00"
   }
  ],
- "updated": "2026-11-27T11:35:05+00:00",
- "pushed": "2026-11-27T11:35:05+00:00"
+ "updated": "2026-11-27T11:43:06+00:00",
+ "pushed": "2026-11-27T11:43:06+00:00"
 }
