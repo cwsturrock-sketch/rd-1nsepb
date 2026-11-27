@@ -1,6 +1,34 @@
 {
  "deals": [
   {
+   "id": "v1|800973105476|0",
+   "title": "The Spectrum Personal Computer USB, 48 Games Included, Crash Magazine",
+   "label": "📦 48-game bundle at £1.46/game",
+   "verdict": "🟡 CONSIDER",
+   "cost": 69.98,
+   "value": 192,
+   "profit": 43.04,
+   "roi": 0.615,
+   "margin": 0.224,
+   "condition": "New",
+   "seller_pct": 97.9,
+   "seller_score": 14557,
+   "flags": [
+    "⚠️ Seller trust low (97.9% · 14557 reviews)",
+    "⚠️ Bundle value is a guess (48 games from the title × an average price): check the photos for what's actually in it"
+   ],
+   "url": "https://www.ebay.co.uk/itm/800973105476?hash=itemba7db7a944:g:E6gAAeSwhdprCV8z",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=The%20Spectrum%20Personal%20Computer%20USB%20%2048%20Games%20Included%20%20Crash%20Magazine&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/E6gAAeSwhdprCV8z/s-l225.jpg",
+   "listed": "2026-11-27T10:45:53.000Z",
+   "sell_costs": 78.98,
+   "market_p25": null,
+   "market_n": null,
+   "offer_price": null,
+   "platform": "default",
+   "time": "2026-11-27T10:49:05+00:00"
+  },
+  {
    "id": "v1|820404726631|0",
    "title": "Nintendo Switch HAC-001 Console Red/Blue Joy-Cons Dock HDMI USB-C",
    "label": "🔥 Nintendo Switch console",
@@ -8320,35 +8348,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|227598102395|0",
-   "title": "Pokèmon Go Raids Farm Legendary/Mythical Raids x20/READ DESCRIPTION",
-   "label": "📦 20-game bundle at £0.49/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 9.83,
-   "value": 80,
-   "profit": 19.53,
-   "roi": 1.987,
-   "margin": 0.244,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 91,
-   "flags": [
-    "⚠️ Bundle value is a guess (20 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227598102395?hash=item34fde76f7b:g:eCwAAeSwGERq3IFT",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Raids%20Farm%20Legendary%20Mythical%20Raids%20x20%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/eCwAAeSwGERq3IFT/s-l225.jpg",
-   "listed": "2026-11-04T18:45:20.000Z",
-   "sell_costs": 50.64,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T18:49:12+00:00"
   }
  ],
- "updated": "2026-11-27T10:47:05+00:00",
- "pushed": "2026-11-27T10:47:05+00:00"
+ "updated": "2026-11-27T10:49:05+00:00",
+ "pushed": "2026-11-27T10:49:05+00:00"
 }
