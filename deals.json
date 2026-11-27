@@ -1,6 +1,36 @@
 {
  "deals": [
   {
+   "id": "v1|820404851419|0",
+   "title": "Nintendo Pokémon SoulSilver Version Nintendo DS Game Case PEGI 3",
+   "label": "🔥 Pokemon SoulSilver",
+   "verdict": "🟡 CONSIDER",
+   "cost": 50.0,
+   "value": 84.99,
+   "profit": 19.81,
+   "roi": 0.396,
+   "margin": 0.233,
+   "condition": "Good",
+   "seller_pct": 100.0,
+   "seller_score": 44,
+   "flags": [
+    "⚠️ High fake risk: handheld Pokémon/Zelda/Metroid carts are widely reproduced. Check the label print, the code stamped on the back and a photo of the circuit board",
+    "⚠️ Too few photos to check the cartridge: ask for the label, the back code and the circuit board",
+    "ℹ️ Region not stated: confirm it's a PAL/UK copy before buying",
+    "ℹ️ Market check: cheapest quarter of 19 current UK listings start at £85"
+   ],
+   "url": "https://www.ebay.co.uk/itm/820404851419?hash=itembf03f092db:g:oDUAAeSwwyNrCV7I",
+   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Nintendo%20Pok%C3%A9mon%20SoulSilver%20Version%20Nintendo%20DS%20Game%20Case%20PEGI%203&LH_Sold=1&LH_Complete=1",
+   "image": "https://i.ebayimg.com/images/g/oDUAAeSwwyNrCV7I/s-l225.jpg",
+   "listed": "2026-11-27T10:46:52.000Z",
+   "sell_costs": 15.18,
+   "market_p25": 84.99,
+   "market_n": 19,
+   "offer_price": 42.5,
+   "platform": "ds",
+   "time": "2026-11-27T10:51:06+00:00"
+  },
+  {
    "id": "v1|800973105476|0",
    "title": "The Spectrum Personal Computer USB, 48 Games Included, Crash Magazine",
    "label": "📦 48-game bundle at £1.46/game",
@@ -8321,35 +8351,8 @@
    "offer_price": null,
    "platform": "default",
    "time": "2026-11-04T18:49:12+00:00"
-  },
-  {
-   "id": "v1|227598102373|0",
-   "title": "Pokèmon Go Grunts Farm x100 Catches/FAST/READ DESCRIPTION",
-   "label": "📦 100-game bundle at £0.08/game",
-   "verdict": "🟡 CONSIDER",
-   "cost": 8.22,
-   "value": 400,
-   "profit": 260.18,
-   "roi": 31.652,
-   "margin": 0.65,
-   "condition": "Like New",
-   "seller_pct": 100.0,
-   "seller_score": 91,
-   "flags": [
-    "⚠️ Bundle value is a guess (100 games from the title × an average price): check the photos for what's actually in it"
-   ],
-   "url": "https://www.ebay.co.uk/itm/227598102373?hash=item34fde76f65:g:DncAAeSw7SlqlrpW",
-   "sold_url": "https://www.ebay.co.uk/sch/i.html?_nkw=Pok%C3%A8mon%20Go%20Grunts%20Farm%20x100%20Catches%20FAST%20READ%20DESCRIPTION&LH_Sold=1&LH_Complete=1",
-   "image": "https://i.ebayimg.com/images/g/DncAAeSw7SlqlrpW/s-l225.jpg",
-   "listed": "2026-11-04T18:45:20.000Z",
-   "sell_costs": 131.6,
-   "market_p25": null,
-   "market_n": null,
-   "offer_price": null,
-   "platform": "default",
-   "time": "2026-11-04T18:49:12+00:00"
   }
  ],
- "updated": "2026-11-27T10:49:05+00:00",
- "pushed": "2026-11-27T10:49:05+00:00"
+ "updated": "2026-11-27T10:51:06+00:00",
+ "pushed": "2026-11-27T10:51:06+00:00"
 }
